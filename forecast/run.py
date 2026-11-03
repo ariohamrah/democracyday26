@@ -62,7 +62,7 @@ def main():
         distributions.append(d);notes.append(n)
     valid={r['race_id']:set(['D','R','I','O']+[c['name'] for c in d]) for r,d in zip(targets,distributions)}
     prices,price_meta=load_odds(args.odds,valid)
-    detailed=[];submission=[];candidate_rows=[];template=[]
+    detailed=[];candidate_rows=[];template=[]
     for row,dist,center,sd,p_pair,note in zip(targets,distributions,mu,sigma,q,notes):
         race=row['race_id'];party_probs={p:sum(c['q'] for c in dist if c['party']==p) for p in ('D','R','I','O')}
         winner=max(dist,key=lambda c:c['q'])
@@ -101,8 +101,6 @@ def main():
                baseline_geography=row['pres_geography'],old_congressional_lag_suppressed=bool(row['lag_missing']),
                candidate_source=row['candidate_source'],poll_ids=row['poll_ids'],limitations=note,forecast_cutoff=CUTOFF)
         detailed.append(d)
-        submission.append({k:d[k] for k in ['race_id','chamber','state','district','most_likely_winner','most_likely_winner_party','winner_probability',
-                                            'score_maximizing_selection','best_priced_selection','scoring_contract_type','expected_points_best_priced','scoring_status','prices_provisional']})
         for c in dist:
             candidate_rows.append(dict(race_id=race,chamber=row['chamber'],candidate=c['name'],party=c['party'],ballot_party=c['party_label'],
                                        q=c['q'],name_aura=c['aura'],incumbent=c['incumbent'],
@@ -113,7 +111,8 @@ def main():
             if value<=0:continue
             blank=dict.fromkeys(FIELDS,'');blank.update(race_id=race,outcome=outcome,contract_type=contract_type,status='missing')
             template.append(blank)
-    write_csv(out/'submission.csv',submission)
+    from .submission import format_submission, HEADERS
+    write_csv(out/'submission.csv',format_submission(detailed),HEADERS)
     write_csv(out/'forecasts.csv',detailed)
     write_csv(out/'candidate_forecasts.csv',candidate_rows)
     write_csv(out/'organizer_odds_template.csv',template,FIELDS)

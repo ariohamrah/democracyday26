@@ -21,7 +21,7 @@ All 34 local tests passed. `docs/github-actions-workflow.example.yml` is an opti
 
 ## Outputs
 
-- `outputs/submission.csv`: 470 rows; most likely candidate, probability, fully score-maximizing selection where all needed prices exist, and best available priced selection with explicit status.
+- `outputs/submission.csv`: 470 rows matching the [provided template](https://docs.google.com/spreadsheets/d/1TPKE7iMkDYCfM7tEjfeP2yRpj8ZXwrhKQz11dbnRM4k/edit?gid=0) exactly: `race_id,chamber,predicted_winner_party,candidate_name,win_probability`. Template row order and IDs are preserved, including `AK-AL`-style House IDs and `FL-SEN`/`OH-SEN`. Probabilities are candidate win probabilities on a 0–1 scale. Scoring diagnostics remain in `forecasts.csv`.
 - `outputs/forecasts.csv`: race-level diagnostics, party probabilities, distinct market prices, modeled candidate pair, polling coverage, aura, geography, and limitations.
 - `outputs/candidate_forecasts.csv`: every candidate with model probability and inspectable name score. A party price shown alongside a candidate is explicitly **not** that candidate's price.
 - `outputs/chamber_forecasts.json`: shared-error simulations of the full chambers, including independent caucus bounds.

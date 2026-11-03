@@ -99,7 +99,8 @@ class GeneratedOutputTests(unittest.TestCase):
         expected = {r['race_id'] for r in roster}
         for rows in (self.forecasts, self.submission):
             self.assertEqual(len(rows), 470)
-            self.assertEqual({r['race_id'] for r in rows}, expected)
+            from forecast.submission import internal_id
+            self.assertEqual({internal_id(r) for r in rows}, expected)
         actual_candidates = {(r['race_id'], r['candidate']) for r in self.candidates}
         expected_candidates = {(r['race_id'], c['name']) for r in roster for c in r['candidates']}
         self.assertEqual(actual_candidates, expected_candidates)

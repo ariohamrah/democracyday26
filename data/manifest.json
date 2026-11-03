@@ -485,6 +485,11 @@
       "path": "data/signals/polls_2026.json",
       "bytes": 1241503,
       "sha256": "b644d6224426c04da4d946f83ea4c7f2ae7769308d1d0b71a664330787343783"
+    },
+    {
+      "path": "data/submission_template.csv",
+      "bytes": 7659,
+      "sha256": "94af4fc0bb59f41d457952cdb8c84fed7c4085724b99d385940857c8ef8da78d"
     }
   ]
 }
