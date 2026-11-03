@@ -4,6 +4,8 @@ This repository builds actual candidate and party forecasts for all 435 voting H
 
 The information cutoff is **November 2, 2026, 8:13 p.m. America/Los_Angeles** (`2026-11-02T20:13:00-08:00`). Date-only current sources have day-level provenance; exact intraday availability is not certified. The local source snapshots contain no 2026 general-election results used by the model.
 
+**Couldn't find the predictions from November 1**
+
 ## Reproduce
 
 Python 3.9+:
