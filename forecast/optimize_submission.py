@@ -37,6 +37,37 @@ def select(candidates, prices, contract_type):
     return groups[best][0], status, scores[best]
 
 
+def select_contracts(candidates, prices, metadata):
+    """Score disjoint candidate/party outcomes using the matching q.
+
+    For a party-scored outcome with multiple candidates, select the most likely
+    candidate within that party as the template's representative. The score
+    objective remains the party event, explicitly recorded in the audit.
+    """
+    parties=defaultdict(list)
+    for c in candidates:parties[c['party']].append(c)
+    options=[];missing=False;zero=False
+    for party,members in parties.items():
+        if not any(float(c['q'])>0 for c in members):continue
+        all_named=all(metadata.get(c['candidate'],{}).get('contract_type')=='candidate' and prices.get(c['candidate']) is not None for c in members if float(c['q'])>0)
+        if not all_named and metadata.get(party,{}).get('contract_type')=='party' and prices.get(party) is not None:
+            p=prices[party];zero |= p==0
+            if p>0:
+                q=sum(float(c['q']) for c in members)
+                options.append((expected_points(q,p),max(members,key=lambda c:float(c['q'])),party,'party'))
+        else:
+            for c in members:
+                if float(c['q'])==0:continue
+                name=c['candidate'];p=prices.get(name) if metadata.get(name,{}).get('contract_type')=='candidate' else None
+                if p is None:missing=True
+                elif p==0:zero=True
+                else:options.append((expected_points(float(c['q']),p),c,name,'candidate'))
+    if not options:return None,'zero_price_requires_rule' if zero else 'missing_prices',None,'',''
+    points,selected,outcome,kind=max(options,key=lambda o:o[0])
+    status='zero_price_requires_rule' if zero else 'best_among_priced_only' if missing else 'optimized'
+    return selected,status,points,outcome,kind
+
+
 def build(candidates, prices, metadata, template):
     groups = defaultdict(list)
     for c in candidates:
@@ -46,10 +77,8 @@ def build(candidates, prices, metadata, template):
         race = internal_id(t)
         if race not in groups:
             raise ValueError(f'Missing candidates: {race}')
-        kinds = {m['contract_type'] for (r, _), m in metadata.items() if r == race}
-        if len(kinds) > 1:
-            raise ValueError(f'Mixed contract types: {race}')
-        selected, status, points = select(groups[race], prices.get(race, {}), next(iter(kinds), 'candidate'))
+        race_meta={k:m for (r,k),m in metadata.items() if r==race}
+        selected,status,points,outcome,kind=select_contracts(groups[race],prices.get(race,{}),race_meta)
         provisional = any(m['status'] != 'organizer_exact' for (r, _), m in metadata.items() if r == race)
         rows.append(dict(race_id=t['race_id'], chamber=t['chamber'],
                          predicted_winner_party=selected['party'] if selected else '',
@@ -57,6 +86,7 @@ def build(candidates, prices, metadata, template):
                          win_probability=selected['q'] if selected else ''))
         audit.append(dict(race_id=t['race_id'], status=status,
                           provisional=provisional, expected_points=points,
+                          scored_outcome=outcome,scored_contract_type=kind,
                           selected_candidate=selected['candidate'] if selected else ''))
     return rows, audit
 
