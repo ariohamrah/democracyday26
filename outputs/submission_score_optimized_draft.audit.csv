@@ -1,0 +1,471 @@
+race_id,status,provisional,expected_points,selected_candidate
+AK-SEN,party_contract_cannot_select_candidate:most_likely_fallback,True,1.2651034338461178,Dan Sullivan
+AL-SEN,optimized,True,0.1608424598480495,Everett Wess
+AR-SEN,best_among_priced_only,True,0.05672645710992,Tom Cotton
+CO-SEN,best_among_priced_only,True,0.01977576047109993,Mark Baisley
+DE-SEN,optimized,True,0.02176314768121216,Christopher A. Coons
+FL-SEN,optimized,True,0.4662043574717686,Angie Nixon
+GA-SEN,optimized,True,0.15151172591595136,Mike Collins
+IA-SEN,best_among_priced_only,True,0.5225786973747611,Ashley Hinson
+ID-SEN,best_among_priced_only,True,0.053488470562771805,James E. Risch
+IL-SEN,best_among_priced_only,True,0.13500881831791897,Don Tracy
+KS-SEN,best_among_priced_only,True,1.1417977288668775,Roger Marshall
+KY-SEN,missing_prices:most_likely_fallback,False,,Andy Barr
+LA-SEN,optimized,True,0.3561543072359602,“Jamie” Davis
+MA-SEN,best_among_priced_only,True,0.015910582051013502,Edward J. Markey
+ME-SEN,optimized,True,1.0493029968065877,Susan M. Collins
+MI-SEN,best_among_priced_only,True,0.4039567504339827,Mike Rogers
+MN-SEN,best_among_priced_only,True,0.20917890621064322,Michele Tafoya
+MS-SEN,best_among_priced_only,True,0.24025583937601325,Cindy Hyde-Smith
+MT-SEN,best_among_priced_only,True,0.11421610324862314,Kurt Alme
+NC-SEN,best_among_priced_only,True,0.8468663136415788,Michael Whatley
+NE-SEN,best_among_priced_only,True,0.5784705856638043,Pete Ricketts
+NH-SEN,best_among_priced_only,True,0.26873623321811774,John E. Sununu
+NJ-SEN,best_among_priced_only,True,0.1288744419942338,Justin Murphy
+NM-SEN,optimized,True,0.029054418919227328,Ben Ray Luján
+OH-SEN,best_among_priced_only,True,0.9402207263846076,Jon Husted
+OK-SEN,best_among_priced_only,True,0.028967666534138847,Kevin Hern
+OR-SEN,best_among_priced_only,True,0.019804394060068564,David Brock Smith
+RI-SEN,best_among_priced_only,True,0.013005938980269362,Jack Reed
+SC-SEN,best_among_priced_only,True,0.5337490186703256,Darline Graham
+SD-SEN,best_among_priced_only,True,0.08825071294056827,Mike Rounds
+TN-SEN,best_among_priced_only,True,0.03122577420652444,Bill Hagerty
+TX-SEN,best_among_priced_only,True,0.7321506383869801,Ken Paxton
+VA-SEN,optimized,True,0.1443606305359473,Bert Mizusawa
+WV-SEN,best_among_priced_only,True,0.02028476626740365,Shelley Moore Capito
+WY-SEN,optimized,True,0.01668679763676606,Harriet M. Hageman
+AK-AL,missing_prices:most_likely_fallback,False,,Nicholas J. Begich III
+AL-01,missing_prices:most_likely_fallback,False,,Jerry Carl
+AL-02,missing_prices:most_likely_fallback,False,,Shomari Figures
+AL-03,missing_prices:most_likely_fallback,False,,Mike Rogers
+AL-04,missing_prices:most_likely_fallback,False,,Robert B. Aderholt
+AL-05,missing_prices:most_likely_fallback,False,,Dale W. Strong
+AL-06,missing_prices:most_likely_fallback,False,,Gary J. Palmer
+AL-07,missing_prices:most_likely_fallback,False,,Terri A. Sewell
+AR-01,missing_prices:most_likely_fallback,False,,Eric A. “Rick” Crawford
+AR-02,missing_prices:most_likely_fallback,False,,J. French Hill
+AR-03,missing_prices:most_likely_fallback,False,,Steve Womack
+AR-04,missing_prices:most_likely_fallback,False,,Bruce Westerman
+AZ-01,best_among_priced_only,True,0.9713148449627781,Thomas “Jay” Feely IV
+AZ-02,missing_prices:most_likely_fallback,False,,Elijah Crane
+AZ-03,missing_prices:most_likely_fallback,False,,Yassamin Ansari
+AZ-04,missing_prices:most_likely_fallback,False,,Greg Stanton
+AZ-05,missing_prices:most_likely_fallback,False,,Mark Lamb
+AZ-06,best_among_priced_only,True,2.079392853517255,Juan Ciscomani
+AZ-07,missing_prices:most_likely_fallback,False,,Adelita S. Grijalva
+AZ-08,missing_prices:most_likely_fallback,False,,Abraham J. Hamadeh
+AZ-09,missing_prices:most_likely_fallback,False,,Paul A. Gosar
+CA-01,missing_prices:most_likely_fallback,False,,Mike McGuire
+CA-02,missing_prices:most_likely_fallback,False,,Jared Huffman
+CA-03,missing_prices:most_likely_fallback,False,,Ami Bera
+CA-04,missing_prices:most_likely_fallback,False,,Mike Thompson
+CA-05,missing_prices:most_likely_fallback,False,,Tom McClintock
+CA-06,missing_prices:most_likely_fallback,False,,Richard Pan
+CA-07,missing_prices:most_likely_fallback,False,,Doris O. Matsui
+CA-08,missing_prices:most_likely_fallback,False,,John Garamendi
+CA-09,missing_prices:most_likely_fallback,False,,Josh Harder
+CA-10,missing_prices:most_likely_fallback,False,,Mark DeSaulnier
+CA-11,missing_prices:most_likely_fallback,False,,Scott Wiener
+CA-12,missing_prices:most_likely_fallback,False,,Lateefah Simon
+CA-13,optimized,True,0.3233597700664081,Kevin Lincoln
+CA-14,missing_prices:most_likely_fallback,False,,Aisha Wahab
+CA-15,missing_prices:most_likely_fallback,False,,Kevin Mullin
+CA-16,missing_prices:most_likely_fallback,False,,Sam T. Liccardo
+CA-17,missing_prices:most_likely_fallback,False,,Ro Khanna
+CA-18,missing_prices:most_likely_fallback,False,,Zoe Lofgren
+CA-19,missing_prices:most_likely_fallback,False,,Jimmy Panetta
+CA-20,missing_prices:most_likely_fallback,False,,Vince Fong
+CA-21,missing_prices:most_likely_fallback,False,,Jim Costa
+CA-22,optimized,True,1.225650637611567,David G. Valadao
+CA-23,missing_prices:most_likely_fallback,False,,Jay Obernolte
+CA-24,missing_prices:most_likely_fallback,False,,Salud O. Carbajal
+CA-25,missing_prices:most_likely_fallback,False,,Raul Ruiz
+CA-26,missing_prices:most_likely_fallback,False,,Jacqui Irwin
+CA-27,optimized,True,0.06319854869935826,Jason Gibbs
+CA-28,missing_prices:most_likely_fallback,False,,Judy Chu
+CA-29,missing_prices:most_likely_fallback,False,,Luz M. Rivas
+CA-30,missing_prices:most_likely_fallback,False,,Laura Friedman
+CA-31,missing_prices:most_likely_fallback,False,,"Gilbert Ray Cisneros, Jr."
+CA-32,missing_prices:most_likely_fallback,False,,Brad Sherman
+CA-33,missing_prices:most_likely_fallback,False,,Pete Aguilar
+CA-34,missing_prices:most_likely_fallback,False,,Jimmy Gomez
+CA-35,missing_prices:most_likely_fallback,False,,Norma J. Torres
+CA-36,missing_prices:most_likely_fallback,False,,Ted Lieu
+CA-37,missing_prices:most_likely_fallback,False,,Sydney Kamlager-Dove
+CA-38,missing_prices:most_likely_fallback,False,,Hilda Solis
+CA-39,missing_prices:most_likely_fallback,False,,Mark Takano
+CA-40,missing_prices:most_likely_fallback,False,,Ken Calvert
+CA-41,optimized,True,0.027607260385334197,Linda T. Sánchez
+CA-42,missing_prices:most_likely_fallback,False,,Robert Garcia
+CA-43,missing_prices:most_likely_fallback,False,,Maxine Waters
+CA-44,missing_prices:most_likely_fallback,False,,Nanette Diaz Barragán
+CA-45,optimized,True,0.14975425990872673,Chuong V. Vo
+CA-46,missing_prices:most_likely_fallback,False,,J. Luis Correa
+CA-47,missing_prices:most_likely_fallback,False,,Dave Min
+CA-48,missing_prices:most_likely_fallback,False,,Marni von Wilpert
+CA-49,missing_prices:most_likely_fallback,False,,Mike Levin
+CA-50,missing_prices:most_likely_fallback,False,,Scott H. Peters
+CA-51,missing_prices:most_likely_fallback,False,,Sara Jacobs
+CA-52,missing_prices:most_likely_fallback,False,,Juan Vargas
+CO-01,missing_prices:most_likely_fallback,False,,Melat Kiros
+CO-02,missing_prices:most_likely_fallback,False,,Joe Neguse
+CO-03,missing_prices:most_likely_fallback,False,,Jeff Hurd
+CO-04,missing_prices:most_likely_fallback,False,,Lauren Boebert
+CO-05,missing_prices:most_likely_fallback,False,,Jeff Crank
+CO-06,missing_prices:most_likely_fallback,False,,Jason Crow
+CO-07,missing_prices:most_likely_fallback,False,,Brittany Pettersen
+CO-08,best_among_priced_only,True,1.934485276792555,Gabe Evans
+CT-01,missing_prices:most_likely_fallback,False,,Luke Bronin
+CT-02,missing_prices:most_likely_fallback,False,,Joe Courtney
+CT-03,missing_prices:most_likely_fallback,False,,Rosa L. DeLauro
+CT-04,missing_prices:most_likely_fallback,False,,James A. Himes
+CT-05,missing_prices:most_likely_fallback,False,,Jahana Hayes
+DE-AL,missing_prices:most_likely_fallback,False,,Sarah McBride
+FL-01,missing_prices:most_likely_fallback,False,,Jimmy Patronis
+FL-02,missing_prices:most_likely_fallback,False,,Austin Rogers
+FL-03,missing_prices:most_likely_fallback,False,,Kat Cammack
+FL-04,missing_prices:most_likely_fallback,False,,Aaron Bean
+FL-05,missing_prices:most_likely_fallback,False,,John H. Rutherford
+FL-06,missing_prices:most_likely_fallback,False,,Randy Fine
+FL-07,missing_prices:most_likely_fallback,False,,Bale Dalton
+FL-08,missing_prices:most_likely_fallback,False,,Mike Haridopolos
+FL-09,missing_prices:most_likely_fallback,False,,Dan Green
+FL-10,missing_prices:most_likely_fallback,False,,Maxwell Frost
+FL-11,missing_prices:most_likely_fallback,False,,Joe Strada
+FL-12,missing_prices:most_likely_fallback,False,,Gus M. Bilirakis
+FL-13,missing_prices:most_likely_fallback,False,,Anna Paulina Luna
+FL-14,missing_prices:most_likely_fallback,False,,Kathy Castor
+FL-15,missing_prices:most_likely_fallback,False,,Laurel M. Lee
+FL-16,missing_prices:most_likely_fallback,False,,Sydney Gruters
+FL-17,missing_prices:most_likely_fallback,False,,W. Gregory Steube
+FL-18,missing_prices:most_likely_fallback,False,,Scott Franklin
+FL-19,missing_prices:most_likely_fallback,False,,Jim Schwartzel
+FL-20,missing_prices:most_likely_fallback,False,,Debbie Wasserman Schultz
+FL-21,missing_prices:most_likely_fallback,False,,Brian J. Mast
+FL-22,missing_prices:most_likely_fallback,False,,Casey Askar
+FL-23,missing_prices:most_likely_fallback,False,,Lois Frankel
+FL-24,missing_prices:most_likely_fallback,False,,Oliver G. Gilbert III
+FL-25,missing_prices:most_likely_fallback,False,,Jared Moskowitz
+FL-26,missing_prices:most_likely_fallback,False,,Mario Diaz-Balart
+FL-27,missing_prices:most_likely_fallback,False,,Maria Elvira Salazar
+FL-28,missing_prices:most_likely_fallback,False,,Carlos A. Gimenez
+GA-01,missing_prices:most_likely_fallback,False,,James “Jim” Kingston
+GA-02,missing_prices:most_likely_fallback,False,,"Sanford D. Bishop, Jr."
+GA-03,missing_prices:most_likely_fallback,False,,Brian Jack
+GA-04,missing_prices:most_likely_fallback,False,,"Henry C. “Hank” Johnson, Jr."
+GA-05,missing_prices:most_likely_fallback,False,,Nikema Williams
+GA-06,missing_prices:most_likely_fallback,False,,Lucy McBath
+GA-07,missing_prices:most_likely_fallback,False,,Richard McCormick
+GA-08,missing_prices:most_likely_fallback,False,,Austin Scott
+GA-09,missing_prices:most_likely_fallback,False,,Andrew S. Clyde
+GA-10,missing_prices:most_likely_fallback,False,,Houston Gaines
+GA-11,missing_prices:most_likely_fallback,False,,John Cowan
+GA-12,missing_prices:most_likely_fallback,False,,Rick W. Allen
+GA-13,missing_prices:most_likely_fallback,False,,Jasmine Clark
+GA-14,missing_prices:most_likely_fallback,False,,Clay Fuller
+HI-01,missing_prices:most_likely_fallback,False,,Ed Case
+HI-02,missing_prices:most_likely_fallback,False,,Jill N. Tokuda
+IA-01,best_among_priced_only,True,2.5453706842561887,Mariannette Miller-Meeks
+IA-02,missing_prices:most_likely_fallback,False,,Lindsay James
+IA-03,optimized,True,1.9051866824784152,Zachary Nunn
+IA-04,missing_prices:most_likely_fallback,False,,Chris McGowan
+ID-01,missing_prices:most_likely_fallback,False,,Russ Fulcher
+ID-02,missing_prices:most_likely_fallback,False,,Michael K. Simpson
+IL-01,missing_prices:most_likely_fallback,False,,Jonathan L. Jackson
+IL-02,missing_prices:most_likely_fallback,False,,Donna Miller
+IL-03,missing_prices:most_likely_fallback,False,,Delia C. Ramirez
+IL-04,missing_prices:most_likely_fallback,False,,Patty Garcia
+IL-05,missing_prices:most_likely_fallback,False,,Mike Quigley
+IL-06,missing_prices:most_likely_fallback,False,,Sean Casten
+IL-07,missing_prices:most_likely_fallback,False,,La Shawn K. Ford
+IL-08,missing_prices:most_likely_fallback,False,,Melissa L. Bean
+IL-09,missing_prices:most_likely_fallback,False,,Daniel Biss
+IL-10,missing_prices:most_likely_fallback,False,,Bradley Scott Schneider
+IL-11,missing_prices:most_likely_fallback,False,,Bill Foster
+IL-12,missing_prices:most_likely_fallback,False,,Mike Bost
+IL-13,missing_prices:most_likely_fallback,False,,Nikki Budzinski
+IL-14,missing_prices:most_likely_fallback,False,,Lauren Underwood
+IL-15,missing_prices:most_likely_fallback,False,,Mary E. Miller
+IL-16,missing_prices:most_likely_fallback,False,,Darin LaHood
+IL-17,missing_prices:most_likely_fallback,False,,Eric Sorensen
+IN-01,missing_prices:most_likely_fallback,False,,Frank J. Mrvan
+IN-02,missing_prices:most_likely_fallback,False,,Rudy Yakym III
+IN-03,missing_prices:most_likely_fallback,False,,Marlin A. Stutzman
+IN-04,missing_prices:most_likely_fallback,False,,James R. Baird
+IN-05,missing_prices:most_likely_fallback,False,,Victoria Spartz
+IN-06,missing_prices:most_likely_fallback,False,,Jefferson Shreve
+IN-07,missing_prices:most_likely_fallback,False,,André Carson
+IN-08,missing_prices:most_likely_fallback,False,,Mark B. Messmer
+IN-09,missing_prices:most_likely_fallback,False,,Erin Houchin
+KS-01,missing_prices:most_likely_fallback,False,,Tracey Mann
+KS-02,missing_prices:most_likely_fallback,False,,Derek Schmidt
+KS-03,missing_prices:most_likely_fallback,False,,Sharice Davids
+KS-04,missing_prices:most_likely_fallback,False,,Ron Estes
+KY-01,missing_prices:most_likely_fallback,False,,James Comer
+KY-02,missing_prices:most_likely_fallback,False,,Brett Guthrie
+KY-03,missing_prices:most_likely_fallback,False,,Morgan McGarvey
+KY-04,missing_prices:most_likely_fallback,False,,Ed Gallrein
+KY-05,missing_prices:most_likely_fallback,False,,Harold Rogers
+KY-06,missing_prices:most_likely_fallback,False,,Ralph Alvarado
+LA-01,missing_prices:most_likely_fallback,False,,Steve Scalise
+LA-02,missing_prices:most_likely_fallback,False,,Troy A. Carter
+LA-03,missing_prices:most_likely_fallback,False,,Clay Higgins
+LA-04,missing_prices:most_likely_fallback,False,,Mike Johnson
+LA-05,missing_prices:most_likely_fallback,False,,"Stewart Cathey, Jr."
+LA-06,missing_prices:most_likely_fallback,False,,Monique Appeaning
+MA-01,missing_prices:most_likely_fallback,False,,Richard E. Neal
+MA-02,missing_prices:most_likely_fallback,False,,James P. McGovern
+MA-03,missing_prices:most_likely_fallback,False,,Lori Trahan
+MA-04,missing_prices:most_likely_fallback,False,,Jake Auchincloss
+MA-05,missing_prices:most_likely_fallback,False,,Katherine M. Clark
+MA-06,missing_prices:most_likely_fallback,False,,Dan Koh
+MA-07,missing_prices:most_likely_fallback,False,,Ayanna Pressley
+MA-08,missing_prices:most_likely_fallback,False,,Stephen F. Lynch
+MA-09,missing_prices:most_likely_fallback,False,,William R. Keating
+MD-01,missing_prices:most_likely_fallback,False,,Andy Harris
+MD-02,missing_prices:most_likely_fallback,False,,"Johnny Olszewski, Jr."
+MD-03,missing_prices:most_likely_fallback,False,,Sarah Elfreth
+MD-04,missing_prices:most_likely_fallback,False,,Glenn Ivey
+MD-05,missing_prices:most_likely_fallback,False,,Adrian Boafo
+MD-06,missing_prices:most_likely_fallback,False,,April McClain Delaney
+MD-07,missing_prices:most_likely_fallback,False,,Kweisi Mfume
+MD-08,missing_prices:most_likely_fallback,False,,Jamie Raskin
+ME-01,missing_prices:most_likely_fallback,False,,Chellie Pingree
+ME-02,optimized,True,0.684296073539874,Matthew G. Dunlap
+MI-01,missing_prices:most_likely_fallback,False,,Jack Bergman
+MI-02,missing_prices:most_likely_fallback,False,,John R. Moolenaar
+MI-03,missing_prices:most_likely_fallback,False,,Hillary J. Scholten
+MI-04,missing_prices:most_likely_fallback,False,,Bill Huizenga
+MI-05,missing_prices:most_likely_fallback,False,,Tim Walberg
+MI-06,missing_prices:most_likely_fallback,False,,Debbie Dingell
+MI-07,best_among_priced_only,True,0.9672521622842576,Tom Barrett
+MI-08,best_among_priced_only,True,0.38477768073417973,Thomas J. Smith
+MI-09,missing_prices:most_likely_fallback,False,,Lisa C. McClain
+MI-10,missing_prices:most_likely_fallback,False,,Michael Bouchard
+MI-11,missing_prices:most_likely_fallback,False,,Jeremy Moss
+MI-12,missing_prices:most_likely_fallback,False,,Rashida Tlaib
+MI-13,missing_prices:most_likely_fallback,False,,Donavan McKinney
+MN-01,missing_prices:most_likely_fallback,False,,Brad Finstad
+MN-02,missing_prices:most_likely_fallback,False,,Matt Little
+MN-03,missing_prices:most_likely_fallback,False,,Kelly Morrison
+MN-04,missing_prices:most_likely_fallback,False,,Betty McCollum
+MN-05,missing_prices:most_likely_fallback,False,,Ilhan Omar
+MN-06,missing_prices:most_likely_fallback,False,,Tom Emmer
+MN-07,missing_prices:most_likely_fallback,False,,Michelle Fischbach
+MN-08,missing_prices:most_likely_fallback,False,,Pete Stauber
+MO-01,missing_prices:most_likely_fallback,False,,Wesley Bell
+MO-02,missing_prices:most_likely_fallback,False,,Ann Wagner
+MO-03,missing_prices:most_likely_fallback,False,,"Robert F. Onder, Jr."
+MO-04,missing_prices:most_likely_fallback,False,,Mark Alford
+MO-05,missing_prices:most_likely_fallback,False,,Emanuel Cleaver
+MO-06,missing_prices:most_likely_fallback,False,,Chris Stigall
+MO-07,missing_prices:most_likely_fallback,False,,Eric Burlison
+MO-08,missing_prices:most_likely_fallback,False,,Jason Smith
+MS-01,missing_prices:most_likely_fallback,False,,Trent Kelly
+MS-02,missing_prices:most_likely_fallback,False,,Bennie G. Thompson
+MS-03,missing_prices:most_likely_fallback,False,,Michael Guest
+MS-04,missing_prices:most_likely_fallback,False,,Mike Ezell
+MT-01,missing_prices:most_likely_fallback,False,,Sam Forstag
+MT-02,missing_prices:most_likely_fallback,False,,Troy Downing
+NC-01,best_among_priced_only,True,1.1774845732662038,Laurie Buckhout
+NC-02,missing_prices:most_likely_fallback,False,,Deborah K. Ross
+NC-03,missing_prices:most_likely_fallback,False,,Gregory F. Murphy
+NC-04,missing_prices:most_likely_fallback,False,,Valerie P. Foushee
+NC-05,missing_prices:most_likely_fallback,False,,Virginia Foxx
+NC-06,missing_prices:most_likely_fallback,False,,Addison P. McDowell
+NC-07,missing_prices:most_likely_fallback,False,,David Rouzer
+NC-08,missing_prices:most_likely_fallback,False,,Mark Harris
+NC-09,missing_prices:most_likely_fallback,False,,Richard Hudson
+NC-10,missing_prices:most_likely_fallback,False,,Pat Harrigan
+NC-11,missing_prices:most_likely_fallback,False,,Jamie Ager
+NC-12,missing_prices:most_likely_fallback,False,,Alma S. Adams
+NC-13,missing_prices:most_likely_fallback,False,,Brad Knott
+NC-14,missing_prices:most_likely_fallback,False,,Tim Moore
+ND-AL,missing_prices:most_likely_fallback,False,,Julie Fedorchak
+NE-01,missing_prices:most_likely_fallback,False,,Mike Flood
+NE-02,best_among_priced_only,True,0.40679417738931656,Brinker Harding
+NE-03,missing_prices:most_likely_fallback,False,,Adrian Smith
+NH-01,missing_prices:most_likely_fallback,False,,Stefany Shaheen
+NH-02,missing_prices:most_likely_fallback,False,,Maggie Goodlander
+NJ-01,missing_prices:most_likely_fallback,False,,Donald Norcross
+NJ-02,missing_prices:most_likely_fallback,False,,Jefferson Van Drew
+NJ-03,missing_prices:most_likely_fallback,False,,"Herbert C. Conaway, Jr."
+NJ-04,missing_prices:most_likely_fallback,False,,Christopher H. Smith
+NJ-05,missing_prices:most_likely_fallback,False,,Josh Gottheimer
+NJ-06,missing_prices:most_likely_fallback,False,,"Frank Pallone, Jr."
+NJ-07,missing_prices:most_likely_fallback,False,,"Thomas H. Kean, Jr."
+NJ-08,missing_prices:most_likely_fallback,False,,Robert Menendez
+NJ-09,missing_prices:most_likely_fallback,False,,Nellie Pou
+NJ-10,missing_prices:most_likely_fallback,False,,LaMonica McIver
+NJ-11,missing_prices:most_likely_fallback,False,,Analilia Mejia
+NJ-12,missing_prices:most_likely_fallback,False,,Adam Hamawy
+NM-01,missing_prices:most_likely_fallback,False,,Melanie A. Stansbury
+NM-02,missing_prices:most_likely_fallback,False,,Gabe Vasquez
+NM-03,missing_prices:most_likely_fallback,False,,Teresa Leger Fernandez
+NV-01,missing_prices:most_likely_fallback,False,,Dina Titus
+NV-02,missing_prices:most_likely_fallback,False,,David Flippo
+NV-03,missing_prices:most_likely_fallback,False,,Susie Lee
+NV-04,missing_prices:most_likely_fallback,False,,Steven Horsford
+NY-01,missing_prices:most_likely_fallback,False,,Nick LaLota
+NY-02,missing_prices:most_likely_fallback,False,,Andrew R. Garbarino
+NY-03,missing_prices:most_likely_fallback,False,,Thomas R. Suozzi
+NY-04,best_among_priced_only,True,0.26547756076466217,Jeanine C. Driscoll
+NY-05,missing_prices:most_likely_fallback,False,,Gregory W. Meeks
+NY-06,missing_prices:most_likely_fallback,False,,Grace Meng
+NY-07,missing_prices:most_likely_fallback,False,,Claire Valdez
+NY-08,missing_prices:most_likely_fallback,False,,Hakeem S. Jeffries
+NY-09,missing_prices:most_likely_fallback,False,,Yvette D. Clarke
+NY-10,missing_prices:most_likely_fallback,False,,Brad Lander
+NY-11,missing_prices:most_likely_fallback,False,,Nicole Malliotakis
+NY-12,missing_prices:most_likely_fallback,False,,Micah C. Lasher
+NY-13,missing_prices:most_likely_fallback,False,,Darializa Avila Chevalier
+NY-14,missing_prices:most_likely_fallback,False,,Alexandria Ocasio-Cortez
+NY-15,missing_prices:most_likely_fallback,False,,Ritchie Torres
+NY-16,missing_prices:most_likely_fallback,False,,George Latimer
+NY-17,missing_prices:most_likely_fallback,False,,Michael Lawler
+NY-18,missing_prices:most_likely_fallback,False,,Patrick Ryan
+NY-19,optimized,True,0.351443585242064,Peter K. Oberacker
+NY-20,missing_prices:most_likely_fallback,False,,Paul Tonko
+NY-21,missing_prices:most_likely_fallback,False,,Anthony Constantino
+NY-22,missing_prices:most_likely_fallback,False,,John W. Mannion
+NY-23,missing_prices:most_likely_fallback,False,,Nicholas A. Langworthy
+NY-24,missing_prices:most_likely_fallback,False,,Claudia Tenney
+NY-25,missing_prices:most_likely_fallback,False,,Joseph D. Morelle
+NY-26,missing_prices:most_likely_fallback,False,,Timothy M. Kennedy
+OH-01,missing_prices:most_likely_fallback,False,,Greg Landsman
+OH-02,missing_prices:most_likely_fallback,False,,David J. Taylor
+OH-03,missing_prices:most_likely_fallback,False,,Joyce Beatty
+OH-04,missing_prices:most_likely_fallback,False,,Jim Jordan
+OH-05,missing_prices:most_likely_fallback,False,,Robert E. Latta
+OH-06,missing_prices:most_likely_fallback,False,,Michael A. Rulli
+OH-07,missing_prices:most_likely_fallback,False,,Max L. Miller
+OH-08,missing_prices:most_likely_fallback,False,,Warren Davidson
+OH-09,missing_prices:most_likely_fallback,False,,Marcy Kaptur
+OH-10,missing_prices:most_likely_fallback,False,,Michael R. Turner
+OH-11,missing_prices:most_likely_fallback,False,,Shontel M. Brown
+OH-12,missing_prices:most_likely_fallback,False,,Troy Balderson
+OH-13,missing_prices:most_likely_fallback,False,,Emilia Strong Sykes
+OH-14,missing_prices:most_likely_fallback,False,,David P. Joyce
+OH-15,missing_prices:most_likely_fallback,False,,Mike Carey
+OK-01,missing_prices:most_likely_fallback,False,,Mark Tedford
+OK-02,missing_prices:most_likely_fallback,False,,Josh Brecheen
+OK-03,missing_prices:most_likely_fallback,False,,Frank D. Lucas
+OK-04,missing_prices:most_likely_fallback,False,,Tom Cole
+OK-05,missing_prices:most_likely_fallback,False,,Stephanie I. Bice
+OR-01,missing_prices:most_likely_fallback,False,,Suzanne Bonamici
+OR-02,missing_prices:most_likely_fallback,False,,Cliff Bentz
+OR-03,missing_prices:most_likely_fallback,False,,Maxine Dexter
+OR-04,missing_prices:most_likely_fallback,False,,Val T. Hoyle
+OR-05,best_among_priced_only,True,0.15735132001008334,Patti Adair
+OR-06,missing_prices:most_likely_fallback,False,,Andrea Salinas
+PA-01,missing_prices:most_likely_fallback,False,,Brian K. Fitzpatrick
+PA-02,missing_prices:most_likely_fallback,False,,Brendan F. Boyle
+PA-03,missing_prices:most_likely_fallback,False,,Chris Rabb
+PA-04,missing_prices:most_likely_fallback,False,,Madeleine Dean
+PA-05,missing_prices:most_likely_fallback,False,,Mary Gay Scanlon
+PA-06,missing_prices:most_likely_fallback,False,,Chrissy Houlahan
+PA-07,optimized,True,1.3278611308159984,Ryan Mackenzie
+PA-08,optimized,True,2.2355022958805826,"Robert P. Bresnahan, Jr."
+PA-09,missing_prices:most_likely_fallback,False,,Daniel Meuser
+PA-10,optimized,True,1.2894313116156082,Scott Perry
+PA-11,missing_prices:most_likely_fallback,False,,Lloyd Smucker
+PA-12,missing_prices:most_likely_fallback,False,,Summer L. Lee
+PA-13,missing_prices:most_likely_fallback,False,,John Joyce
+PA-14,missing_prices:most_likely_fallback,False,,Guy Reschenthaler
+PA-15,missing_prices:most_likely_fallback,False,,Glenn Thompson
+PA-16,missing_prices:most_likely_fallback,False,,Mike Kelly
+PA-17,missing_prices:most_likely_fallback,False,,Christopher R. Deluzio
+RI-01,missing_prices:most_likely_fallback,False,,Gabe Amo
+RI-02,missing_prices:most_likely_fallback,False,,Seth Magaziner
+SC-01,missing_prices:most_likely_fallback,False,,Jenny Costa Honeycut
+SC-02,missing_prices:most_likely_fallback,False,,Joe Wilson
+SC-03,missing_prices:most_likely_fallback,False,,Sheri Biggs
+SC-04,missing_prices:most_likely_fallback,False,,William R. Timmons IV
+SC-05,missing_prices:most_likely_fallback,False,,Wes Climer
+SC-06,missing_prices:most_likely_fallback,False,,James E. Clyburn
+SC-07,missing_prices:most_likely_fallback,False,,Russell Fry
+SD-AL,missing_prices:most_likely_fallback,False,,Marty Jackley
+TN-01,missing_prices:most_likely_fallback,False,,Diana Harshbarger
+TN-02,missing_prices:most_likely_fallback,False,,Tim Burchett
+TN-03,missing_prices:most_likely_fallback,False,,Charles J. “Chuck” Fleischmann
+TN-04,missing_prices:most_likely_fallback,False,,Scott DesJarlais
+TN-05,missing_prices:most_likely_fallback,False,,Charlie Hatcher
+TN-06,missing_prices:most_likely_fallback,False,,Johnny Garrett
+TN-07,missing_prices:most_likely_fallback,False,,Matt Van Epps
+TN-08,missing_prices:most_likely_fallback,False,,David Kustoff
+TN-09,missing_prices:most_likely_fallback,False,,Brent Taylor
+TX-01,missing_prices:most_likely_fallback,False,,Nathaniel Moran
+TX-02,missing_prices:most_likely_fallback,False,,Steve Toth
+TX-03,missing_prices:most_likely_fallback,False,,Keith Self
+TX-04,missing_prices:most_likely_fallback,False,,Pat Fallon
+TX-05,missing_prices:most_likely_fallback,False,,Lance Gooden
+TX-06,missing_prices:most_likely_fallback,False,,Jake Ellzey
+TX-07,missing_prices:most_likely_fallback,False,,Lizzie Fletcher
+TX-08,missing_prices:most_likely_fallback,False,,Jessica Hart Steinmann
+TX-09,missing_prices:most_likely_fallback,False,,Alex Mealer
+TX-10,missing_prices:most_likely_fallback,False,,Chris Gober
+TX-11,missing_prices:most_likely_fallback,False,,August Pfluger
+TX-12,missing_prices:most_likely_fallback,False,,Craig A. Goldman
+TX-13,missing_prices:most_likely_fallback,False,,Ronny Jackson
+TX-14,missing_prices:most_likely_fallback,False,,"Randy K. Weber, Sr."
+TX-15,missing_prices:most_likely_fallback,False,,Monica De La Cruz
+TX-16,missing_prices:most_likely_fallback,False,,Veronica Escobar
+TX-17,missing_prices:most_likely_fallback,False,,Pete Sessions
+TX-18,missing_prices:most_likely_fallback,False,,Christian D. Menefee
+TX-19,missing_prices:most_likely_fallback,False,,Tom Sell
+TX-20,missing_prices:most_likely_fallback,False,,Joaquin Castro
+TX-21,missing_prices:most_likely_fallback,False,,Mark Teixeira
+TX-22,missing_prices:most_likely_fallback,False,,Trever Nehls
+TX-23,missing_prices:most_likely_fallback,False,,Brandon Herrera
+TX-24,missing_prices:most_likely_fallback,False,,Beth Van Duyne
+TX-25,missing_prices:most_likely_fallback,False,,Roger Williams
+TX-26,missing_prices:most_likely_fallback,False,,Brandon Gill
+TX-27,missing_prices:most_likely_fallback,False,,Michael Cloud
+TX-28,missing_prices:most_likely_fallback,False,,Henry Cuellar
+TX-29,missing_prices:most_likely_fallback,False,,Sylvia R. Garcia
+TX-30,missing_prices:most_likely_fallback,False,,Frederick D. Haynes III
+TX-31,missing_prices:most_likely_fallback,False,,John R. Carter
+TX-32,missing_prices:most_likely_fallback,False,,Jace Yarbrough
+TX-33,missing_prices:most_likely_fallback,False,,Colin Allred
+TX-34,missing_prices:most_likely_fallback,False,,Vicente Gonzalez
+TX-35,missing_prices:most_likely_fallback,False,,Johnny C. Garcia
+TX-36,missing_prices:most_likely_fallback,False,,Brian Babin
+TX-37,missing_prices:most_likely_fallback,False,,Greg Casar
+TX-38,missing_prices:most_likely_fallback,False,,Jon Bonck
+UT-01,missing_prices:most_likely_fallback,False,,Ben McAdams
+UT-02,missing_prices:most_likely_fallback,False,,Blake D. Moore
+UT-03,missing_prices:most_likely_fallback,False,,Celeste Maloy
+UT-04,missing_prices:most_likely_fallback,False,,Mike Kennedy
+VA-01,missing_prices:most_likely_fallback,False,,Robert J. Wittman
+VA-02,missing_prices:most_likely_fallback,False,,Jennifer A. Kiggans
+VA-03,missing_prices:most_likely_fallback,False,,Robert C. “Bobby” Scott
+VA-04,missing_prices:most_likely_fallback,False,,Jennifer L. McClellan
+VA-05,missing_prices:most_likely_fallback,False,,John J. McGuire III
+VA-06,missing_prices:most_likely_fallback,False,,Ben Cline
+VA-07,best_among_priced_only,True,0.31308011633800825,Doug A. Ollivant
+VA-08,missing_prices:most_likely_fallback,False,,"Donald S. Beyer, Jr."
+VA-09,missing_prices:most_likely_fallback,False,,H. Morgan Griffith
+VA-10,missing_prices:most_likely_fallback,False,,Suhas Subramanyam
+VA-11,missing_prices:most_likely_fallback,False,,James R. Walkinshaw
+VT-AL,missing_prices:most_likely_fallback,False,,Becca Balint
+WA-01,missing_prices:most_likely_fallback,False,,Suzan K. DelBene
+WA-02,missing_prices:most_likely_fallback,False,,Rick Larsen
+WA-03,optimized,True,0.23630136436754992,John Braun
+WA-04,missing_prices:most_likely_fallback,False,,Amanda McKinney
+WA-05,missing_prices:most_likely_fallback,False,,Michael Baumgartner
+WA-06,missing_prices:most_likely_fallback,False,,Emily Randall
+WA-07,missing_prices:most_likely_fallback,False,,Pramila Jayapal
+WA-08,optimized,True,0.13079821338540404,Spencer Meline
+WA-09,missing_prices:most_likely_fallback,False,,Adam Smith
+WA-10,missing_prices:most_likely_fallback,False,,Marilyn Strickland
+WI-01,missing_prices:most_likely_fallback,False,,Bryan Steil
+WI-02,missing_prices:most_likely_fallback,False,,Mark Pocan
+WI-03,missing_prices:most_likely_fallback,False,,Derrick Van Orden
+WI-04,missing_prices:most_likely_fallback,False,,Gwen Moore
+WI-05,missing_prices:most_likely_fallback,False,,Scott Fitzgerald
+WI-06,missing_prices:most_likely_fallback,False,,Glenn Grothman
+WI-07,missing_prices:most_likely_fallback,False,,Michael Alfonso
+WI-08,missing_prices:most_likely_fallback,False,,Tony Wied
+WV-01,missing_prices:most_likely_fallback,False,,Carol D. Miller
+WV-02,missing_prices:most_likely_fallback,False,,Riley M. Moore
+WY-AL,missing_prices:most_likely_fallback,False,,Chuck Gray

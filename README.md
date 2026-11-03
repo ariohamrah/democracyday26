@@ -17,7 +17,22 @@ python3 -m venv .venv
 
 All forecast commands are offline after dependency installation. The seed is 20261102 and chamber simulations use 100,000 draws. Source-refresh scripts are separate and should not be run to reproduce this frozen edition. Results can differ at the last floating-point digits across numerical-library/platform versions.
 
-All 34 local tests passed. `docs/github-actions-workflow.example.yml` is an optional CI configuration; it is not installed as an active workflow because the available GitHub token lacks the workflow scope.
+All 41 local tests passed. `docs/github-actions-workflow.example.yml` is an optional CI configuration; it is not installed as an active workflow because the available GitHub token lacks the workflow scope.
+
+### Expected-score submission update
+
+`outputs/submission_score_optimized_draft.csv` is the revised five-column entry. It chooses the outcome maximizing `q * -log2(p)` where usable market prices exist, using current Kalshi bid/ask midpoints as an explicitly user-requested proxy for unavailable official November 1 odds. Its `win_probability` is the selected candidate's model probability, even when that candidate is an underdog. The original `outputs/submission.csv` remains the most-likely-winner baseline.
+
+This is a **partial optimization**, not a certified optimum for all races or the official November 1 scoring odds. The adjacent `.audit.csv` identifies complete priced comparisons, comparisons limited to priced outcomes, and likely-winner fallbacks where no usable choice can be scored. Missing prices are never replaced by model probabilities. A party contract cannot resolve multiple candidates of the same party. Raw live quotes remain private; reproducing these exact picks requires the same quote input. Refetching current odds can change selections.
+
+This run changes 31 picks: 22 races have complete comparisons under proxy odds, 35 choose the best priced outcome with other outcomes unpriced, and 413 use explicitly audited likely-winner fallbacks (412 missing prices, one ambiguous party contract). All 470 template rows remain populated.
+
+```sh
+python3 -m scripts.collect_current_odds
+python3 -m forecast.optimize_submission --odds private_outputs/current_odds.csv --allow-current-proxy --allow-partial-draft --fallback-most-likely --output outputs/submission_score_optimized_draft.csv
+```
+
+For complete official odds, use `python3 -m forecast.optimize_submission --odds /absolute/path/organizer_odds.csv --output outputs/submission.csv`. This strict command refuses to write an entry if any race has missing, ambiguous, zero, or provisional prices. Current proxy odds are accepted only with the explicit opt-in above; the historical odds importer remains strict by default.
 
 ## Outputs
 
