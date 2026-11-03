@@ -1,0 +1,140 @@
+{
+  "datasets": [
+    {
+      "id": "states",
+      "title": "States",
+      "description": "Postal code, FIPS code, congressional district count and legislature names and sizes.",
+      "origin": "Compiled by Election Wrld from Open States, congress-legislators and official election returns; see sources",
+      "scope": "all",
+      "url": "/api/v1/datasets/states",
+      "csv": "/api/v1/datasets/states?format=csv"
+    },
+    {
+      "id": "calendar",
+      "title": "Election calendar",
+      "description": "Every regular general election 2026 to 2032, plus known specials, by office, state and district.",
+      "origin": "State law, official election returns, Senate.gov",
+      "scope": "all",
+      "url": "/api/v1/datasets/calendar",
+      "csv": "/api/v1/datasets/calendar?format=csv"
+    },
+    {
+      "id": "polls",
+      "title": "2026 polls",
+      "description": "VoteHub polls: generic ballot, Senate, governor, House and approval.",
+      "origin": "VoteHub, votehub.com/polls/api/ (CC BY 4.0)",
+      "scope": "all",
+      "url": "/api/v1/datasets/polls",
+      "csv": "/api/v1/datasets/polls?format=csv"
+    },
+    {
+      "id": "president-state",
+      "title": "President by state, 1976 to 2024",
+      "description": "Votes for the Democratic nominee, the Republican nominee and all others, by state and year.",
+      "origin": "MIT Election Data and Science Lab (CC0)",
+      "scope": "all",
+      "url": "/api/v1/datasets/president-state",
+      "csv": "/api/v1/datasets/president-state?format=csv"
+    },
+    {
+      "id": "congress",
+      "title": "Members of Congress",
+      "description": "Current US House members by district and US senators by state.",
+      "origin": "unitedstates/congress-legislators (CC0)",
+      "scope": "all",
+      "url": "/api/v1/datasets/congress",
+      "csv": "/api/v1/datasets/congress?format=csv"
+    },
+    {
+      "id": "governors",
+      "title": "Governors",
+      "description": "Current governor of each state.",
+      "origin": "Wikidata (CC0)",
+      "scope": "all",
+      "url": "/api/v1/datasets/governors",
+      "csv": "/api/v1/datasets/governors?format=csv"
+    },
+    {
+      "id": "election-offices",
+      "title": "State election offices",
+      "description": "Each state's and DC's official election office: home page, official results page, voter lookup and registration links. Each link checked on the date shown.",
+      "origin": "State election office websites",
+      "scope": "all",
+      "url": "/api/v1/datasets/election-offices",
+      "csv": "/api/v1/datasets/election-offices?format=csv"
+    },
+    {
+      "id": "sources",
+      "title": "Sources",
+      "description": "Every source behind these tables, with its license and retrieval date.",
+      "origin": "Election Wrld",
+      "scope": "all",
+      "url": "/api/v1/datasets/sources",
+      "csv": "/api/v1/datasets/sources?format=csv"
+    },
+    {
+      "id": "data-notes",
+      "title": "Data notes",
+      "description": "Known gaps, choices and caveats recorded while building each table.",
+      "origin": "Election Wrld",
+      "scope": "all",
+      "url": "/api/v1/datasets/data-notes",
+      "csv": "/api/v1/datasets/data-notes?format=csv"
+    },
+    {
+      "id": "house",
+      "title": "US House results by state",
+      "description": "Every House race 1976 to 2024 with candidates, votes and shares, keyed by district.",
+      "origin": "MIT Election Data and Science Lab (CC0), with the House Clerk or FEC official count on rows that name it",
+      "scope": "state",
+      "url": "/api/v1/datasets/house/{st}",
+      "csv": "/api/v1/datasets/house/{st}?format=csv"
+    },
+    {
+      "id": "senate",
+      "title": "US Senate results by state",
+      "description": "Every Senate race 1976 to 2024 grouped by seat class.",
+      "origin": "MIT Election Data and Science Lab (CC0), with the House Clerk or FEC official count on rows that name it",
+      "scope": "state",
+      "url": "/api/v1/datasets/senate/{st}",
+      "csv": "/api/v1/datasets/senate/{st}?format=csv"
+    },
+    {
+      "id": "governor",
+      "title": "Governor results by state",
+      "description": "Every governor general election on file, 1990 to 2025. Each race's source is named in the data notes.",
+      "origin": "State election offices and the Cha, Kuriwaki and Snyder candidates file (CC0); see data notes",
+      "scope": "state",
+      "url": "/api/v1/datasets/governor/{st}",
+      "csv": "/api/v1/datasets/governor/{st}?format=csv"
+    },
+    {
+      "id": "president-county",
+      "title": "President by county, 2000 to 2024",
+      "description": "County totals keyed by 5-digit FIPS code.",
+      "origin": "MIT Election Data and Science Lab (CC0)",
+      "scope": "state",
+      "url": "/api/v1/datasets/president-county/{st}",
+      "csv": "/api/v1/datasets/president-county/{st}?format=csv"
+    },
+    {
+      "id": "state-legislature-results",
+      "title": "State legislative results by state",
+      "description": "General and special elections for both chambers through 2025, keyed by OCD-ID.",
+      "origin": "Klarner State Legislative Election Returns (CC0) through 2022. Later rows name their own source: state election offices, MEDSL or OpenElections, each under its own terms",
+      "scope": "state",
+      "url": "/api/v1/datasets/state-legislature-results/{st}",
+      "csv": "/api/v1/datasets/state-legislature-results/{st}?format=csv"
+    },
+    {
+      "id": "state-legislators",
+      "title": "State legislators by state",
+      "description": "Current legislators keyed by OCD-ID. No addresses, phone numbers or emails.",
+      "origin": "Open States (CC0)",
+      "scope": "state",
+      "url": "/api/v1/datasets/state-legislators/{st}",
+      "csv": "/api/v1/datasets/state-legislators/{st}?format=csv"
+    }
+  ],
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) for Election Wrld's own compilation only. Credit Election Wrld. Source data keeps its own terms, listed at /data#licenses and /api/v1/datasets/sources."
+}

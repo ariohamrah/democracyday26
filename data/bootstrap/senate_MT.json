@@ -1,0 +1,705 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 321445,
+      "candidates": [
+        {
+          "name": "John Melcher",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN MELCHER",
+          "votes": 206232,
+          "pct": 64.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Stanley C. Burger",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STANLEY C. BURGER",
+          "votes": 115213,
+          "pct": 35.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 321062,
+      "candidates": [
+        {
+          "name": "John Melcher",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN MELCHER",
+          "votes": 174861,
+          "pct": 54.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Larry Williams",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LARRY WILLIAMS",
+          "votes": 133789,
+          "pct": 41.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Larry Dodge",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LARRY DODGE",
+          "votes": 12412,
+          "pct": 3.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 365254,
+      "candidates": [
+        {
+          "name": "Conrad Burns",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CONRAD BURNS",
+          "votes": 189445,
+          "pct": 51.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "John Melcher",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN MELCHER",
+          "votes": 175809,
+          "pct": 48.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 350387,
+      "candidates": [
+        {
+          "name": "Conrad R. Burns",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CONRAD R. BURNS",
+          "votes": 218542,
+          "pct": 62.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jack Mudd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK MUDD",
+          "votes": 131845,
+          "pct": 37.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 411601,
+      "candidates": [
+        {
+          "name": "Conrad Burns",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CONRAD BURNS",
+          "votes": 208082,
+          "pct": 50.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Brian Schweitzer",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BRIAN SCHWEITZER",
+          "votes": 194430,
+          "pct": 47.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Gary Lee",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "GARY LEE",
+          "votes": 9089,
+          "pct": 2.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 406505,
+      "candidates": [
+        {
+          "name": "Jon Tester",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JON TESTER",
+          "votes": 199845,
+          "pct": 49.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Conrad Burns",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CONRAD BURNS",
+          "votes": 196283,
+          "pct": 48.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Stan Jones",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "STAN JONES",
+          "votes": 10377,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 486066,
+      "candidates": [
+        {
+          "name": "Jon Tester",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JON TESTER",
+          "votes": 236123,
+          "pct": 48.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Denny Rehberg",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DENNY REHBERG",
+          "votes": 218051,
+          "pct": 44.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Dan Cox",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "DAN COX",
+          "votes": 31892,
+          "pct": 6.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 504384,
+      "candidates": [
+        {
+          "name": "Jon Tester",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JON TESTER",
+          "votes": 253876,
+          "pct": 50.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Matt Rosendale",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MATT ROSENDALE",
+          "votes": 235963,
+          "pct": 46.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Rick Breckenridge",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "RICK BRECKENRIDGE",
+          "votes": 14545,
+          "pct": 2.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 607262,
+      "candidates": [
+        {
+          "name": "Tim Sheehy",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TIM SHEEHY",
+          "votes": 319682,
+          "pct": 52.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jon Tester",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JON TESTER",
+          "votes": 276305,
+          "pct": 45.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Sid Daoud",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "SID DAOUD",
+          "votes": 7272,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Robert Barb",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "ROBERT BARB",
+          "votes": 4003,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 287942,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 160353,
+          "pct": 55.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Larry Williams",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LARRY WILLIAMS",
+          "votes": 127589,
+          "pct": 44.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 379155,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 215704,
+          "pct": 56.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Chuck Cozzens",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CHUCK COZZENS",
+          "votes": 154308,
+          "pct": 40.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Neil Halprin",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "NEIL HALPRIN",
+          "votes": 9143,
+          "pct": 2.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 319336,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 217563,
+          "pct": 68.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Allen C. Kolstad",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ALLEN C. KOLSTAD",
+          "votes": 93836,
+          "pct": 29.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Westley F. Deitchler",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "WESTLEY F. DEITCHLER",
+          "votes": 7937,
+          "pct": 2.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 407490,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 201935,
+          "pct": 49.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Dennis Rehberg",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DENNIS REHBERG",
+          "votes": 182111,
+          "pct": 44.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Becky Shaw",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "BECKY SHAW",
+          "votes": 19276,
+          "pct": 4.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Stephen Heaton",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "STEPHEN HEATON",
+          "votes": 4168,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 326537,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 204853,
+          "pct": 62.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mike Taylor",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE TAYLOR",
+          "votes": 103611,
+          "pct": 31.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Stan Jones",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "STAN JONES",
+          "votes": 10420,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Bob Kelleher",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "BOB KELLEHER",
+          "votes": 7653,
+          "pct": 2.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 477658,
+      "candidates": [
+        {
+          "name": "Max Baucus",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX BAUCUS",
+          "votes": 348289,
+          "pct": 72.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bob Kelleher",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BOB KELLEHER",
+          "votes": 129369,
+          "pct": 27.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 369826,
+      "candidates": [
+        {
+          "name": "Steve Daines",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STEVE DAINES",
+          "votes": 213709,
+          "pct": 57.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Amanda Curtis",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AMANDA CURTIS",
+          "votes": 148184,
+          "pct": 40.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Roger Roots",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ROGER ROOTS",
+          "votes": 7933,
+          "pct": 2.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 605637,
+      "candidates": [
+        {
+          "name": "Steve Daines",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STEVE DAINES",
+          "votes": 333174,
+          "pct": 55,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Steve Bullock",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "STEVE BULLOCK",
+          "votes": 272463,
+          "pct": 45,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

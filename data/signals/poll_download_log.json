@@ -1,0 +1,42 @@
+[
+  {
+    "file": "polls_2026.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/polls",
+    "status": 200,
+    "content_type": "application/json; charset=utf-8",
+    "bytes": 1241503,
+    "saved": true
+  },
+  {
+    "file": "historical_raw_polls.csv",
+    "url": "https://raw.githubusercontent.com/fivethirtyeight/data/master/pollster-ratings/raw_polls.csv",
+    "status": 200,
+    "content_type": "text/plain; charset=utf-8",
+    "bytes": 4961378,
+    "saved": true
+  },
+  {
+    "file": "generic_ballot_polls.csv",
+    "url": "https://projects.fivethirtyeight.com/polls/data/generic_ballot_polls.csv",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 373110,
+    "saved": false
+  },
+  {
+    "file": "house_polls.csv",
+    "url": "https://projects.fivethirtyeight.com/polls/data/house_polls.csv",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 372732,
+    "saved": false
+  },
+  {
+    "file": "senate_polls.csv",
+    "url": "https://projects.fivethirtyeight.com/polls/data/senate_polls.csv",
+    "status": 200,
+    "content_type": "text/html; charset=utf-8",
+    "bytes": 372725,
+    "saved": false
+  }
+]

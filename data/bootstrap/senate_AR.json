@@ -1,0 +1,719 @@
+{
+  "class1": [],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 517138,
+      "candidates": [
+        {
+          "name": "David Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAVID PRYOR",
+          "votes": 395506,
+          "pct": 76.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Tom Kelly",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TOM KELLY",
+          "votes": 84308,
+          "pct": 16.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "John Graham Black",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOHN GRAHAM BLACK",
+          "votes": 37211,
+          "pct": 7.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 113,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 875956,
+      "candidates": [
+        {
+          "name": "David Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAVID PRYOR",
+          "votes": 502341,
+          "pct": 57.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Ed Bethune",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ED BETHUNE",
+          "votes": 373615,
+          "pct": 42.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 494735,
+      "candidates": [
+        {
+          "name": "David H. Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAVID H. PRYOR",
+          "votes": 493910,
+          "pct": 99.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 825,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 846183,
+      "candidates": [
+        {
+          "name": "Y. Tim Hutchinson",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "Y. TIM HUTCHINSON",
+          "votes": 445942,
+          "pct": 52.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Winston Bryant",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WINSTON BRYANT",
+          "votes": 400241,
+          "pct": 47.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 804121,
+      "candidates": [
+        {
+          "name": "Mark Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK PRYOR",
+          "votes": 433386,
+          "pct": 53.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Tim Hutchinson",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TIM HUTCHINSON",
+          "votes": 370735,
+          "pct": 46.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 1011754,
+      "candidates": [
+        {
+          "name": "Mark L. Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK L. PRYOR",
+          "votes": 804678,
+          "pct": 79.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rebekah Kennedy",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "REBEKAH KENNEDY",
+          "votes": 207076,
+          "pct": 20.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 847505,
+      "candidates": [
+        {
+          "name": "Tom Cotton",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TOM COTTON",
+          "votes": 478819,
+          "pct": 56.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark L. Pryor",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK L. PRYOR",
+          "votes": 334174,
+          "pct": 39.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Nathan Lafrance",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "NATHAN LAFRANCE",
+          "votes": 17210,
+          "pct": 2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Mark H. Swaney",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "MARK H. SWANEY",
+          "votes": 16797,
+          "pct": 2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 505,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 1193261,
+      "candidates": [
+        {
+          "name": "Tom Cotton",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TOM COTTON",
+          "votes": 793871,
+          "pct": 66.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Ricky Dale Harrington Jr.",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "RICKY DALE HARRINGTON JR.",
+          "votes": 399390,
+          "pct": 33.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": [
+    {
+      "year": 1980,
+      "date": "1980-11-04",
+      "special": false,
+      "total": 808812,
+      "candidates": [
+        {
+          "name": "Dale Bumpers",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DALE BUMPERS",
+          "votes": 477905,
+          "pct": 59.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bill Clark",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BILL CLARK",
+          "votes": 330576,
+          "pct": 40.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 331,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "total": 695487,
+      "candidates": [
+        {
+          "name": "Dale Bumpers",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DALE BUMPERS",
+          "votes": 433122,
+          "pct": 62.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Asa Hutchinson",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ASA HUTCHINSON",
+          "votes": 262313,
+          "pct": 37.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 52,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "total": 920008,
+      "candidates": [
+        {
+          "name": "Dale Bumpers",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DALE BUMPERS",
+          "votes": 553635,
+          "pct": 60.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mike Huckabee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE HUCKABEE",
+          "votes": 366373,
+          "pct": 39.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "total": 700831,
+      "candidates": [
+        {
+          "name": "Blanche Lambert Lincoln",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BLANCHE LAMBERT LINCOLN",
+          "votes": 385878,
+          "pct": 55.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Fay Boozman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FAY BOOZMAN",
+          "votes": 295870,
+          "pct": 42.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Charley E. Heffley",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "CHARLEY E. HEFFLEY",
+          "votes": 18896,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 187,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "total": 1039349,
+      "candidates": [
+        {
+          "name": "Blanche L. Lincoln",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BLANCHE L. LINCOLN",
+          "votes": 580973,
+          "pct": 55.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jim Holt",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JIM HOLT",
+          "votes": 458036,
+          "pct": 44.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Glen A. Schwarz",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "GLEN A. SCHWARZ",
+          "votes": 212,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 128,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "total": 779957,
+      "candidates": [
+        {
+          "name": "John Boozman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN BOOZMAN",
+          "votes": 451618,
+          "pct": 57.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Blanche L. Lincoln",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BLANCHE L. LINCOLN",
+          "votes": 288156,
+          "pct": 36.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Trevor Drown",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "TREVOR DROWN",
+          "votes": 25234,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "John Laney Gray III",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "JOHN LANEY GRAY III",
+          "votes": 14430,
+          "pct": 1.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 376,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        },
+        {
+          "name": "Stephan \"Troublemaker\" Hercher",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "STEPHAN \"TROUBLEMAKER\" HERCHER",
+          "votes": 143,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "total": 1107522,
+      "candidates": [
+        {
+          "name": "John Boozman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN BOOZMAN",
+          "votes": 661984,
+          "pct": 59.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Conner Eldridge",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CONNER ELDRIDGE",
+          "votes": 400602,
+          "pct": 36.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Frank Gilbert",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "FRANK GILBERT",
+          "votes": 43866,
+          "pct": 4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1070,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "total": 901306,
+      "candidates": [
+        {
+          "name": "John Boozman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN BOOZMAN",
+          "votes": 592437,
+          "pct": 65.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Natalie James",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "NATALIE JAMES",
+          "votes": 280187,
+          "pct": 31.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Kenneth Cates",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "KENNETH CATES",
+          "votes": 28682,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ]
+}

@@ -1,0 +1,902 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 224795,
+      "candidates": [
+        {
+          "name": "William V. Roth, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM V. ROTH, JR.",
+          "votes": 125454,
+          "pct": 55.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Thomas C. Maloney",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS C. MALONEY",
+          "votes": 98042,
+          "pct": 43.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Donald G. Gies",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "DONALD G. GIES",
+          "votes": 646,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Joseph F. McInerney",
+          "party": "I",
+          "party_label": "NONE",
+          "nameAsFiled": "JOSEPH F. MCINERNEY",
+          "votes": 437,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "John A. Massimilla",
+          "party": "O",
+          "party_label": "PROHIBITION",
+          "nameAsFiled": "JOHN A. MASSIMILLA",
+          "votes": 216,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 190960,
+      "candidates": [
+        {
+          "name": "William V. Roth, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM V. ROTH, JR.",
+          "votes": 105357,
+          "pct": 55.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "David N. Levinson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAVID N. LEVINSON",
+          "votes": 84413,
+          "pct": 44.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lawrence D. Sullivan",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LAWRENCE D. SULLIVAN",
+          "votes": 653,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Charles A. Baker",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "CHARLES A. BAKER",
+          "votes": 537,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 243493,
+      "candidates": [
+        {
+          "name": "William V. Roth, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM V. ROTH, JR.",
+          "votes": 151115,
+          "pct": 62.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "S. B. Woo",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "S. B. WOO",
+          "votes": 92378,
+          "pct": 37.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 199000,
+      "candidates": [
+        {
+          "name": "William V. Roth, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM V. ROTH, JR.",
+          "votes": 111074,
+          "pct": 55.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Charles M. Oberly",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHARLES M. OBERLY",
+          "votes": 84540,
+          "pct": 42.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John C. Dierickx",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JOHN C. DIERICKX",
+          "votes": 3386,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 326993,
+      "candidates": [
+        {
+          "name": "Thomas R. Carper",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS R. CARPER",
+          "votes": 181566,
+          "pct": 55.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "William V. Roth, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM V. ROTH, JR.",
+          "votes": 142891,
+          "pct": 43.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "J. Burke Morrison",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "J. BURKE MORRISON",
+          "votes": 1103,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Mark E. Dankof",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "MARK E. DANKOF",
+          "votes": 1044,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Robert Mattson",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "ROBERT MATTSON",
+          "votes": 389,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 242972,
+      "candidates": [
+        {
+          "name": "Thomas R. Carper",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS R. CARPER",
+          "votes": 170567,
+          "pct": 70.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jan Ting",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAN TING",
+          "votes": 69734,
+          "pct": 28.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "William E. Morris",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "WILLIAM E. MORRIS",
+          "votes": 2671,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 399606,
+      "candidates": [
+        {
+          "name": "Thomas R. Carper",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS R. CARPER",
+          "votes": 265415,
+          "pct": 66.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Kevin Wade",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KEVIN WADE",
+          "votes": 115700,
+          "pct": 29,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Alexander Pires",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ALEXANDER PIRES",
+          "votes": 15300,
+          "pct": 3.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Andrew Richard Groff",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "ANDREW RICHARD GROFF",
+          "votes": 3191,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 362592,
+      "candidates": [
+        {
+          "name": "Thomas R. Carper",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS R CARPER",
+          "votes": 217385,
+          "pct": 60,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert B Arlett",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT B ARLETT",
+          "votes": 137127,
+          "pct": 37.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Demitri G Theodoropoulos",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "DEMITRI G THEODOROPOULOS",
+          "votes": 4170,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Nadine M. Frost",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "NADINE M FROST",
+          "votes": 3910,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 500606,
+      "candidates": [
+        {
+          "name": "Lisa Blunt Rochester",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "LISA BLUNT ROCHESTER",
+          "votes": 283298,
+          "pct": 56.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Eric Hansen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ERIC HANSEN",
+          "votes": 197753,
+          "pct": 39.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Michael \"Dr. Mike\" Katz",
+          "party": "O",
+          "party_label": "INDEPENDENT PARTY OF DELAWARE",
+          "nameAsFiled": "MICHAEL \"DR. MIKE\" KATZ",
+          "votes": 19555,
+          "pct": 3.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 162072,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 93930,
+          "pct": 58,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James H. Baxter Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES H. BAXTER JR.",
+          "votes": 66479,
+          "pct": 41,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Donald G. Gies",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "DONALD G. GIES",
+          "votes": 1663,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 245932,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 147831,
+          "pct": 60.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John M. Burris",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN M. BURRIS",
+          "votes": 98101,
+          "pct": 39.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 180157,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 112918,
+          "pct": 62.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "M. Jane Brady",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "M. JANE BRADY",
+          "votes": 64554,
+          "pct": 35.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Lee Rosenbaum",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LEE ROSENBAUM",
+          "votes": 2680,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 5,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 275591,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 165465,
+          "pct": 60,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Raymond J. Clatworthy",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RAYMOND J. CLATWORTHY",
+          "votes": 105088,
+          "pct": 38.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark Jones",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MARK JONES",
+          "votes": 3340,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Jacqueline Kossoff",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "JACQUELINE KOSSOFF",
+          "votes": 1698,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 232314,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 135253,
+          "pct": 58.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Raymond J. Clatworthy",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RAYMOND J. CLATWORTHY",
+          "votes": 94793,
+          "pct": 40.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Maurice Barros",
+          "party": "O",
+          "party_label": "INDEPENDENT PARTY OF DELAWARE",
+          "nameAsFiled": "MAURICE BARROS",
+          "votes": 996,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Raymond T. Buranello",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "RAYMOND T. BURANELLO",
+          "votes": 922,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Robert E. Mattson",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "ROBERT E. MATTSON",
+          "votes": 350,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 398134,
+      "candidates": [
+        {
+          "name": "Joseph R. Biden Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH R. BIDEN JR.",
+          "votes": 257539,
+          "pct": 64.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Christine O'Donnell",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CHRISTINE O'DONNELL",
+          "votes": 140595,
+          "pct": 35.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": null,
+      "special": true,
+      "total": 307402,
+      "candidates": [
+        {
+          "name": "Christopher A. Coons",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHRISTOPHER A. COONS",
+          "votes": 174012,
+          "pct": 56.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Christine O'Donnell",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CHRISTINE O'DONNELL",
+          "votes": 123053,
+          "pct": 40,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Glenn A. Miller",
+          "party": "O",
+          "party_label": "INDEPENDENT PARTY OF DELAWARE",
+          "nameAsFiled": "GLENN A. MILLER",
+          "votes": 8201,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "James W. Rash",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JAMES W. RASH",
+          "votes": 2101,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 35,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 234038,
+      "candidates": [
+        {
+          "name": "Christopher A. Coons",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHRISTOPHER A. COONS",
+          "votes": 130655,
+          "pct": 55.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Kevin Wade",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KEVIN WADE",
+          "votes": 98823,
+          "pct": 42.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Andrew Groff",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "ANDREW GROFF",
+          "votes": 4560,
+          "pct": 1.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 490935,
+      "candidates": [
+        {
+          "name": "Christopher A. Coons",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHRISTOPHER A. COONS",
+          "votes": 291804,
+          "pct": 59.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lauren Witzke",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LAUREN WITZKE",
+          "votes": 186054,
+          "pct": 37.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark W. Turley",
+          "party": "O",
+          "party_label": "INDEPENDENT PARTY OF DELAWARE",
+          "nameAsFiled": "MARK W. TURLEY",
+          "votes": 7833,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Nadine M. Frost",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "NADINE M. FROST",
+          "votes": 5244,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

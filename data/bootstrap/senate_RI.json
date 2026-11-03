@@ -1,0 +1,672 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 398906,
+      "candidates": [
+        {
+          "name": "John H. Chafee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN H. CHAFEE",
+          "votes": 230329,
+          "pct": 57.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Richard P. Lorber",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RICHARD P. LORBER",
+          "votes": 167665,
+          "pct": 42,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Margaret R. Cann",
+          "party": "O",
+          "party_label": "COMMUNIST",
+          "nameAsFiled": "MARGARET R. CANN",
+          "votes": 912,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 342778,
+      "candidates": [
+        {
+          "name": "John H. Chafee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN H. CHAFEE",
+          "votes": 175495,
+          "pct": 51.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Julius C. Michaelson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JULIUS C. MICHAELSON",
+          "votes": 167283,
+          "pct": 48.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 397990,
+      "candidates": [
+        {
+          "name": "John H. Chaffee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN H. CHAFFEE",
+          "votes": 217273,
+          "pct": 54.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Richard A. Licht",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RICHARD A. LICHT",
+          "votes": 180717,
+          "pct": 45.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 345388,
+      "candidates": [
+        {
+          "name": "John H. Chafee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN H. CHAFEE",
+          "votes": 222856,
+          "pct": 64.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Linda J. Kushner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "LINDA J. KUSHNER",
+          "votes": 122532,
+          "pct": 35.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 391353,
+      "candidates": [
+        {
+          "name": "Lincoln D. Chafee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LINCOLN D. CHAFEE",
+          "votes": 222588,
+          "pct": 56.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Robert A. Weygand",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT A. WEYGAND",
+          "votes": 161023,
+          "pct": 41.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Christopher Young",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "CHRISTOPHER YOUNG",
+          "votes": 4107,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Kenneth P. Proulx",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "KENNETH P. PROULX",
+          "votes": 3635,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 384993,
+      "candidates": [
+        {
+          "name": "Sheldon Whitehouse",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHELDON WHITEHOUSE",
+          "votes": 206043,
+          "pct": 53.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lincoln Chafee",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LINCOLN CHAFEE",
+          "votes": 178950,
+          "pct": 46.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 418189,
+      "candidates": [
+        {
+          "name": "Sheldon Whitehouse",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHELDON WHITEHOUSE",
+          "votes": 271034,
+          "pct": 64.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Benjamin Barrett Hinckley III",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BENJAMIN BARRETT HINCKLEY III",
+          "votes": 146222,
+          "pct": 35,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 933,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 376738,
+      "candidates": [
+        {
+          "name": "Sheldon Whitehouse",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHELDON WHITEHOUSE",
+          "votes": 231477,
+          "pct": 61.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert G. Flanders, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT G. FLANDERS, JR.",
+          "votes": 144421,
+          "pct": 38.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 840,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 491948,
+      "candidates": [
+        {
+          "name": "Sheldon Whitehouse",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "SHELDON WHITEHOUSE",
+          "votes": 294665,
+          "pct": 59.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Patricia Morgan",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PATRICIA MORGAN",
+          "votes": 196039,
+          "pct": 39.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 1244,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 305618,
+      "candidates": [
+        {
+          "name": "Claiborne Pell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CLAIBORNE PELL",
+          "votes": 229557,
+          "pct": 75.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James G. Reyonlds",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES G. REYONLDS",
+          "votes": 76061,
+          "pct": 24.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 393356,
+      "candidates": [
+        {
+          "name": "Claiborne Deb. Pell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CLAIBORNE DEB. PELL",
+          "votes": 285811,
+          "pct": 72.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Barbara M. Leonard",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BARBARA M. LEONARD",
+          "votes": 107545,
+          "pct": 27.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 364062,
+      "candidates": [
+        {
+          "name": "Claiborne Pell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CLAIBORNE PELL",
+          "votes": 225105,
+          "pct": 61.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Claudine Schneider",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CLAUDINE SCHNEIDER",
+          "votes": 138947,
+          "pct": 38.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 10,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 364371,
+      "candidates": [
+        {
+          "name": "Jack Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK REED",
+          "votes": 230676,
+          "pct": 63.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Nancy J. Mayer",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "NANCY J. MAYER",
+          "votes": 127368,
+          "pct": 35,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Donald W. Lovejoy",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "DONALD W. LOVEJOY",
+          "votes": 6327,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 323582,
+      "candidates": [
+        {
+          "name": "Jack Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK REED",
+          "votes": 253774,
+          "pct": 78.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert G. Tingle",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT G. TINGLE",
+          "votes": 69808,
+          "pct": 21.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 438812,
+      "candidates": [
+        {
+          "name": "Jack Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK REED",
+          "votes": 320644,
+          "pct": 73.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert G. Tingle",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT G. TINGLE",
+          "votes": 116174,
+          "pct": 26.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1994,
+          "writein": true,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 316898,
+      "candidates": [
+        {
+          "name": "Jack Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK REED",
+          "votes": 223675,
+          "pct": 70.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark S. Zaccaria",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARK S. ZACCARIA",
+          "votes": 92684,
+          "pct": 29.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 539,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 494262,
+      "candidates": [
+        {
+          "name": "Jack Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN F. REED",
+          "votes": 328574,
+          "pct": 66.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Allen R. Waters",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ALLEN R. WATERS",
+          "votes": 164855,
+          "pct": 33.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 833,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

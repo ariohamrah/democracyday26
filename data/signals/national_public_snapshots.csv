@@ -1,0 +1,3 @@
+signal,date,democrat_percent,republican_percent,approve_percent,disapprove_percent,source_url,kind,publication_time_precision
+Generic ballot,2026-11-02,52.7,44.1,,,https://fiftyplusone.news/polls/generic-ballot/generic-ballot,published model average,date
+Presidential approval,2026-11-02,,,35.4,61.5,https://fiftyplusone.news/polls/approval/president,published model average,date

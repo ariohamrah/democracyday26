@@ -1,0 +1,282 @@
+{
+  "cutoff": "2026-11-02T20:13:00-08:00",
+  "features": [
+    "lag_margin",
+    "prior_pres_margin",
+    "incumbent_difference",
+    "midterm_president",
+    "senate",
+    "lag_missing",
+    "aura_difference",
+    "aura_missing",
+    "generic_margin",
+    "generic_present",
+    "poll_residual",
+    "poll_present"
+  ],
+  "fit": {
+    "alpha": 100.0,
+    "uncertainty": {
+      "sigma_house": 9.238204010860477,
+      "sigma_senate": 9.346924882782021,
+      "national_sd": 3.2458352230521452,
+      "regional_sd": 1.4962858771501566,
+      "calibration_cycles": [
+        2012,
+        2014,
+        2016,
+        2018,
+        2020,
+        2022,
+        2024
+      ]
+    },
+    "coefficients": {
+      "lag_margin": 0.39916558796295437,
+      "prior_pres_margin": 0.5022169689825019,
+      "incumbent_difference": 6.225957028236137,
+      "midterm_president": -3.044365081492485,
+      "senate": 0.22591585210969925,
+      "lag_missing": 0.841575747051337,
+      "aura_difference": 1.338440765550113,
+      "aura_missing": 0.0,
+      "generic_margin": 0.7050923004028046,
+      "generic_present": 0.5628185131156798,
+      "poll_residual": 0.4215907178573083,
+      "poll_present": 0.3458875554404644
+    }
+  },
+  "field_priors": {
+    "minor_with_both_major": {
+      "probability": 0.0027214250371103412,
+      "successes": 5,
+      "trials": 2020,
+      "smoothing": "Jeffreys Beta(0.5,0.5)",
+      "success_examples": [
+        {
+          "year": 2010,
+          "race_id": "AK-SEN-3",
+          "winner": "Lisa Murkowski"
+        },
+        {
+          "year": 2006,
+          "race_id": "CT-SEN-1",
+          "winner": "Joseph I. Lieberman"
+        },
+        {
+          "year": 2012,
+          "race_id": "ME-SEN-1",
+          "winner": "Angus S. King, Jr."
+        },
+        {
+          "year": 2018,
+          "race_id": "ME-SEN-1",
+          "winner": "Angus S. King, Jr."
+        },
+        {
+          "year": 2024,
+          "race_id": "ME-SEN-1",
+          "winner": "Angus S. King, Jr."
+        }
+      ]
+    },
+    "minor_with_one_major": {
+      "probability": 0.0215311004784689,
+      "successes": 4,
+      "trials": 208,
+      "smoothing": "Jeffreys Beta(0.5,0.5)",
+      "success_examples": [
+        {
+          "year": 2006,
+          "race_id": "VT-SEN-1",
+          "winner": "Bernard Sanders"
+        },
+        {
+          "year": 2012,
+          "race_id": "VT-SEN-1",
+          "winner": "Bernard Sanders"
+        },
+        {
+          "year": 2018,
+          "race_id": "VT-SEN-1",
+          "winner": "Bernard Sanders"
+        },
+        {
+          "year": 2024,
+          "race_id": "VT-SEN-1",
+          "winner": "Bernard Sanders"
+        }
+      ]
+    },
+    "same_party_incumbent": {
+      "probability": 0.9516129032258065,
+      "successes": 29,
+      "trials": 30,
+      "smoothing": "Jeffreys Beta(0.5,0.5)",
+      "success_examples": [
+        {
+          "year": 2014,
+          "race_id": "CA-04",
+          "winner": "Tom McClintock"
+        },
+        {
+          "year": 2018,
+          "race_id": "CA-06",
+          "winner": "Doris Matsui"
+        },
+        {
+          "year": 2018,
+          "race_id": "CA-08",
+          "winner": "Paul Cook"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-12",
+          "winner": "Nancy Pelosi"
+        },
+        {
+          "year": 2014,
+          "race_id": "CA-17",
+          "winner": "Michael M Honda"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-18",
+          "winner": "Anna G Eshoo"
+        },
+        {
+          "year": 2014,
+          "race_id": "CA-19",
+          "winner": "Zoe Lofgren"
+        },
+        {
+          "year": 2018,
+          "race_id": "CA-27",
+          "winner": "Judy Chu"
+        },
+        {
+          "year": 2016,
+          "race_id": "CA-29",
+          "winner": "Tony C\u00e1rdenas"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-29",
+          "winner": "Tony C\u00e1rdenas"
+        },
+        {
+          "year": 2022,
+          "race_id": "CA-29",
+          "winner": "Tony C\u00e1rdenas"
+        },
+        {
+          "year": 2016,
+          "race_id": "CA-32",
+          "winner": "Grace F Napolitano"
+        },
+        {
+          "year": 2014,
+          "race_id": "CA-34",
+          "winner": "Xavier Becerra"
+        },
+        {
+          "year": 2016,
+          "race_id": "CA-34",
+          "winner": "Xavier Becerra"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-34",
+          "winner": "Jimmy Gomez"
+        },
+        {
+          "year": 2022,
+          "race_id": "CA-34",
+          "winner": "Jimmy Gomez"
+        },
+        {
+          "year": 2024,
+          "race_id": "CA-34",
+          "winner": "Jimmy Gomez"
+        },
+        {
+          "year": 2016,
+          "race_id": "CA-37",
+          "winner": "Karen Bass"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-38",
+          "winner": "Linda T. S\u00e1nchez"
+        },
+        {
+          "year": 2014,
+          "race_id": "CA-40",
+          "winner": "Lucille Roybal-Allard"
+        },
+        {
+          "year": 2018,
+          "race_id": "CA-44",
+          "winner": "Nanette Diaz Barrag\u00e1n"
+        },
+        {
+          "year": 2020,
+          "race_id": "CA-44",
+          "winner": "Nanette Diaz Barrag\u00e1n"
+        },
+        {
+          "year": 2024,
+          "race_id": "LA-04",
+          "winner": "Mike Johnson"
+        },
+        {
+          "year": 2016,
+          "race_id": "LA-05",
+          "winner": "Ralph Lee Abraham"
+        },
+        {
+          "year": 2016,
+          "race_id": "WA-04",
+          "winner": "Dan Newhouse"
+        },
+        {
+          "year": 2024,
+          "race_id": "WA-04",
+          "winner": "Dan Newhouse"
+        },
+        {
+          "year": 2018,
+          "race_id": "WA-09",
+          "winner": "Adam Smith"
+        },
+        {
+          "year": 2024,
+          "race_id": "WA-09",
+          "winner": "Adam Smith"
+        },
+        {
+          "year": 2018,
+          "race_id": "CA-SEN-1",
+          "winner": "Dianne Feinstein"
+        }
+      ]
+    },
+    "metadata": {
+      "years": [
+        2006,
+        2024
+      ],
+      "source": "Saved Election Wrld / MIT / official result snapshots",
+      "excludes": {
+        "same_party_no_identified_incumbent": 24,
+        "no_unique_winner": 1
+      },
+      "limitations": [
+        "Pooled historical frequencies are not individually validated candidate probabilities.",
+        "Incumbency inferred from earlier winner misses appointments and district movers.",
+        "Minor-candidate strength and endorsement differences are not modeled.",
+        "Write-ins and aggregate Other rows excluded."
+      ]
+    }
+  }
+}

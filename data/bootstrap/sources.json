@@ -1,0 +1,3107 @@
+[
+  {
+    "id": "calendar-senate-gov-roster",
+    "name": "U.S. Senate: senators contact information XML (class per senator)",
+    "url": "https://www.senate.gov/general/contact_information/senators_cfm.xml",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "Senate class (I, II, III) of each state seat; only state and class fields used"
+  },
+  {
+    "id": "calendar-mn-constitution",
+    "name": "Minnesota Constitution, Article IV (Office of the Revisor of Statutes)",
+    "url": "https://www.revisor.mn.gov/constitution/",
+    "license": "State constitution, public domain",
+    "retrieved": "2026-10-29",
+    "used_for": "Minnesota Senate: four-year terms with a full new election after each apportionment (art. IV sec. 4); raw in data/raw/calendar/state_law/"
+  },
+  {
+    "id": "calendar-legislature-cycles",
+    "name": "Chamber election years derived from official returns and 2026 candidate lists (not copied from NCSL)",
+    "url": "https://www.ncsl.org/elections-and-campaigns/2026-legislative-races-by-state-and-chamber",
+    "license": "Link only. No NCSL data is used.",
+    "retrieved": "2026-10-29",
+    "used_for": "See web/data/legislature_cycles.json. The NCSL link is for readers who want its own tables."
+  },
+  {
+    "id": "calendar-la-rs-18-402",
+    "name": "Louisiana R.S. 18:402 Dates of primary and general elections",
+    "url": "https://legis.la.gov/Legis/Law.aspx?d=81545",
+    "license": "State statute, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "Louisiana gubernatorial-year and congressional-year election date rules"
+  },
+  {
+    "id": "calendar-la-sos-2027",
+    "name": "Louisiana Secretary of State: 2027 Elections calendar (revised 10/2026)",
+    "url": "https://www.sos.la.gov/media/byfpyc5f/elections-calendar-2027.pdf",
+    "license": "State government record",
+    "retrieved": "2026-10-28",
+    "used_for": "Louisiana 2027 gubernatorial primary (Oct 9) and general (Nov 20)"
+  },
+  {
+    "id": "calendar-nj-constitution",
+    "name": "New Jersey Constitution (NJ Legislature)",
+    "url": "https://www.njleg.state.nj.us/constitution",
+    "license": "State constitution, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "NJ Senate and Assembly terms; November general election"
+  },
+  {
+    "id": "calendar-federal-election-day",
+    "name": "3 U.S.C. 1, 2 U.S.C. 1 and 7: Election Day, first Tuesday after the first Monday in November",
+    "url": "https://uscode.house.gov/",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "Federal general-election date rule (cited; text not downloaded)"
+  },
+  {
+    "id": "calendar-la-sos-2026",
+    "name": "Louisiana Secretary of State: 2026 Elections calendar (revised July 2026) and Election Dates page",
+    "url": "https://www.sos.la.gov/elections-voting/election-dates",
+    "license": "State government record",
+    "retrieved": "2026-10-29",
+    "used_for": "Louisiana legislative special dates (read 2026-11-01); Louisiana Dec 12, 2026 Open U.S. Representative General (conditional second round); dates subject to change by the legislature. Raw copies in data/raw/calendar/state_law/"
+  },
+  {
+    "id": "calendar-ga-general-runoff-2026",
+    "name": "Georgia.gov: Election Day - General Election Runoff (December 1, 2026)",
+    "url": "https://georgia.gov/events/2026-12-01/election-day-general-election-runoff",
+    "license": "State government record",
+    "retrieved": "2026-10-28",
+    "used_for": "Georgia 2026 general election runoff date (O.C.G.A. 21-2-501, 28 days after the general)"
+  },
+  {
+    "id": "calendar-oh-sos-senate-special",
+    "name": "Ohio Secretary of State: November 3, 2026 official ballot and Directive 2025-54 (U.S. Senate special election)",
+    "url": "https://www.ohiosos.gov/assets/directive-2025-54-writ-of-special-election-for-united-states-senate-election.pdf",
+    "license": "State government record",
+    "retrieved": "2026-10-28",
+    "used_for": "Ohio U.S. Senate special election 2026 (seen in search results; direct download blocked, no raw file saved)"
+  },
+  {
+    "id": "cand-fill-ar-sos-enr",
+    "name": "Arkansas Secretary of State: election-night reporting site (arkansas.tally-enr.com), 2026 General Election contest list, via the JSON feed the site itself calls (enr-results-api.totalresults.com)",
+    "url": "https://arkansas.tally-enr.com/#election=11b07106-031e-4d7c-911a-d01fb473d6dd",
+    "license": "Arkansas public record",
+    "retrieved": "2026-10-29",
+    "used_for": "AR US Senate, Governor, US House, State Senate and State House candidates on the Nov 3, 2026 ballot (candidate lists only, no vote counts)"
+  },
+  {
+    "id": "az-ccec-general-guide-2026",
+    "name": "Arizona Citizens Clean Elections Commission, November 3, 2026 general-election voter guide",
+    "url": "https://storageccec.blob.core.usgovcloudapi.net/public/docs/1509-1497AllDistrictWebEnglishv2.pdf",
+    "retrieved": "2026-11-02",
+    "license": "Official state voter guide; candidate names and party facts only. Candidate statements and photographs are not reproduced.",
+    "used_for": "Arizona governor and state legislative printed candidate names and parties; voter guide, not final certification.",
+    "raw": "data/raw/cand-fill/az/general-guide.pdf",
+    "sha256": "67bc4e66b68a5883f6f68a4fa165d807eb4bbf5a78a3640bd3eac9b08273b5fb"
+  },
+  {
+    "id": "cand-fill-mn-sos-enr",
+    "name": "Minnesota Secretary of State: election-night results files, candidate list for the 2026 General Election (cand.txt)",
+    "url": "https://electionresultsfiles.sos.mn.gov/20261103/cand.txt",
+    "license": "Minnesota public record; names, office and party abbreviation only",
+    "retrieved": "2026-10-29",
+    "used_for": "MN US Senate, Governor, US House and legislature candidates; replaces the FEC-filing list"
+  },
+  {
+    "id": "cand-fill-nm-sos-enr",
+    "name": "New Mexico Secretary of State: election-night results site, General Election Nov 3, 2026 (pre-election ballot listing at zero votes)",
+    "url": "https://electionresults.sos.nm.gov/resultsSW.aspx?type=FED&map=CTY",
+    "license": "New Mexico public record",
+    "retrieved": "2026-10-29",
+    "used_for": "NM US Senate, Governor, US House, State Senate (district 33) and State House candidates on the Nov 3, 2026 ballot"
+  },
+  {
+    "id": "cand-fill-oh-enr",
+    "name": "Ohio Secretary of State: Ohio Decides election-night reporting, IEEE 1622 / NIST 1500-100 XML feed (candidate lists only)",
+    "url": "https://liveresults.ohiosos.gov/Api/v1/download?filename=VSSC1622XmlFileBlob",
+    "license": "Ohio public record",
+    "retrieved": "2026-10-29",
+    "used_for": "OH governor, US Senate (special), US House, State Senate, State House candidates on the Nov 3, 2026 ballot"
+  },
+  {
+    "id": "cand-midwest-il-sbe",
+    "name": "Illinois State Board of Elections: Candidate Filing Search, General Election 11/3/2026 (candidate data file GE20261103.txt)",
+    "url": "https://elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d",
+    "license": "Illinois public record; names, office, party and status only (addresses not copied)",
+    "retrieved": "2026-10-28",
+    "used_for": "IL general election candidates, incumbency matching input"
+  },
+  {
+    "id": "cand-midwest-in-sos",
+    "name": "Indiana Secretary of State: 2026 General Election Candidate List (Abbreviated)",
+    "url": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "license": "Indiana public record",
+    "retrieved": "2026-10-28",
+    "used_for": "IN US House and General Assembly candidates"
+  },
+  {
+    "id": "cand-midwest-ia-sos",
+    "name": "Iowa Secretary of State: Candidate List, November 3, 2026 General Election (PDF, modified 2026-08-19)",
+    "url": "https://sos.iowa.gov/sites/default/files/2026-08/2026%20General%20-%20Candidate%20List%20Database%20-%20All%20Elections_1.pdf",
+    "license": "Iowa public record; names, office, party only",
+    "retrieved": "2026-10-28",
+    "used_for": "IA Senate, House, Governor, General Assembly candidates"
+  },
+  {
+    "id": "cand-midwest-ks-sos",
+    "name": "Kansas Secretary of State: Candidate Lists, 2026 General",
+    "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "license": "Kansas public record; names, office, party only",
+    "retrieved": "2026-10-28",
+    "used_for": "KS candidates"
+  },
+  {
+    "id": "cand-midwest-mi-boe",
+    "name": "Michigan Department of State Bureau of Elections: Official Candidate Listing, General Election 11/3/2026",
+    "url": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "license": "Michigan public record",
+    "retrieved": "2026-10-28",
+    "used_for": "MI candidates"
+  },
+  {
+    "id": "cand-midwest-mo-sos",
+    "name": "Missouri Secretary of State: Certification of Candidates and Party Emblems, General Election Nov 3, 2026 (signed 2026-08-25)",
+    "url": "https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf",
+    "license": "Missouri public record; addresses not copied",
+    "retrieved": "2026-10-28",
+    "used_for": "MO US House and General Assembly candidates"
+  },
+  {
+    "id": "cand-midwest-ne-sos",
+    "name": "Nebraska Secretary of State: Final Statewide General Candidate List (2026-09-11)",
+    "url": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf",
+    "license": "Nebraska public record; contact details not copied",
+    "retrieved": "2026-10-28",
+    "used_for": "NE candidates and official incumbency status"
+  },
+  {
+    "id": "cand-midwest-nd-sos",
+    "name": "North Dakota Secretary of State: 2026 General Election Contest/Candidate List",
+    "url": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348",
+    "license": "North Dakota public record; addresses not copied",
+    "retrieved": "2026-10-28",
+    "used_for": "ND US House and legislature candidates"
+  },
+  {
+    "id": "cand-midwest-oh-sos-directive",
+    "name": "Ohio Secretary of State: Directive 2026-45, Form of the Official Ballot for the November 3, 2026 General Election (2026-08-25)",
+    "url": "https://www.ohiosos.gov/assets/dir2026-45-form-of-the-official-ballot-for-the-november%203-general-election.pdf",
+    "license": "Ohio public record",
+    "retrieved": "2026-10-28",
+    "used_for": "OH governor and US Senate (special) certified candidates"
+  },
+  {
+    "id": "cand-midwest-oh-primary",
+    "name": "Ohio Secretary of State: Summary Level Official Results, May 5, 2026 Primary (Democratic, Republican, Libertarian workbooks)",
+    "url": "https://publicfiles.ohiosos.gov/election-results/files-index.json",
+    "license": "Ohio public record",
+    "retrieved": "2026-10-28",
+    "used_for": "OH US House and General Assembly party nominees (primary winners)"
+  },
+  {
+    "id": "cand-midwest-sd-sos",
+    "name": "South Dakota Secretary of State: 2026 General Election Candidate List (CandidateList.csv export)",
+    "url": "https://vip.sdsos.gov/candidatelist.aspx?eid=774",
+    "license": "South Dakota public record; mailing addresses not copied",
+    "retrieved": "2026-10-28",
+    "used_for": "SD candidates"
+  },
+  {
+    "id": "cand-midwest-wi-wec",
+    "name": "Wisconsin Elections Commission: All Contests and Candidates, November 3, 2026 (xlsx, modified 2026-10-06)",
+    "url": "https://elections.wi.gov/media/41846/download",
+    "license": "Wisconsin public record",
+    "retrieved": "2026-10-28",
+    "used_for": "WI candidates"
+  },
+  {
+    "id": "cand-midwest-fec-cn26",
+    "name": "FEC candidate master file, 2026 cycle (cn26.zip bulk download), Minnesota federal offices",
+    "url": "https://www.fec.gov/files/bulk-downloads/2026/cn26.zip",
+    "license": "US government work, public domain (17 USC 105)",
+    "retrieved": "2026-10-29",
+    "used_for": "MN US Senate and US House filing list (status filed); official MN list blocked by CAPTCHA. Bulk file, no API key."
+  },
+  {
+    "id": "cand-northeast-ct-01",
+    "name": "CT SOTS town sample ballots, Nov 3 2026 State Election (169 PDFs)",
+    "url": "https://portal.ct.gov/sots/election-services/town-ballots/2026-november-town-election-ballots",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (CT)",
+    "raw": [
+      "data/raw/cand-northeast/ct/ballots/",
+      "data/raw/cand-northeast/ct/ballots_parsed.json",
+      "data/raw/cand-northeast/ct/tb.html"
+    ]
+  },
+  {
+    "id": "cand-northeast-de-02",
+    "name": "Delaware Department of Elections, 2026 candidate list, General Election 11/3/2026",
+    "url": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (DE)",
+    "raw": [
+      "data/raw/cand-northeast/de/genl_fcddt_2026.html"
+    ]
+  },
+  {
+    "id": "cand-northeast-ma-03",
+    "name": "MA Secretary of the Commonwealth, 2026 State Election Candidates (official list; browser extract, street addresses dropped)",
+    "url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (MA)",
+    "raw": [
+      "data/raw/fixer/ma_candidates/state_candidates_extract.txt",
+      "data/raw/fixer/ma_candidates/2026-state-election-candidates.htm"
+    ]
+  },
+  {
+    "id": "cand-northeast-ma-04",
+    "name": "MA Secretary of the Commonwealth PD43+ (electionstats.state.ma.us), 2026 primary results (full names and missing parties only)",
+    "url": "https://electionstats.state.ma.us/elections/search/year_from:2026/year_to:2026",
+    "license": "state public record",
+    "retrieved": "2026-09-01",
+    "used_for": "scripts/data/cand_northeast.py (MA)",
+    "raw": [
+      "data/raw/cand-northeast/ma/search_2026.html"
+    ]
+  },
+  {
+    "id": "cand-northeast-md-05",
+    "name": "MD SBE 2026 General Election State Candidates List (CSV at https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.csv)",
+    "url": "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "license": "state public record",
+    "retrieved": "2026-10-16",
+    "used_for": "scripts/data/cand_northeast.py (MD)",
+    "raw": [
+      "data/raw/cand-northeast/md/statewide.csv",
+      "data/raw/cand-northeast/md/statewide.html"
+    ]
+  },
+  {
+    "id": "cand-northeast-me-06",
+    "name": "Maine SOS 2026 General Candidate List (xlsx: https://www.maine.gov/sos/sites/maine.gov.sos/files/inline-files/2026%20General%20Candidate%20List%20-%20FINAL.xlsx)",
+    "url": "https://www.maine.gov/sos/elections-voting/upcoming-elections",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (ME)",
+    "raw": [
+      "data/raw/cand-northeast/me/cand.xlsx",
+      "data/raw/cand-northeast/me/withdrawals.pdf",
+      "data/raw/cand-northeast/me/writein.pdf"
+    ]
+  },
+  {
+    "id": "cand-northeast-nh-07",
+    "name": "NH SOS 2026 State Primary results workbooks (Democratic and Republican)",
+    "url": "https://www.sos.nh.gov/2026-state-primary-election-results",
+    "license": "state public record",
+    "retrieved": "2026-09-08",
+    "used_for": "scripts/data/cand_northeast.py (NH)",
+    "raw": [
+      "data/raw/cand-northeast/nh/primary_results_extract.txt"
+    ]
+  },
+  {
+    "id": "cand-northeast-nj-08",
+    "name": "NJ Division of Elections 2026 Election Year Information; official candidate PDFs",
+    "url": "https://www.nj.gov/state/elections/election-information-2026.shtml",
+    "license": "state public record",
+    "retrieved": "2026-09-04",
+    "used_for": "scripts/data/cand_northeast.py (NJ)",
+    "raw": [
+      "data/raw/cand-northeast/nj/2026-official-general-candidates-us-senate.pdf",
+      "data/raw/cand-northeast/nj/2026-official-general-candidates-us-house-0904.pdf",
+      "data/raw/cand-northeast/nj/info.html"
+    ]
+  },
+  {
+    "id": "cand-northeast-ny-09",
+    "name": "NYS Board of Elections, Certification for the November 3, 2026 General Election (PDF, 136 pages)",
+    "url": "https://elections.ny.gov/certification-november-3-2026-general-election",
+    "license": "state public record",
+    "retrieved": "2026-10-07",
+    "used_for": "scripts/data/cand_northeast.py (NY)",
+    "raw": [
+      "data/raw/cand-northeast/ny/certification_2026_general_extract.txt"
+    ]
+  },
+  {
+    "id": "cand-northeast-pa-10",
+    "name": "PA Department of State Candidate Database, 2026 General Election (data embedded as JSON in ElectionInfo.aspx)",
+    "url": "https://www.pavoterservices.pa.gov/ElectionInfo/ElectionInfo.aspx",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (PA)",
+    "raw": [
+      "data/raw/cand-northeast/pa/electioninfo.html",
+      "data/raw/cand-northeast/pa/dataJson.json",
+      "data/raw/cand-northeast/pa/wd.pdf"
+    ]
+  },
+  {
+    "id": "cand-northeast-ri-11",
+    "name": "RI Dept of State Candidate Search Summary pages, 11/03/2026 Statewide General Election (Election=18144)",
+    "url": "https://vote.sos.ri.gov/Candidates/CandidateSearch",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "scripts/data/cand_northeast.py (RI)",
+    "raw": [
+      "data/raw/cand-northeast/ri/general_summary.psv"
+    ]
+  },
+  {
+    "id": "cand-northeast-vt-12",
+    "name": "VT SOS 2026 General Election Candidate Listing (xlsx)",
+    "url": "https://sos.vermont.gov/elections/election-info-resources/candidates",
+    "license": "state public record",
+    "retrieved": "2026-09-23",
+    "used_for": "scripts/data/cand_northeast.py (VT)",
+    "raw": [
+      "data/raw/cand-northeast/vt/ge.xlsx",
+      "data/raw/cand-northeast/vt/cand.html"
+    ]
+  },
+  {
+    "id": "cand-south-al",
+    "name": "Alabama Secretary of State: general election state certifications (Democratic, Republican, independent), amended Republican certifications",
+    "url": "https://www.sos.alabama.gov/alabama-votes/voter/election-information/2026",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/AL.json (scanned PDFs read with macOS Vision OCR; text PDF for the Republican Aug 28 list)"
+  },
+  {
+    "id": "cand-south-ar",
+    "name": "Arkansas Secretary of State Candidate Search (candidates.arkansas.gov)",
+    "url": "https://candidates.arkansas.gov/",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/AR.json (read in a browser; rows transcribed and checksum-verified)"
+  },
+  {
+    "id": "cand-south-fl",
+    "name": "Florida Division of Elections Candidate Listing, 2026 General Election",
+    "url": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/FL.json"
+  },
+  {
+    "id": "cand-south-ga",
+    "name": "Georgia Secretary of State: November 2026 Federal and State Candidates (workbook posted 2026-09-01)",
+    "url": "https://sos.ga.gov/november-3-2026-general-election",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/GA.json (sos.ga.gov returns HTTP 403 to scripted downloads; workbook opened in a browser and transcribed, checksum-verified)"
+  },
+  {
+    "id": "cand-south-ga-writein",
+    "name": "Georgia Secretary of State: FINAL LIST OF CERTIFIED WRITE-IN CANDIDATES, Nov 3 2026 (published 2026-09-15, updated 9/24/26)",
+    "url": "https://sos.ga.gov/sites/default/files/forms/2026%20Certified%20Write-In%20Candidates_3.pdf",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/GA.json write_in rows (PDF read in a sos.ga.gov page with pdf.js; extract at data/raw/fixer/ga_writein/)"
+  },
+  {
+    "id": "cand-south-ky",
+    "name": "Kentucky Secretary of State Candidate Filings, 2026 General Election",
+    "url": "https://web.sos.ky.gov/CandidateFilings/",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/KY.json"
+  },
+  {
+    "id": "cand-south-la",
+    "name": "Louisiana Secretary of State Candidate Inquiry (statewide export, 11/03/2026)",
+    "url": "https://voterportal.sos.la.gov/CandidateInquiry/",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/LA.json"
+  },
+  {
+    "id": "cand-south-ms",
+    "name": "Mississippi Secretary of State Candidate Qualifying List",
+    "url": "https://sos.ms.gov/content/CandidateQualifying/default.aspx",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/MS.json"
+  },
+  {
+    "id": "cand-south-nc",
+    "name": "North Carolina State Board of Elections 2026 candidate listing CSV",
+    "url": "https://www.ncsbe.gov/results-data/candidate-lists",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/NC.json"
+  },
+  {
+    "id": "cand-south-ok",
+    "name": "Oklahoma State Election Board, November 2026 List of Elections (hosting.okelections.us)",
+    "url": "http://hosting.okelections.us/electionlist.html",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/OK.json"
+  },
+  {
+    "id": "cand-south-sc",
+    "name": "South Carolina Election Commission Candidate Tracking System (election 22596)",
+    "url": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/SC.json"
+  },
+  {
+    "id": "cand-south-tn",
+    "name": "Tennessee Secretary of State 2026 Candidate Lists (Excel)",
+    "url": "https://sos.tn.gov/elections/2026-candidate-lists",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/TN.json"
+  },
+  {
+    "id": "cand-south-tx",
+    "name": "Texas Secretary of State 2026 Ballot Certification Report (08/28/2026)",
+    "url": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/TX.json"
+  },
+  {
+    "id": "cand-south-va",
+    "name": "Virginia Department of Elections 2026 November Federal Offices Candidate List (rev 10-6-2026) and HD20 special list",
+    "url": "https://www.elections.virginia.gov/casting-a-ballot/candidate-list/",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/VA.json"
+  },
+  {
+    "id": "cand-south-wv",
+    "name": "West Virginia Secretary of State candidate portal, regular candidates",
+    "url": "https://candidates.wvsos.gov/regular",
+    "license": "Official state election office public record (not copyrighted; used as factual data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/candidates/2026/WV.json (read in a browser; rows transcribed and checksum-verified)"
+  },
+  {
+    "id": "ak-doe-2026-general",
+    "name": "Alaska Division of Elections, 2026 General Election candidate list",
+    "url": "https://www.elections.alaska.gov/candidates/?election=26genr",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "AK governor, US Senate, US House, state legislature (page last updated 2026-09-25)"
+  },
+  {
+    "id": "ca-sos-2026-general-cert",
+    "name": "California Secretary of State, Certified List of Candidates, Nov 3 2026 General Election",
+    "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "CA governor, US House, State Senate, State Assembly (dated 2026-08-27)"
+  },
+  {
+    "id": "co-sos-2026-general",
+    "name": "Colorado Secretary of State, 2026 General Election Official Candidate List (XLSX)",
+    "url": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "CO US Senate, US House, governor, state legislature (file last modified 2026-09-15)"
+  },
+  {
+    "id": "id-sos-2026-general-portal",
+    "name": "Idaho Secretary of State candidate portal (run.voteidaho.gov), Final Candidates List, Nov 3 2026 General",
+    "url": "https://run.voteidaho.gov/search",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "ID US Senate, US House, governor, state legislature; rows with status Approved"
+  },
+  {
+    "id": "mt-sos-2026-federal-general",
+    "name": "Montana Secretary of State candidate filing portal, FEDERAL GENERAL 2026 list (CSV export)",
+    "url": "https://candidatefiling.mt.gov/candidatefiling/CandidateList.aspx?e=450002987",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "MT US Senate, US House, state legislature; rows with status FILED"
+  },
+  {
+    "id": "nv-lcb-2026-general-roster",
+    "name": "Nevada Legislative Counsel Bureau Research Division, 2026 General Election: Nevada Legislative Candidates (compiled from the Secretary of State certified list), July 2026",
+    "url": "https://www.leg.state.nv.us/Division/Research/Documents/CandidatesList_2026General.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "NV State Senate and Assembly candidates"
+  },
+  {
+    "id": "nv-clark-2026-general-notice",
+    "name": "Clark County (NV) Registrar of Voters, Notice of General Election, list of candidates, Nov 3 2026 (PDF created 2026-10-07 per its file metadata)",
+    "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:dde8b423-5fd3-4635-a9e5-653e57b5491d/original/as/Notice-Gen-Election-26G.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "NV governor and US House districts 1, 3, 4 (candidate fields are statewide for governor; district fields cover the full district)"
+  },
+  {
+    "id": "ut-ltgov-2026-general-cert",
+    "name": "Utah Office of the Lieutenant Governor, Amended 2026 General Election Certification (via Utah Public Notice Website; read from page images with OCR)",
+    "url": "https://www.utah.gov/pmn/files/1492833.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "UT US House and state legislature (dated 2026-09-21)"
+  },
+  {
+    "id": "wa-sos-2026-general-cert",
+    "name": "Washington Secretary of State, Certification of Candidates to the 2026 General Election (scanned PDF, OCR)",
+    "url": "https://www.sos.wa.gov/sites/default/files/2026-08/2026%20Certification%20of%20Candidates%20to%20General%20Election.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "WA US House and state legislature (dated 2026-08-21)"
+  },
+  {
+    "id": "wy-sos-2026-general-roster",
+    "name": "Wyoming Secretary of State Elections Division, 2026 General Election Candidate Roster (PDF, run 2026-09-09)",
+    "url": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "WY US Senate, US House, governor, state legislature"
+  },
+  {
+    "id": "oe-nm-2026-primary",
+    "name": "OpenElections, New Mexico 2026 primary county results (June 2, 2026)",
+    "url": "https://github.com/openelections/openelections-data-nm/blob/master/2026/20260602__nm__primary__county.csv",
+    "license": "OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "Not shown on the site. New Mexico 2026 candidates come from the Secretary of State results site. Compiled from official returns by OpenElections volunteers; not an official list.",
+    "compiled_from_official_returns_by": "OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "or-sos-2026-vp",
+    "name": "Oregon Secretary of State, 2026 General Election Voters' Pamphlet, 'List of Candidates & Measures' (books 1-19)",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book{N}_web.pdf",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "OR US Senate, Governor, US House, State Senate, State House: every partisan federal and state candidate with fusion labels"
+  },
+  {
+    "id": "fec-cn26",
+    "name": "FEC candidate master file, 2026 cycle (cn26.zip, file dated 2026-10-28)",
+    "url": "https://www.fec.gov/files/bulk-downloads/2026/cn26.zip",
+    "license": "public domain (US government data)",
+    "retrieved": "2026-10-28",
+    "used_for": "Filing list: non-major-party federal filers in NM. Name cross-check for the Clerk list (AZ, HI, NV-02)."
+  },
+  {
+    "id": "clerk-120-nominations",
+    "name": "Office of the Clerk, US House of Representatives, Nominees for the 120th Congress (published 2026-10-08)",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+    "license": "public domain (US government data)",
+    "retrieved": "2026-10-31",
+    "used_for": "AZ and HI US House, NV-02. Cross-checked by name against FEC cn26."
+  },
+  {
+    "id": "election-night-001",
+    "name": "Alaska official source",
+    "url": "https://www.elections.alaska.gov/election-polls/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "AK poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-002",
+    "name": "Alaska official source",
+    "url": "https://www.ecfr.gov/current/title-49/part-71/section-71.12",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "time-zone boundaries"
+  },
+  {
+    "id": "election-night-003",
+    "name": "Alabama official source",
+    "url": "https://www.sos.alabama.gov/newsroom/secretary-state-wes-allen-reminds-alabamians-register-vote-ahead-november-3-general",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "AL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-004",
+    "name": "Alabama official source",
+    "url": "https://www.sos.alabama.gov/sites/default/files/election-2026/2026%20Poll%20Worker%20Guide%20Complete.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "AL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-005",
+    "name": "Arkansas official source",
+    "url": "https://www.sos.arkansas.gov/uploads/elections/2026_Election_Calendar_Rev._6-2025_.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "AR poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-006",
+    "name": "Arkansas official source",
+    "url": "https://www.sos.arkansas.gov/uploads/elections/2020_Ark_Voter_Rights.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "AR poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-007",
+    "name": "Arizona official source",
+    "url": "https://www.azleg.gov/ars/16/00565.htm",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "AZ poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-008",
+    "name": "California official source",
+    "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/back-cover.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "CA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-009",
+    "name": "Colorado official source",
+    "url": "https://coloradosos.gov/pubs/newsRoom/pressReleases/2026/PR20261019InPersonVoting.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "CO poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-010",
+    "name": "Colorado official source",
+    "url": "https://www.coloradosos.gov/pubs/elections/FAQs/ENR.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "CO poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-011",
+    "name": "Connecticut official source",
+    "url": "https://portal.ct.gov/-/media/sots/electionservices/calendars/2026-elections/2026-election-calendar-122325.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "CT poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-012",
+    "name": "Connecticut official source",
+    "url": "https://portal.ct.gov/governor/news/press-releases/2026/10-2026/governor-lamont-and-secretary-thomas-remind-voters-that-a-14-day-period-of-in-person-early-voting",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "CT poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-013",
+    "name": "District of Columbia official source",
+    "url": "https://dcboe.org/getmedia/e076a79c-6f32-41fe-81a0-7f33c549b957/Time-Off-to-Vote-2026-General-STUDENTS.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "DC poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-014",
+    "name": "Delaware official source",
+    "url": "https://elections.delaware.gov/voter/pdfs/2026_Voter_Information_Brochure.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "DE poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-015",
+    "name": "Florida official source",
+    "url": "https://dos.fl.gov/elections/contacts/frequently-asked-questions/faq-voting/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "FL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-016",
+    "name": "Florida official source",
+    "url": "https://dos.fl.gov/elections/for-voters/voting/election-day-voting/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "FL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-017",
+    "name": "Florida official source",
+    "url": "https://www.ecfr.gov/current/title-49/part-71/section-71.5",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "time-zone boundaries"
+  },
+  {
+    "id": "election-night-018",
+    "name": "Georgia official source",
+    "url": "https://georgia.gov/events/2026-11-03/election-day-general-election",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "GA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-019",
+    "name": "Georgia official source",
+    "url": "https://georgia.gov/vote-in-person-election-day",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "GA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-020",
+    "name": "Iowa official source",
+    "url": "https://www.legis.iowa.gov/docs/code/49.73.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "IA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-021",
+    "name": "Idaho official source",
+    "url": "https://voteidaho.gov/tag/election-day/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "ID poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-022",
+    "name": "Idaho official source",
+    "url": "https://www.ecfr.gov/current/title-49/part-71/section-71.9",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "time-zone boundaries"
+  },
+  {
+    "id": "election-night-023",
+    "name": "Illinois official source",
+    "url": "https://votersguide.elections.il.gov/FAQs",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "IL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-024",
+    "name": "Illinois official source",
+    "url": "https://www.elections.il.gov/ElectionDayHome.aspx",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "IL poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-025",
+    "name": "Indiana official source",
+    "url": "https://www.in.gov/sos/elections/files/2026-Election-Calendar-Election-Administrators-Edition.FINAL.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "IN poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-026",
+    "name": "Indiana official source",
+    "url": "https://www.in.gov/idr/hoosiers-vote/ways-to-vote",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "IN poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-027",
+    "name": "Kansas official source",
+    "url": "https://sos.ks.gov/elections/voter-information.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "KS poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-028",
+    "name": "Kansas official source",
+    "url": "https://www.ecfr.gov/current/title-49/part-71/section-71.7",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "time-zone boundaries"
+  },
+  {
+    "id": "election-night-029",
+    "name": "Kentucky official source",
+    "url": "https://elect.ky.gov/Frequently-Asked-Questions/Pages/Election-Day-Information.aspx",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "KY poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-030",
+    "name": "Louisiana official source",
+    "url": "https://www.sos.la.gov/elections-voting/voting-on-election-day-faqs",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "LA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-031",
+    "name": "Louisiana official source",
+    "url": "https://www.sos.la.gov/elections-voting/election-dates",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "LA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-032",
+    "name": "Massachusetts official source",
+    "url": "https://malegislature.gov/Laws/GeneralLaws/PartI/TitleVIII/Chapter54/Section64",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-033",
+    "name": "Maryland official source",
+    "url": "https://elections.maryland.gov/voting/election_day_questions.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MD poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-034",
+    "name": "Maryland official source",
+    "url": "https://elections.maryland.gov/elections/2026/vote2026/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MD poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-035",
+    "name": "Maine official source",
+    "url": "https://legislature.maine.gov/statutes/21-A/title21-Asec626.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "ME poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-036",
+    "name": "Michigan official source",
+    "url": "https://www.michigan.gov/sos/elections/voting/vote-on-election-day",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MI poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-037",
+    "name": "Minnesota official source",
+    "url": "https://www.sos.mn.gov/media/n4jbajnx/2026_polling-place-posters.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MN poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-038",
+    "name": "Minnesota official source",
+    "url": "https://sos.mn.gov/media/3uonjuqi/2026newvoters.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MN poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-039",
+    "name": "Missouri official source",
+    "url": "https://www.sos.mo.gov/elections/goVoteMissouri/howtovote",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MO poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-040",
+    "name": "Missouri official source",
+    "url": "https://www.sos.mo.gov/elections/goVoteMissouri/electionday",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MO poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-041",
+    "name": "Mississippi official source",
+    "url": "https://www.sos.ms.gov/sites/default/files/elections/2026%20Elections%20Calendar.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MS poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-042",
+    "name": "Montana official source",
+    "url": "https://archive.legmt.gov/bills/mca/title_0130/chapter_0010/part_0010/section_0060/0130-0010-0010-0060.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "MT poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-043",
+    "name": "North Carolina official source",
+    "url": "https://www.ncsbe.gov/news/press-releases/2026/10/27/reporters-primer-2026-general-election-nc",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NC poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-044",
+    "name": "North Dakota official source",
+    "url": "https://www.sos.nd.gov/sites/default/files/documents/news/2026-general-election-media-info-aug26.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "ND poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-045",
+    "name": "Nebraska official source",
+    "url": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/2026_Election_Calendar.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NE poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-046",
+    "name": "Nebraska official source",
+    "url": "https://sos.nebraska.gov/elections/election-day-faq",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NE poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-047",
+    "name": "New Hampshire official source",
+    "url": "https://gc.nh.gov/rsa/html/LXIII/659/659-4.htm",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NH poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-048",
+    "name": "New Jersey official source",
+    "url": "https://www.nj.gov/state/elections/assets/pdf/flyer-how-to-vote/2026-11-how-to-vote-english.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NJ poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-049",
+    "name": "New Mexico official source",
+    "url": "https://www.sos.nm.gov/wp-content/uploads/2026/06/2026-Important-General-Election-Dates.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NM poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-050",
+    "name": "Nevada official source",
+    "url": "https://www.leg.state.nv.us/nrs/nrs-293.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "NV poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-051",
+    "name": "New York official source",
+    "url": "https://www.nysenate.gov/legislation/laws/ELN/8-100",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "NY poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-052",
+    "name": "New York official source",
+    "url": "https://elections.ny.gov/election-information",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "NY poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-053",
+    "name": "Ohio official source",
+    "url": "https://codes.ohio.gov/ohio-revised-code/section-3501.32",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "OH poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-054",
+    "name": "Oklahoma official source",
+    "url": "https://oklahoma.gov/elections/faqs.html",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "OK poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-055",
+    "name": "Oregon official source",
+    "url": "https://sos.oregon.gov/elections/pages/drop-box-locator.aspx",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "OR poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-056",
+    "name": "Pennsylvania official source",
+    "url": "https://www.pa.gov/agencies/vote/elections/upcoming-elections",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "PA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-057",
+    "name": "Rhode Island official source",
+    "url": "https://vote.sos.ri.gov/Forms/Elections/Guides/2026ElecCal.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "RI poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-058",
+    "name": "South Carolina official source",
+    "url": "https://scvotes.gov/voters/2026prep/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "SC poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-059",
+    "name": "South Dakota official source",
+    "url": "https://sdsos.gov/elections-voting/voting/default.aspx",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "SD poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-060",
+    "name": "Tennessee official source",
+    "url": "https://tnmap.tn.gov/voterlookup/votingcenters/Williamson",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "TN poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-061",
+    "name": "Texas official source",
+    "url": "https://www.sos.texas.gov/about/newsreleases/2026/102726.shtml",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "TX poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-062",
+    "name": "Texas official source",
+    "url": "https://www.sos.texas.gov/elections/laws/advisory2026-21-november-3-election-law-calendar.shtml",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "TX poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-063",
+    "name": "Utah official source",
+    "url": "https://vote.utah.gov/learn-about-voting-by-mail-and-absentee-voting/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "UT poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-064",
+    "name": "Virginia official source",
+    "url": "https://www.elections.virginia.gov/casting-a-ballot/",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "VA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-065",
+    "name": "Vermont official source",
+    "url": "https://sos.vermont.gov/elections/voters/polling-places",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "VT poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-066",
+    "name": "Washington official source",
+    "url": "https://www.sos.wa.gov/elections/elections-calendar/dates-and-deadlines",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "WA poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-067",
+    "name": "Wisconsin official source",
+    "url": "https://docs.legis.wisconsin.gov/statutes/statutes/6/iii/78",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-29",
+    "used_for": "WI poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-068",
+    "name": "West Virginia official source",
+    "url": "https://sos.wv.gov/elections/voter-information/elections-frequently-asked-questions-faqs",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "WV poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-069",
+    "name": "Wyoming official source",
+    "url": "https://sos.wyo.gov/Elections/Docs/2026/2026_Election_Calendar.pdf",
+    "license": "US government / state government public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-28",
+    "used_for": "WY poll hours / time-zone rule"
+  },
+  {
+    "id": "election-night-hi-honolulu",
+    "name": "Honolulu Elections Division, Voter Service Centers",
+    "url": "https://www.honolulu.gov/elections/voter-service-centers/",
+    "license": "county public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI Election Day hours: 7:00 am to 7:00 pm"
+  },
+  {
+    "id": "election-night-hi-maui",
+    "name": "Maui County Clerk, Elections Division, mauicountyvotes.gov",
+    "url": "https://mauicountyvotes.gov/",
+    "license": "county public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI: voter service centers and ballot dropboxes close at 7:00 p.m., Nov. 3, 2026"
+  },
+  {
+    "id": "election-night-hi-maui-general",
+    "name": "Maui County Clerk, General Election page",
+    "url": "https://mauicountyvotes.gov/general-election",
+    "license": "county public record (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI: dropboxes and voter service centers close Nov. 3 at 7:00 p.m."
+  },
+  {
+    "id": "election-night-hi-hrs-11-1",
+    "name": "Hawaii Revised Statutes 11-1",
+    "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0011/HRS_0011-0001.htm",
+    "license": "state statute (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI closing hour of voting: 7:00 p.m. Hawaii Standard Time"
+  },
+  {
+    "id": "election-night-hi-hrs-11-131",
+    "name": "Hawaii Revised Statutes 11-131",
+    "url": "https://data.capitol.hawaii.gov/hrscurrent/Vol01_Ch0001-0042F/HRS0011/HRS_0011-0131.htm",
+    "license": "state statute (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI voter service center hours and the in-line rule"
+  },
+  {
+    "id": "election-night-hi-act-213",
+    "name": "Act 213, Session Laws of Hawaii 2021",
+    "url": "https://data.capitol.hawaii.gov/slh/Years/SLH2021/SLH2021_Act213.pdf",
+    "license": "state statute (facts only; no prose reproduced)",
+    "retrieved": "2026-10-31",
+    "used_for": "HI: added the closing hour definition to HRS 11-1"
+  },
+  {
+    "id": "election-night-uscode-260a",
+    "name": "15 U.S.C. 260a (govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title15/html/USCODE-2023-title15-chap6-subchapIX-sec260a.htm",
+    "license": "public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "daylight time ends first Sunday in November"
+  },
+  {
+    "id": "election-night-uscode-2-7",
+    "name": "2 U.S.C. 7 (govinfo)",
+    "url": "https://www.govinfo.gov/content/pkg/USCODE-2023-title2/html/USCODE-2023-title2-chap1-sec7.htm",
+    "license": "public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "federal Election Day rule"
+  },
+  {
+    "id": "election-night-fix-sc",
+    "name": "SC Election Commission results page",
+    "url": "https://scvotes.gov/elections-statistics/election-results/",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "SC official_results_url"
+  },
+  {
+    "id": "election-night-fix-ri",
+    "name": "electionresults.ri.gov (raw: ri_electionresults.html, ri_browser_extract.txt)",
+    "url": "https://electionresults.ri.gov/",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "RI official_results_url"
+  },
+  {
+    "id": "election-night-fix-nh",
+    "name": "NH SOS 2026 General Election Results page (raw: nh_browser_extract.txt)",
+    "url": "https://www.sos.nh.gov/2026-general-election-results",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "NH official_results_url check"
+  },
+  {
+    "id": "election-night-fix-ca-vig",
+    "name": "California SOS, 2026 General Election Official Voter Information Guide (raw: ca_vig_general_2026_complete.pdf)",
+    "url": "https://vig.cdn.sos.ca.gov/2026/general/pdf/complete-vig.pdf",
+    "license": "state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "CA results link: guide names electionresults.sos.ca.gov"
+  },
+  {
+    "id": "election-night-fix-or-current",
+    "name": "Oregon SOS current election page (raw: or_current_election_2026-10-31.html)",
+    "url": "https://sos.oregon.gov/elections/pages/current-election.aspx",
+    "license": "state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "OR results link: page names results.oregonvotes.gov"
+  },
+  {
+    "id": "election-night-fix-nv",
+    "name": "Nevada Silver State Election Night Results (raw: nv_silverstate_browser_2026-10-31.jpg, nv_browser_note_2026-10-31.txt)",
+    "url": "https://silverstateelection.nv.gov/",
+    "license": "state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "NV results link: page loaded in a browser"
+  },
+  {
+    "id": "election-night-fix-fl",
+    "name": "Florida Election Watch (raw: fl_election_watch.html)",
+    "url": "https://floridaelectionwatch.gov/",
+    "license": "state public record",
+    "retrieved": "2026-11-01",
+    "used_for": "FL official_results_url; the page reads 2026 General Election, Unofficial Election Night Results"
+  },
+  {
+    "id": "election-night-fix-tx",
+    "name": "Texas SOS home page, Election Night Returns link (raw: tx_sos_home_2026-11-01.html)",
+    "url": "https://www.sos.state.tx.us/",
+    "license": "state public record",
+    "retrieved": "2026-11-01",
+    "used_for": "TX official_results_url"
+  },
+  {
+    "id": "election-night-fix-ct",
+    "name": "Connecticut SOTS Election Results and Turnout Statistics",
+    "url": "https://portal.ct.gov/sots/election-services/election-results/election-results",
+    "license": "state public record",
+    "retrieved": "2026-11-02",
+    "used_for": "CT official_results_url: page links the Elections Management System at ctemspublic.pcctg.net"
+  },
+  {
+    "id": "election-night-fix-al",
+    "name": "Alabama SOS Elections Data Downloads",
+    "url": "https://www.sos.alabama.gov/alabama-votes/voter/election-data",
+    "license": "state public record",
+    "retrieved": "2026-11-01",
+    "used_for": "AL official_results_url"
+  },
+  {
+    "id": "election-night-fix-wy",
+    "name": "Wyoming SOS Election Results",
+    "url": "https://sos.wyo.gov/Elections/ElectionResults.aspx",
+    "license": "state public record",
+    "retrieved": "2026-11-01",
+    "used_for": "WY official_results_url"
+  },
+  {
+    "id": "election-night-fix-or",
+    "name": "Oregon SOS Election Results & History (raw: or_historical.html, or_results.html)",
+    "url": "https://sos.oregon.gov/elections/pages/historical-data.aspx",
+    "license": "state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "OR fallback_results_url; results.oregonvotes.gov redirect check"
+  },
+  {
+    "id": "medsl_president_1976_2024",
+    "name": "MIT Election Data and Science Lab, U.S. President 1976-2024 (state totals)",
+    "url": "https://doi.org/10.7910/DVN/42MVDX",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/president_state.json. File 1976-2024-president.csv downloaded from the Dataverse access API, sha256 9936410a6dd4ecc8be7fe202c6dff5b5f8fee59d88f35ab542ed12879941dcb7; matches the Dataverse-listed md5 405af83db7625cb35d8c19a5ebe029ff (dataset version 10).",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "medsl_senate_1976_2024",
+    "name": "MIT Election Data and Science Lab, U.S. Senate statewide 1976-2024",
+    "url": "https://doi.org/10.7910/DVN/PEJ5QU",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/senate/{ST}.json. File 1976-2024-senate-state.csv downloaded from the Dataverse access API, sha256 6f745db1b4a0026ad837e74428f9ed6f3f77fa51eb6f858b58ebdbc186fdb3bd; matches the Dataverse-listed md5 0f8b51cf0f77a2ef0bff992f7a64d1b4 (dataset version 8).",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "medsl_house_1976_2024",
+    "name": "MIT Election Data and Science Lab, U.S. House 1976-2024",
+    "url": "https://doi.org/10.7910/DVN/IG0UN2",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/house/{ST}.json. The Dataverse API refuses this file behind a guestbook, so the identical file was taken from two public GitHub copies (Hackquantumcpp/snoutcounter-midterms-2026-model data/1976-2024-house.csv and sta199-f26/sta199-f26.github.io _data/gerrymander/1976-2024-house.tab), which are byte-identical to each other and match the md5 a9566ac393913a1af343284e837c17bb that Dataverse lists for dataset version 15.0 (2026-03-09). sha256 76eec42483ee9f0fc5cf6e377442c783d1ae6eefa929729fd6561a69bab47f2a.",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "medsl_county_president_2000_2024",
+    "name": "MIT Election Data and Science Lab, County Presidential Election Returns 2000-2024",
+    "url": "https://doi.org/10.7910/DVN/VOQCHQ",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/president_county/{ST}.json. Guestbook-blocked on the Dataverse API; taken from the public GitHub copy pricephillips/renewable-opposition data/reference/medsl/countypres_2000-2024.csv, whose md5 bd6661282936006b4ef4f5ee71418f3e equals the md5 Dataverse lists for dataset version 20.0 (2026-02-25). sha256 9299583148f5f8264baf50b5d929c260699c46d915909b13ea3c3850918946f8.",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "fusion_official_ct_ny",
+    "name": "Connecticut Secretary of the State and New York State Board of Elections, official US House results 2022-2024 (ElectionStats databases)",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-30",
+    "used_for": "Names the nominee behind each party line that MEDSL files as its own candidate (CT 2022 and 2024, NY 2022 and 2024), and checks every CT and NY House count for 2022 and 2024 against MEDSL. Raw JSON from electionhistory.ct.gov and results.elections.ny.gov saved in data/raw/federal_results/fusion_official/."
+  },
+  {
+    "id": "ak_doe_2022_2024",
+    "name": "Alaska Division of Elections, 2022 and 2024 General Election Summary Reports and RCV Detailed Reports",
+    "url": "https://www.elections.alaska.gov/election-results/",
+    "license": "public records of the Alaska Division of Elections",
+    "retrieved": "2026-10-30",
+    "used_for": "Labels the Alaska ranked-choice rows (round: first-choice for AK-AL 2022 and 2024, round-1 for the 2022 Senate race) and checks every count against the official PDFs in data/raw/federal_results/ak_doe/."
+  },
+  {
+    "id": "clerk-statistics-2018",
+    "name": "Clerk of the US House, Statistics of the Congressional Election of November 6, 2018",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2018/statistics2018.pdf",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the races listed in OFFICIAL_ROWS and ME-02 last ranked-choice rounds, and the official gate: every 2018 race is compared with this document. Saved in data/raw/federal_results/clerk/."
+  },
+  {
+    "id": "clerk-statistics-2020",
+    "name": "Clerk of the US House, Statistics of the Presidential and Congressional Election of November 3, 2020",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2020/statistics2020.pdf",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the races listed in OFFICIAL_ROWS and ME-02 last ranked-choice rounds, and the official gate: every 2020 race is compared with this document. Saved in data/raw/federal_results/clerk/."
+  },
+  {
+    "id": "clerk-statistics-2022",
+    "name": "Clerk of the US House, Statistics of the Congressional Election of November 8, 2022",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2022/statistics2022.pdf",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the races listed in OFFICIAL_ROWS and ME-02 last ranked-choice rounds, and the official gate: every 2022 race is compared with this document. Saved in data/raw/federal_results/clerk/."
+  },
+  {
+    "id": "clerk-statistics-2024",
+    "name": "Clerk of the US House, Statistics of the Presidential and Congressional Election of November 5, 2024",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2024/statistics2024.pdf",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the races listed in OFFICIAL_ROWS and ME-02 last ranked-choice rounds, and the official gate: every 2024 race is compared with this document. Saved in data/raw/federal_results/clerk/."
+  },
+  {
+    "id": "fec-federal-elections-2018",
+    "name": "Federal Election Commission, Federal Elections 2018",
+    "url": "https://www.fec.gov/resources/cms-content/documents/federalelections2018.xlsx",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the 2018 races listed in OFFICIAL_ROWS, and the official gate. Saved in data/raw/federal_results/fec_results/."
+  },
+  {
+    "id": "fec-federal-elections-2020",
+    "name": "Federal Election Commission, Federal Elections 2020",
+    "url": "https://www.fec.gov/resources/cms-content/documents/federalelections2020.xlsx",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the 2020 races listed in OFFICIAL_ROWS, and the official gate. Saved in data/raw/federal_results/fec_results/."
+  },
+  {
+    "id": "fec-federal-elections-2022",
+    "name": "Federal Election Commission, Federal Elections 2022",
+    "url": "https://www.fec.gov/resources/cms-content/documents/federalelections2022.xlsx",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Rows of the 2022 races listed in OFFICIAL_ROWS, and the official gate. Saved in data/raw/federal_results/fec_results/."
+  },
+  {
+    "id": "fec-president-2024",
+    "name": "Federal Election Commission, Official 2024 Presidential General Election Results",
+    "url": "https://www.fec.gov/resources/cms-content/documents/2024presgeresults.xlsx",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/results/president_state.json: the 2024 total for each state."
+  },
+  {
+    "id": "wy-sos-2020-canvass",
+    "name": "Wyoming Secretary of State, Statewide Candidates Official Summary, General Election 2020",
+    "url": "https://sos.wyo.gov/Elections/Docs/2020/Results/General/2020_General_Statewide_Candidates_Summary.pdf",
+    "license": "public record of the Wyoming Secretary of State",
+    "retrieved": "2026-10-31",
+    "used_for": "Party of the 2020 US Senate candidates, which MEDSL leaves blank."
+  },
+  {
+    "id": "or-sos-vp-g26",
+    "name": "Oregon Secretary of State, Voters' Pamphlet, General Election 2026, Book 1",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+    "license": "public record of the Oregon Secretary of State",
+    "retrieved": "2026-10-31",
+    "used_for": "Spelling of Christine Drazan's name on the 2022 governor row. The 2022 Oregon results page could not be reached."
+  },
+  {
+    "id": "fixer-ma-2026-candidates",
+    "name": "Massachusetts Secretary of the Commonwealth, 2026 State Election Candidates (browser extract; curl gets an Incapsula stub)",
+    "url": "https://www.sec.state.ma.us/divisions/elections/research-and-statistics/2026-state-election-candidates.htm",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/ma_candidates/state_candidates_extract.txt",
+      "data/raw/fixer/ma_candidates/2026-state-election-candidates.htm"
+    ],
+    "sha1": [
+      "edeeeeb0d63b5cb5097264bf96162811e2922195",
+      "cb2f5a1a31373abfb52d3ce926d266bcfcb1701f"
+    ],
+    "used_for": "web/data/candidates/2026/MA.json: every US Senate, Governor, US House, State Senate and State House candidate"
+  },
+  {
+    "id": "fixer-or-vp-book1",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book1, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book1_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book1_web.pdf"
+    ],
+    "sha1": [
+      "5ff3f09070be065ff1342f0776b5dee36c3f493e"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book2",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book2, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book2_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book2_web.pdf"
+    ],
+    "sha1": [
+      "12ef2fc3fe0cf7e3e02202672c5e654d83fbc6f0"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book3",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book3, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book3_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book3_web.pdf"
+    ],
+    "sha1": [
+      "f6ea418b5f302a2178a43afb05704ed7e5603224"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book4",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book4, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book4_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book4_web.pdf"
+    ],
+    "sha1": [
+      "ba64ad3073329e341672852f99c669d5dc3bc6a5"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book5",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book5, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book5_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book5_web.pdf"
+    ],
+    "sha1": [
+      "e067de1b01eb3815747f15719e3a551166221040"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book6",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book6, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book6_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book6_web.pdf"
+    ],
+    "sha1": [
+      "cce8bda563065a4d3bc9d7f585b870e32293096c"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book7",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book7, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book7_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book7_web.pdf"
+    ],
+    "sha1": [
+      "7420c6360a54407b24f79947bb04d4e67851e7b4"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book8",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book8, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book8_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book8_web.pdf"
+    ],
+    "sha1": [
+      "aaba2b2eb1f2b5d082ef634103c793873c39bc7e"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book9",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book9, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book9_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book9_web.pdf"
+    ],
+    "sha1": [
+      "3ea327e8b6d57a9bb3bd862f3a8fe1c9c13b9ea4"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book10",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book10, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book10_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book10_web.pdf"
+    ],
+    "sha1": [
+      "8cbfc548b1a0b59f50d98b1ddef610f0e5a00425"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book11",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book11, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book11_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book11_web.pdf"
+    ],
+    "sha1": [
+      "aba5e1b3eb8a1b54fe4eef1745db69aff18b5d7a"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book12",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book12, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book12_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book12_web.pdf"
+    ],
+    "sha1": [
+      "ae60f2d7cd9405f83853095b9f7d95903f761dfc"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book13",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book13, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book13_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book13_web.pdf"
+    ],
+    "sha1": [
+      "d46d8b8321787d54424717e2c690990a8158922d"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book14",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book14, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book14_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book14_web.pdf"
+    ],
+    "sha1": [
+      "3609792f0ebad13bf2f5e88853149b21426b65d2"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book15",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book15, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book15_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book15_web.pdf"
+    ],
+    "sha1": [
+      "0313d59a767b0efd3ad357c40c74b1800f13b62e"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book16",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book16, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book16_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book16_web.pdf"
+    ],
+    "sha1": [
+      "5efefa8f772d9e57df801255ab58677e7f147425"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book17",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book17, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book17_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book17_web.pdf"
+    ],
+    "sha1": [
+      "d0b6a9ad503271958f67b9ec887f8555a0ba14b1"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book18",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book18, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book18_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book18_web.pdf"
+    ],
+    "sha1": [
+      "2bc0ed0694bdd32f71a1cb215578d1ddbc8273ce"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-or-vp-book19",
+    "name": "Oregon SOS 2026 General Election Voters' Pamphlet Book19, 'List of Candidates & Measures'",
+    "url": "https://sos.oregon.gov/elections/Voters-Pamphlet/Documents/VP_G26-Book19_web.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/or_vp/VP_G26-Book19_web.pdf"
+    ],
+    "sha1": [
+      "6f23888b52dbe2708e235657c47891a1e71ccd05"
+    ],
+    "used_for": "web/data/candidates/2026/OR.json (parsed by scripts/data/fix_or_vp_extract.py into data/raw/fixer/or_vp/list_of_candidates.json)"
+  },
+  {
+    "id": "fixer-ga-writeins",
+    "name": "Georgia SOS FINAL LIST OF CERTIFIED WRITE-IN CANDIDATES, Nov 3 2026 (pdf.js text in a sos.ga.gov page; curl 403)",
+    "url": "https://sos.ga.gov/sites/default/files/forms/2026%20Certified%20Write-In%20Candidates_3.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/ga_writein/certified_write_ins_extract.txt"
+    ],
+    "sha1": [
+      "2dbfaf257b1018b36732cb16a06dff22a2dd3eb9"
+    ],
+    "used_for": "web/data/candidates/2026/GA.json write_in rows (21)"
+  },
+  {
+    "id": "fixer-ga-workbook-recheck",
+    "name": "Georgia SOS November 2026 Federal and State Candidates workbook, re-read 2026-10-28 (hash-matched to the saved transcription)",
+    "url": "https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/ga_writein/workbook_recheck.txt"
+    ],
+    "sha1": [
+      "30d66c4bcd13d4864426f64d98a99554336863ea"
+    ],
+    "used_for": "verification of every GA candidate row"
+  },
+  {
+    "id": "fixer-sd-vip",
+    "name": "South Dakota SOS 2026 General Election Candidate List page (filing-list wording)",
+    "url": "https://vip.sdsos.gov/candidatelist.aspx?eid=774",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/sd_vip/candidatelist_eid774.html"
+    ],
+    "sha1": [
+      "88557874b9f441d71e9ec4db4bc706544ee9b1ed"
+    ],
+    "used_for": "SD status = filed"
+  },
+  {
+    "id": "fixer-nd-vip",
+    "name": "North Dakota SOS 2026 General Election Contest/Candidate List page (no certification wording)",
+    "url": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/nd_vip/candidatelist_eid348.html"
+    ],
+    "sha1": [
+      "f7824d60b1fd76c1a5cf116db29ff38e259f8f1a"
+    ],
+    "used_for": "ND status = qualified"
+  },
+  {
+    "id": "fixer-wy-2002",
+    "name": "Wyoming SOS 2002 Statewide Candidates' Abstract, Official General Election Results",
+    "url": "https://sos.wyo.gov/Elections/Docs/2002/02Results/02General/02_General%20Election_SW_Candidates.pdf",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/wy_2002/02_General_Election_SW_Candidates.pdf"
+    ],
+    "sha1": [
+      "b4cfe8bd056ff936f465517fb43fc86e358ba7d5"
+    ],
+    "used_for": "web/data/results/governor/WY.json 2002 (validation in gov_results.py)"
+  },
+  {
+    "id": "fixer-election-night",
+    "name": "Results-link checks: scvotes.gov results page, electionresults.ri.gov, sos.nh.gov 2026 general results page, Oregon SOS results pages, CA/NV redirects and bot stubs",
+    "url": "https://scvotes.gov/elections-statistics/election-results/",
+    "license": "US state / federal public record (facts only)",
+    "retrieved": "2026-10-28",
+    "raw": [
+      "data/raw/fixer/election_night/ca_results.html",
+      "data/raw/fixer/election_night/nh_browser_extract.txt",
+      "data/raw/fixer/election_night/nh_guess.html",
+      "data/raw/fixer/election_night/nh_sos_elections.html",
+      "data/raw/fixer/election_night/nv_browser_note.txt",
+      "data/raw/fixer/election_night/nv_silverstate.html",
+      "data/raw/fixer/election_night/nv_sos_elections.html",
+      "data/raw/fixer/election_night/nv_sos_enr.html",
+      "data/raw/fixer/election_night/or_historical.html",
+      "data/raw/fixer/election_night/or_results.html",
+      "data/raw/fixer/election_night/ri_browser_extract.txt",
+      "data/raw/fixer/election_night/ri_electionresults.html",
+      "data/raw/fixer/election_night/sc_enr_root.html",
+      "data/raw/fixer/election_night/sc_results.html"
+    ],
+    "sha1": [
+      "f55c2cd31f81add52505a89a1f03496ed498af04",
+      "f9523ef8325df16f6348785fd8d9490b721d286c",
+      "9c9501c3f8c4a320550612c4362b664dafc84d91",
+      "c82d0ee33a2a3f16608892bf725a8c1c1fdad611",
+      "c8f61037595be20d0f853ed3a34236e4820df596",
+      "cf79e1a0b6f763060a526886494db0b1b2e053b7",
+      "cf79e1a0b6f763060a526886494db0b1b2e053b7",
+      "cf79e1a0b6f763060a526886494db0b1b2e053b7",
+      "3e41b12d3c7311f45e819392328d5e22f237e944",
+      "d230302c028855cb4f1ac87e1d1da394e78d7d05",
+      "b6802a83c294310ceaff566fe9585a01c18b6325",
+      "704644b05605ce3c066b8a83919f03538280b65a",
+      "e49280fe4491c976036df817830fdfea6c7a1ef3",
+      "e8f674dc19b647485a7b249b51924e267168b7f0"
+    ],
+    "used_for": "web/data/election_night_2026.json official_results_url / results_url_status"
+  },
+  {
+    "id": "census-tigerweb-legislative",
+    "name": "Census TIGERweb Legislative MapServer (120th CDs layer 0, 119th CDs layer 4, 2026 SLD upper layer 1 and lower layer 2)",
+    "url": "https://tigerweb.geo.census.gov/arcgis/rest/services/TIGERweb/Legislative/MapServer",
+    "license": "US Census Bureau, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "cd.topo.json, sld/*.topo.json"
+  },
+  {
+    "id": "census-cb-2024-state-20m",
+    "name": "Census cartographic boundary cb_2024_us_state_20m",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_state_20m.zip",
+    "license": "US Census Bureau, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "states.topo.json"
+  },
+  {
+    "id": "census-cb-2024-county-500k",
+    "name": "Census cartographic boundary cb_2024_us_county_500k",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/cb_2024_us_county_500k.zip",
+    "license": "US Census Bureau, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "counties.topo.json"
+  },
+  {
+    "id": "ocd-division-ids",
+    "name": "Open Civic Data division identifiers (census_autogenerated us_sldl/us_sldu and openstates state files); also (sld-recent.json): Open Civic Data division identifiers (country-us)",
+    "url": "https://github.com/opencivicdata/ocd-division-ids",
+    "license": "CC0 (repository); also (sld-recent.json): CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "OCD-ID labels for sld/*.topo.json; also (sld-recent.json): Validating district labels; also (state_results.json): Validating and shaping state legislative district labels (OCD-ID keys)"
+  },
+  {
+    "id": "mo-sos-congressional-map-2026-09-10",
+    "name": "Missouri Secretary of State statement directing use of the 2022 congressional map",
+    "url": "https://www.sos.mo.gov/default.aspx?PageId=10670",
+    "license": "public record",
+    "retrieved": "2026-10-28",
+    "used_for": "deciding which Missouri CD geometry to use"
+  },
+  {
+    "id": "dv_candidates_v3",
+    "name": "Cha, Kuriwaki and Snyder, Candidates in American General Elections, version 3.1 (2006-2023 governor rows)",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "Governor candidate rows 2006-2023 (data file id 10626651, sha256 1fa9698b3eb4883aa645f32048939ace5d4787a433d35a5ca82b92ebf361923d). Version 3.1 is used instead of the later version 4.1 because 4.1 drops many minor-party rows.",
+    "compiled_from_official_returns_by": "Cha, Kuriwaki and Snyder (Harvard Dataverse)",
+    "official": false
+  },
+  {
+    "id": "dv_candidates_v4",
+    "name": "Cha, Kuriwaki and Snyder, Candidates in American General Elections, version 4.1 (2024 governor rows)",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "Governor candidate rows for 2024 where no official file was parsed (data file id 13461690, sha256 abf13d31e8ab3c8ba897a003e9f59865175e1fb0a95b1da35134f9699ddd56f5).",
+    "compiled_from_official_returns_by": "Cha, Kuriwaki and Snyder (Harvard Dataverse)",
+    "official": false
+  },
+  {
+    "id": "census_statab_vote_governor",
+    "name": "U.S. Census Bureau, Statistical Abstract of the United States, table 'Vote Cast for and Governor Elected, by State' (editions 126 to 131)",
+    "url": "https://www.census.gov/library/publications/2011/compendia/statab/131ed/elections.html",
+    "license": "U.S. government work, public domain",
+    "retrieved": "2026-10-28",
+    "used_for": "Cross-check of vote totals 2000-2010 (not published as data).",
+    "compiled_from_official_returns_by": "U.S. Census Bureau, Statistical Abstract (a compilation of state returns); cross-check only",
+    "official": false
+  },
+  {
+    "id": "civera_state_election_databases",
+    "name": "Official state election databases on the Civera ElectionStats platform: Connecticut Secretary of the State, Virginia Department of Elections, Vermont Secretary of State, Colorado Secretary of State, New York State Board of Elections, New Mexico Secretary of State, South Carolina Election Commission",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "Governor general-election results in each state's database (raw JSON saved as data/raw/gov-results/civera_<st>/governor_1990_2025.json via the databases' public GraphQL endpoint). Hosts: electionhistory.ct.gov, historical.elections.virginia.gov, electionarchive.vermont.gov, historicalelectiondata.coloradosos.gov, results.elections.ny.gov, electionstats.sos.nm.gov, electionhistory.scvotes.gov."
+  },
+  {
+    "id": "ma_electionstats",
+    "name": "Massachusetts Secretary of the Commonwealth, Election Statistics (PD43+)",
+    "url": "https://electionstats.state.ma.us/elections/search/year_from:1990/year_to:2025/office_id:3/stage:General",
+    "license": "public records of the Massachusetts Secretary of the Commonwealth",
+    "retrieved": "2026-10-28",
+    "used_for": "Massachusetts governor 1990-2022 (saved search page, sha256 bbe1fa120a81ce5b3217e09e14d1a8727ca310b1612079389e757a7684f0a3ca)."
+  },
+  {
+    "id": "nc_sbe_enrs",
+    "name": "North Carolina State Board of Elections, results archive (ENRS)",
+    "url": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/",
+    "license": "public records of the NC State Board of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "North Carolina governor 1992-2024: 1992 and 1996 abstract PDFs, 2000 and 2004 by-contest files, 2008-2024 precinct files summed. Files in data/raw/gov-results/nc_sbe_enrs/."
+  },
+  {
+    "id": "nj_doe_results",
+    "name": "New Jersey Division of Elections, official general election results (governor)",
+    "url": "https://www.nj.gov/state/elections/election-information-results.shtml",
+    "license": "public records of the NJ Division of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "New Jersey governor 1993-2025 (PDFs in data/raw/gov-results/nj_<year>/; the 1993 and 1997 PDFs are scanned images read by eye, see transcription.json in those folders)."
+  },
+  {
+    "id": "va_enr_2025",
+    "name": "Virginia Department of Elections, 2025 November General results page",
+    "url": "https://enr.elections.virginia.gov/results/public/virginia/2025-November-General",
+    "license": "public record of the Virginia Department of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "Virginia 2025 governor (page text saved in data/raw/gov-results/va_2025_enr/page_text.txt)."
+  },
+  {
+    "id": "openelections_gov",
+    "name": "OpenElections state results repositories (github.com/openelections/openelections-data-<st>)",
+    "url": "https://github.com/openelections",
+    "license": "OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "County-level governor rows used to add named candidates and write-in counts missing from the Dataverse file (files in data/raw/gov-results/openelections/ and openelections_pre2006/).",
+    "compiled_from_official_returns_by": "OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "dv_2020_official_tabular",
+    "name": "Singer, US 2020 General Official Election Results in Tabular Format",
+    "url": "https://doi.org/10.7910/DVN/RV80FW",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "2020 governor candidate lists for DE, IN, MT, NC, NH, UT, VT, WA, WV (official county results rolled up).",
+    "compiled_from_official_returns_by": "Singer (Harvard Dataverse), from official county results",
+    "official": false
+  },
+  {
+    "id": "medsl_precinct",
+    "name": "MIT Election Data and Science Lab, state precinct-level returns 2018, 2022, 2024",
+    "url": "https://doi.org/10.7910/DVN/ZFXEJU",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "Cross-check of D and R totals and a source of minor candidates when they agree. 2018: MEDSL/2018-elections-official individual_states zips; 2022 (doi 10.7910/DVN/OAARCY) and 2024 (doi 10.7910/DVN/DODOBJ): STATE_precinct_general.csv. The 2018 and 2020 combined Dataverse files are behind a guestbook and were not downloaded.",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "medsl_state_offices_2016",
+    "name": "MIT Election Data and Science Lab, state offices 2016 (stateoffices2016.csv)",
+    "url": "https://github.com/MEDSL/state-returns",
+    "license": "no license stated",
+    "retrieved": "2026-10-28",
+    "used_for": "2016 governor rows only, as a cross-check of D and R totals and a source of minor candidates when they agree. Dataverse GSZG1O is CC0 but is a different file, so its license does not cover this one.",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "kaplan_governors",
+    "name": "Kaplan, United States Governors 1775-2020",
+    "url": "https://doi.org/10.7910/DVN/RYY3OW",
+    "license": "CC BY 4.0",
+    "retrieved": "2026-10-28",
+    "used_for": "Validation only: the winner of each race must be the governor in office the following year.",
+    "compiled_from_official_returns_by": "Kaplan (Harvard Dataverse); used for validation only",
+    "official": false
+  },
+  {
+    "id": "fl_dos_results",
+    "name": "Florida Division of Elections, election results archive (statewide results extracts)",
+    "url": "https://dos.fl.gov/elections/data-statistics/elections-data/election-results-archive/",
+    "license": "public records of the Florida Division of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "Florida governor 1990-2022 (county extracts summed; files in data/raw/gov-results/fl_dos/)."
+  },
+  {
+    "id": "tx_sos_election_history",
+    "name": "Texas Secretary of State, election history (statewide results)",
+    "url": "https://elections.sos.state.tx.us/elchist95_state.htm",
+    "license": "public records of the Texas Secretary of State",
+    "retrieved": "2026-10-28",
+    "used_for": "Texas governor races in the saved election-history pages (data/raw/gov-results/tx_sos/)."
+  },
+  {
+    "id": "in_enr_2024",
+    "name": "Indiana Election Division, 2024 General Election results archive",
+    "url": "https://enr.indianavoters.in.gov/archive/2024General/index.html",
+    "license": "public records of the Indiana Election Division",
+    "retrieved": "2026-10-28",
+    "used_for": "Indiana 2024 governor (statewide summary JSON, data/raw/gov-results/in_2024_enr/)."
+  },
+  {
+    "id": "wa_sos_2024",
+    "name": "Washington Secretary of State, November 5, 2024 General Election results: Governor",
+    "url": "https://results.vote.wa.gov/results/20241105/governor.html",
+    "license": "public records of the Washington Secretary of State",
+    "retrieved": "2026-10-28",
+    "used_for": "Washington 2024 governor (saved page, data/raw/gov-results/wa_2024_sos/)."
+  },
+  {
+    "id": "gov_official_checks",
+    "name": "Alaska Division of Elections 2022 General Election Summary Report; Alabama Secretary of State 2022 General Election Final Canvass; Rhode Island 2022 general election results",
+    "url": "https://www.elections.alaska.gov/election-results/e/?id=22genr",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-30",
+    "used_for": "Check of the AK, AL and RI 2022 governor counts and totals, write-ins included (files in data/raw/gov-results/official_checks/; AL: https://www.sos.alabama.gov/alabama-votes/voter/election-data; RI: https://www.ri.gov/election/results/2022/general_election/)."
+  },
+  {
+    "id": "gov-results-al",
+    "name": "Alabama governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/AL.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-ak",
+    "name": "Alaska governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/AK.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-az",
+    "name": "Arizona governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/AZ.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ar",
+    "name": "Arkansas governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/AR.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ca",
+    "name": "California governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/CA.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-co",
+    "name": "Colorado governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/CO.json. Each race's source id (see that id's own entry): 1990: civera_state_election_databases; 1994: civera_state_election_databases; 1998: civera_state_election_databases; 2002: civera_state_election_databases; 2006: civera_state_election_databases; 2010: civera_state_election_databases; 2014: civera_state_election_databases; 2018: civera_state_election_databases; 2022: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-ct",
+    "name": "Connecticut governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/CT.json. Each race's source id (see that id's own entry): 1990: civera_state_election_databases; 1994: civera_state_election_databases; 2002: civera_state_election_databases; 2006: civera_state_election_databases; 2010: civera_state_election_databases; 2014: civera_state_election_databases; 2018: civera_state_election_databases; 2022: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-de",
+    "name": "Delaware governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/DE.json. Each race's source id (see that id's own entry): 2008: dv_candidates_v3; 2012: dv_candidates_v3; 2016: dv_candidates_v3; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2024: dv_candidates_v4."
+  },
+  {
+    "id": "gov-results-fl",
+    "name": "Florida governor results: sources by race",
+    "url": "https://dos.fl.gov/elections/data-statistics/elections-data/election-results-archive/",
+    "license": "public records of the Florida Division of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/FL.json. Each race's source id (see that id's own entry): 1990: fl_dos_results; 1994: fl_dos_results; 1998: fl_dos_results; 2002: fl_dos_results; 2006: fl_dos_results; 2010: fl_dos_results; 2014: fl_dos_results; 2018: fl_dos_results; 2022: fl_dos_results."
+  },
+  {
+    "id": "gov-results-ga",
+    "name": "Georgia governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/GA.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-hi",
+    "name": "Hawaii governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/HI.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-id",
+    "name": "Idaho governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/ID.json. Each race's source id (see that id's own entry): 1994: openelections_gov + census_statab_vote_governor; 1998: openelections_gov + census_statab_vote_governor; 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-il",
+    "name": "Illinois governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/IL.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-in",
+    "name": "Indiana governor results: sources by race",
+    "url": "https://enr.indianavoters.in.gov/archive/2024General/index.html",
+    "license": "Mixed by race. Most rows: public records of the Indiana Election Division. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/IN.json. Each race's source id (see that id's own entry): 2004: openelections_gov + census_statab_vote_governor; 2008: dv_candidates_v3 + openelections_gov; 2012: dv_candidates_v3 + openelections_gov; 2016: dv_candidates_v3 + openelections_gov; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2024: in_enr_2024."
+  },
+  {
+    "id": "gov-results-ia",
+    "name": "Iowa governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/IA.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + openelections_gov + medsl_precinct; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-ks",
+    "name": "Kansas governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/KS.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ky",
+    "name": "Kentucky governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/KY.json. Each race's source id (see that id's own entry): 2007: dv_candidates_v3; 2011: dv_candidates_v3; 2015: dv_candidates_v3 + openelections_gov; 2019: dv_candidates_v3; 2023: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-la",
+    "name": "Louisiana governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/LA.json. Each race's source id (see that id's own entry): 2007: dv_candidates_v3; 2011: dv_candidates_v3; 2015: dv_candidates_v3 + openelections_gov; 2019: dv_candidates_v3; 2023: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-me",
+    "name": "Maine governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/ME.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-md",
+    "name": "Maryland governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MD.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ma",
+    "name": "Massachusetts governor results: sources by race",
+    "url": "https://electionstats.state.ma.us/elections/search/year_from:1990/year_to:2025/office_id:3/stage:General",
+    "license": "public records of the Massachusetts Secretary of the Commonwealth",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MA.json. Each race's source id (see that id's own entry): 1990: ma_electionstats; 1994: ma_electionstats; 1998: ma_electionstats; 2002: ma_electionstats; 2006: ma_electionstats; 2010: ma_electionstats; 2014: ma_electionstats; 2018: ma_electionstats; 2022: ma_electionstats."
+  },
+  {
+    "id": "gov-results-mi",
+    "name": "Michigan governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MI.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3 + openelections_gov."
+  },
+  {
+    "id": "gov-results-mn",
+    "name": "Minnesota governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MN.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-ms",
+    "name": "Mississippi governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MS.json. Each race's source id (see that id's own entry): 2007: dv_candidates_v3; 2011: dv_candidates_v3 + openelections_gov; 2015: dv_candidates_v3; 2019: dv_candidates_v3 + openelections_gov; 2023: dv_candidates_v3 + openelections_gov."
+  },
+  {
+    "id": "gov-results-mo",
+    "name": "Missouri governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/ZFXEJU",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license. MEDSL 2016 rows: no license stated.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MO.json. Each race's source id (see that id's own entry): 2008: dv_candidates_v3 + openelections_gov; 2012: dv_candidates_v3 + openelections_gov; 2016: dv_candidates_v3 + openelections_gov + medsl_state_offices_2016; 2020: dv_candidates_v3; 2024: medsl_precinct."
+  },
+  {
+    "id": "gov-results-mt",
+    "name": "Montana governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/MT.json. Each race's source id (see that id's own entry): 2000: openelections_gov + census_statab_vote_governor; 2004: openelections_gov + census_statab_vote_governor; 2008: dv_candidates_v3 + openelections_gov; 2012: dv_candidates_v3 + openelections_gov; 2016: dv_candidates_v3; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2024: dv_candidates_v4."
+  },
+  {
+    "id": "gov-results-ne",
+    "name": "Nebraska governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NE.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-nv",
+    "name": "Nevada governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NV.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-nh",
+    "name": "New Hampshire governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. MEDSL 2016 rows: no license stated.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NH.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2008: dv_candidates_v3; 2010: dv_candidates_v3; 2012: dv_candidates_v3; 2014: dv_candidates_v3; 2016: dv_candidates_v3 + medsl_state_offices_2016; 2018: dv_candidates_v3 + medsl_precinct; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2022: dv_candidates_v3 + medsl_precinct; 2024: dv_candidates_v4 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-nj",
+    "name": "New Jersey governor results: sources by race",
+    "url": "https://www.nj.gov/state/elections/election-information-results.shtml",
+    "license": "public records of the NJ Division of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NJ.json. Each race's source id (see that id's own entry): 1993: nj_doe_results; 1997: nj_doe_results; 2001: nj_doe_results; 2005: nj_doe_results; 2009: nj_doe_results; 2013: nj_doe_results; 2017: nj_doe_results; 2021: nj_doe_results; 2025: nj_doe_results."
+  },
+  {
+    "id": "gov-results-nm",
+    "name": "New Mexico governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NM.json. Each race's source id (see that id's own entry): 2002: civera_state_election_databases; 2006: civera_state_election_databases; 2010: dv_candidates_v3; 2014: civera_state_election_databases; 2018: civera_state_election_databases; 2022: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-ny",
+    "name": "New York governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NY.json. Each race's source id (see that id's own entry): 1994: civera_state_election_databases; 1998: civera_state_election_databases; 2002: civera_state_election_databases; 2006: civera_state_election_databases; 2010: civera_state_election_databases; 2014: civera_state_election_databases; 2018: civera_state_election_databases; 2022: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-nc",
+    "name": "North Carolina governor results: sources by race",
+    "url": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/",
+    "license": "public records of the NC State Board of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/NC.json. Each race's source id (see that id's own entry): 1992: nc_sbe_enrs; 1996: nc_sbe_enrs; 2000: nc_sbe_enrs; 2004: nc_sbe_enrs; 2008: nc_sbe_enrs; 2012: nc_sbe_enrs; 2016: nc_sbe_enrs; 2020: nc_sbe_enrs; 2024: nc_sbe_enrs."
+  },
+  {
+    "id": "gov-results-nd",
+    "name": "North Dakota governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/ND.json. Each race's source id (see that id's own entry): 2008: dv_candidates_v3 + openelections_gov; 2012: dv_candidates_v3 + openelections_gov; 2016: dv_candidates_v3 + openelections_gov; 2020: dv_candidates_v3 + openelections_gov; 2024: dv_candidates_v4 + openelections_gov."
+  },
+  {
+    "id": "gov-results-oh",
+    "name": "Ohio governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/OH.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-ok",
+    "name": "Oklahoma governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/OK.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-or",
+    "name": "Oregon governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license. MEDSL 2016 rows: no license stated.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/OR.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2016: dv_candidates_v3 + openelections_gov + medsl_state_offices_2016; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-pa",
+    "name": "Pennsylvania governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/PA.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ri",
+    "name": "Rhode Island governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/RI.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + medsl_precinct; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-sc",
+    "name": "South Carolina governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/SC.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: civera_state_election_databases; 2014: civera_state_election_databases; 2018: civera_state_election_databases; 2022: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-sd",
+    "name": "South Dakota governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/SD.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3 + openelections_gov."
+  },
+  {
+    "id": "gov-results-tn",
+    "name": "Tennessee governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/TN.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3 + openelections_gov; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3 + openelections_gov."
+  },
+  {
+    "id": "gov-results-tx",
+    "name": "Texas governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/TX.json. Each race's source id (see that id's own entry): 1994: tx_sos_election_history; 1998: tx_sos_election_history; 2002: tx_sos_election_history; 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3."
+  },
+  {
+    "id": "gov-results-ut",
+    "name": "Utah governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/UT.json. Each race's source id (see that id's own entry): 2008: dv_candidates_v3; 2010 special: dv_candidates_v3; 2012: dv_candidates_v3; 2016: dv_candidates_v3; 2020: dv_candidates_v3; 2024: dv_candidates_v4 + openelections_gov."
+  },
+  {
+    "id": "gov-results-vt",
+    "name": "Vermont governor results: sources by race",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "public records of the state election offices",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/VT.json. Each race's source id (see that id's own entry): 1990: civera_state_election_databases; 1992: civera_state_election_databases; 1994: civera_state_election_databases; 1996: civera_state_election_databases; 1998: civera_state_election_databases; 2000: civera_state_election_databases; 2002: civera_state_election_databases; 2004: civera_state_election_databases; 2006: civera_state_election_databases; 2008: civera_state_election_databases; 2010: civera_state_election_databases; 2012: civera_state_election_databases; 2014: civera_state_election_databases; 2016: civera_state_election_databases; 2018: civera_state_election_databases; 2020: civera_state_election_databases; 2022: civera_state_election_databases; 2024: civera_state_election_databases."
+  },
+  {
+    "id": "gov-results-va",
+    "name": "Virginia governor results: sources by race",
+    "url": "https://enr.elections.virginia.gov/results/public/virginia/2025-November-General",
+    "license": "public record of the Virginia Department of Elections",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/VA.json. Each race's source id (see that id's own entry): 1993: civera_state_election_databases; 1997: civera_state_election_databases; 2001: civera_state_election_databases; 2005: civera_state_election_databases; 2009: civera_state_election_databases; 2013: civera_state_election_databases; 2017: civera_state_election_databases; 2021: civera_state_election_databases; 2025: va_enr_2025."
+  },
+  {
+    "id": "gov-results-wa",
+    "name": "Washington governor results: sources by race",
+    "url": "https://results.vote.wa.gov/results/20241105/governor.html",
+    "license": "Mixed by race. Most rows: public records of the Washington Secretary of State. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/WA.json. Each race's source id (see that id's own entry): 2008: dv_candidates_v3; 2012: dv_candidates_v3; 2016: dv_candidates_v3 + openelections_gov; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2024: wa_sos_2024."
+  },
+  {
+    "id": "gov-results-wv",
+    "name": "West Virginia governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/WV.json. Each race's source id (see that id's own entry): 2000: openelections_gov + census_statab_vote_governor; 2004: openelections_gov + census_statab_vote_governor; 2008: dv_candidates_v3; 2011 special: dv_candidates_v3; 2012: dv_candidates_v3; 2016: dv_candidates_v3 + openelections_gov; 2020: dv_candidates_v3 + dv_2020_official_tabular; 2024: dv_candidates_v4 + openelections_gov."
+  },
+  {
+    "id": "gov-results-wi",
+    "name": "Wisconsin governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/WI.json. Each race's source id (see that id's own entry): 2006: dv_candidates_v3; 2010: dv_candidates_v3; 2014: dv_candidates_v3; 2018: dv_candidates_v3; 2022: dv_candidates_v3 + medsl_precinct."
+  },
+  {
+    "id": "gov-results-wy",
+    "name": "Wyoming governor results: sources by race",
+    "url": "https://doi.org/10.7910/DVN/DGDRDT",
+    "license": "Mixed by race. Most rows: CC0 1.0. OpenElections rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/results/governor/WY.json. Each race's source id (see that id's own entry): 2002: openelections_gov + census_statab_vote_governor; 2006: dv_candidates_v3; 2010: dv_candidates_v3 + openelections_gov; 2014: dv_candidates_v3 + openelections_gov; 2018: dv_candidates_v3 + openelections_gov; 2022: dv_candidates_v3 + openelections_gov."
+  },
+  {
+    "id": "offices-state-election-sites",
+    "name": "State and DC election office websites (home, results, voter lookup and registration pages)",
+    "url": "https://vote.gov/",
+    "license": "US and state government web pages; links and office names only, no content copied",
+    "retrieved": "2026-11-01",
+    "used_for": "web/data/election_offices.json. Each URL fetched by scripts/data/offices.mjs on the retrieved date; failures were left out and listed in data notes."
+  },
+  {
+    "id": "congress-legislators",
+    "name": "unitedstates/congress-legislators (current)",
+    "url": "https://unitedstates.github.io/congress-legislators/legislators-current.json",
+    "license": "CC0-1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/officials/congress.json (name, party, bioguide, official site, service start) and web/data/people (birth year, committees, social media handles and profile links; links only, nothing copied from the platforms). As-of: the files saved in data/raw/people on 2026-10-29.",
+    "compiled_from_official_returns_by": "the @unitedstates project volunteers (rosters from official congressional sources)",
+    "official": false,
+    "as_of": "2026-10-29"
+  },
+  {
+    "id": "openstates-people",
+    "name": "Open States people (current) CSVs",
+    "url": "https://data.openstates.org/people/current/<st>.csv",
+    "license": "CC0-1.0 (Open States people data)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/officials/sld/{st}.json (name, party, district, chamber, openstates_id, official page url). Emails, phones, addresses, biographies discarded.",
+    "compiled_from_official_returns_by": "Open States volunteers and staff (rosters from state legislature sites)",
+    "official": false
+  },
+  {
+    "id": "mn-lrl-house-caucus",
+    "name": "Minnesota Legislative Reference Library, House party balance chronology",
+    "url": "https://www.lrl.mn.gov/history/caucus",
+    "license": "US state public record",
+    "retrieved": "2026-10-30",
+    "used_for": "Minnesota House 21A vacancy from June 21, 2026 and the 67 DFL, 66 R, 1 vacant chamber count (SEAT_VACANCIES in scripts/data/officials.py)"
+  },
+  {
+    "id": "mn-house-session-daily-19204",
+    "name": "Minnesota House Session Daily, June 15, 2026, Schomacker resignation",
+    "url": "https://www.house.mn.gov/sessiondaily/Story/19204",
+    "license": "US state public record",
+    "retrieved": "2026-10-30",
+    "used_for": "Minnesota House 21A: resignation effective June 21, 2026; no special election for the rest of the term"
+  },
+  {
+    "id": "nh-house-members",
+    "name": "New Hampshire General Court, House member pages and members.txt",
+    "url": "https://gc.nh.gov/house/members/default.aspx",
+    "license": "US state public record",
+    "retrieved": "2026-10-30",
+    "used_for": "New Hampshire House party correction (PARTY_CORRECTIONS in scripts/data/officials.py); roster and 18 vacancies checked against the House Clerk's update https://gc.nh.gov/house/aboutthehouse/RDSE.pdf"
+  },
+  {
+    "id": "chamber-rosters-oct31",
+    "name": "Chamber member lists: Colorado General Assembly, New Mexico Legislature, Ohio House",
+    "url": "https://leg.colorado.gov/legislators",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Colorado House 32 and New Mexico House 41 (ROSTER_GAPS in scripts/data/officials.py, https://www.nmlegis.gov/Members/Legislator_List?T=R) and the Ohio House 89 vacancy (https://ohiohouse.gov/members/directory). Utah 16 checked against https://le.utah.gov/data/legislators.json, no change"
+  },
+  {
+    "id": "vt-legislature-people",
+    "name": "Vermont General Assembly, member list",
+    "url": "https://legislature.vermont.gov/people/all/2026/Representative",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/officials/sld/vt.json (name, party as printed, district). Address, phone and email columns are not saved."
+  },
+  {
+    "id": "la-sos-election-dates",
+    "name": "Louisiana Secretary of State, election dates",
+    "url": "https://www.sos.la.gov/elections-voting/election-dates",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Special election dates on the vacant Louisiana Senate 14 and House 77 seats (SEAT_VACANCIES in scripts/data/officials.py)"
+  },
+  {
+    "id": "openstates-metadata",
+    "name": "Open States core jurisdiction metadata (openstates/openstates-core, openstates/metadata/data/<st>.py)",
+    "url": "https://github.com/openstates/openstates-core/tree/main/openstates/metadata/data",
+    "license": "MIT License. Required notice, from the LICENSE file (read 2026-10-29): Copyright (c) 2020 James Turk, Open States. The copyright and permission notice must be kept with substantial portions of the software: https://github.com/openstates/openstates-core/blob/main/LICENSE",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/states.json (FIPS, chamber seat counts, member titles) and OCD-ID mapping for state legislative districts",
+    "compiled_from_official_returns_by": "Open States (openstates-core)",
+    "official": false
+  },
+  {
+    "id": "wikidata-governors",
+    "name": "Wikidata SPARQL (governor position holders, party)",
+    "url": "https://query.wikidata.org/sparql",
+    "license": "CC0-1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/officials/governors.json (name, party, start date)",
+    "compiled_from_official_returns_by": "the Wikidata community (not an official source; to be cross-checked against official governor pages)",
+    "official": false
+  },
+  {
+    "id": "votehub-polls",
+    "name": "VoteHub polling data",
+    "url": "https://votehub.com/polls/api/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "license_source": "https://votehub.com/polls/api/ shows a Creative Commons badge linking to the CC BY 4.0 deed and states that the API is licensed under CC BY 4.0.",
+    "attribution": "Polling data from VoteHub (https://votehub.com/polls/api/), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Records reformatted by Election Wrld.",
+    "retrieved": "2026-11-02",
+    "retrieved_at": "2026-11-02T19:30:42Z",
+    "used_for": "data/polls.json: 2026 Senate, governor and House general election polls, 2026 generic ballot, and approval polls. Records changed or added after checking the publisher are listed in flags/poll-corrections.json with the publisher link."
+  },
+  {
+    "id": "results-runoff-dates",
+    "name": "US Senate runoff dates (Clerk of the House and FEC documents)",
+    "url": "https://clerk.house.gov/member_info/electionInfo/2022/statistics2022.pdf",
+    "license": "US government work, public domain",
+    "retrieved": "2026-10-31",
+    "used_for": "Dates on Georgia (1992, 2008, 2021, 2022) and Mississippi (2018) Senate runoff rows, which the MEDSL source leaves blank. See data notes for the document behind each date."
+  },
+  {
+    "id": "medsl-2024-official",
+    "name": "MEDSL 2024 official precinct returns (individual_states zips)",
+    "url": "https://doi.org/10.7910/DVN/NYTPDU",
+    "license": "CC0 1.0 (Harvard Dataverse NYTPDU). The state files we use match that dataset by md5.",
+    "retrieved": "2026-10-28",
+    "used_for": "2024 state legislative general results aggregated to district (all 2024 states except CA, GA, NM, WA, NC, MN, NY). Read from github.com/MEDSL/2024-elections-official; every state used matches Dataverse NYTPDU by md5.",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL)",
+    "official": false
+  },
+  {
+    "id": "medsl-oe-az-2024",
+    "name": "MEDSL 2024 precinct returns and OpenElections Arizona Pima County file (mixed)",
+    "url": "https://doi.org/10.7910/DVN/NYTPDU",
+    "license": "Mixed. MEDSL rows: CC0 1.0. Pima County rows: OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "AZ House 2024, the districts with Pima County votes: 16, 17, 18, 19, 20, 21, 23",
+    "compiled_from_official_returns_by": "MIT Election Data and Science Lab (MEDSL) and OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "wa-sos-2024",
+    "name": "Washington Secretary of State, November 5 2024 general, legislative results export",
+    "url": "https://results.vote.wa.gov/results/20241105/export/20241105_legislative.csv",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "WA Senate and House 2024"
+  },
+  {
+    "id": "nc-sbe-2024",
+    "name": "North Carolina State Board of Elections, November 5 2024 precinct results file (results_pct)",
+    "url": "https://s3.amazonaws.com/dl.ncsbe.gov/ENRS/2024_11_05/results_pct_20241105.zip",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "NC Senate and House 2024"
+  },
+  {
+    "id": "mn-sos-2024",
+    "name": "Minnesota Secretary of State, November 5 2024 results files (LegislativeByDistrict, stsenate)",
+    "url": "https://electionresultsfiles.sos.mn.gov/20241105/LegislativeByDistrict.txt",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "MN House and Senate 45 special 2024"
+  },
+  {
+    "id": "ny-electionstats-2024",
+    "name": "New York State Board of Elections, election results database",
+    "url": "https://results.elections.ny.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "NY Senate and Assembly 2024. Saved copy data/raw/sld-recent/civera-2024/NY.json, 2026-10-31. The site now answers a bot challenge on its home page; no script calls it."
+  },
+  {
+    "id": "fl-dos-2024",
+    "name": "Florida Division of Elections, November 5 2024 official results extract",
+    "url": "https://results.elections.myflorida.com/ResultsExtract.Asp?ElectionDate=11/5/2024&OfficialResults=Y&DataMode=&FormsButton2=Download",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of FL 2024 legislative rows"
+  },
+  {
+    "id": "ct-electionhistory-2024",
+    "name": "Connecticut Secretary of the State, election history database",
+    "url": "https://electionhistory.ct.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of CT 2024 legislative rows"
+  },
+  {
+    "id": "vt-electionarchive-2024",
+    "name": "Vermont Secretary of State, election archive",
+    "url": "https://electionarchive.vermont.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of VT 2024 legislative rows; party of fusion candidates"
+  },
+  {
+    "id": "co-electionstats-2024",
+    "name": "Colorado Secretary of State, historical election data",
+    "url": "https://historicalelectiondata.coloradosos.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of CO 2024 legislative rows"
+  },
+  {
+    "id": "nm-electionstats-2024",
+    "name": "New Mexico Secretary of State, election statistics database",
+    "url": "https://electionstats.sos.nm.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of NM 2024 legislative rows; NM Senate 42"
+  },
+  {
+    "id": "sc-electionhistory-2024",
+    "name": "South Carolina State Election Commission, election history database",
+    "url": "https://electionhistory.scvotes.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of SC 2024 legislative rows; SC Senate 29 recount"
+  },
+  {
+    "id": "ca-sos-sov-2024",
+    "name": "California Secretary of State, Statement of Vote, Nov 5 2024 general (summary pages)",
+    "url": "https://elections.cdn.sos.ca.gov/sov/2024-general/sov/complete-sov.pdf",
+    "license": "US state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "CA Senate and Assembly 2024"
+  },
+  {
+    "id": "ga-sos-enr-2024",
+    "name": "Georgia Secretary of State ENR, 2024 November general (API JSON)",
+    "url": "https://results.sos.ga.gov/results/public/Georgia/elections/2024NovGen",
+    "license": "US state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "GA House and Senate 2024"
+  },
+  {
+    "id": "me-sos-recounts-2024",
+    "name": "Maine Secretary of State, 2024 legislative recount updates",
+    "url": "https://mobile.maine.gov/sos/news/recounts-legislative-races-scheduled",
+    "license": "US state public record",
+    "retrieved": "2026-10-30",
+    "used_for": "Final 2024 recount tallies: ME House 44, 52, 58, 75, 81, 96, 98, 141 (Senate 8 is checked against it; that row shows the certified calendar)"
+  },
+  {
+    "id": "me-senate-calendar-2024",
+    "name": "Maine Senate calendar, December 4, 2024, Secretary of State tabulation",
+    "url": "https://legislature.maine.gov/uploads/visual_edit/s-20241204.pdf",
+    "license": "US state public record",
+    "retrieved": "2026-10-30",
+    "used_for": "Certified 2024 votes for all 35 Maine Senate races"
+  },
+  {
+    "id": "oe-nm-2024",
+    "name": "OpenElections New Mexico 2024 general, county file",
+    "url": "https://github.com/openelections/openelections-data-nm",
+    "license": "OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "NM House and Senate 2024",
+    "compiled_from_official_returns_by": "OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "oe-az-pima-2024",
+    "name": "OpenElections Arizona 2024 general, Pima County precinct file",
+    "url": "https://github.com/openelections/openelections-data-az",
+    "license": "OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "AZ House rows from Pima County (district blank in MEDSL). Those races carry the mixed source medsl-oe-az-2024.",
+    "compiled_from_official_returns_by": "OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "openelections-ms-2023",
+    "name": "OpenElections Mississippi 2023 general, county file",
+    "url": "https://github.com/openelections/openelections-data-ms",
+    "license": "OpenElections stated CC BY 4.0 in 2020. Its current site does not state a license.",
+    "retrieved": "2026-10-28",
+    "used_for": "MS House and Senate 2023",
+    "compiled_from_official_returns_by": "OpenElections volunteers",
+    "official": false
+  },
+  {
+    "id": "va-elect",
+    "name": "Virginia Department of Elections, ElectionStats CSV export 2023 and 2025",
+    "url": "https://historical.elections.virginia.gov/",
+    "license": "US state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "VA Senate and House of Delegates 2023, House of Delegates 2025, specials"
+  },
+  {
+    "id": "nj-doe",
+    "name": "New Jersey Division of Elections official general election lists 2023 and 2025",
+    "url": "https://www.nj.gov/state/elections/election-information-results.shtml",
+    "license": "US state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "NJ Senate 2023, Assembly 2023 and 2025, Senate LD35 2025"
+  },
+  {
+    "id": "la-sos-2023",
+    "name": "Louisiana Secretary of State election results Excel, 2023-10-14 and 2023-11-18",
+    "url": "https://voterportal.sos.la.gov/static/2023-10-14",
+    "license": "US state public record",
+    "retrieved": "2026-10-28",
+    "used_for": "LA Senate and House 2023 first round and runoff"
+  },
+  {
+    "id": "ma-electionstats-2024",
+    "name": "Massachusetts Elections Division ElectionStats (validation only)",
+    "url": "https://electionstats.state.ma.us/",
+    "license": "US state public record",
+    "retrieved": "2026-10-31",
+    "used_for": "Check of MA 2024 legislative rows"
+  },
+  {
+    "id": "special-returns-official",
+    "name": "State election offices, official returns for House special elections",
+    "url": "https://electionwrld.vercel.app/data",
+    "license": "Public government records",
+    "retrieved": "2026-10-29",
+    "used_for": "web/data/results/house_specials.json. Each row carries its own document and url."
+  },
+  {
+    "id": "klarner-slers-1967-2022",
+    "name": "State Legislative Election Returns, 1967-2022 (Carl Klarner, Harvard Dataverse)",
+    "url": "https://doi.org/10.7910/DVN/FJOGJB",
+    "license": "CC0 1.0",
+    "retrieved": "2026-10-28",
+    "used_for": "State legislative general/special election results, data/results/sld/{st}.json",
+    "compiled_from_official_returns_by": "Carl Klarner (Harvard Dataverse)",
+    "official": false
+  },
+  {
+    "id": "statewide-2026-ga",
+    "name": "Georgia Secretary of State, November 2026 Federal and State Candidates",
+    "url": "https://sos.ga.gov/sites/default/files/2026-09/November%202026%20Federal%20and%20State%20Candidates%202026.zip",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-sd",
+    "name": "South Dakota Secretary of State, 2026 general election candidate list",
+    "url": "https://vip.sdsos.gov/candidatelist.aspx?eid=774",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-il",
+    "name": "Illinois State Board of Elections, candidate filing search",
+    "url": "https://elections.il.gov/ElectionOperations/CandidateFilingSearch.aspx?ID=sejIrI%2bQmww%3d",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ne",
+    "name": "Nebraska Secretary of State, Final Statewide General Candidate Filing List",
+    "url": "https://sos.nebraska.gov/sites/default/files/doc/elections/2026/Final_Statewide_General_Candidate_Filing_List_9.11.26.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-md",
+    "name": "Maryland State Board of Elections, 2026 general election statewide candidate list",
+    "url": "https://elections.maryland.gov/elections/2026/general_candidates/2026_GG_statewide_candidatelist.html",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ar",
+    "name": "Arkansas Secretary of State, general election contest list",
+    "url": "https://arkansas.tally-enr.com/#election=11b07106-031e-4d7c-911a-d01fb473d6dd",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-mo",
+    "name": "Missouri Secretary of State, 2026 General Election Certified Candidates",
+    "url": "https://www.sos.mo.gov/CMSImages/ElectionCandidates/2026GeneralElectionCertifiedCandidates.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ny",
+    "name": "New York State Board of Elections, Amended Certification, Nov 3, 2026",
+    "url": "https://elections.ny.gov/certification-november-3-2026-general-election",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-wy",
+    "name": "Wyoming Secretary of State, 2026 General Election Candidate Roster",
+    "url": "https://sos.wyo.gov/Elections/Docs/2026/2026_WY_General_Election_Candidates.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-mn",
+    "name": "Minnesota Secretary of State, candidate file for Nov 3, 2026",
+    "url": "https://electionresultsfiles.sos.mn.gov/20261103/cand.txt",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-co",
+    "name": "Colorado Secretary of State, 2026 General Candidate List",
+    "url": "https://www.coloradosos.gov/pubs/elections/vote/files/2026/2026GeneralCandidateListOfficial.xlsx",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-tx",
+    "name": "Texas Secretary of State, 2026 Ballot Certification",
+    "url": "https://www.sos.state.tx.us/elections/forms/2026-ballot-cert.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ct",
+    "name": "Connecticut Secretary of the State, 2026 November town election ballots",
+    "url": "https://portal.ct.gov/sots/election-services/town-ballots/2026-november-town-election-ballots",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-nm",
+    "name": "New Mexico Secretary of State, election results candidate data",
+    "url": "https://electionresults.sos.nm.gov/resultsSW.aspx?type=SW&map=CTY",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-mi",
+    "name": "Michigan Bureau of Elections, 2026 general candidate listing",
+    "url": "https://mi-boe.entellitrak.com/etk-mi-boe-prod/page.request.do?page=page.miboePublicReport&electionType=GEN&electionYear=2026",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ks",
+    "name": "Kansas Secretary of State, 2026 general candidate list",
+    "url": "https://sos.ks.gov/elections/elections_upcoming_candidate.aspx",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-de",
+    "name": "Delaware Department of Elections, 2026 general election candidate list",
+    "url": "https://elections.delaware.gov/candidates/candidatelist/genl_fcddt_2026.html",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-fl",
+    "name": "Florida Division of Elections, 2026 general election candidate list",
+    "url": "https://dos.elections.myflorida.com/candidates/CanList.asp?elecid=20261103-GEN",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-al",
+    "name": "Alabama Secretary of State, Republican candidate certification",
+    "url": "https://www.sos.alabama.gov/sites/default/files/election-2026/Amended_2026_Republican_Certification.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ca",
+    "name": "California Secretary of State, Certified List of Candidates, Nov 3, 2026",
+    "url": "https://elections.cdn.sos.ca.gov/statewide-elections/2026-general/cert-list-candidates.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-oh",
+    "name": "Ohio Secretary of State, election night results file",
+    "url": "https://liveresults.ohiosos.gov/Api/v1/download?filename=VSSC1622XmlFileBlob",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-29",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-vt",
+    "name": "Vermont Secretary of State, 2026 General Election Candidate Listing",
+    "url": "https://sos.vermont.gov/elections/election-info-resources/candidates",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-nv",
+    "name": "Clark County Election Department, notice of general election",
+    "url": "https://www.clarkcountynv.gov/adobe/assets/urn:aaid:aem:dde8b423-5fd3-4635-a9e5-653e57b5491d/original/as/Notice-Gen-Election-26G.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ak",
+    "name": "Alaska Division of Elections, 2026 general election candidate list",
+    "url": "https://www.elections.alaska.gov/candidates/?election=26genr",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-in",
+    "name": "Indiana Secretary of State, 2026 general election candidate list",
+    "url": "https://www.in.gov/sos/elections/files/Candidate_List_Abbreviated_20260922_011251PM.xlsx",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-nd",
+    "name": "North Dakota Secretary of State, 2026 general election contest and candidate list",
+    "url": "https://vip.sos.nd.gov/candidatelist.aspx?eid=348",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-sc",
+    "name": "South Carolina Election Commission, candidate search, 2026 general election",
+    "url": "https://vrems.scvotes.sc.gov/Candidate/CandidateSearch?electionId=22596",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-ok",
+    "name": "Oklahoma State Election Board, November 2026 list of elections",
+    "url": "http://hosting.okelections.us/electionlist.html",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "statewide-2026-al-2",
+    "name": "Alabama Secretary of State, Democratic candidate certification",
+    "url": "https://www.sos.alabama.gov/sites/default/files/election-2026/2026GeneralElectionStateCertificationofDemocraticCandidates.pdf",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-28",
+    "used_for": "web/data/statewide_2026.json: statewide offices on /find"
+  },
+  {
+    "id": "measures-2026-ca",
+    "name": "California Secretary of State, Qualified Statewide Ballot Measures",
+    "url": "https://www.sos.ca.gov/elections/ballot-measures/qualified-ballot-measures",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "measures-2026-mo",
+    "name": "Missouri Secretary of State, 2026 Ballot Measures",
+    "url": "https://www.sos.mo.gov/petitions/2026ballotmeasures",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "measures-2026-sd",
+    "name": "South Dakota Secretary of State, 2026 ballot questions",
+    "url": "https://sdsos.gov/elections-voting/upcoming-elections/general-information/2026-ballot-questions.aspx",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "measures-2026-nd",
+    "name": "North Dakota Secretary of State, Measures on Ballot",
+    "url": "https://www.sos.nd.gov/elections/voter/ballot-measures/measures-ballot",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "measures-2026-nm",
+    "name": "New Mexico Secretary of State, election results system",
+    "url": "https://electionresults.sos.nm.gov/resultsSW.aspx?type=SW&map=CTY",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "measures-2026-ga",
+    "name": "Gwinnett County sample ballot, statewide questions",
+    "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/nov-3-general-election-special-election-consolidated-sample-ballot-english-spanish",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "used_for": "web/data/ballot_measures.json: statewide ballot measures on /find"
+  },
+  {
+    "id": "printed-ballot-2026-ga",
+    "name": "Gwinnett County sample ballot",
+    "url": "https://www.gwinnettcounty.com/documents/d/gwinnett-county/nov-3-general-election-special-election-consolidated-sample-ballot-english-spanish",
+    "license": "US state / county public record (facts only)",
+    "retrieved": "2026-10-31",
+    "sha1": "37e3a9177e0cea26a74ef4d54547a48b39e8f26b",
+    "used_for": "web/data/derived/printed_ballots_2026.json: who is printed on the ballot, by seat"
+  },
+  {
+    "id": "ideology-dime",
+    "name": "Stanford DIME public v4.0, recipients file (CFscores)",
+    "url": "https://data.stanford.edu/dime",
+    "license": "ODC-BY 1.0",
+    "attribution": "Bonica, Adam. 2024. Database on Ideology, Money in Politics, and Elections: Public version 4.0 [Computer file]. Stanford, CA: Stanford University Libraries. https://data.stanford.edu/dime .",
+    "retrieved": "2026-10-29",
+    "used_for": "CFscores for candidates and officials; web/data/ideology/dime.json and aggregate.json. A research estimate by Adam Bonica, not an official measure.",
+    "compiled_from_official_returns_by": "Adam Bonica, Stanford University Libraries (built from campaign finance filings)",
+    "official": false
+  },
+  {
+    "id": "fec-bulk-2026",
+    "name": "FEC bulk data 2025-2026: all-candidates summary (weball26), candidate master (cn), candidate-committee linkage (ccl), committee master (cm)",
+    "url": "https://www.fec.gov/data/browse-data/?tab=bulk-data",
+    "license": "US government work, public domain. Totals and committee names only; no donor names or addresses are stored.",
+    "retrieved": "2026-10-31",
+    "used_for": "Federal 2026 candidates: money totals (web/data/people/money) and the MN federal filing list. Bulk files, no API and no key."
+  },
+  {
+    "id": "fec-pas2-2026",
+    "name": "FEC bulk data 2025-2026: contributions from committees to candidates (pas226)",
+    "url": "https://www.fec.gov/campaign-finance-data/contributions-committees-candidates-file-description/",
+    "license": "US government work, public domain. Committee totals only; the individual contributions file is not used.",
+    "retrieved": "2026-10-31",
+    "file_date": "2026-10-25",
+    "used_for": "Federal 2026 candidates: committees giving to each candidate (web/data/people/money-types). Bulk file, no API and no key."
+  },
+  {
+    "id": "census-cb-2024-place-cousub-500k",
+    "name": "Census cartographic boundaries cb_2024_us_place_500k and cb_2024_us_cousub_500k",
+    "url": "https://www2.census.gov/geo/tiger/GENZ2024/shp/",
+    "license": "US Census Bureau, public domain",
+    "retrieved": "2026-11-01",
+    "used_for": "The places listed on state legislative district pages; web/data/derived/sld_places."
+  },
+  {
+    "id": "census-tiger-2024-county",
+    "name": "Census TIGER/Line 2024 counties (tl_2024_us_county)",
+    "url": "https://www2.census.gov/geo/tiger/TIGER2024/COUNTY/tl_2024_us_county.zip",
+    "license": "US Census Bureau, public domain",
+    "retrieved": "2026-11-01",
+    "used_for": "The counties listed on state legislative district pages; web/data/derived/sld_places."
+  }
+]

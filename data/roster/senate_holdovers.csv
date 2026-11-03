@@ -1,0 +1,66 @@
+state,seat_class,name,party,caucus,bioguide,source_url,source_date
+AK,3,Lisa Murkowski,R,R,M001153,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+AL,3,Katie Boyd Britt,R,R,B001319,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+AR,3,John Boozman,R,R,B001236,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+AZ,1,Ruben Gallego,D,D,G000574,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+AZ,3,Mark Kelly,D,D,K000377,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+CA,1,Adam B. Schiff,D,D,S001150,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+CA,3,Alex Padilla,D,D,P000145,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+CO,3,Michael F. Bennet,D,D,B001267,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+CT,1,Christopher Murphy,D,D,M001169,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+CT,3,Richard Blumenthal,D,D,B001277,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+DE,1,Lisa Blunt Rochester,D,D,B001303,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+FL,1,Rick Scott,R,R,S001217,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+GA,3,Raphael G. Warnock,D,D,W000790,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+HI,1,Mazie K. Hirono,D,D,H001042,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+HI,3,Brian Schatz,D,D,S001194,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+IA,3,Chuck Grassley,R,R,G000386,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+ID,3,Mike Crapo,R,R,C000880,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+IL,3,Tammy Duckworth,D,D,D000622,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+IN,1,Jim Banks,R,R,B001299,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+IN,3,Todd Young,R,R,Y000064,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+KS,3,Jerry Moran,R,R,M000934,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+KY,3,Rand Paul,R,R,P000603,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+LA,3,John Kennedy,R,R,K000393,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MA,1,Elizabeth Warren,D,D,W000817,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MD,1,Angela D. Alsobrooks,D,D,A000382,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MD,3,Chris Van Hollen,D,D,V000128,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+ME,1,"Angus S. King, Jr.",I,D,K000383,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MI,1,Elissa Slotkin,D,D,S001208,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MN,1,Amy Klobuchar,D,D,K000367,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MO,1,Josh Hawley,R,R,H001089,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MO,3,Eric Schmitt,R,R,S001227,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MS,1,Roger F. Wicker,R,R,W000437,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+MT,1,Tim Sheehy,R,R,S001232,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NC,3,Ted Budd,R,R,B001305,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+ND,1,Kevin Cramer,R,R,C001096,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+ND,3,John Hoeven,R,R,H001061,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NE,1,Deb Fischer,R,R,F000463,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NH,3,Margaret Wood Hassan,D,D,H001076,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NJ,1,Andy Kim,D,D,K000394,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NM,1,Martin Heinrich,D,D,H001046,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NV,1,Jacky Rosen,D,D,R000608,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NV,3,Catherine Cortez Masto,D,D,C001113,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NY,1,Kirsten E. Gillibrand,D,D,G000555,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+NY,3,Charles E. Schumer,D,D,S000148,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+OH,1,Bernie Moreno,R,R,M001242,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+OK,3,James Lankford,R,R,L000575,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+OR,3,Ron Wyden,D,D,W000779,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+PA,1,David McCormick,R,R,M001243,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+PA,3,John Fetterman,D,D,F000479,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+RI,1,Sheldon Whitehouse,D,D,W000802,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+SC,3,Tim Scott,R,R,S001184,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+SD,3,John Thune,R,R,T000250,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+TN,1,Marsha Blackburn,R,R,B001243,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+TX,1,Ted Cruz,R,R,C001098,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+UT,1,John R. Curtis,R,R,C001114,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+UT,3,Mike Lee,R,R,L000577,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+VA,1,Tim Kaine,D,D,K000384,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+VT,1,Bernard Sanders,I,D,S000033,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+VT,3,Peter Welch,D,D,W000800,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WA,1,Maria Cantwell,D,D,C000127,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WA,3,Patty Murray,D,D,M001111,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WI,1,Tammy Baldwin,D,D,B001230,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WI,3,Ron Johnson,R,R,J000293,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WV,1,James C. Justice,R,R,J000312,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02
+WY,1,John Barrasso,R,R,B001261,https://www.electionwrld.com/api/v1/datasets/congress,2026-11-02

@@ -1,0 +1,903 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 3920613,
+      "candidates": [
+        {
+          "name": "Howard M. Metzenbaum",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWARD M. METZENBAUM",
+          "votes": 1941113,
+          "pct": 49.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert Taft, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT TAFT, JR.",
+          "votes": 1823774,
+          "pct": 46.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "John O'Neill",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOHN O'NEILL",
+          "votes": 53657,
+          "pct": 1.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Donald E. Babcock",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "DONALD E. BABCOCK",
+          "votes": 36979,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Emma Lila Fundaburk",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "EMMA LILA FUNDABURK",
+          "votes": 33285,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Melisa Singler",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "MELISA SINGLER",
+          "votes": 31805,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 3395463,
+      "candidates": [
+        {
+          "name": "Howard M. Metzenbaum",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWARD M. METZENBAUM",
+          "votes": 1923767,
+          "pct": 56.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Paul E. Pfeifer",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PAUL E. PFEIFER",
+          "votes": 1396790,
+          "pct": 41.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Alicia Merel",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ALICIA MEREL",
+          "votes": 38803,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Philip Herzing",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "PHILIP HERZING",
+          "votes": 36103,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 4352905,
+      "candidates": [
+        {
+          "name": "Howard M. Metzenbaum",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWARD M. METZENBAUM",
+          "votes": 2480038,
+          "pct": 57,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "George V. Voinovich",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE V VOINOVICH",
+          "votes": 1872716,
+          "pct": 43,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 151,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 3436884,
+      "candidates": [
+        {
+          "name": "Mike DeWine",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE DEWINE",
+          "votes": 1836556,
+          "pct": 53.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joel Hyatt",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOEL HYATT",
+          "votes": 1348213,
+          "pct": 39.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Joseph J. Slovenec",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOSEPH J. SLOVENEC",
+          "votes": 252031,
+          "pct": 7.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 84,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 4448801,
+      "candidates": [
+        {
+          "name": "Mike DeWine",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE DEWINE",
+          "votes": 2665512,
+          "pct": 59.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Ted Celeste",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TED CELESTE",
+          "votes": 1595066,
+          "pct": 35.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John R. McAlister",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JOHN R. MCALISTER",
+          "votes": 116724,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "John A. Eastman",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "JOHN A. EASTMAN",
+          "votes": 70713,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 786,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 4019236,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHERROD BROWN",
+          "votes": 2257369,
+          "pct": 56.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mike DeWine",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE DEWINE",
+          "votes": 1761037,
+          "pct": 43.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 830,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 5449018,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHERROD BROWN",
+          "votes": 2762690,
+          "pct": 50.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Josh Mandel",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOSH MANDEL",
+          "votes": 2435712,
+          "pct": 44.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Scott A. Rupert",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "SCOTT A. RUPERT",
+          "votes": 250616,
+          "pct": 4.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 4410898,
+      "candidates": [
+        {
+          "name": "Sherrod Brown",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHERROD BROWN",
+          "votes": 2355923,
+          "pct": 53.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jim Renacci",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JIM RENACCI",
+          "votes": 2053963,
+          "pct": 46.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1012,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 5704620,
+      "candidates": [
+        {
+          "name": "Bernie Moreno",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BERNIE MORENO",
+          "votes": 2857383,
+          "pct": 50.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Sherrod Brown",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "SHERROD BROWN",
+          "votes": 2650949,
+          "pct": 46.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Don Kissick",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "DON KISSICK",
+          "votes": 195648,
+          "pct": 3.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 640,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [],
+  "class3": [
+    {
+      "year": 1980,
+      "date": "1980-11-04",
+      "special": false,
+      "total": 4027303,
+      "candidates": [
+        {
+          "name": "John Glenn",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN GLENN",
+          "votes": 2770786,
+          "pct": 68.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James E. Betts",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES E. BETTS",
+          "votes": 1137695,
+          "pct": 28.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "John E. Powers",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOHN E. POWERS",
+          "votes": 76412,
+          "pct": 1.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 42410,
+          "writein": true,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "total": 3121189,
+      "candidates": [
+        {
+          "name": "John Glenn",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN GLENN",
+          "votes": 1949208,
+          "pct": 62.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Thomas N. Kindness",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "THOMAS N. KINDNESS",
+          "votes": 1171893,
+          "pct": 37.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 88,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "total": 4793953,
+      "candidates": [
+        {
+          "name": "John Glenn",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN GLENN",
+          "votes": 2444419,
+          "pct": 51,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Michael DeWine",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MICHAEL DEWINE",
+          "votes": 2028300,
+          "pct": 42.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Martha Grevatt",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "MARTHA GREVATT",
+          "votes": 321234,
+          "pct": 6.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "total": 3404351,
+      "candidates": [
+        {
+          "name": "George V. Voinovich",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE V. VOINOVICH",
+          "votes": 1922087,
+          "pct": 56.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mary O. Boyle",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARY O. BOYLE",
+          "votes": 1482054,
+          "pct": 43.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 210,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "total": 5425823,
+      "candidates": [
+        {
+          "name": "George V. Voinovich",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE V. VOINOVICH",
+          "votes": 3464356,
+          "pct": 63.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Eric D. Fingerhut",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ERIC D. FINGERHUT",
+          "votes": 1961171,
+          "pct": 36.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 296,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "total": 3815098,
+      "candidates": [
+        {
+          "name": "Rob Portman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROB PORTMAN",
+          "votes": 2168742,
+          "pct": 56.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Lee Fisher",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "LEE FISHER",
+          "votes": 1503297,
+          "pct": 39.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Eric W. Deaton",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "ERIC W. DEATON",
+          "votes": 65856,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Michael L. Pryce",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "MICHAEL L. PRYCE",
+          "votes": 50101,
+          "pct": 1.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Daniel H. Labotz",
+          "party": "O",
+          "party_label": "SOCIALIST",
+          "nameAsFiled": "DANIEL H. LABOTZ",
+          "votes": 26454,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 648,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "total": 5374164,
+      "candidates": [
+        {
+          "name": "Rob Portman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROB PORTMAN",
+          "votes": 3118567,
+          "pct": 58,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Ted Strickland",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TED STRICKLAND",
+          "votes": 1996908,
+          "pct": 37.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Tom Connors",
+          "party": "I",
+          "party_label": "NONE",
+          "nameAsFiled": "TOM CONNORS",
+          "votes": 93041,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Joseph R. Demare",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "JOSEPH R. DEMARE",
+          "votes": 88246,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Scott Rupert",
+          "party": "I",
+          "party_label": "NONE",
+          "nameAsFiled": "SCOTT RUPERT",
+          "votes": 77291,
+          "pct": 1.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 111,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "total": 4133342,
+      "candidates": [
+        {
+          "name": "JD Vance",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JD VANCE",
+          "votes": 2192114,
+          "pct": 53,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Tim Ryan",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TIM RYAN",
+          "votes": 1939489,
+          "pct": 46.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 1739,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ]
+}

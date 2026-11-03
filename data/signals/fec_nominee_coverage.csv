@@ -1,0 +1,1282 @@
+race_id,candidate,party,match_status,fec_id,total_receipts,cash_on_hand,coverage_end,filing_received_at,used_in_model
+AL-SEN,Barry Moore,Republican,missing,,,,,,False
+AL-SEN,Everett Wess,Democrat,unique_name_state_office_match,S6AL00518,128570.16,10542.79,2026-10-14,,False
+AL-01,Jerry Carl,Republican,unique_name_state_office_match,H0AL01055,1452253.91,168086.3,2026-10-14,,False
+AL-01,"Clyde W. Jones, Jr.",Democrat,unique_name_state_office_match,H6AL01094,198017.74,6025.87,2026-10-14,,False
+AL-02,Rhett Marques,Republican,unique_name_state_office_match,H6AL01086,1716373.63,178056.95,2026-10-14,,False
+AL-02,Shomari Figures,Democrat,unique_name_state_office_match,H4AL02170,2706098.03,1197689.31,2026-10-14,,False
+AL-03,Mike Rogers,Republican,missing,,,,,,False
+AL-03,Lee McInnis,Democrat,missing,,,,,,False
+AL-04,Robert B. Aderholt,Republican,unique_name_state_office_match,H6AL04098,1238586.19,719711.9,2026-10-14,,False
+AL-04,Amanda N. Pusczek,Democrat,unique_name_state_office_match,H6AL05228,22283.07,2371.34,2026-10-14,,False
+AL-05,Dale W. Strong,Republican,unique_name_state_office_match,H2AL05102,1775618.3,1054171.91,2026-10-14,,False
+AL-05,Andrew Sneed,Democrat,unique_name_state_office_match,H6AL05244,917289.53,247806.94,2026-10-14,,False
+AL-06,Gary J. Palmer,Republican,unique_name_state_office_match,H4AL06098,1154752.83,74382.23,2026-10-14,,False
+AL-06,Maurice Mercer,Democrat,unique_name_state_office_match,H6AL06184,34751.45,14186.89,2026-10-14,,False
+AL-07,Ammie Akin,Republican,unique_name_state_office_match,H6AL07208,270462.09,33973.18,2026-10-14,,False
+AL-07,Terri A. Sewell,Democrat,unique_name_state_office_match,H0AL07086,2260893.78,3351033.95,2026-10-14,,False
+AK-SEN,Gerald L. Heikes,Republican,missing,,,,,,False
+AK-SEN,Dan Sullivan,Republican,unique_name_state_office_match,S4AK00214,11508274.16,2839757.54,2026-10-14,,False
+AK-SEN,"Daniel J. Sullivan, Jr.",Republican,unique_name_state_office_match,S6AK00326,30555.62,1901.51,2026-10-14,,False
+AK-SEN,Mary Peltola,Democrat,unique_name_state_office_match,S6AK00276,36887509.15,4102125.93,2026-10-14,,False
+AK-01,Nicholas J. Begich III,Republican,unique_name_state_office_match,H2AK01083,6438903.51,1782866.69,2026-10-14,,False
+AK-01,Eric Hafner,Democrat,missing,,,,,,False
+AK-01,Bill Hill,Nonpartisan,unique_name_state_office_match,H6AK01092,2630792.87,117732.32,2026-10-14,,False
+AK-01,James C. “Jim” McDermott,Libertarian,missing,,,,,,False
+AZ-01,Thomas “Jay” Feely IV,Republican,unique_name_state_office_match,H6AZ05190,3799654.13,182764.32,2026-10-14,,False
+AZ-01,Amish Shah,Democrat,unique_name_state_office_match,H4AZ01194,5654453.93,206045.34,2026-10-14,,False
+AZ-01,Monica Alponte,Libertarian,unique_name_state_office_match,H6AZ01488,9453.39,754.22,2026-10-14,,False
+AZ-02,Elijah Crane,Republican,missing,,,,,,False
+AZ-02,Jonathan Nez,Democrat,unique_name_state_office_match,H4AZ02184,5805340.75,506072,2026-10-14,,False
+AZ-02,Curtis Goodwin,Libertarian,missing,,,,,,False
+AZ-03,Yassamin Ansari,Democrat,unique_name_state_office_match,H4AZ03109,1697729.13,410624.03,2026-10-14,,False
+AZ-03,Alan Aversa,No Labels Party,unique_name_state_office_match,H4AZ03174,774.33,256.28,2026-10-14,,False
+AZ-03,David Redkey,Green,unique_name_state_office_match,H6AZ01322,0,0,2026-10-14,,False
+AZ-04,Zuhdi Jasser,Republican,missing,,,,,,False
+AZ-04,Greg Stanton,Democrat,unique_name_state_office_match,H8AZ09040,2674366.81,1918706.62,2026-10-14,,False
+AZ-04,Tisha Benoit,No Labels Party,missing,,,,,,False
+AZ-05,Mark Lamb,Republican,unique_name_state_office_match,H6AZ05265,1771670.69,180750.56,2026-10-14,,False
+AZ-05,Elizabeth Lee,Democrat,unique_name_state_office_match,H6AZ05240,375628.14,124136.06,2026-10-14,,False
+AZ-06,Juan Ciscomani,Republican,unique_name_state_office_match,H2AZ02360,7649793.85,618698.75,2026-10-14,,False
+AZ-06,JoAnna Mendoza,Democrat,unique_name_state_office_match,H6AZ06099,11242473.21,807899.24,2026-10-14,,False
+AZ-06,Jereme Lance Peters,Libertarian,unique_name_state_office_match,H6AZ06214,10500,0,2026-03-31,,False
+AZ-06,Gary Swing,Green,missing,,,,,,False
+AZ-07,"Daniel Francis Butierez, Sr.",Republican,unique_name_state_office_match,H4AZ07134,233882.4,11286.67,2026-10-14,,False
+AZ-07,Adelita S. Grijalva,Democrat,unique_name_state_office_match,H6AZ07121,2559577.1,437547.14,2026-10-14,,False
+AZ-08,Abraham J. Hamadeh,Republican,unique_name_state_office_match,H4AZ08108,1434538.03,186540.96,2026-10-14,,False
+AZ-08,Bernadette Greene-Placentia,Democrat,unique_name_state_office_match,H4AZ08082,372825.77,152740.36,2026-10-14,,False
+AZ-09,Paul A. Gosar,Republican,unique_name_state_office_match,H0AZ01259,813541.57,250385.4,2026-10-14,,False
+AZ-09,Danielle “Dani” Sterbinsky,Democrat,unique_name_state_office_match,H6AZ09085,461874.78,33625.81,2026-10-14,,False
+AR-SEN,Tom Cotton,Republican,missing,,,,,,False
+AR-SEN,Hallie Shoffner,Democrat,unique_name_state_office_match,S6AR00199,4042810.83,756931.7,2026-10-14,,False
+AR-SEN,Jeff Wadlin,Libertarian,missing,,,,,,False
+AR-01,Eric A. “Rick” Crawford,Republican,unique_name_state_office_match,H0AR01083,1135655.28,853000.58,2026-10-14,,False
+AR-01,Terri Yarbrough Green,Democrat,unique_name_state_office_match,H6AR01155,124313.99,8996.17,2026-10-14,,False
+AR-01,Steve G. Parsons,Libertarian,missing,,,,,,False
+AR-02,J. French Hill,Republican,missing,,,,,,False
+AR-02,Chris Jones,Democrat,unique_name_state_office_match,H6AR02286,1959018.06,274178.71,2026-10-14,,False
+AR-03,Steve Womack,Republican,missing,,,,,,False
+AR-03,Robb Ryerse,Democrat,unique_name_state_office_match,H6AR03128,160833.51,14699.55,2026-10-14,,False
+AR-03,Bobby Wilson,Libertarian,missing,,,,,,False
+AR-04,Bruce Westerman,Republican,unique_name_state_office_match,H4AR04048,2975232.54,4501822.51,2026-10-14,,False
+AR-04,James “Rus” Russell III,Democrat,unique_name_state_office_match,H6AR04084,21553.8,4545.6,2026-10-14,,False
+CA-01,James Gallagher,Republican,unique_name_state_office_match,H6CA01285,1995260.11,327729.23,2026-10-14,,False
+CA-01,Mike McGuire,Democrat,unique_name_state_office_match,H6CA01269,2266830.12,153646.5,2026-10-14,,False
+CA-02,Robin Littau,Republican,missing,,,,,,False
+CA-02,Jared Huffman,Democrat,unique_name_state_office_match,H2CA06259,1205633.57,1151201.29,2026-10-14,,False
+CA-03,Robb Tucker,Republican,unique_name_state_office_match,H6CA03174,304654.01,16451.46,2026-10-14,,False
+CA-03,Ami Bera,Democrat,missing,,,,,,False
+CA-04,Eric Jones,Democrat,unique_name_state_office_match,H6CA04222,18058057.13,1541078.69,2026-10-14,,False
+CA-04,Mike Thompson,Democrat,unique_name_state_office_match,H8CA01109,5482944.34,1401439.52,2026-10-14,,False
+CA-05,Tom McClintock,Republican,missing,,,,,,False
+CA-05,Michael Masuda,Democrat,unique_name_state_office_match,H6CA05377,581621.44,59665.79,2026-10-14,,False
+CA-06,Richard Pan,Democrat,unique_name_state_office_match,H6CA03158,2548242.27,207936.2,2026-10-14,,False
+CA-06,Kevin Kiley,Independent,unique_name_state_office_match,H2CA03157,3723214.51,34648,2026-10-14,,False
+CA-07,Doris O. Matsui,Democrat,unique_name_state_office_match,H6CA05195,7837818.8,1995780.29,2026-10-14,,False
+CA-07,Mai Vang,Democrat,unique_name_state_office_match,H6CA07175,1828417.71,388763.28,2026-10-14,,False
+CA-08,Rudy Recile,Republican,unique_name_state_office_match,H2CA00153,20073,235.29,2026-09-30,,False
+CA-08,John Garamendi,Democrat,unique_name_state_office_match,H0CA10149,582745.6,1231642.66,2026-10-14,,False
+CA-09,John McBride,Republican,unique_name_state_office_match,H4CA09101,77472.65,4547.04,2026-10-14,,False
+CA-09,Josh Harder,Democrat,unique_name_state_office_match,H8CA10126,4490401.33,4782692.06,2026-10-14,,False
+CA-10,Jeff Frese,Republican,missing,,,,,,False
+CA-10,Mark DeSaulnier,Democrat,unique_name_state_office_match,H0CA10073,721776.27,467219.62,2026-10-14,,False
+CA-11,Connie Chan,Democrat,unique_name_state_office_match,H6CA11268,2404664.18,581804.91,2026-10-14,,False
+CA-11,Scott Wiener,Democrat,unique_name_state_office_match,H8CA11116,5808855.03,611039.24,2026-10-14,,False
+CA-12,Jamie Joyce,Democrat,unique_name_state_office_match,H6CA12209,69669.05,5258.28,2026-10-14,,False
+CA-12,Lateefah Simon,Democrat,unique_name_state_office_match,H4CA12154,1703905.82,725756.55,2026-10-14,,False
+CA-13,Kevin Lincoln,Republican,unique_name_state_office_match,H4CA09093,2971922.26,448388.44,2026-10-14,,False
+CA-13,Adam Gray,Democrat,unique_name_state_office_match,H2CA13115,5241028.11,848632.63,2026-10-14,,False
+CA-14,Melissa Hernandez,Democrat,unique_name_state_office_match,H6CA14163,2112673.52,108358.09,2026-10-14,,False
+CA-14,Aisha Wahab,Democrat,unique_name_state_office_match,H0CA15213,1214546.85,462322.33,2026-10-14,,False
+CA-15,Charles Hoelter,Republican,missing,,,,,,False
+CA-15,Kevin Mullin,Democrat,unique_name_state_office_match,H2CA14162,981645.13,191601.11,2026-10-14,,False
+CA-16,Peter Sundin Soulé,Republican,unique_name_state_office_match,H6CA16176,4272,4125.22,2026-10-14,,False
+CA-16,Sam T. Liccardo,Democrat,unique_name_state_office_match,H4CA16197,3873149.95,2259659.3,2026-10-14,,False
+CA-17,Ritesh Tandon,Republican,unique_name_state_office_match,H0CA17193,57011.48,5227.22,2026-10-14,,False
+CA-17,Ro Khanna,Democrat,missing,,,,,,False
+CA-18,Shane Lewis,Republican,unique_name_state_office_match,H6CA18172,115468.87,4416.73,2026-10-14,,False
+CA-18,Zoe Lofgren,Democrat,unique_name_state_office_match,H4CA16049,1983394.32,602360.54,2026-10-14,,False
+CA-19,Peter Coe Verbica,Republican,unique_name_state_office_match,H6CA19154,85541.19,6821.14,2026-10-14,,False
+CA-19,Jimmy Panetta,Democrat,unique_name_state_office_match,H6CA20152,3622736.66,5467202.48,2026-10-14,,False
+CA-20,Vince Fong,Republican,unique_name_state_office_match,H4CA20181,2407333.59,667339.4,2026-10-14,,False
+CA-20,Sandra Van Scotter,Democrat,unique_name_state_office_match,H6CA20228,47739.09,-1680.31,2026-10-14,,False
+CA-21,Kyle Kirkland,Republican,unique_name_state_office_match,H6CA13199,464700.09,13100.74,2026-10-14,,False
+CA-21,Jim Costa,Democrat,unique_name_state_office_match,H4CA20082,1685248.73,500767.13,2026-10-14,,False
+CA-22,David G. Valadao,Republican,unique_name_state_office_match,H2CA20094,6325324.07,1711651.27,2026-10-14,,False
+CA-22,Randy Villegas,Democrat,unique_name_state_office_match,H6CA22190,5942030.17,962351.77,2026-10-14,,False
+CA-23,Jay Obernolte,Republican,unique_name_state_office_match,H0CA08135,1854658.18,1378568.34,2026-10-14,,False
+CA-23,Tessa Lynn Hodge,Democrat,unique_name_state_office_match,H6CA23230,126771.66,12434.33,2026-10-14,,False
+CA-24,Bob Smith,Republican,missing,,,,,,False
+CA-24,Salud O. Carbajal,Democrat,unique_name_state_office_match,H6CA24303,1917271.26,3343462.75,2026-10-14,,False
+CA-25,Joe Males,Republican,unique_name_state_office_match,H6CA25219,1114056.44,57994.7,2026-10-14,,False
+CA-25,Raul Ruiz,Democrat,unique_name_state_office_match,H2CA36439,2455630.94,2466904.6,2026-10-14,,False
+CA-26,Sam Gallucci,Republican,missing,,,,,,False
+CA-26,Jacqui Irwin,Democrat,unique_name_state_office_match,H6CA26266,1170990.11,457811.33,2026-10-14,,False
+CA-27,Jason Gibbs,Republican,unique_name_state_office_match,H6CA27306,413837.88,60498.54,2026-10-14,,False
+CA-27,George Whitesides,Democrat,unique_name_state_office_match,H4CA27111,4512697.32,2173658.08,2026-10-14,,False
+CA-28,April A. Verlato,Republican,unique_name_state_office_match,H4CA28127,700,655.19,2026-10-14,,False
+CA-28,Judy Chu,Democrat,unique_name_state_office_match,H0CA32101,1375778.13,3680652.82,2026-10-14,,False
+CA-29,Angélica Maria Dueñas,Democrat,unique_name_state_office_match,H8CA29100,97450.42,16145.36,2026-10-14,,False
+CA-29,Luz M. Rivas,Democrat,unique_name_state_office_match,H4CA29141,1032475.21,296150.2,2026-10-14,,False
+CA-30,Scott Alan Meyers,Republican,unique_name_state_office_match,H6CA30250,122819.35,5241.6,2026-10-14,,False
+CA-30,Laura Friedman,Democrat,unique_name_state_office_match,H4CA30149,994570.57,520548.06,2026-10-14,,False
+CA-31,Eric Ching,Republican,unique_name_state_office_match,H2CA39151,97169.8,10375.02,2026-10-14,,False
+CA-31,"Gilbert Ray Cisneros, Jr.",Democrat,unique_name_state_office_match,H8CA39174,853124.16,212818.2,2026-10-14,,False
+CA-32,Larry Thompson,Republican,unique_name_state_office_match,H4CA32137,66331.34,7145.89,2026-10-14,,False
+CA-32,Brad Sherman,Democrat,unique_name_state_office_match,H6CA24113,2899860.15,2673243.15,2026-10-14,,False
+CA-33,Stephanie M. Vargas,Republican,unique_name_state_office_match,H6CA33114,720.51,520.51,2026-10-14,,False
+CA-33,Pete Aguilar,Democrat,unique_name_state_office_match,H2CA31125,5676010.87,2673714.42,2026-10-14,,False
+CA-34,Jimmy Gomez,Democrat,unique_name_state_office_match,H8CA34266,1336235.14,628394.77,2026-10-14,,False
+CA-34,Angela Gonzales-Torres,Democrat,unique_name_state_office_match,H6CA34286,509751.75,104818.32,2026-10-14,,False
+CA-35,Mike Cargile,Republican,unique_name_state_office_match,H0CA35146,9799,447.81,2026-10-14,,False
+CA-35,Norma J. Torres,Democrat,unique_name_state_office_match,H4CA35031,922924.14,244896.64,2026-10-14,,False
+CA-36,Houston Brignano,Republican,unique_name_state_office_match,H6CA36208,7020.37,1219.09,2026-10-14,,False
+CA-36,Ted Lieu,Democrat,unique_name_state_office_match,H4CA33119,2218447.53,1181424.01,2026-10-14,,False
+CA-37,Sydney Kamlager-Dove,Democrat,unique_name_state_office_match,H2CA37304,1644249.01,184759.92,2026-10-14,,False
+CA-37,Samantha Mota,Democrat,unique_name_state_office_match,H6CA37339,12578.93,328.29,2026-10-14,,False
+CA-38,Pedro Antonio Casas,Republican,missing,,,,,,False
+CA-38,Hilda Solis,Democrat,ambiguous,,,,,,False
+CA-39,Steve Manos,Republican,unique_name_state_office_match,H6CA39145,11929,3987.5,2026-10-14,,False
+CA-39,Mark Takano,Democrat,unique_name_state_office_match,H2CA43245,1133983.78,231215.39,2026-10-14,,False
+CA-40,Ken Calvert,Republican,unique_name_state_office_match,H2CA37023,7050383.48,980390.51,2026-10-14,,False
+CA-40,Young Kim,Republican,unique_name_state_office_match,H8CA39240,10148196.21,910972.96,2026-10-14,,False
+CA-41,Mitch Clemmons,Republican,missing,,,,,,False
+CA-41,Linda T. Sánchez,Democrat,unique_name_state_office_match,H2CA39078,1898187.85,420799.23,2026-10-14,,False
+CA-42,Brian Burley,Republican,unique_name_state_office_match,H0CA48172,251136.54,1939.28,2026-10-14,,False
+CA-42,Robert Garcia,Democrat,unique_name_state_office_match,H2CA47188,3394174.67,1572979.62,2026-10-14,,False
+CA-43,Cristian Morales,Republican,unique_name_state_office_match,H6CA43188,14995,538.74,2026-10-14,,False
+CA-43,Maxine Waters,Democrat,unique_name_state_office_match,H4CA23011,1107267.34,104671.36,2026-10-14,,False
+CA-44,Genevieve Angel,Republican,unique_name_state_office_match,H6CA44210,21826.25,10944.02,2026-10-14,,False
+CA-44,Nanette Diaz Barragán,Democrat,unique_name_state_office_match,H6CA44103,1021920.79,1083798.24,2026-10-14,,False
+CA-45,Chuong V. Vo,Republican,unique_name_state_office_match,H6CA45191,937468.52,175455.65,2026-10-14,,False
+CA-45,Derek Tran,Democrat,unique_name_state_office_match,H4CA45170,5988192.12,2682392.26,2026-10-14,,False
+CA-46,David Pan,Republican,unique_name_state_office_match,H4CA46137,104144.51,1856.37,2026-10-14,,False
+CA-46,J. Luis Correa,Democrat,missing,,,,,,False
+CA-47,Jenny Rae Le Roux,Republican,unique_name_state_office_match,H6CA47114,592041.22,135774.48,2026-10-14,,False
+CA-47,Dave Min,Democrat,unique_name_state_office_match,H4CA47085,3872174.88,1482645.9,2026-10-14,,False
+CA-48,Jim Desmond,Republican,unique_name_state_office_match,H6CA49128,3177972.16,717518.45,2026-10-14,,False
+CA-48,Marni von Wilpert,Democrat,unique_name_state_office_match,H6CA48310,4966576.06,659136.04,2026-10-14,,False
+CA-49,Armen Kurdian,Republican,unique_name_state_office_match,H6CA49169,189195.87,30426.87,2026-10-14,,False
+CA-49,Mike Levin,Democrat,unique_name_state_office_match,H8CA49058,3564690.1,1360778.23,2026-10-14,,False
+CA-50,Steve Cohen,Republican,missing,,,,,,False
+CA-50,Scott H. Peters,Democrat,unique_name_state_office_match,H2CA52089,2191968.34,2567655.53,2026-10-14,,False
+CA-51,Ricardo Cabrera,Republican,missing,,,,,,False
+CA-51,Sara Jacobs,Democrat,unique_name_state_office_match,H8CA49074,1864955.14,317430.4,2026-10-14,,False
+CA-52,Jeff Belle,Republican,missing,,,,,,False
+CA-52,Juan Vargas,Democrat,unique_name_state_office_match,H2CA50026,836097.06,317661.81,2026-10-14,,False
+CO-SEN,Mark Baisley,Republican,unique_name_state_office_match,S6CO00507,138210.47,27709.93,2026-10-14,,False
+CO-SEN,John W. Hickenlooper,Democrat,unique_name_state_office_match,S0CO00575,9529276.87,1558827.9,2026-10-14,,False
+CO-SEN,Christopher Baum,Approval Voting Party,missing,,,,,,False
+CO-SEN,Bob Chew,Forward Party,unique_name_state_office_match,S6CO00556,3603854.49,235007.35,2026-10-14,,False
+CO-SEN,Blake Huber,Libertarian,missing,,,,,,False
+CO-SEN,Adam Withrow,Unity Party,missing,,,,,,False
+CO-01,Christy Peterson,Republican,unique_name_state_office_match,H6CO01331,9446.32,7392.92,2026-10-14,,False
+CO-01,Melat Kiros,Democrat,unique_name_state_office_match,H6CO01273,1308527.59,75724.4,2026-10-14,,False
+CO-01,Shimon Blau,Unaffiliated,unique_name_state_office_match,H6CO01356,204360.6,59760.12,2026-10-14,,False
+CO-01,Chad Humphrey,Libertarian,missing,,,,,,False
+CO-01,Critter Milton,Unity Party,missing,,,,,,False
+CO-02,Kelley Anne Dennison,Republican,unique_name_state_office_match,H6CO02206,12348.37,1087.21,2026-10-14,,False
+CO-02,Joe Neguse,Democrat,missing,,,,,,False
+CO-02,Gaylon Kent,Libertarian,missing,,,,,,False
+CO-03,Jeff Hurd,Republican,missing,,,,,,False
+CO-03,Dwayne L. Romero,Democrat,unique_name_state_office_match,H6CO03253,1701091.41,196124.17,2026-10-14,,False
+CO-03,Clifton Brown,Unaffiliated,missing,,,,,,False
+CO-03,Cory Robertson,Libertarian,missing,,,,,,False
+CO-04,Lauren Boebert,Republican,unique_name_state_office_match,H0CO03165,1226252.92,274161.88,2026-10-14,,False
+CO-04,Eileen Laubacher,Democrat,unique_name_state_office_match,H6CO04202,13700426.19,1846288.39,2026-10-14,,False
+CO-04,Douglas Mangeris,Libertarian,missing,,,,,,False
+CO-05,Jeff Crank,Republican,unique_name_state_office_match,H6CO05142,2872434.39,542836,2026-10-14,,False
+CO-05,Jessica Killin,Democrat,unique_name_state_office_match,H6CO05324,5593463.21,507728.23,2026-10-14,,False
+CO-05,Mark “Marky Jr.” Elworth,Libertarian,missing,,,,,,False
+CO-05,Christopher Mitchell,American Constitution,unique_name_state_office_match,H4CO05071,210,201.27,2026-10-14,,False
+CO-06,Jason Clark,Republican,missing,,,,,,False
+CO-06,Jason Crow,Democrat,unique_name_state_office_match,H8CO06229,4008282.35,2940182.68,2026-10-14,,False
+CO-06,Patty McMahon,Libertarian,unique_name_state_office_match,H6CO06173,6027.35,566.23,2026-09-30,,False
+CO-06,Meredith Ryan,Unity Party,missing,,,,,,False
+CO-06,Samir Witta,Unaffiliated,unique_name_state_office_match,H6CO06116,103438.45,-47148.76,2026-10-14,,False
+CO-07,Tim Bennett,Republican,missing,,,,,,False
+CO-07,Brittany Pettersen,Democrat,unique_name_state_office_match,H8CO07045,2260248.55,1196445.37,2026-10-14,,False
+CO-07,Lawrence Kyle Clark,American Constitution,missing,,,,,,False
+CO-07,Susan Hall,Unity Party,missing,,,,,,False
+CO-07,Joe Krzeczkowski,Unaffiliated,unique_name_state_office_match,H6CO07130,3530.92,916.48,2026-10-14,,False
+CO-07,Dan “Kilo” Sallis,Libertarian,missing,,,,,,False
+CO-08,Gabe Evans,Republican,missing,,,,,,False
+CO-08,Manny Rutinel,Democrat,unique_name_state_office_match,H6CO08013,9459070.43,1002642.35,2026-10-14,,False
+CO-08,Dave Wood,Libertarian,missing,,,,,,False
+CT-01,Amy Chai,Republican,unique_name_state_office_match,H2CT03102,21972.16,690,2026-10-14,,False
+CT-01,Luke Bronin,Democrat,unique_name_state_office_match,H6CT01206,3865511.27,390818.29,2026-10-14,,False
+CT-01,Mary L. Sanders,Green,missing,,,,,,False
+CT-02,George Patrick Austin,"Republican, Independent",unique_name_state_office_match,H6CT02196,314977.26,96712.08,2026-10-14,,False
+CT-02,Joe Courtney,Democrat,missing,,,,,,False
+CT-03,Christopher Lancia,Republican,unique_name_state_office_match,H6CT03178,17485.75,67.54,2026-10-14,,False
+CT-03,Rosa L. DeLauro,Democrat,unique_name_state_office_match,H0CT03072,1622998.67,83415.12,2026-10-14,,False
+CT-03,Thomas Egan,Independent,missing,,,,,,False
+CT-04,Michael Ted Goldstein,Republican,unique_name_state_office_match,H6CT04143,59216.32,26664.73,2026-10-14,,False
+CT-04,James A. Himes,Democrat,missing,,,,,,False
+CT-04,Benjamin Wesley,Independent,unique_name_state_office_match,H4CT04197,155,1740.98,2026-09-30,,False
+CT-05,Chris Shea,Republican,unique_name_state_office_match,H6CT05231,465963.04,53768.43,2026-10-14,,False
+CT-05,Jahana Hayes,Democrat,unique_name_state_office_match,H8CT05245,1716462.12,1136297.07,2026-10-14,,False
+DE-SEN,Michael “Dr. Mike” Katz,Republican,unique_name_state_office_match,S6DE00206,190416.12,16084.59,2026-10-14,,False
+DE-SEN,Christopher A. Coons,Democrat,unique_name_state_office_match,S0DE00092,4956015.33,5031711.21,2026-10-14,,False
+DE-01,Joseph “Dr. Joe” Arminio,Republican,unique_name_state_office_match,H6DE01121,12301.76,6943.76,2026-09-30,,False
+DE-01,Sarah McBride,Democrat,unique_name_state_office_match,H4DE00045,5556755.49,2326039.16,2026-10-14,,False
+FL-SEN-SPECIAL,Ashley Moody,Republican,unique_name_state_office_match,S6FL00640,14524031.96,816355.11,2026-10-14,,False
+FL-SEN-SPECIAL,Angie Nixon,Democrat,missing,,,,,,False
+FL-01,Jimmy Patronis,Republican,unique_name_state_office_match,H6FL01390,4467312.53,939474.31,2026-10-14,,False
+FL-01,Gay Valimont,Democrat,missing,,,,,,False
+FL-01,Tyler L. Davis,No Party Affiliation,missing,,,,,,False
+FL-02,Austin Rogers,Republican,unique_name_state_office_match,H6FL02331,1359851.76,98295.26,2026-10-14,,False
+FL-02,Amanda Marie Green,Democrat,unique_name_state_office_match,H6FL02299,658316.41,28138.56,2026-10-14,,False
+FL-03,Kat Cammack,Republican,unique_name_state_office_match,H0FL03175,2437580.31,962289.35,2026-10-14,,False
+FL-03,Seth Harp,Democrat,unique_name_state_office_match,H6FL03099,172434.58,44145.32,2026-10-14,,False
+FL-03,Mike Klein,No Party Affiliation,unique_name_state_office_match,H6FL03149,120556.13,12411.78,2026-10-14,,False
+FL-04,Aaron Bean,Republican,unique_name_state_office_match,H2FL04211,2682266.58,577963.71,2026-10-14,,False
+FL-04,LaShonda “L. J.” Holloway,Democrat,unique_name_state_office_match,H6FL05193,58546.29,44105.44,2026-10-14,,False
+FL-04,Todd Schaefer,No Party Affiliation,missing,,,,,,False
+FL-04,Mike Sell,Florida Forward Party,unique_name_state_office_match,H6FL04246,24206,4857,2026-10-14,,False
+FL-05,John H. Rutherford,Republican,unique_name_state_office_match,H6FL04105,913650.12,240063.46,2026-10-14,,False
+FL-05,Rachel Grage,Democrat,unique_name_state_office_match,H6FL05250,448142.58,65881.07,2026-10-14,,False
+FL-06,Randy Fine,Republican,unique_name_state_office_match,H6FL06258,4645044.9,184588.47,2026-10-14,,False
+FL-06,Eric Yonce,Democrat,unique_name_state_office_match,H6FL06340,619304.84,96905.4,2026-10-14,,False
+FL-06,Michael Gist,No Party Affiliation,unique_name_state_office_match,H6FL06423,7948.99,-152.57,2026-09-17,,False
+FL-06,Andrew Parrott,Libertarian,missing,,,,,,False
+FL-07,Ryan Elijah,Republican,unique_name_state_office_match,H6FL07231,818460.2,173006.12,2026-10-14,,False
+FL-07,Bale Dalton,Democrat,unique_name_state_office_match,H6FL07215,2334663.82,202253.89,2026-10-14,,False
+FL-07,Christopher Dennison,Libertarian,unique_name_state_office_match,H6FL07249,10500,60,2026-06-30,,False
+FL-08,Mike Haridopolos,Republican,unique_name_state_office_match,H4FL08168,2049237.21,482350.21,2026-10-14,,False
+FL-08,Jennifer Jenkins,Democrat,unique_name_state_office_match,H6FL06399,960174.42,152722.05,2026-10-14,,False
+FL-09,Dan Green,Republican,unique_name_state_office_match,H6FL09294,2692713.23,449959.75,2026-10-14,,False
+FL-09,Darren Soto,Democrat,unique_name_state_office_match,H6FL09179,3652279.81,249994.67,2026-10-14,,False
+FL-10,Maxwell Frost,Democrat,unique_name_state_office_match,H2FL10259,3835169.08,1055862.43,2026-10-14,,False
+FL-11,Joe Strada,Republican,unique_name_state_office_match,H6FL11332,5512075.39,860067.7,2026-10-14,,False
+FL-11,James Pericola,Democrat,unique_name_state_office_match,H6FL11357,225867.92,35195.65,2026-10-14,,False
+FL-11,Ralph Groves,Libertarian,missing,,,,,,False
+FL-12,Gus M. Bilirakis,Republican,unique_name_state_office_match,H6FL09070,2255341.81,254246.07,2026-10-14,,False
+FL-12,Kimberly Overman,Democrat,unique_name_state_office_match,H6FL15200,280117.97,29526.49,2026-10-14,,False
+FL-12,Branden Scrivener,No Party Affiliation,unique_name_state_office_match,H6FL12231,8195.29,27.53,2026-10-14,,False
+FL-13,Anna Paulina Luna,Republican,unique_name_state_office_match,H0FL13158,4351791.83,746955.17,2026-10-14,,False
+FL-13,Leela Gray,Democrat,unique_name_state_office_match,H6FL13312,2917664.89,656422.77,2026-10-14,,False
+FL-13,Tony D’Arrigo,No Party Affiliation,missing,,,,,,False
+FL-14,Mike Beltran,Republican,unique_name_state_office_match,H6FL14237,2731427.99,1731517.72,2026-10-14,,False
+FL-14,Kathy Castor,Democrat,unique_name_state_office_match,H6FL11126,4930537.26,577435.34,2026-10-14,,False
+FL-14,Brian Lambert,Libertarian,unique_name_state_office_match,H6FL14245,17091.52,2476.68,2026-10-14,,False
+FL-15,Laurel M. Lee,Republican,unique_name_state_office_match,H2FL15241,2711189.14,1320456.25,2026-10-14,,False
+FL-15,Robert People,Democrat,unique_name_state_office_match,H6FL15168,82518.46,26624.85,2026-10-14,,False
+FL-16,Sydney Gruters,Republican,unique_name_state_office_match,H6FL16141,1618888.17,252497.06,2026-10-14,,False
+FL-16,Kelly Kirschner,Democrat,unique_name_state_office_match,H6FL16158,876363.29,261139.07,2026-10-14,,False
+FL-16,Mark Davis,No Party Affiliation,unique_name_state_office_match,H6FL06365,66969.03,1699.42,2026-10-14,,False
+FL-17,W. Gregory Steube,Republican,missing,,,,,,False
+FL-17,Matthew Montavon,Democrat,unique_name_state_office_match,H4FL17060,156274.33,25122.84,2026-10-14,,False
+FL-17,Michael J. Quirk,No Party Affiliation,unique_name_state_office_match,H6FL17081,32487.55,3140.66,2026-10-14,,False
+FL-18,Scott Franklin,Republican,unique_name_state_office_match,H0FL15104,1026403.99,883230.77,2026-10-14,,False
+FL-18,Curtis Gibson,Democrat,unique_name_state_office_match,H6FL18212,13784.9,1576.67,2026-09-30,,False
+FL-18,Deva Simmons,No Party Affiliation,unique_name_state_office_match,H6FL18204,29703.8,-1516.29,2026-10-14,,False
+FL-19,Jim Schwartzel,Republican,unique_name_state_office_match,H6FL19137,2828902.86,506211.41,2026-10-14,,False
+FL-19,Victor Arias,Democrat,unique_name_state_office_match,H6FL19277,69983.08,15417.15,2026-10-14,,False
+FL-19,Seth Haskin,No Party Affiliation,unique_name_state_office_match,H6FL19319,8000,651.43,2026-10-14,,False
+FL-20,Brent Andersen,Republican,unique_name_state_office_match,H6FL20143,100349.66,16554.73,2026-10-14,,False
+FL-20,Debbie Wasserman Schultz,Democrat,unique_name_state_office_match,H4FL20023,3707925.05,784570.39,2026-10-14,,False
+FL-20,Kedner Maxime,Independent,unique_name_state_office_match,H6FL20119,126572.76,59351.21,2026-10-14,,False
+FL-21,Brian J. Mast,Republican,unique_name_state_office_match,H6FL18097,5097731.89,2378762.79,2026-10-14,,False
+FL-21,James T. Martin,Democrat,unique_name_state_office_match,H6FL21075,821778.76,50898.38,2026-10-14,,False
+FL-21,Alexander Cooke,No Party Affiliation,unique_name_state_office_match,H6FL21109,30244.18,1384.32,2026-10-14,,False
+FL-22,Casey Askar,Republican,ambiguous,,,,,,False
+FL-22,Pia Dandiya,Democrat,unique_name_state_office_match,H6FL21059,4619822.46,735105.23,2026-10-14,,False
+FL-23,Deborah Adeimy,Republican,unique_name_state_office_match,H2FL21132,201144.96,32789.85,2026-10-14,,False
+FL-23,Lois Frankel,Democrat,unique_name_state_office_match,H2FL14053,2631967.91,564089.62,2026-10-14,,False
+FL-24,Te Mayonna Brown,Republican,unique_name_state_office_match,H6FL14203,313459.03,169275.68,2026-10-14,,False
+FL-24,Oliver G. Gilbert III,Democrat,unique_name_state_office_match,H6FL24095,1458355.31,427294.55,2026-10-14,,False
+FL-25,Scott Singer,Republican,unique_name_state_office_match,H6FL23188,3255312.89,466624.52,2026-10-14,,False
+FL-25,Jared Moskowitz,Democrat,unique_name_state_office_match,H2FL22171,5710776.47,1210073.13,2026-10-14,,False
+FL-25,Peter Jassenoff,Libertarian,unique_name_state_office_match,H6FL25068,10500,60,2026-06-30,,False
+FL-26,Mario Diaz-Balart,Republican,unique_name_state_office_match,H2FL25018,2763195.61,1676212.67,2026-10-14,,False
+FL-26,Nicole Locklin,Democrat,unique_name_state_office_match,H6FL26058,599526.7,109989.78,2026-10-14,,False
+FL-26,Deborah Ann Meidinger Hosey,No Party Affiliation,unique_name_state_office_match,H6FL26074,10780.11,2375.4,2026-09-30,,False
+FL-27,Maria Elvira Salazar,Republican,unique_name_state_office_match,H8FL27185,2519401.34,1680478.41,2026-10-14,,False
+FL-27,Eliott Rodriguez,Democrat,unique_name_state_office_match,H6FL27098,1567392.71,621791.08,2026-10-14,,False
+FL-28,Carlos A. Gimenez,Republican,unique_name_state_office_match,H0FL26036,722290.55,540783.2,2026-10-14,,False
+FL-28,Phil “Felipe” Ehr,Democrat,unique_name_state_office_match,H4FL28042,508311.39,506962.57,2026-09-30,,False
+FL-28,Eddy Rojas,No Party Affiliation,missing,,,,,,False
+GA-SEN,Mike Collins,Republican,missing,,,,,,False
+GA-SEN,Jon Ossoff,Democrat,missing,,,,,,False
+GA-01,James “Jim” Kingston,Republican,unique_name_state_office_match,H6GA01109,2357233.34,269955.36,2026-10-14,,False
+GA-01,Amanda Hollowell,Democrat,unique_name_state_office_match,H6GA01158,264753.46,50136.67,2026-10-14,,False
+GA-02,Matt Day,Republican,unique_name_state_office_match,H6GA01182,217631.83,0,2026-10-14,,False
+GA-02,"Sanford D. Bishop, Jr.",Democrat,unique_name_state_office_match,H2GA02031,1362149.48,431525.13,2026-10-14,,False
+GA-03,Brian Jack,Republican,unique_name_state_office_match,H4GA03126,2431348.05,1105820.24,2026-10-14,,False
+GA-03,Maura Keller,Democrat,unique_name_state_office_match,H4GA03100,246621.17,93521.92,2026-10-14,,False
+GA-04,Jim Duffie,Republican,missing,,,,,,False
+GA-04,"Henry C. “Hank” Johnson, Jr.",Democrat,unique_name_state_office_match,H6GA04129,514399.21,125434.86,2026-10-14,,False
+GA-05,John “Bongo” Salvesen,Republican,missing,,,,,,False
+GA-05,Nikema Williams,Democrat,unique_name_state_office_match,H0GA05301,772833.35,63107.32,2026-10-14,,False
+GA-06,Kevin E. Martin,Republican,unique_name_state_office_match,H6GA06181,10320,100,2026-03-31,,False
+GA-06,Lucy McBath,Democrat,missing,,,,,,False
+GA-07,Richard McCormick,Republican,unique_name_state_office_match,H0GA07273,2250502.72,1335872.39,2026-10-14,,False
+GA-07,Tony Kozycki,Democrat,missing,,,,,,False
+GA-08,Austin Scott,Republican,missing,,,,,,False
+GA-08,Kelly Esti,Democrat,unique_name_state_office_match,H6GA08138,27962.9,3709.27,2026-09-30,,False
+GA-09,Andrew S. Clyde,Republican,unique_name_state_office_match,H0GA09246,738198.43,161468.58,2026-10-14,,False
+GA-09,Caitlyn Gegen,Democrat,unique_name_state_office_match,H6GA09284,101338.84,21136.79,2026-10-14,,False
+GA-10,Houston Gaines,Republican,unique_name_state_office_match,H6GA10175,2816583.39,1062078.81,2026-10-14,,False
+GA-10,Pamela “Pam” DeLancy,Democrat,unique_name_state_office_match,H6GA10183,78669.71,24291.66,2026-10-14,,False
+GA-11,John Cowan,Republican,unique_name_state_office_match,H0GA14048,2824605.89,145818.15,2026-10-14,,False
+GA-11,Chris Harden,Democrat,missing,,,,,,False
+GA-12,Rick W. Allen,Republican,missing,,,,,,False
+GA-12,Ceretta Smith,Democrat,unique_name_state_office_match,H6GA12080,47692.67,12318.39,2026-10-14,,False
+GA-13,Jonathan Chavez,Republican,missing,,,,,,False
+GA-13,Jasmine Clark,Democrat,unique_name_state_office_match,H6GA13070,2386955.4,343732.06,2026-10-14,,False
+GA-14,Clay Fuller,Republican,unique_name_state_office_match,H0GA14030,2160464.05,204313.96,2026-10-14,,False
+GA-14,Shawn Harris,Democrat,unique_name_state_office_match,H4GA14057,8418045.03,59312.51,2026-10-14,,False
+HI-01,Adriel C. Lam,Republican,missing,,,,,,False
+HI-01,Ed Case,Democrat,missing,,,,,,False
+HI-01,Nathan M. Berning,Nonpartisan,missing,,,,,,False
+HI-01,Jordan S. Conley,Green,missing,,,,,,False
+HI-02,Brenton Awa,Republican,unique_name_state_office_match,H6HI02426,131062.69,9142.64,2026-10-14,,False
+HI-02,Jill N. Tokuda,Democrat,unique_name_state_office_match,H2HI02581,985930.33,486974.66,2026-10-14,,False
+ID-SEN,James E. Risch,Republican,unique_name_state_office_match,S8ID00092,3935512.15,2122234.76,2026-10-14,,False
+ID-SEN,Todd Achilles,Independent,unique_name_state_office_match,S6ID00146,1921131.94,195818.55,2026-10-14,,False
+ID-SEN,Natalie M. Fleming,Independent,missing,,,,,,False
+ID-SEN,Matt Loesby,Libertarian,missing,,,,,,False
+ID-01,Russ Fulcher,Republican,missing,,,,,,False
+ID-01,Kaylee Peterson,Democrat,unique_name_state_office_match,H2ID01192,279403.54,24344.68,2026-10-14,,False
+ID-01,Brendan J. Gomez,Constitution,unique_name_state_office_match,H4ID01149,0,0,2026-03-31,,False
+ID-01,Sarah Zabel,Independent,unique_name_state_office_match,H6ID01318,272259.88,62333.38,2026-10-14,,False
+ID-02,Michael K. Simpson,Republican,unique_name_state_office_match,H8ID02064,1409211.99,300591.21,2026-10-14,,False
+ID-02,Ellie Gilbreath,Democrat,missing,,,,,,False
+ID-02,Emre Houser,Independent,missing,,,,,,False
+ID-02,Tripp Charles Hutchinson,Independent,unique_name_state_office_match,H6ID02241,7565,6963.48,2026-06-30,,False
+ID-02,Will Johanson,Libertarian,missing,,,,,,False
+IL-SEN,Don Tracy,Republican,unique_name_state_office_match,S6IL00615,4914363.45,483017.38,2026-10-14,,False
+IL-SEN,Juliana Stratton,Democrat,unique_name_state_office_match,S6IL00458,7230576.52,1541584.8,2026-10-14,,False
+IL-SEN,"Whitfield Harrington, Jr.",American Center Party,unique_name_state_office_match,S6IL00680,143381.62,19484.15,2026-10-14,,False
+IL-01,Christian Maxwell,Republican,unique_name_state_office_match,H6IL01191,94709.38,62200.44,2026-10-14,,False
+IL-01,Jonathan L. Jackson,Democrat,unique_name_state_office_match,H2IL01349,539051.41,40069.83,2026-10-14,,False
+IL-02,Michael Scott Noack,Republican,missing,,,,,,False
+IL-02,Donna Miller,Democrat,unique_name_state_office_match,H6IL02355,2700312.85,92406.74,2026-10-14,,False
+IL-03,Angel Oakley,Republican,unique_name_state_office_match,H6IL03163,18442.93,4060.72,2026-10-14,,False
+IL-03,Delia C. Ramirez,Democrat,unique_name_state_office_match,H2IL03162,1626337.17,913892.2,2026-10-14,,False
+IL-04,Lupe Castillo,Republican,missing,,,,,,False
+IL-04,Patty Garcia,Democrat,unique_name_state_office_match,H6IL04153,526691.49,156711.17,2026-10-14,,False
+IL-04,Chris Getty,Independent,missing,,,,,,False
+IL-04,Ed Hershey,Working Class,missing,,,,,,False
+IL-05,Tommy Hanson,Republican,missing,,,,,,False
+IL-05,Mike Quigley,Democrat,unique_name_state_office_match,H0IL05096,998074.45,1102663.88,2026-10-14,,False
+IL-06,Niki Conforti,Republican,unique_name_state_office_match,H2IL06090,348452.74,7638.59,2026-10-14,,False
+IL-06,Sean Casten,Democrat,unique_name_state_office_match,H8IL06139,2516549.09,1022382.81,2026-10-14,,False
+IL-07,Chad Koppie,Republican,unique_name_state_office_match,H2IL08203,60408.81,42.2,2026-10-14,,False
+IL-07,La Shawn K. Ford,Democrat,unique_name_state_office_match,H6IL07354,819320.56,93472.06,2026-10-14,,False
+IL-08,Jennifer Davis,Republican,unique_name_state_office_match,H6IL08311,1782174.57,279746.97,2026-10-14,,False
+IL-08,Melissa L. Bean,Democrat,unique_name_state_office_match,H6IL08329,2457207.28,301713.53,2026-10-14,,False
+IL-09,John Elleson,Republican,missing,,,,,,False
+IL-09,Daniel Biss,Democrat,unique_name_state_office_match,H6IL09228,3446462.65,608882.79,2026-10-14,,False
+IL-10,Carl Lambrecht,Republican,missing,,,,,,False
+IL-10,Bradley Scott Schneider,Democrat,unique_name_state_office_match,H2IL10068,3657881.54,1707158.21,2026-10-14,,False
+IL-11,Jeff Walter,Republican,missing,,,,,,False
+IL-11,Bill Foster,Democrat,missing,,,,,,False
+IL-12,Mike Bost,Republican,missing,,,,,,False
+IL-12,Julie Fortier,Democrat,unique_name_state_office_match,H6IL12131,161510.74,33644.35,2026-10-14,,False
+IL-13,Jeff Wilson,Republican,unique_name_state_office_match,H6IL13154,532329.74,48166.81,2026-10-14,,False
+IL-13,Nikki Budzinski,Democrat,unique_name_state_office_match,H2IL13153,3654995.97,2951806.45,2026-10-14,,False
+IL-14,James T. “Jim” Marter,Republican,unique_name_state_office_match,H8IL16153,214272.03,37832.43,2026-10-14,,False
+IL-14,Lauren Underwood,Democrat,unique_name_state_office_match,H8IL14174,2848041.74,1155856.49,2026-10-14,,False
+IL-15,Mary E. Miller,Republican,unique_name_state_office_match,H0IL15129,1862237.52,910536.07,2026-10-14,,False
+IL-15,Jennifer Todd,Democrat,unique_name_state_office_match,H6IL15092,210096.75,37185.6,2026-10-14,,False
+IL-16,Darin LaHood,Republican,unique_name_state_office_match,H6IL18088,4205602.32,5988458.85,2026-10-14,,False
+IL-16,Paul Nolley,Democrat,unique_name_state_office_match,H6IL16108,639225.21,59059.47,2026-10-14,,False
+IL-17,Dillan S. Vancil,Republican,unique_name_state_office_match,H6IL17247,406023.47,52481.85,2026-10-14,,False
+IL-17,Eric Sorensen,Democrat,unique_name_state_office_match,H2IL17147,2657085.16,1289862.49,2026-10-14,,False
+IN-01,Barb Regnitz,Republican,unique_name_state_office_match,H6IN01231,2755770.38,504235.07,2026-10-14,,False
+IN-01,Frank J. Mrvan,Democrat,unique_name_state_office_match,H0IN01150,3035422.42,772227.05,2026-10-14,,False
+IN-02,Rudy Yakym III,Republican,unique_name_state_office_match,H2IN02295,6577079.31,421569.93,2026-10-14,,False
+IN-02,Jamee Decio,Democrat,unique_name_state_office_match,H6IN02189,1455232.1,454600.26,2026-10-14,,False
+IN-02,William Eric Henry,Libertarian,missing,,,,,,False
+IN-03,Marlin A. Stutzman,Republican,unique_name_state_office_match,H0IN03198,967094.9,101047.75,2026-10-14,,False
+IN-03,Kelly Thompson,Democrat,unique_name_state_office_match,H6IN03294,347103.35,53981.44,2026-10-14,,False
+IN-04,James R. Baird,Republican,unique_name_state_office_match,H8IN04199,604799.61,110354.75,2026-10-14,,False
+IN-04,Drew Cox,Democrat,unique_name_state_office_match,H6IN04193,60558.9,6820.03,2026-10-14,,False
+IN-05,Victoria Spartz,Republican,unique_name_state_office_match,H0IN05326,2192717.16,514921.94,2026-10-14,,False
+IN-05,J. D. Ford,Democrat,missing,,,,,,False
+IN-06,Jefferson Shreve,Republican,unique_name_state_office_match,H4IN06185,2534240.42,1184692.85,2026-10-14,,False
+IN-06,Cynthia “Cinde” Wirth,Democrat,unique_name_state_office_match,H6IN06230,91566.02,26537.98,2026-10-14,,False
+IN-07,Patrick McAuley,Republican,missing,,,,,,False
+IN-07,André Carson,Democrat,unique_name_state_office_match,H8IN07184,1131715,558519.56,2026-10-14,,False
+IN-07,James M. Sceniak,Libertarian,missing,,,,,,False
+IN-08,Mark B. Messmer,Republican,unique_name_state_office_match,H4IN08249,1424576.78,550906.09,2026-10-14,,False
+IN-08,Mary Allen,Democrat,unique_name_state_office_match,H6IN08293,493068.23,107507.05,2026-10-14,,False
+IN-09,Erin Houchin,Republican,unique_name_state_office_match,H6IN09143,2205947.56,928735.9,2026-10-14,,False
+IN-09,Brad A. Meyer,Democrat,missing,,,,,,False
+IN-09,Tonya L. Hudson,Libertarian,unique_name_state_office_match,H6IN09317,1822.38,-250.74,2026-10-14,,False
+IA-SEN,Ashley Hinson,Republican,missing,,,,,,False
+IA-SEN,Josh Turek,Democrat,missing,,,,,,False
+IA-SEN,Thomas Laehn,Libertarian,unique_name_state_office_match,S6IA00181,61145.58,9035.08,2026-10-14,,False
+IA-01,Mariannette Miller-Meeks,Republican,unique_name_state_office_match,H8IA02043,9101897.68,1700717.48,2026-10-14,,False
+IA-01,Christina Bohannan,Democrat,unique_name_state_office_match,H2IA02111,9905570.29,2110846.44,2026-10-14,,False
+IA-01,Michael Bridgford,No Party,unique_name_state_office_match,H6IA01213,338285.03,76729.96,2026-10-14,,False
+IA-02,Joe Mitchell,Republican,unique_name_state_office_match,H6IA02237,2916068.98,545533.67,2026-10-14,,False
+IA-02,Lindsay James,Democrat,unique_name_state_office_match,H6IA02211,3917994.43,265953.27,2026-10-14,,False
+IA-02,Dave Bushaw,No Party,unique_name_state_office_match,H6IA02260,38292.01,11317.89,2026-10-14,,False
+IA-02,Rick Stewart,Libertarian,missing,,,,,,False
+IA-03,Zachary Nunn,Republican,missing,,,,,,False
+IA-03,Sarah Trone Garriott,Democrat,unique_name_state_office_match,H6IA03268,8070401.51,1153589.5,2026-10-14,,False
+IA-04,Chris McGowan,Republican,unique_name_state_office_match,H6IA04167,862815.88,443915.09,2026-10-14,,False
+IA-04,Dave Dawson,Democrat,unique_name_state_office_match,H6IA04217,259240.69,41976.25,2026-10-14,,False
+KS-SEN,Roger Marshall,Republican,unique_name_state_office_match,S0KS00315,5350063.53,809806.46,2026-10-14,,False
+KS-SEN,Adam Hamilton,Democrat,unique_name_state_office_match,S6KS00312,19175044.34,2874363.74,2026-10-14,,False
+KS-SEN,David C. Graham,Libertarian,missing,,,,,,False
+KS-01,Tracey Mann,Republican,unique_name_state_office_match,H0KS01123,1793300.23,2914104.35,2026-10-14,,False
+KS-01,Lauren Reinhold,Democrat,unique_name_state_office_match,H6KS01203,136351.18,32985.04,2026-10-14,,False
+KS-01,Steven Jacob,Libertarian,missing,,,,,,False
+KS-02,Derek Schmidt,Republican,unique_name_state_office_match,H4KS02164,1772988.97,457585.77,2026-10-14,,False
+KS-02,Don Coover,Democrat,unique_name_state_office_match,H6KS02276,1363193.3,231675.8,2026-10-14,,False
+KS-02,John Hauer,Libertarian,missing,,,,,,False
+KS-03,Eric Jenkins,Republican,unique_name_state_office_match,H6KS03308,51735.28,18941.49,2026-10-14,,False
+KS-03,Sharice Davids,Democrat,unique_name_state_office_match,H8KS03155,4656759.22,1860025.74,2026-10-14,,False
+KS-03,Steven A. Hohe,Libertarian,missing,,,,,,False
+KS-04,Ron Estes,Republican,unique_name_state_office_match,H8KS04112,2203776,1325358.68,2026-10-14,,False
+KS-04,Katy Tyndell,Democrat,unique_name_state_office_match,H6KS04272,633158.83,145996.06,2026-10-14,,False
+KS-04,Drew Cranmer,Libertarian,missing,,,,,,False
+KY-SEN,Andy Barr,Republican,missing,,,,,,False
+KY-SEN,Charles Booker,Democrat,ambiguous,,,,,,False
+KY-SEN,Christopher Campbell,Kentucky Party,unique_name_state_office_match,S6KY00377,0,0,2026-10-14,,False
+KY-01,James Comer,Republican,unique_name_state_office_match,H6KY01110,2318360.81,1623432.27,2026-10-14,,False
+KY-01,John “Drew” Williams,Democrat,unique_name_state_office_match,H6KY01169,223179.9,7976.68,2026-10-14,,False
+KY-02,Brett Guthrie,Republican,missing,,,,,,False
+KY-02,Megan Wingfield,Democrat,unique_name_state_office_match,H6KY02068,9584.49,1270.59,2026-10-14,,False
+KY-02,Thomas A. Loecken,Independent,missing,,,,,,False
+KY-03,Maria Teresa Rodriguez,Republican,unique_name_state_office_match,H6KY03223,84148.7,40280.83,2026-10-14,,False
+KY-03,Morgan McGarvey,Democrat,unique_name_state_office_match,H2KY03206,1998328.22,1933845.66,2026-10-14,,False
+KY-04,Ed Gallrein,Republican,unique_name_state_office_match,H6KY04171,4095784.14,433535.49,2026-10-14,,False
+KY-04,Melissa Claire Strange,Democrat,unique_name_state_office_match,H6KY04189,157330.4,40742.09,2026-10-14,,False
+KY-04,Jeremy Todd,Libertarian,unique_name_state_office_match,H6KY04205,30837.92,3389.02,2026-10-14,,False
+KY-05,Harold Rogers,Republican,unique_name_state_office_match,H0KY05015,1026113.99,701923.99,2026-10-14,,False
+KY-05,Ned Pillersdorf,Democrat,unique_name_state_office_match,H6KY05152,377088.72,106493.98,2026-10-14,,False
+KY-05,Gerardo Serrano,Independent,missing,,,,,,False
+KY-05,Mikel Wein,Independent,unique_name_state_office_match,H6KY05202,4250,2911.78,2026-10-14,,False
+KY-06,Ralph Alvarado,Republican,unique_name_state_office_match,H6KY06192,2307369.27,180811.5,2026-10-14,,False
+KY-06,Zach Dembo,Democrat,unique_name_state_office_match,H6KY06184,3205461.88,620329.56,2026-10-14,,False
+KY-06,Jay J. Bowman,Independent,missing,,,,,,False
+KY-06,Pete Lynch,Kentucky Party,missing,,,,,,False
+LA-SEN,Julia Letlow,Republican,unique_name_state_office_match,S6LA00664,7062068.51,443169.94,2026-10-14,,False
+LA-SEN,“Jamie” Davis,Democrat,unique_name_state_office_match,S6LA00615,5019888.28,1254928.52,2026-10-14,,False
+LA-01,Randall Arrington,Republican,missing,,,,,,False
+LA-01,Steve Scalise,Republican,unique_name_state_office_match,H0LA01087,11172078.05,2912526.17,2026-10-14,,False
+LA-01,Lauren Jewett,Democrat,unique_name_state_office_match,H6LA01258,716339.22,156045.85,2026-10-14,,False
+LA-01,E. “Liddy” Glass,No Party,missing,,,,,,False
+LA-02,Peter Williams,Republican,missing,,,,,,False
+LA-02,Troy A. Carter,Democrat,unique_name_state_office_match,H2LA02149,1941169.25,630466.36,2026-10-14,,False
+LA-02,Lisa Ballay,Libertarian,unique_name_state_office_match,H2LA02305,1110,610,2026-10-14,,False
+LA-02,Walter “Rocky” Beach,No Party,missing,,,,,,False
+LA-02,Renada “Honey” Collins,No Party,missing,,,,,,False
+LA-03,“Kate” Cotten,Republican,missing,,,,,,False
+LA-03,Clay Higgins,Republican,unique_name_state_office_match,H6LA03148,904294.13,566471.7,2026-10-14,,False
+LA-03,John Day,Democrat,unique_name_state_office_match,H6LA03205,222556.77,124738.15,2026-10-14,,False
+LA-03,Priscilla Gonzalez,Democrat,missing,,,,,,False
+LA-03,Caleb “With a C” Walker,Democrat,missing,,,,,,False
+LA-03,Tia LeBrun,No Party,unique_name_state_office_match,H2LA03105,7383,3880.01,2026-09-30,,False
+LA-04,Gordon Heslop,Republican,unique_name_state_office_match,H6LA04229,128719.69,5977.95,2026-10-14,,False
+LA-04,Mike Johnson,Republican,missing,,,,,,False
+LA-04,“Mike” Nichols,Republican,missing,,,,,,False
+LA-04,Conrad Cable,Democrat,unique_name_state_office_match,H6LA04187,1842505.52,408807.78,2026-10-14,,False
+LA-04,“Matt” Gromlich,Democrat,missing,,,,,,False
+LA-05,"Stewart Cathey, Jr.",Republican,unique_name_state_office_match,H6LA05184,245550,97779,2026-10-14,,False
+LA-05,Misti Cordell,Republican,unique_name_state_office_match,H6LA05200,658608.43,200178.37,2026-10-14,,False
+LA-05,Oscar “Omar” Dantzler,Republican,missing,,,,,,False
+LA-05,Michael Echols,Republican,unique_name_state_office_match,H6LA05242,3188839.56,888951.7,2026-10-14,,False
+LA-05,“Gabe” Firment,Republican,missing,,,,,,False
+LA-05,Austin Magee,Republican,unique_name_state_office_match,H6LA05283,11430.87,180.11,2026-10-14,,False
+LA-05,Dan McKay,Democrat,unique_name_state_office_match,H6LA05291,121181.95,4998.31,2026-10-14,,False
+LA-05,Patricia “Pat” Moore,Democrat,unique_name_state_office_match,H6LA05341,23053.55,4145.31,2026-10-14,,False
+LA-05,Antonio Wilson,Democrat,ambiguous,,,,,,False
+LA-06,Monique Appeaning,Republican,missing,,,,,,False
+LA-06,Larry Davis III,Republican,unique_name_state_office_match,H6LA05168,33216.2,809.04,2026-10-14,,False
+LA-06,“Rick” Edmonds,Republican,unique_name_state_office_match,H6LA05226,697139.24,134634.87,2026-10-14,,False
+LA-06,Michael Mebruer,Republican,unique_name_state_office_match,H6LA05259,70714.45,10986.86,2026-10-14,,False
+LA-06,Blake Miguez,Republican,unique_name_state_office_match,H6LA05234,7749606.17,1534513.37,2026-10-14,,False
+LA-06,Stephen Wagley,Republican,unique_name_state_office_match,H6LA06182,874343.55,195633.13,2026-10-14,,False
+LA-06,Chauna Banks,Democrat,missing,,,,,,False
+LA-06,Patrick “Pat” Forbes,Democrat,unique_name_state_office_match,H6LA06190,156333.69,97399.96,2026-10-14,,False
+LA-06,Lindsay “Rubia” Garcia,Democrat,unique_name_state_office_match,H6LA05309,97007.38,21654.33,2026-10-14,,False
+LA-06,Rufus Craig,Libertarian,missing,,,,,,False
+ME-SEN,Susan M. Collins,Republican,unique_name_state_office_match,S6ME00159,22465217.83,2689882.54,2026-10-14,,False
+ME-SEN,Troy D. Jackson,Democrat,unique_name_state_office_match,S6ME00464,26872873.96,1596870.56,2026-10-14,,False
+ME-01,Ronald C. Russell,Republican,unique_name_state_office_match,H4ME01160,214095.98,8363.57,2026-10-14,,False
+ME-01,Chellie Pingree,Democrat,unique_name_state_office_match,H8ME01120,551077.7,320049.11,2026-10-14,,False
+ME-02,Paul R. LePage,Republican,unique_name_state_office_match,H6ME02148,3299130.03,848223.64,2026-10-14,,False
+ME-02,Matthew G. Dunlap,Democrat,missing,,,,,,False
+MD-01,Andy Harris,Republican,missing,,,,,,False
+MD-01,Dan Schwartz,Democrat,missing,,,,,,False
+MD-02,Dave Wallace,Republican,missing,,,,,,False
+MD-02,"Johnny Olszewski, Jr.",Democrat,missing,,,,,,False
+MD-03,Berney Flowers,Republican,missing,,,,,,False
+MD-03,Sarah Elfreth,Democrat,unique_name_state_office_match,H4MD03156,1429992.6,240886.52,2026-10-14,,False
+MD-04,George E. McDermott,Republican,missing,,,,,,False
+MD-04,Glenn Ivey,Democrat,unique_name_state_office_match,H2MD04232,886967.08,493566.36,2026-10-14,,False
+MD-04,Sam Husseini,Green,missing,,,,,,False
+MD-05,Chris Chaffee,Republican,missing,,,,,,False
+MD-05,Adrian Boafo,Democrat,unique_name_state_office_match,H6MD05321,1906194.02,92102.44,2026-10-14,,False
+MD-06,Robin Ficker,Republican,unique_name_state_office_match,H6MD06287,1284599.36,4327.62,2026-10-14,,False
+MD-06,April McClain Delaney,Democrat,unique_name_state_office_match,H4MD06340,12535127.56,121838.51,2026-10-14,,False
+MD-06,Moshe Y. Landman,Green,missing,,,,,,False
+MD-07,Scott M. Collier,Republican,missing,,,,,,False
+MD-07,Kweisi Mfume,Democrat,unique_name_state_office_match,H6MD07020,489735.93,612318.39,2026-10-14,,False
+MD-08,Cheryl Riley,Republican,unique_name_state_office_match,H4MD08213,22354.21,2691.08,2026-10-14,,False
+MD-08,Jamie Raskin,Democrat,unique_name_state_office_match,H6MD08457,9316433.86,7912572.18,2026-10-14,,False
+MD-08,Nancy Wallace,Green,missing,,,,,,False
+MA-SEN,John Deaton,Republican,ambiguous,,,,,,False
+MA-SEN,Edward J. Markey,Democrat,unique_name_state_office_match,S4MA00028,5985385.37,799912.74,2026-10-14,,False
+MA-SEN,Shiva Ayyadurai,Independent,ambiguous,,,,,,False
+MA-SEN,Joe Tache,Socialism and Liberation,missing,,,,,,False
+MA-01,Richard E. Neal,Democrat,unique_name_state_office_match,H8MA02041,3112617.01,1878102.25,2026-10-14,,False
+MA-01,Nadia Donya Milleron,"Independent, Unenrolled",unique_name_state_office_match,H4MA01091,1585489.1,310205.12,2026-10-14,,False
+MA-02,James P. McGovern,Democrat,unique_name_state_office_match,H4MA03022,1013810.25,369456.63,2026-10-14,,False
+MA-03,Gary J. Grossi,Republican,unique_name_state_office_match,H6MA03100,9150.83,7377.82,2026-10-14,,False
+MA-03,Lori Trahan,Democrat,unique_name_state_office_match,H8MA03106,1878706.73,1791267.16,2026-10-14,,False
+MA-03,Dennis R. Conlon,Unenrolled,missing,,,,,,False
+MA-04,Thomas Stalcup,Republican,unique_name_state_office_match,H6MA04140,26619.26,147.26,2026-10-14,,False
+MA-04,Jake Auchincloss,Democrat,unique_name_state_office_match,H0MA04192,3935406.36,7476829.34,2026-10-14,,False
+MA-05,Katherine M. Clark,Democrat,unique_name_state_office_match,H4MA05084,5026057.81,1229548.01,2026-10-14,,False
+MA-06,Micah Quinney Jones,Republican,unique_name_state_office_match,H6MA06202,619903.76,169782.15,2026-10-14,,False
+MA-06,Dan Koh,Democrat,missing,,,,,,False
+MA-07,Ayanna Pressley,Democrat,unique_name_state_office_match,H8MA07032,1319248.35,86475.82,2026-10-14,,False
+MA-08,Robert G. Burke,Republican,unique_name_state_office_match,H2MA08090,1525,-16965.6,2026-09-30,,False
+MA-08,Stephen F. Lynch,Democrat,unique_name_state_office_match,H2MA09072,1052702.73,493968.79,2026-10-14,,False
+MA-08,Rasheed Nicholas Walters,Independent,missing,,,,,,False
+MA-09,R. Tyler Macallister,Republican,missing,,,,,,False
+MA-09,William R. Keating,Democrat,unique_name_state_office_match,H0MA10082,553689.68,460620.04,2026-10-14,,False
+MI-SEN,Mike Rogers,Republican,missing,,,,,,False
+MI-SEN,Abdul El-Sayed,Democrat,unique_name_state_office_match,S6MI00418,53830872.19,2734028.89,2026-10-14,,False
+MI-SEN,Lydia Christensen,Libertarian,unique_name_state_office_match,S6MI00442,7159.28,2600.65,2026-10-14,,False
+MI-SEN,Walter P. Kristy,Natural Law,missing,,,,,,False
+MI-SEN,Tim Long,U.S. Taxpayers,missing,,,,,,False
+MI-SEN,Douglas P. Marsh,Green,missing,,,,,,False
+MI-01,Jack Bergman,Republican,missing,,,,,,False
+MI-01,Callie Barr,Democrat,unique_name_state_office_match,H4MI01155,1724591.9,383735.18,2026-10-14,,False
+MI-01,LaVeta Davenport,Green,missing,,,,,,False
+MI-01,Zebulon Featherly,No Party Affiliation,missing,,,,,,False
+MI-01,Liz Hakola,Working Class,missing,,,,,,False
+MI-01,Doc Kovaly,U.S. Taxpayers,missing,,,,,,False
+MI-01,Arnett Satterla,Libertarian,missing,,,,,,False
+MI-02,John R. Moolenaar,Republican,unique_name_state_office_match,H4MI04126,2068418.39,1213299.49,2026-10-14,,False
+MI-02,Ben Ambrose,Democrat,missing,,,,,,False
+MI-02,Charlotte Magoon,Green,missing,,,,,,False
+MI-02,Richard Sills,Natural Law,missing,,,,,,False
+MI-03,Terri DeBoer,Republican,unique_name_state_office_match,H6MI03198,865481.34,70280.61,2026-10-14,,False
+MI-03,Hillary J. Scholten,Democrat,unique_name_state_office_match,H0MI03316,3034438.11,1531771.98,2026-10-14,,False
+MI-03,Joe Jock,Green,missing,,,,,,False
+MI-04,Bill Huizenga,Republican,missing,,,,,,False
+MI-04,Sean McCann,Democrat,unique_name_state_office_match,H6MI04204,4699153.23,1034442.24,2026-10-14,,False
+MI-04,Shafina Che Barnett,Green,missing,,,,,,False
+MI-05,Tim Walberg,Republican,missing,,,,,,False
+MI-05,Christian Vukasovich,Democrat,unique_name_state_office_match,H6MI05227,151703.92,39516.94,2026-10-14,,False
+MI-05,Jim Bronke,Green,missing,,,,,,False
+MI-05,Ronald A. Muszynski,Libertarian,unique_name_state_office_match,H6MI05235,1130.34,572.31,2026-10-03,,False
+MI-05,Sharon Marie Renier,U.S. Taxpayers,missing,,,,,,False
+MI-06,Heather Smiley,Republican,missing,,,,,,False
+MI-06,Debbie Dingell,Democrat,unique_name_state_office_match,H4MI12079,1525722.57,455811.49,2026-10-14,,False
+MI-06,Mike Mickevicius,U.S. Taxpayers,missing,,,,,,False
+MI-06,Linda Rayburn,Working Class,missing,,,,,,False
+MI-06,Clyde Shabazz,Green,missing,,,,,,False
+MI-06,Timothy A. Teagan,Libertarian,missing,,,,,,False
+MI-07,Tom Barrett,Republican,missing,,,,,,False
+MI-07,William Lawrence,Democrat,unique_name_state_office_match,H6MI07298,4160041.27,628965.99,2026-10-14,,False
+MI-07,Shane Dedrick,Green,missing,,,,,,False
+MI-08,Thomas J. Smith,Republican,unique_name_state_office_match,H6MI08312,561096.81,85065.96,2026-10-14,,False
+MI-08,Kristen McDonald Rivet,Democrat,unique_name_state_office_match,H4MI08218,6922878.91,2674869.1,2026-10-14,,False
+MI-08,Jim Casha,Green,missing,,,,,,False
+MI-08,Kathy Goodwin,Working Class,missing,,,,,,False
+MI-08,C. Mia Pettus,Libertarian,missing,,,,,,False
+MI-09,Lisa C. McClain,Republican,unique_name_state_office_match,H0MI10287,6046475.44,1752710.48,2026-10-14,,False
+MI-09,Ray Pooley,Democrat,missing,,,,,,False
+MI-09,Destiny Clayton,Green,missing,,,,,,False
+MI-09,Kevin Vayko,Libertarian,missing,,,,,,False
+MI-09,John Vlahos,U.S. Taxpayers,missing,,,,,,False
+MI-09,Jim Walkowicz,Working Class,missing,,,,,,False
+MI-10,Michael Bouchard,Republican,unique_name_state_office_match,H6MI10359,2884259.39,1573469.64,2026-10-14,,False
+MI-10,Christina Bertrand Hines,Democrat,unique_name_state_office_match,H6MI10276,4159692.85,1007627.76,2026-10-14,,False
+MI-10,Andrea L. Kirby,Working Class,missing,,,,,,False
+MI-10,Kwabena Nkromo,Green,missing,,,,,,False
+MI-10,Mike Saliba,Libertarian,missing,,,,,,False
+MI-11,Ethan Baker,Republican,unique_name_state_office_match,H6MI11290,204668,56620.74,2026-10-14,,False
+MI-11,Jeremy Moss,Democrat,unique_name_state_office_match,H6MI11191,1874871.73,69999.65,2026-10-14,,False
+MI-11,Farid Ishac,Libertarian,missing,,,,,,False
+MI-11,Anil Kumar,No Party Affiliation,unique_name_state_office_match,H4MI10131,724355.07,319467.09,2026-10-14,,False
+MI-11,Ryan Teasdale,Green,missing,,,,,,False
+MI-12,James D. Hooper,Republican,unique_name_state_office_match,H2MI12198,2002.05,7769.12,2026-10-14,,False
+MI-12,Rashida Tlaib,Democrat,unique_name_state_office_match,H8MI13250,3255577.41,3038173.48,2026-10-14,,False
+MI-12,Brenda K. Sanders,Green,missing,,,,,,False
+MI-12,Marc Joseph Sosnowski,U.S. Taxpayers,missing,,,,,,False
+MI-12,Gary Walkowicz,Working Class,missing,,,,,,False
+MI-13,T. P. Nykoriak,Republican,missing,,,,,,False
+MI-13,Donavan McKinney,Democrat,unique_name_state_office_match,H6MI13254,1876779.88,129673.54,2026-10-14,,False
+MI-13,Simone R. Coleman,Working Class,missing,,,,,,False
+MI-13,Chris Dardzinski,U.S. Taxpayers,missing,,,,,,False
+MI-13,Raelyn Light,Green,missing,,,,,,False
+MN-SEN,Michele Tafoya,Republican,unique_name_state_office_match,S6MN00556,12501785.59,2819386.89,2026-10-14,,False
+MN-SEN,Peggy Flanagan,Democratic-Farmer-Labor,missing,,,,,,False
+MN-SEN,Marisa Simonetti,Independent,missing,,,,,,False
+MN-SEN,Rebecca Whiting,Libertarian,ambiguous,,,,,,False
+MN-01,Brad Finstad,Republican,unique_name_state_office_match,H2MN01223,2765869.64,603622.36,2026-10-14,,False
+MN-01,Jake Johnson,Democratic-Farmer-Labor,missing,,,,,,False
+MN-02,Eric Pratt,Republican,unique_name_state_office_match,H6MN02263,768790.87,173429.73,2026-10-14,,False
+MN-02,Matt Little,Democratic-Farmer-Labor,unique_name_state_office_match,H6MN02230,1494553.8,205276.43,2026-10-14,,False
+MN-03,Tyler Bass,Republican,missing,,,,,,False
+MN-03,Kelly Morrison,Democrat,unique_name_state_office_match,H4MN03118,1867912.24,507864.91,2026-10-14,,False
+MN-04,Paul Wikstrom,Republican,unique_name_state_office_match,H6MN04293,65015.98,18547.61,2026-10-14,,False
+MN-04,Betty McCollum,Democrat,unique_name_state_office_match,H0MN04049,1539014.07,526264.24,2026-10-14,,False
+MN-05,John Nagel,Republican,unique_name_state_office_match,H6MN05357,1126114.57,102551.93,2026-10-14,,False
+MN-05,Ilhan Omar,Democrat,unique_name_state_office_match,H8MN05239,8247981.67,3003683.87,2026-10-14,,False
+MN-05,DeVelle L. Jackson,Independent,missing,,,,,,False
+MN-06,Tom Emmer,Republican,missing,,,,,,False
+MN-06,Doug Chapin,Democratic-Farmer-Labor,unique_name_state_office_match,H6MN06215,765076.15,118475.76,2026-10-14,,False
+MN-07,Michelle Fischbach,Republican,unique_name_state_office_match,H0MN07091,1673105.11,866361.88,2026-10-14,,False
+MN-07,Erik Osberg,Democratic-Farmer-Labor,unique_name_state_office_match,H6MN07312,577219.01,126748.2,2026-10-14,,False
+MN-08,Pete Stauber,Republican,missing,,,,,,False
+MN-08,Trina Swanson,Democratic-Farmer-Labor,unique_name_state_office_match,H6MN08179,727329.66,176815.9,2026-10-14,,False
+MS-SEN,Cindy Hyde-Smith,Republican,unique_name_state_office_match,S8MS00261,4646802.99,1395723.78,2026-10-14,,False
+MS-SEN,Scott Colom,Democrat,unique_name_state_office_match,S6MS00133,4400889.53,1018716.95,2026-10-14,,False
+MS-SEN,Ty Pinkins,Independent,unique_name_state_office_match,S4MS00187,104685.72,4046.64,2026-10-14,,False
+MS-01,Trent Kelly,Republican,missing,,,,,,False
+MS-01,Cliff Johnson,Democrat,unique_name_state_office_match,H6MS01313,848648.09,89247.55,2026-10-14,,False
+MS-01,Johnny Baucom,Libertarian,missing,,,,,,False
+MS-02,Ron Eller,Republican,unique_name_state_office_match,H2MS02203,70824.97,42108.88,2026-10-14,,False
+MS-02,Bennie G. Thompson,Democrat,unique_name_state_office_match,H4MS02068,928245.03,1282156.34,2026-10-14,,False
+MS-02,Bennie Foster,Independent,unique_name_state_office_match,H6MS02188,0,9189.82,2026-06-30,,False
+MS-03,Michael Guest,Republican,unique_name_state_office_match,H8MS03125,1089344.17,780057.84,2026-10-14,,False
+MS-03,Michael A. Chiaradio,Democrat,unique_name_state_office_match,H6MS03228,224381.1,39338.89,2026-10-14,,False
+MS-03,Erik Kiehle,Libertarian,missing,,,,,,False
+MS-04,Mike Ezell,Republican,missing,,,,,,False
+MS-04,Jeffrey Hulum III,Democrat,unique_name_state_office_match,H6MS04242,60172.68,10553.54,2026-09-30,,False
+MS-04,Carl Boyanton,Independent,missing,,,,,,False
+MO-01,Paul Berry III,Republican,missing,,,,,,False
+MO-01,Wesley Bell,Democrat,unique_name_state_office_match,H4MO01134,4024636.06,407001.06,2026-10-14,,False
+MO-01,Tom Schmitz,Libertarian,missing,,,,,,False
+MO-02,Ann Wagner,Republican,unique_name_state_office_match,H2MO02102,4189876.26,1631396.51,2026-10-14,,False
+MO-02,Fred Wellman,Democrat,missing,,,,,,False
+MO-02,Brandon Coulter Daugherty,Libertarian,missing,,,,,,False
+MO-03,"Robert F. Onder, Jr.",Republican,ambiguous,,,,,,False
+MO-03,Bethany E. Mann,Democrat,unique_name_state_office_match,H2MO03167,86553.55,5711.74,2026-10-14,,False
+MO-03,Jim Higgins,Libertarian,missing,,,,,,False
+MO-04,Mark Alford,Republican,unique_name_state_office_match,H2MO04207,1599365.96,757046.88,2026-10-14,,False
+MO-04,Jordan Herrera,Democrat,unique_name_state_office_match,H6MO05254,41656.63,19365.61,2026-07-15,,False
+MO-04,Thomas Holbrook,Libertarian,missing,,,,,,False
+MO-05,Rick Brattin,Republican,missing,,,,,,False
+MO-05,Emanuel Cleaver,Democrat,unique_name_state_office_match,H4MO05234,1766864.4,882948.3,2026-10-14,,False
+MO-05,Randall “Randy” Langkraehr,Libertarian,missing,,,,,,False
+MO-06,Chris Stigall,Republican,unique_name_state_office_match,H6MO06310,1045323.71,211004.93,2026-10-14,,False
+MO-06,Josh Smead,Democrat,unique_name_state_office_match,H6MO06260,145752.57,35200.81,2026-10-14,,False
+MO-06,Andy Maidment,Libertarian,missing,,,,,,False
+MO-07,Eric Burlison,Republican,unique_name_state_office_match,H2MO07143,1697441.77,962364.48,2026-10-14,,False
+MO-07,Missi Hesketh,Democrat,unique_name_state_office_match,H4MO07156,66639.85,45851.95,2026-10-14,,False
+MO-07,Kevin Craig,Libertarian,missing,,,,,,False
+MO-08,Jason Smith,Republican,unique_name_state_office_match,H4MO08162,6299171.08,5415076.95,2026-10-14,,False
+MO-08,Chris Reichard,Democrat,missing,,,,,,False
+MO-08,Rebecca Sharpe Lombard,Libertarian,missing,,,,,,False
+MT-SEN,Kurt Alme,Republican,unique_name_state_office_match,S6MT00295,3013680.86,602737.76,2026-10-14,,False
+MT-SEN,Alani Bankhead,Democrat,unique_name_state_office_match,S6MT00253,190564.71,22819.8,2026-10-14,,False
+MT-SEN,Kyle Austin,Libertarian,unique_name_state_office_match,S6MT00261,261825.31,2684.12,2026-10-14,,False
+MT-SEN,Seth Bodnar,Independent,unique_name_state_office_match,S6MT00287,4918341.25,580920.91,2026-10-14,,False
+MT-SEN,Jami Dee Woodman,Nonpartisan,missing,,,,,,False
+MT-01,Aaron Flint,Republican,unique_name_state_office_match,H6MT01152,2856138.55,408152.75,2026-10-14,,False
+MT-01,Sam Forstag,Democrat,missing,,,,,,False
+MT-01,Nick Sheedy,Libertarian,missing,,,,,,False
+MT-02,Troy Downing,Republican,unique_name_state_office_match,H4MT02098,2733160.34,746647.91,2026-10-14,,False
+MT-02,Brian J. Miller,Democrat,unique_name_state_office_match,H6MT02150,30958.49,668.84,2026-10-14,,False
+MT-02,Michael D. Eisenhauer,Independent,unique_name_state_office_match,H6MT02168,354191.13,23304.16,2026-10-14,,False
+MT-02,Patrick McCracken,Libertarian,missing,,,,,,False
+NE-SEN,Pete Ricketts,Republican,unique_name_state_office_match,S6NE00129,14546959.4,1218138.97,2026-10-14,,False
+NE-SEN,Chuck Conboy,America First,missing,,,,,,False
+NE-SEN,Mike Marvin,Legal Marijuana NOW,unique_name_state_office_match,S6NE00152,27750,0,2026-09-11,,False
+NE-SEN,Dan Osborn,By Petition,unique_name_state_office_match,S4NE00207,11029845.41,1953183.3,2026-10-14,,False
+NE-SEN,Robin Richards,Nebraska Working People,unique_name_state_office_match,S6NE00210,0,0,2026-10-14,,False
+NE-01,Mike Flood,Republican,unique_name_state_office_match,H2NE01118,2770861.42,859905.11,2026-10-14,,False
+NE-01,Chris Backemeyer,Democrat,missing,,,,,,False
+NE-01,Dan Hartong,America First,missing,,,,,,False
+NE-01,Nik Sandman,Libertarian,missing,,,,,,False
+NE-02,Brinker Harding,Republican,unique_name_state_office_match,H6NE02208,2850577.02,313372.85,2026-10-14,,False
+NE-02,Denise Powell,Democrat,unique_name_state_office_match,H6NE02174,5093103.99,480473.26,2026-10-14,,False
+NE-02,Eric Michael Foreman,Libertarian,missing,,,,,,False
+NE-03,Adrian Smith,Republican,unique_name_state_office_match,H6NE03115,2246593.11,1101567.09,2026-10-14,,False
+NE-03,Becky Kelly Stille,Democrat,unique_name_state_office_match,H6NE03180,97390.36,-49.93,2026-10-14,,False
+NE-03,Macey Budke,Nebraska Working People,unique_name_state_office_match,H6NE03206,6347.29,326.15,2026-10-14,,False
+NE-03,Mark Cohen,By Petition,unique_name_state_office_match,H6NE03198,75900.5,15673.93,2026-10-14,,False
+NE-03,David J. Else,Legal Marijuana NOW,missing,,,,,,False
+NV-01,Carrie Ann Buck,Republican,unique_name_state_office_match,H6NV01331,2632235.03,184262.87,2026-10-14,,False
+NV-01,Dina Titus,Democrat,unique_name_state_office_match,H8NV03036,2055144.17,202234.8,2026-10-14,,False
+NV-01,Afzal “Bobby” Khan,No Political Party,unique_name_state_office_match,H6NV01315,87343.95,350.07,2026-10-14,,False
+NV-01,Steven “Chap” St. John,No Political Party,missing,,,,,,False
+NV-02,David Flippo,Republican,unique_name_state_office_match,H4NV04108,2934107.53,161162.06,2026-10-14,,False
+NV-02,Teresa F. Benitez-Thompson,Democrat,unique_name_state_office_match,H6NV02362,1054466.93,181849.2,2026-10-14,,False
+NV-02,Lynn Chapman,Independent American,missing,,,,,,False
+NV-03,Marty O’Donnell,Republican,missing,,,,,,False
+NV-03,Susie Lee,Democrat,unique_name_state_office_match,H6NV04020,5942431.93,931293.7,2026-10-14,,False
+NV-03,Jon Kamerath,Independent American,missing,,,,,,False
+NV-04,Cody K. Whipple,Republican,unique_name_state_office_match,H6NV04111,1217196.83,66379.39,2026-10-14,,False
+NV-04,Steven Horsford,Democrat,unique_name_state_office_match,H2NV04011,4077555.45,821832.87,2026-10-14,,False
+NV-04,Russell Best,Independent American,missing,,,,,,False
+NV-04,William Johnson,No Political Party,missing,,,,,,False
+NH-SEN,John E. Sununu,Republican,unique_name_state_office_match,S6NH00208,5681528.08,1711396.49,2026-10-14,,False
+NH-SEN,Chris Pappas,Democrat,unique_name_state_office_match,S6NH00141,23703648.39,1984365.82,2026-10-14,,False
+NH-SEN,Edmond Laplante,Constitution,missing,,,,,,False
+NH-01,Anthony DiLorenzo,Republican,unique_name_state_office_match,H6NH01420,6762643.49,983793.86,2026-10-14,,False
+NH-01,Stefany Shaheen,Democrat,unique_name_state_office_match,H6NH01321,3247792.08,270732.5,2026-10-14,,False
+NH-02,Lily Tang Williams,Republican,unique_name_state_office_match,H2NH02260,1443795.73,472229.95,2026-10-14,,False
+NH-02,Maggie Goodlander,Democrat,unique_name_state_office_match,H4NH02399,5012908.51,1821562.69,2026-10-14,,False
+NH-02,Robbie Mahrou,Independent,missing,,,,,,False
+NJ-SEN,Justin Murphy,Republican,unique_name_state_office_match,S4NJ00532,68188.87,10190.62,2026-10-14,,False
+NJ-SEN,Cory A. Booker,Democrat,unique_name_state_office_match,S4NJ00185,21275162.52,22899410.72,2026-10-14,,False
+NJ-SEN,Veronica Fernandez,End the Corruption!,missing,,,,,,False
+NJ-SEN,Joanne Kuniansky,Socialist Workers,missing,,,,,,False
+NJ-01,Damon Galdo,Republican,unique_name_state_office_match,H2NJ01187,16219.73,772.28,2026-10-14,,False
+NJ-01,Donald Norcross,Democrat,unique_name_state_office_match,H4NJ01084,1950972.75,2364759.02,2026-10-14,,False
+NJ-02,Jefferson Van Drew,Republican,missing,,,,,,False
+NJ-02,Zack Mullock,Democrat,unique_name_state_office_match,H6NJ02251,960948.05,105400.22,2026-10-14,,False
+NJ-02,"Ramon Mora, Jr.",Independent,unique_name_state_office_match,H6NJ02269,1139.34,84.59,2026-09-30,,False
+NJ-03,Michael P. McGuire,Republican,unique_name_state_office_match,H6NJ03184,221324.29,16575.36,2026-10-14,,False
+NJ-03,"Herbert C. Conaway, Jr.",Democrat,missing,,,,,,False
+NJ-03,Ryan Michael Kelly,"Affordability, Accountability, People",unique_name_state_office_match,H6NJ03192,5725.29,761.53,2026-10-14,,False
+NJ-03,Steven Welzer,Green,missing,,,,,,False
+NJ-04,Christopher H. Smith,Republican,unique_name_state_office_match,H8NJ04014,797217.22,553017.29,2026-10-14,,False
+NJ-04,Rachel Peace,Democrat,unique_name_state_office_match,H6NJ04257,101425.72,14431.44,2026-10-14,,False
+NJ-05,Sean Kirrane,Republican,unique_name_state_office_match,H6NJ05221,103741.74,195.94,2026-10-14,,False
+NJ-05,Josh Gottheimer,Democrat,unique_name_state_office_match,H6NJ05171,5788812.15,13531046.78,2026-10-14,,False
+NJ-05,Adam Rueda,Humane Sustainable Future,missing,,,,,,False
+NJ-06,Hillary Herzig,Republican,unique_name_state_office_match,H6NJ06286,11766,614.28,2026-10-14,,False
+NJ-06,"Frank Pallone, Jr.",Democrat,unique_name_state_office_match,H8NJ03073,2844906.21,3069516.73,2026-10-14,,False
+NJ-07,"Thomas H. Kean, Jr.",Republican,unique_name_state_office_match,H0NJ07261,6128373.01,1365405.91,2026-10-14,,False
+NJ-07,Rebecca Bennett,Democrat,unique_name_state_office_match,H6NJ07201,8757003.38,1053454.45,2026-10-14,,False
+NJ-07,Seamus Patrick O’Toole,Stop Israel’s Genocide,missing,,,,,,False
+NJ-08,Robert Menendez,Democrat,ambiguous,,,,,,False
+NJ-08,Aristotle Eliopoulos,Independent,missing,,,,,,False
+NJ-08,Craig Honts,Socialist Workers,missing,,,,,,False
+NJ-08,Da’Shone Hughey,We The People,missing,,,,,,False
+NJ-09,Rosie Pino,Republican,missing,,,,,,False
+NJ-09,Nellie Pou,Democrat,missing,,,,,,False
+NJ-09,Terrisa Bukovinac,Save Our Babies,missing,,,,,,False
+NJ-10,Carmen Bucco,Republican,unique_name_state_office_match,H4NJ10135,8931.33,2292.59,2026-10-14,,False
+NJ-10,LaMonica McIver,Democrat,unique_name_state_office_match,H4NJ10176,2516563.31,897195.32,2026-10-14,,False
+NJ-11,Joe Hathaway,Republican,unique_name_state_office_match,H6NJ11211,837601.01,42173.47,2026-10-14,,False
+NJ-11,Analilia Mejia,Democrat,unique_name_state_office_match,H6NJ11286,2229339.31,115467.18,2026-10-14,,False
+NJ-11,Alan B. Bond,Hope For Tomorrow,missing,,,,,,False
+NJ-12,Gregg Mele,Republican,unique_name_state_office_match,H2NJ06210,101520.99,13565.94,2026-10-14,,False
+NJ-12,Adam Hamawy,Democrat,unique_name_state_office_match,H6NJ12417,1993156.58,239845.31,2026-10-14,,False
+NJ-12,Andres Jinete,Green,missing,,,,,,False
+NJ-12,Winston Jordan,Get Money Out,missing,,,,,,False
+NM-SEN,Larry E. Marker,Republican,unique_name_state_office_match,S6NM01186,99229.65,88.07,2026-10-14,,False
+NM-SEN,Ben Ray Luján,Democrat,unique_name_state_office_match,S0NM00058,6460521.86,2843276.35,2026-10-14,,False
+NM-01,Ndidiamaka Ekwua Charlene Okpareke,Republican,unique_name_state_office_match,H6NM01129,174529.13,57544.79,2026-10-14,,False
+NM-01,Melanie A. Stansbury,Democrat,unique_name_state_office_match,H2NM01144,1721315.41,310745.93,2026-10-14,,False
+NM-02,Gregory G. Cunningham,Republican,missing,,,,,,False
+NM-02,Gabe Vasquez,Democrat,missing,,,,,,False
+NM-03,Martin Zamora,Republican,unique_name_state_office_match,H6NM03083,605834.13,44752.2,2026-10-14,,False
+NM-03,Teresa Leger Fernandez,Democrat,unique_name_state_office_match,H0NM03102,1578389.15,517397.54,2026-10-14,,False
+NY-01,Nick LaLota,Republican,missing,,,,,,False
+NY-01,Christopher J. Gallant,Democrat,unique_name_state_office_match,H6NY01159,1735637.7,425993.09,2026-10-14,,False
+NY-02,Andrew R. Garbarino,Republican,unique_name_state_office_match,H0NY02234,4057667.29,2686930.3,2026-10-14,,False
+NY-02,Patrick Halpin,"Democrat, Working Families",unique_name_state_office_match,H6NY02140,586333.53,49442.36,2026-10-14,,False
+NY-03,"Michael J. LiPetri, Jr.","Republican, Conservative",missing,,,,,,False
+NY-03,Thomas R. Suozzi,Democrat,unique_name_state_office_match,H6NY03247,7599603.36,3234341.64,2026-10-14,,False
+NY-04,Jeanine C. Driscoll,"Republican, Conservative",unique_name_state_office_match,H6NY04211,684947.48,2553.08,2026-10-14,,False
+NY-04,Laura Gillen,Democrat,unique_name_state_office_match,H2NY04244,6221631.04,3212650.31,2026-10-14,,False
+NY-04,Blay Tarnoff,Libertarian,unique_name_state_office_match,H6NY04237,24572,66,2026-09-30,,False
+NY-05,George Marsh,"Republican, Queens United",missing,,,,,,False
+NY-05,Gregory W. Meeks,Democrat,unique_name_state_office_match,H8NY06048,2283140.15,2098240.98,2026-10-14,,False
+NY-06,Joseph Chou,"Republican, Conservative",unique_name_state_office_match,H4NY06047,2578.08,4096.83,2026-10-14,,False
+NY-06,Grace Meng,Democrat,unique_name_state_office_match,H2NY06116,2199074.16,765124.94,2026-10-14,,False
+NY-07,Melvin Rivera,"Republican, Conservative",missing,,,,,,False
+NY-07,Claire Valdez,"Democrat, Working Families",unique_name_state_office_match,H6NY07214,1915867.24,110429.54,2026-10-14,,False
+NY-07,Priscilla Ghaznavi,Our Future,unique_name_state_office_match,H6NY07255,40055,13178.58,2026-10-14,,False
+NY-08,Lewis Mizrahi,"Republican, Conservative",missing,,,,,,False
+NY-08,Hakeem S. Jeffries,Democrat,unique_name_state_office_match,H2NY10092,17893352.11,4234848.33,2026-10-14,,False
+NY-09,Joel Azumah,"Republican, Conservative",missing,,,,,,False
+NY-09,Yvette D. Clarke,Democrat,unique_name_state_office_match,H4NY11138,1288233.88,66298.59,2026-10-14,,False
+NY-10,Jennifer E. Moore,"Republican, Conservative",unique_name_state_office_match,H6NY10218,2693.46,1525.67,2026-09-30,,False
+NY-10,Brad Lander,"Democrat, Working Families",unique_name_state_office_match,H6NY10176,2785966.92,80536.2,2026-10-14,,False
+NY-11,Nicole Malliotakis,Republican,unique_name_state_office_match,H0NY11078,3315036.94,2788339.69,2026-10-14,,False
+NY-11,Mike DeCillis,Democrat,missing,,,,,,False
+NY-12,Caroline Shinkle,"Republican, Conservative",unique_name_state_office_match,H6NY12404,272962.88,126423.53,2026-10-14,,False
+NY-12,Micah C. Lasher,Democrat,unique_name_state_office_match,H6NY12172,3493973.6,309209.29,2026-10-14,,False
+NY-12,Wilneida Negron,For All of Us,unique_name_state_office_match,H6NY12313,57807.2,6086.87,2026-09-30,,False
+NY-12,Karen Ortiz,Karen Ortiz,unique_name_state_office_match,H6NY12297,47330.11,13925.92,2026-10-14,,False
+NY-13,Jomo M. Williams,Republican,missing,,,,,,False
+NY-13,Darializa Avila Chevalier,"Democrat, Working Families",unique_name_state_office_match,H6NY13279,1603708.74,154560.49,2026-10-14,,False
+NY-14,Diamant Hysenaj,"Republican, Conservative",unique_name_state_office_match,H6NY14251,446003.85,40670.79,2026-10-14,,False
+NY-14,Alexandria Ocasio-Cortez,Democrat,unique_name_state_office_match,H8NY15148,38029039.1,17575300.57,2026-10-14,,False
+NY-15,Stylo Sapaskis,Republican,missing,,,,,,False
+NY-15,Ritchie Torres,Democrat,unique_name_state_office_match,H0NY15160,7172392.64,13835641.98,2026-10-14,,False
+NY-15,Gonzalo Duran,Conservative,missing,,,,,,False
+NY-15,Andre Easton,Socialism and Liberation,unique_name_state_office_match,H6NY15167,93798.98,827.94,2026-10-14,,False
+NY-15,Jose Vega,Speak the Truth,unique_name_state_office_match,H4NY15147,344809.74,5641.78,2026-10-14,,False
+NY-16,Joseph J. Cinquemani,Republican,missing,,,,,,False
+NY-16,George Latimer,Democrat,unique_name_state_office_match,H4NY16087,681937.92,133517.98,2026-10-14,,False
+NY-17,Michael Lawler,Republican,unique_name_state_office_match,H2NY17162,10317627.15,1959524.06,2026-10-14,,False
+NY-17,Cait Conley,"Democrat, Working Families",unique_name_state_office_match,H6NY17171,10706692.07,948539.5,2026-10-14,,False
+NY-18,Jackie Mary Auringer,"Republican, Conservative",unique_name_state_office_match,H6NY18252,158702.7,21703.01,2026-10-14,,False
+NY-18,Patrick Ryan,Democrat,unique_name_state_office_match,H8NY19223,5359733.43,2543836.96,2026-10-14,,False
+NY-19,Peter K. Oberacker,"Republican, Conservative",unique_name_state_office_match,H6NY19268,1424570.72,23155.49,2026-10-14,,False
+NY-19,Josh Riley,Democrat,unique_name_state_office_match,H8NY22177,5986868.69,1791678.67,2026-10-14,,False
+NY-20,Ralph F. Ambrosio,"Republican, Conservative",unique_name_state_office_match,H6NY20225,61545.17,7342.65,2026-10-14,,False
+NY-20,Paul Tonko,Democrat,unique_name_state_office_match,H8NY21203,1247202.32,490736,2026-10-14,,False
+NY-21,Anthony Constantino,"Republican, Taxpayer Rights",unique_name_state_office_match,H6NY21157,14464951.19,2298984.48,2026-10-14,,False
+NY-21,Blake Gendebien,Democrat,unique_name_state_office_match,H6NY21199,7655529.27,364011.8,2026-10-14,,False
+NY-22,Kailee Buller,"Republican, Conservative",unique_name_state_office_match,H6NY22213,464688.44,160138.09,2026-10-14,,False
+NY-22,John W. Mannion,Democrat,unique_name_state_office_match,H4NY22085,3240826.28,1016371.51,2026-10-14,,False
+NY-23,Nicholas A. Langworthy,Republican,missing,,,,,,False
+NY-23,Aaron Gies,"Democrat, Working Families",unique_name_state_office_match,H6NY23559,678483.72,54077.18,2026-10-14,,False
+NY-24,Claudia Tenney,Republican,unique_name_state_office_match,H4NY22051,3084890.79,835740.92,2026-10-14,,False
+NY-24,Alissa J. Ellman,"Democrat, Working Families",unique_name_state_office_match,H6NY24219,452166.23,46242.36,2026-10-14,,False
+NY-25,Virginia E. McIntyre,"Republican, Conservative",unique_name_state_office_match,H6NY25208,55458.88,-10855.17,2026-10-14,,False
+NY-25,Joseph D. Morelle,Democrat,unique_name_state_office_match,H8NY25105,2247172.87,468122.33,2026-10-14,,False
+NY-26,Dennis E. Hannon,"Republican, Conservative",unique_name_state_office_match,H6NY26131,5525,4438.2,2026-10-14,,False
+NY-26,Timothy M. Kennedy,Democrat,unique_name_state_office_match,H4NY26078,2761024.83,1208991.19,2026-10-14,,False
+NC-SEN,Michael Whatley,Republican,unique_name_state_office_match,S6NC00415,13668467.53,902238.05,2026-10-14,,False
+NC-SEN,Roy Cooper,Democrat,unique_name_state_office_match,S6NC00407,49585341.29,9088859.57,2026-10-14,,False
+NC-SEN,Shannon W. Bray,Libertarian,missing,,,,,,False
+NC-SEN,Michael Dublin,Green,unique_name_state_office_match,S6NC00563,28230.84,2996.04,2026-10-14,,False
+NC-01,Laurie Buckhout,Republican,unique_name_state_office_match,H4NC01137,4787737.24,1437900.53,2026-10-14,,False
+NC-01,Donald G. Davis,Democrat,missing,,,,,,False
+NC-01,Tom Bailey,Libertarian,missing,,,,,,False
+NC-02,Eugene F. Douglass,Republican,missing,,,,,,False
+NC-02,Deborah K. Ross,Democrat,unique_name_state_office_match,H0NC02125,2039910.71,1278165.09,2026-10-14,,False
+NC-02,Matthew Laszacs,Libertarian,missing,,,,,,False
+NC-03,Gregory F. Murphy,Republican,unique_name_state_office_match,H0NC03172,2897749.02,2255691,2026-10-14,,False
+NC-03,Raymond Smith,Democrat,unique_name_state_office_match,H6NC03229,366580.83,44282.09,2026-10-14,,False
+NC-03,Daniel Cavender,Libertarian,missing,,,,,,False
+NC-04,Mahesh “Max” Ganorkar,Republican,ambiguous,,,,,,False
+NC-04,Valerie P. Foushee,Democrat,unique_name_state_office_match,H2NC06114,1048542.77,49354.18,2026-10-14,,False
+NC-04,Guy Meilleur,Libertarian,missing,,,,,,False
+NC-05,Virginia Foxx,Republican,unique_name_state_office_match,H4NC05146,2189052.01,3490070.17,2026-10-14,,False
+NC-05,Chuck Hubbard,Democrat,unique_name_state_office_match,H4NC05294,863260.01,152010.2,2026-10-14,,False
+NC-05,Robert B. Luffman,Libertarian,missing,,,,,,False
+NC-06,Addison P. McDowell,Republican,unique_name_state_office_match,H4NC06177,1456167.02,152972.51,2026-10-14,,False
+NC-06,Cyril Jefferson,Democrat,unique_name_state_office_match,H6NC06164,232324.53,7859.07,2026-10-14,,False
+NC-07,David Rouzer,Republican,unique_name_state_office_match,H2NC07096,2534038.14,1699752.56,2026-10-14,,False
+NC-07,Kimberly Hardy,Democrat,unique_name_state_office_match,H6NC07196,390475.48,20418.72,2026-10-14,,False
+NC-07,Maad Abu-Ghazalah,Libertarian,unique_name_state_office_match,H6NC07204,8899.41,278.64,2026-10-14,,False
+NC-08,Mark Harris,Republican,ambiguous,,,,,,False
+NC-08,Colby Watson,Democrat,unique_name_state_office_match,H6NC08202,57590.37,4158.07,2026-10-14,,False
+NC-08,Bo Whitehead,Green,missing,,,,,,False
+NC-09,Richard Hudson,Republican,unique_name_state_office_match,H2NC08185,4173708.23,925975.68,2026-10-14,,False
+NC-09,Richard N. Ojeda II,Democrat,unique_name_state_office_match,H6NC09218,2930069.22,45572.22,2026-10-14,,False
+NC-10,Pat Harrigan,Republican,unique_name_state_office_match,H2NC13243,1318233.19,462978.17,2026-10-14,,False
+NC-10,Ashley Bell,Democrat,unique_name_state_office_match,H6NC10174,147720.19,11774.2,2026-10-14,,False
+NC-10,Steven Feldman,Libertarian,unique_name_state_office_match,H4NC10146,48754.35,1294.84,2026-10-14,,False
+NC-11,Jennifer Balkcom,Republican,unique_name_state_office_match,H6NC11321,399491.7,294817.52,2026-10-14,,False
+NC-11,Jamie Ager,Democrat,unique_name_state_office_match,H6NC11248,5869452.65,620157.94,2026-10-14,,False
+NC-11,Travis Groo,Libertarian,missing,,,,,,False
+NC-12,Jack Codiga,Republican,missing,,,,,,False
+NC-12,Alma S. Adams,Democrat,unique_name_state_office_match,H4NC12100,483374.93,483996.68,2026-10-14,,False
+NC-13,Brad Knott,Republican,unique_name_state_office_match,H4NC13116,1697075.23,619470.98,2026-10-14,,False
+NC-13,Paul Barringer,Democrat,unique_name_state_office_match,H6NC13228,1215150.98,409522.44,2026-10-14,,False
+NC-13,Steven Swinton,Libertarian,missing,,,,,,False
+NC-14,Tim Moore,Republican,unique_name_state_office_match,H4NC14015,2091454.5,1093140.95,2026-10-14,,False
+NC-14,Lakesha Womack,Democrat,unique_name_state_office_match,H6NC14069,59183.28,4792.77,2026-10-14,,False
+ND-01,Julie Fedorchak,Republican,unique_name_state_office_match,H4ND00061,2107166.08,774845.73,2026-10-14,,False
+ND-01,Trygve Hammer,Democratic-Nonpartisan League,ambiguous,,,,,,False
+ND-01,Helene Neville,Independent,missing,,,,,,False
+ND-01,Charles Tuttle,Independent,missing,,,,,,False
+OH-SEN-SPECIAL,Jon Husted,Republican,unique_name_state_office_match,S6OH00304,19894785.94,4239096.57,2026-10-22,,False
+OH-SEN-SPECIAL,Sherrod Brown,Democrat,unique_name_state_office_match,S6OH00163,68409199.85,4452803.32,2026-10-14,,False
+OH-SEN-SPECIAL,Greg Levy,Other,missing,,,,,,False
+OH-SEN-SPECIAL,William B. Redpath,Libertarian,unique_name_state_office_match,S6OH00429,55255.7,8255.26,2026-10-14,,False
+OH-01,Eric Conroy,Republican,unique_name_state_office_match,H6OH01138,2372636.84,293397.1,2026-10-14,,False
+OH-01,Greg Landsman,Democrat,unique_name_state_office_match,H2OH01194,5662206.21,502951.51,2026-10-14,,False
+OH-01,Nathan Weise,Libertarian,missing,,,,,,False
+OH-02,David J. Taylor,Republican,unique_name_state_office_match,H4OH02248,1768914.66,707173.53,2026-10-14,,False
+OH-02,Jen Mazzuckelli,Democrat,missing,,,,,,False
+OH-03,Cleophus Dulaney,Republican,missing,,,,,,False
+OH-03,Joyce Beatty,Democrat,unique_name_state_office_match,H2OH03125,1454156.27,2731736.69,2026-10-14,,False
+OH-04,Jim Jordan,Republican,missing,,,,,,False
+OH-04,Joshua D. Kolasinski,Democrat,unique_name_state_office_match,H6OH04181,26211.45,3849.91,2026-10-14,,False
+OH-04,Tracey L. Tackett,Independent,missing,,,,,,False
+OH-05,Robert E. Latta,Republican,unique_name_state_office_match,H8OH05036,1772110.3,799134.37,2026-10-14,,False
+OH-05,Brian A. Shaver,Democrat,unique_name_state_office_match,H6OH05154,59139.52,39322.55,2026-10-14,,False
+OH-05,Michael J. Veloff,Libertarian,missing,,,,,,False
+OH-06,Michael A. Rulli,Republican,unique_name_state_office_match,H4OH06165,1419956.8,417633.29,2026-10-14,,False
+OH-06,Elizabeth Kirtley,Democrat,unique_name_state_office_match,H6OH06244,11431.98,4373.21,2026-10-14,,False
+OH-07,Max L. Miller,Republican,unique_name_state_office_match,H2OH16051,3324941.88,135628.83,2026-10-14,,False
+OH-07,Brian Poindexter,Democrat,unique_name_state_office_match,H6OH07168,3720341.61,793675.2,2026-10-14,,False
+OH-08,Warren Davidson,Republican,unique_name_state_office_match,H6OH08315,757166.3,298274.28,2026-10-14,,False
+OH-08,Vanessa Enoch,Democrat,unique_name_state_office_match,H8OH08097,3125.21,-727.22,2026-10-14,,False
+OH-09,Derek Merrin,Republican,unique_name_state_office_match,H4OH09169,2217820.58,449466.16,2026-10-14,,False
+OH-09,Marcy Kaptur,Democrat,unique_name_state_office_match,H2OH09031,5910480.74,697507.52,2026-10-14,,False
+OH-10,Michael R. Turner,Republican,unique_name_state_office_match,H2OH03067,1315093.78,325250.06,2026-10-14,,False
+OH-10,Kristina Knickerbocker,Democrat,unique_name_state_office_match,H6OH10121,1015877.85,133444.92,2026-10-14,,False
+OH-10,Thomas F. McMasters,Libertarian,missing,,,,,,False
+OH-11,Mike Kirchner,Republican,missing,,,,,,False
+OH-11,Shontel M. Brown,Democrat,missing,,,,,,False
+OH-12,Troy Balderson,Republican,missing,,,,,,False
+OH-12,Jerrad Christian,Democrat,unique_name_state_office_match,H4OH12080,139968.16,24078.87,2026-10-14,,False
+OH-13,Carey Coleman,Republican,unique_name_state_office_match,H6OH13307,169537.46,62793.16,2026-10-14,,False
+OH-13,Emilia Strong Sykes,Democrat,unique_name_state_office_match,H2OH13264,3990518.8,941757.91,2026-10-14,,False
+OH-13,Sandeep Dixit,No Party,unique_name_state_office_match,H6OH13273,92372,2044.25,2026-10-14,,False
+OH-14,David P. Joyce,Republican,unique_name_state_office_match,H2OH14064,1763173.71,2201695.66,2026-10-14,,False
+OH-14,Maria Jukic,Democrat,unique_name_state_office_match,H6OH14248,118360.32,38447.18,2026-10-14,,False
+OH-15,Mike Carey,Republican,unique_name_state_office_match,H2OH15228,4184981.49,370343.07,2026-10-14,,False
+OH-15,Don Leonard,Democrat,unique_name_state_office_match,H6OH15112,1329843.67,97706.71,2026-10-14,,False
+OH-15,Brennan Barrington,Libertarian,missing,,,,,,False
+OK-SEN,Kevin Hern,Republican,unique_name_state_office_match,S6OK04247,10862233.27,2811986.68,2026-10-14,,False
+OK-SEN,N’Kiyla Jasmine Thomas,Democrat,missing,,,,,,False
+OK-SEN,Ron Meinhardt,Independent,unique_name_state_office_match,S6OK04205,15902.61,1596.07,2026-10-14,,False
+OK-SEN,Curtis Stinnett,Independent,missing,,,,,,False
+OK-SEN,Sevier White,Libertarian,missing,,,,,,False
+OK-01,Mark Tedford,Republican,unique_name_state_office_match,H6OK01235,2490273.7,157345.07,2026-10-14,,False
+OK-01,John Croisant,Democrat,unique_name_state_office_match,H6OK01201,217468.86,38289.12,2026-10-14,,False
+OK-02,Josh Brecheen,Republican,unique_name_state_office_match,H2OK02315,250175.81,71200.53,2026-10-14,,False
+OK-02,Brandon Wade,Democrat,unique_name_state_office_match,H4OK02196,7983.28,-279.63,2026-10-14,,False
+OK-02,Ronnie Hopkins,Independent,missing,,,,,,False
+OK-03,Frank D. Lucas,Republican,unique_name_state_office_match,H4OK06056,1055084.93,570473.65,2026-10-14,,False
+OK-03,Suzie Byrd,Democrat,missing,,,,,,False
+OK-04,Tom Cole,Republican,unique_name_state_office_match,H2OK04055,4281680.96,2370394.67,2026-10-14,,False
+OK-04,Mitchell Jacob,Democrat,unique_name_state_office_match,H6OK04155,121499.59,19450.64,2026-10-14,,False
+OK-04,Rocco Bonacci,Independent,missing,,,,,,False
+OK-05,Stephanie I. Bice,Republican,unique_name_state_office_match,H0OK05205,2476528.64,1123989.45,2026-10-14,,False
+OK-05,Jena Nelson,Democrat,unique_name_state_office_match,H6OK05293,821988.98,108542.56,2026-10-14,,False
+OK-05,Robert P. Henri,Independent,unique_name_state_office_match,H6OK05301,6361,1672,2026-10-14,,False
+OK-05,Austin Nieves,Independent,missing,,,,,,False
+OR-SEN,David Brock Smith,Republican,unique_name_state_office_match,S6OR05218,311173.65,44197.69,2026-10-14,,False
+OR-SEN,Jeff Merkley,Democrat,missing,,,,,,False
+OR-SEN,Gary Lyndon Dye,Libertarian,missing,,,,,,False
+OR-SEN,Chris Henry,"Progressive, Pacific Green",missing,,,,,,False
+OR-01,Barbara J. Kahl,Republican,unique_name_state_office_match,H6OR01308,17728.49,5412.46,2026-10-14,,False
+OR-01,Suzanne Bonamici,Democrat,unique_name_state_office_match,H2OR01133,1025138.44,518633.9,2026-10-14,,False
+OR-02,Cliff Bentz,Republican,unique_name_state_office_match,H0OR02127,1339191.81,1440096.37,2026-10-14,,False
+OR-02,Chris Beck,"Democrat, Independent",unique_name_state_office_match,H6OR02322,276514.73,112665.75,2026-10-14,,False
+OR-03,Loran Ayles,Republican,missing,,,,,,False
+OR-03,Maxine Dexter,Democrat,unique_name_state_office_match,H4OR03192,1297974.78,188640.2,2026-10-14,,False
+OR-04,Monique DeSpain,"Republican, Libertarian",ambiguous,,,,,,False
+OR-04,Val T. Hoyle,Democrat,missing,,,,,,False
+OR-04,Justin Filip,"Pacific Green, Progressive",unique_name_state_office_match,H4OR04141,4636,3616.45,2026-09-30,,False
+OR-05,Patti Adair,"Republican, Libertarian",unique_name_state_office_match,H6OR05242,682238.95,122584.64,2026-10-14,,False
+OR-05,Janelle S. Bynum,Democrat,unique_name_state_office_match,H4OR05304,4737331.62,2175981.11,2026-10-14,,False
+OR-05,Andrea Townsend,Pacific Green,missing,,,,,,False
+OR-06,David Russ,Republican,unique_name_state_office_match,H2OR01240,13165.84,-549.9,2026-10-14,,False
+OR-06,Andrea Salinas,Democrat,unique_name_state_office_match,H2OR06066,1984298.52,636057.38,2026-10-14,,False
+PA-01,Brian K. Fitzpatrick,Republican,unique_name_state_office_match,H6PA08277,8021375.59,709096.9,2026-10-14,,False
+PA-01,Bob Harvie,Democrat,missing,,,,,,False
+PA-02,Jessica Arriaga,Republican,missing,,,,,,False
+PA-02,Brendan F. Boyle,Democrat,unique_name_state_office_match,H4PA13199,2883854.83,5894246.92,2026-10-14,,False
+PA-03,Chris Rabb,Democrat,missing,,,,,,False
+PA-03,Dennis Mahoney,Independent,unique_name_state_office_match,H6PA03369,37384.63,2564.91,2026-09-30,,False
+PA-04,Aurora Stuski,Republican,unique_name_state_office_match,H6PA04169,9750,2353.74,2026-10-14,,False
+PA-04,Madeleine Dean,Democrat,unique_name_state_office_match,H8PA04116,1966147.94,1360165.01,2026-10-14,,False
+PA-05,Nick Manganaro,Republican,missing,,,,,,False
+PA-05,Mary Gay Scanlon,Democrat,unique_name_state_office_match,H8PA07200,1340757.14,471706.2,2026-10-14,,False
+PA-06,Marty Young,Republican,missing,,,,,,False
+PA-06,Chrissy Houlahan,Democrat,unique_name_state_office_match,H8PA06087,2086891.23,4147728.28,2026-10-14,,False
+PA-07,Ryan Mackenzie,Republican,unique_name_state_office_match,H8PA15195,5296663.91,1069992.58,2026-10-14,,False
+PA-07,Bob Brooks,Democrat,unique_name_state_office_match,H6PA07188,5347353.38,741578.51,2026-10-14,,False
+PA-08,"Robert P. Bresnahan, Jr.",Republican,missing,,,,,,False
+PA-08,Paige Cognetti,Democrat,unique_name_state_office_match,H6PA08293,7502359.43,243672.01,2026-10-14,,False
+PA-09,Daniel Meuser,Republican,unique_name_state_office_match,H8PA10147,2129641.48,29790.59,2026-10-14,,False
+PA-09,Rachel Wallace,Democrat,unique_name_state_office_match,H6PA09127,1145383.4,250759.27,2026-10-14,,False
+PA-10,Scott Perry,Republican,unique_name_state_office_match,H2PA04135,6791519.08,1023569.23,2026-10-14,,False
+PA-10,Janelle Stelson,Democrat,unique_name_state_office_match,H4PA10104,9234259.74,2069306.31,2026-10-14,,False
+PA-11,Lloyd Smucker,Republican,unique_name_state_office_match,H6PA16320,1854590.36,258808.23,2026-10-14,,False
+PA-11,Nancy Mannion,Democrat,unique_name_state_office_match,H6PA11099,320443.98,39680.59,2026-10-14,,False
+PA-12,James Hayes,Republican,unique_name_state_office_match,H4PA12068,80533.61,11273.53,2026-10-14,,False
+PA-12,Summer L. Lee,Democrat,unique_name_state_office_match,H2PA18200,1630367.66,1713225.12,2026-10-14,,False
+PA-13,John Joyce,Republican,unique_name_state_office_match,H8PA13125,2755439.79,3587578.06,2026-10-14,,False
+PA-13,Beth Farnham,Democrat,missing,,,,,,False
+PA-14,Guy Reschenthaler,Republican,unique_name_state_office_match,H8PA18199,5037694.9,713105.29,2026-10-14,,False
+PA-14,Alan Bradstock,Democrat,missing,,,,,,False
+PA-15,Glenn Thompson,Republican,unique_name_state_office_match,H8PA05071,2152943.64,703946.49,2026-10-14,,False
+PA-15,Ray Bilger,Democrat,missing,,,,,,False
+PA-16,Mike Kelly,Republican,missing,,,,,,False
+PA-16,Justin Wagner,Democrat,unique_name_state_office_match,H6PA16379,247119.36,62854.43,2026-10-14,,False
+PA-17,Tony Guy,Republican,unique_name_state_office_match,H6PA17203,211631.91,26090.05,2026-10-14,,False
+PA-17,Christopher R. Deluzio,Democrat,unique_name_state_office_match,H2PA17103,3815970.07,1223960.02,2026-10-14,,False
+RI-SEN,Raymond T. McKay,Republican,unique_name_state_office_match,S4RI00051,207230.98,8357.31,2026-10-14,,False
+RI-SEN,Jack Reed,Democrat,missing,,,,,,False
+RI-SEN,Michael Anthony Bahry,Independent,unique_name_state_office_match,S6RI00288,125116.13,92617.28,2026-10-14,,False
+RI-01,Kellie Eleanor Keenan,Republican,unique_name_state_office_match,H6RI01153,15435.44,1465.44,2026-10-14,,False
+RI-01,Gabe Amo,Democrat,missing,,,,,,False
+RI-01,Pedro Junior Soares DeSouza,Independent,unique_name_state_office_match,H6RI01161,13117.74,111.57,2026-10-14,,False
+RI-02,Victor Gilbert Mellor,Republican,unique_name_state_office_match,H6RI02318,3885928.85,44352.63,2026-10-14,,False
+RI-02,Seth Magaziner,Democrat,unique_name_state_office_match,H2RI02184,1612494.98,1580193.79,2026-10-14,,False
+SC-SEN,Darline Graham,Republican,unique_name_state_office_match,S6SC04437,1917646.09,634429.9,2026-10-14,,False
+SC-SEN,Annie Andrews,Democrat,unique_name_state_office_match,S6SC04239,24216840.67,1709465.53,2026-10-14,,False
+SC-SEN,Mark Hackett,Constitution,missing,,,,,,False
+SC-SEN,Kasie Whitener,Libertarian,unique_name_state_office_match,S6SC04247,27614.81,5781.46,2026-10-14,,False
+SC-01,Jenny Costa Honeycut,Republican,missing,,,,,,False
+SC-01,Nancy Lacore,Democrat,unique_name_state_office_match,H6SC01359,4865629.69,175304.35,2026-10-14,,False
+SC-01,Bill Reeside,Libertarian,missing,,,,,,False
+SC-02,Joe Wilson,Republican,unique_name_state_office_match,H2SC02059,1017185.81,137248.89,2026-10-14,,False
+SC-02,Zyon Khalifa,Democrat,ambiguous,,,,,,False
+SC-02,Dayna Alane Smith,Workers,missing,,,,,,False
+SC-03,Sheri Biggs,Republican,unique_name_state_office_match,H4SC01313,706778.72,201218,2026-10-14,,False
+SC-03,Eunice Lehmacher,Democrat,unique_name_state_office_match,H6SC03090,98662.38,21975.76,2026-10-14,,False
+SC-03,Brian Corriea,Libertarian,missing,,,,,,False
+SC-04,William R. Timmons IV,Republican,unique_name_state_office_match,H8SC04250,1774179.99,85603.37,2026-10-14,,False
+SC-04,Courtney McClain,Democrat,unique_name_state_office_match,H6SC04171,130729.56,50464.65,2026-10-14,,False
+SC-04,Jessica Ethridge,Libertarian,unique_name_state_office_match,H6SC04197,963.04,480.03,2026-09-30,,False
+SC-05,Wes Climer,Republican,unique_name_state_office_match,H6SC05202,1132483.52,269169.46,2026-10-14,,False
+SC-05,Mallory Dittmer,Democrat,unique_name_state_office_match,H6SC05228,226553.04,79564.17,2026-10-14,,False
+SC-06,John Peterson,Republican,missing,,,,,,False
+SC-06,James E. Clyburn,Democrat,unique_name_state_office_match,H2SC02042,1687457.55,1827711.11,2026-10-14,,False
+SC-07,Russell Fry,Republican,unique_name_state_office_match,H2SC07280,1985244.19,159187.48,2026-10-14,,False
+SC-07,John Gregory Vincent,Democrat,unique_name_state_office_match,H6SC07034,640418.73,70347.29,2026-10-14,,False
+SD-SEN,Mike Rounds,Republican,unique_name_state_office_match,S4SD00049,3810748.34,1295542.92,2026-10-14,,False
+SD-SEN,Brian L. Bengs,Independent,unique_name_state_office_match,S6SD01117,1855763.43,69708.46,2026-10-14,,False
+SD-01,Marty Jackley,Republican,unique_name_state_office_match,H6SD01109,1737520.15,1050140.78,2026-10-14,,False
+SD-01,Nicole “Nikki” Gronli,Democrat,unique_name_state_office_match,H6SD01141,421803.07,22490.73,2026-10-14,,False
+TN-SEN,Bill Hagerty,Republican,unique_name_state_office_match,S0TN00169,8422210.63,4956454.97,2026-10-14,,False
+TN-SEN,Marquita Bradshaw,Democrat,ambiguous,,,,,,False
+TN-SEN,Tharon Chandler,Independent,missing,,,,,,False
+TN-SEN,Andrew Gerena,Independent,missing,,,,,,False
+TN-SEN,Jeremy Dean Hearn,Independent,missing,,,,,,False
+TN-SEN,Robert Jones,Independent,unique_name_state_office_match,S6TN00372,12300,706.97,2026-10-14,,False
+TN-SEN,James William Macon III,Independent,missing,,,,,,False
+TN-SEN,Yoshi D. Matthews,Independent,unique_name_state_office_match,S6TN00364,47.25,-2083.01,2026-10-14,,False
+TN-SEN,"David Sutman, Jr.",Independent,unique_name_state_office_match,S6TN00398,26349.47,500,2026-10-14,,False
+TN-SEN,Catherine Barcel “Barcy” Whitson,Independent,missing,,,,,,False
+TN-01,Diana Harshbarger,Republican,unique_name_state_office_match,H0TN01118,1536325.23,1898700,2026-10-14,,False
+TN-01,Kristi Burke,Democrat,unique_name_state_office_match,H6TN01537,222584.71,27317.94,2026-10-14,,False
+TN-01,Joshua Ray Ashburn,Independent,missing,,,,,,False
+TN-01,Richard G. Baker,Independent,missing,,,,,,False
+TN-01,Chris Campbell,Independent,missing,,,,,,False
+TN-01,Billy Cody,Independent,missing,,,,,,False
+TN-01,Tyler Brice Mitchell McClain,Independent,missing,,,,,,False
+TN-02,Tim Burchett,Republican,unique_name_state_office_match,H8TN02119,3131314.7,914110.98,2026-10-14,,False
+TN-02,Michaela Barnett,Democrat,unique_name_state_office_match,H6TN02170,717841.92,130250.53,2026-10-14,,False
+TN-02,Bruce Fine,Independent,missing,,,,,,False
+TN-02,Adam Heimerman,Independent,missing,,,,,,False
+TN-03,Charles J. “Chuck” Fleischmann,Republican,unique_name_state_office_match,H0TN03254,2728033.85,4895445.11,2026-10-14,,False
+TN-03,Anna Golladay,Democrat,unique_name_state_office_match,H6TN03228,164743.76,43309.43,2026-10-14,,False
+TN-03,Dean Arnold,Independent,missing,,,,,,False
+TN-03,Jean Howard-Hill,Independent,missing,,,,,,False
+TN-03,Rodney Joe King,Independent,unique_name_state_office_match,H6TN03251,7810,5,2026-09-30,,False
+TN-03,Donnie Lynn Ownby,Independent,missing,,,,,,False
+TN-03,Edward John Roland,Independent,missing,,,,,,False
+TN-04,Scott DesJarlais,Republican,unique_name_state_office_match,H0TN04195,667181.2,525033.64,2026-10-14,,False
+TN-04,Victoria Broderick,Democrat,unique_name_state_office_match,H4TN04270,94216.96,11847.54,2026-10-14,,False
+TN-04,Jacob Kristopher Anders,Independent,unique_name_state_office_match,H6TN04242,2267.06,805.4,2026-09-30,,False
+TN-04,Clay Faircloth,Independent,missing,,,,,,False
+TN-05,Charlie Hatcher,Republican,unique_name_state_office_match,H6TN05405,1803850.94,474542.75,2026-10-14,,False
+TN-05,Chaz Molder,Democrat,unique_name_state_office_match,H6TN05397,3531777.7,560495.2,2026-10-14,,False
+TN-05,James A. Johnson,Independent,missing,,,,,,False
+TN-05,Micheál O’Leary,Independent,missing,,,,,,False
+TN-06,Johnny Garrett,Republican,unique_name_state_office_match,H6TN06213,3000586.11,343417.99,2026-10-14,,False
+TN-06,Mike Croley,Democrat,unique_name_state_office_match,H6TN06171,117167.7,14341.64,2026-10-14,,False
+TN-06,Christopher B. Monday,Independent,missing,,,,,,False
+TN-06,Angus Purdy,Independent,missing,,,,,,False
+TN-07,Matt Van Epps,Republican,missing,,,,,,False
+TN-07,Darden Copeland,Democrat,unique_name_state_office_match,H6TN07286,1257202.49,73685.88,2026-10-14,,False
+TN-07,Andrew J. Koontz,Independent,unique_name_state_office_match,H6TN06288,5100,4970.23,2026-10-14,,False
+TN-07,Lowell Reynolds,Independent,missing,,,,,,False
+TN-08,David Kustoff,Republican,unique_name_state_office_match,H2TN07103,2585196.73,2719271.07,2026-10-14,,False
+TN-08,Heidi Kuhn,Democrat,unique_name_state_office_match,H6TN08367,112308.98,6588.62,2026-10-14,,False
+TN-08,Adam D. Austill,Independent,missing,,,,,,False
+TN-08,Wendell “Wells” Blankenship,Independent,missing,,,,,,False
+TN-08,Antonio Futch,Independent,missing,,,,,,False
+TN-08,Pamela Jeanine “P.” Moses,Independent,missing,,,,,,False
+TN-08,Horace Taylor,Independent,unique_name_state_office_match,H6TN08342,8119,145,2026-10-14,,False
+TN-08,Henry J. Ward III,Independent,missing,,,,,,False
+TN-09,Brent Taylor,Republican,unique_name_state_office_match,H6TN09464,2832273.18,524251.29,2026-10-14,,False
+TN-09,Justin J. Pearson,Democrat,unique_name_state_office_match,H6TN09449,4009058.26,746128.25,2026-10-14,,False
+TN-09,Dennis Clark,Independent,missing,,,,,,False
+TN-09,Michelle Davis Head,Independent,missing,,,,,,False
+TX-SEN,Ken Paxton,Republican,missing,,,,,,False
+TX-SEN,James Talarico,Democrat,unique_name_state_office_match,S6TX00479,146349912.38,9922857.4,2026-10-14,,False
+TX-SEN,Ted Brown,Libertarian,missing,,,,,,False
+TX-01,Nathaniel Moran,Republican,unique_name_state_office_match,H2TX01112,2380646.71,959562.96,2026-10-14,,False
+TX-01,Yolanda R. Prince,Democrat,unique_name_state_office_match,H6TX01352,33181.85,8231.92,2026-10-14,,False
+TX-02,Steve Toth,Republican,unique_name_state_office_match,H6TX08175,1035120.97,112380.1,2026-10-14,,False
+TX-02,Shaun Finnie,Democrat,unique_name_state_office_match,H6TX02251,3158587.64,261648.6,2026-10-14,,False
+TX-03,Keith Self,Republican,unique_name_state_office_match,H2TX00064,887245.18,292331.38,2026-10-14,,False
+TX-03,Evan Hunt,Democrat,unique_name_state_office_match,H6TX03234,702785.91,56115.33,2026-10-14,,False
+TX-04,Pat Fallon,Republican,missing,,,,,,False
+TX-04,Jason Pearce,Democrat,unique_name_state_office_match,H6TX04174,27748.78,2711.98,2026-10-14,,False
+TX-05,Lance Gooden,Republican,unique_name_state_office_match,H8TX05144,1526218.36,1343838.42,2026-10-14,,False
+TX-05,Chelsey Hockett,Democrat,unique_name_state_office_match,H6TX05189,56907.83,27222.7,2026-10-14,,False
+TX-06,Jake Ellzey,Republican,missing,,,,,,False
+TX-06,Danny Minton,Democrat,unique_name_state_office_match,H6TX25203,147189.2,39638.26,2026-09-30,,False
+TX-07,Alexander Hale,Republican,unique_name_state_office_match,H6TX07151,115678.12,19119.02,2026-10-14,,False
+TX-07,Lizzie Fletcher,Democrat,missing,,,,,,False
+TX-07,Espoir Ngabo,Green,unique_name_state_office_match,H6TX07177,3132.88,0,2026-09-30,,False
+TX-08,Jessica Hart Steinmann,Republican,unique_name_state_office_match,H6TX08209,2441284.26,79370.52,2026-10-14,,False
+TX-08,Laura Jones,Democrat,unique_name_state_office_match,H0TX08145,30781.89,4114.54,2026-10-14,,False
+TX-09,Alex Mealer,Republican,missing,,,,,,False
+TX-09,Leticia Gutierrez,Democrat,unique_name_state_office_match,H6TX09231,215052.56,110891.73,2026-10-14,,False
+TX-10,Chris Gober,Republican,unique_name_state_office_match,H6TX10221,3103392.03,165564.77,2026-10-14,,False
+TX-10,Caitlin Rourk,Democrat,unique_name_state_office_match,H6TX31102,576475.06,79336.45,2026-10-14,,False
+TX-11,August Pfluger,Republican,unique_name_state_office_match,H0TX11230,3609434.17,2029823.57,2026-10-14,,False
+TX-11,Claire Reynolds,Democrat,unique_name_state_office_match,H6TX11112,128534.75,55769.16,2026-10-14,,False
+TX-12,Craig A. Goldman,Republican,unique_name_state_office_match,H4TX12065,1932744.66,1512501.32,2026-10-14,,False
+TX-12,Angela “Heli” Rodriguez Prilliman,Democrat,missing,,,,,,False
+TX-13,Ronny Jackson,Republican,unique_name_state_office_match,H0TX13228,4806245.43,5396663.45,2026-10-14,,False
+TX-13,Mark Nair,Democrat,unique_name_state_office_match,H6TX13159,137623.75,2823.67,2026-10-14,,False
+TX-14,"Randy K. Weber, Sr.",Republican,unique_name_state_office_match,H2TX14149,1132031.98,928845.02,2026-10-14,,False
+TX-14,Thurman Bill Bartie,Democrat,unique_name_state_office_match,H6TX14181,39403.19,4754.11,2026-10-14,,False
+TX-15,Monica De La Cruz,Republican,unique_name_state_office_match,H0TX15124,6814266.73,393811.86,2026-10-14,,False
+TX-15,Bobby Pulido,Democrat,unique_name_state_office_match,H6TX15246,6819246.79,1269454.45,2026-10-14,,False
+TX-16,Adam Bauman,Republican,unique_name_state_office_match,H6TX16152,3293,2857.72,2026-10-14,,False
+TX-16,Veronica Escobar,Democrat,unique_name_state_office_match,H8TX16109,1068096.19,216768.02,2026-10-14,,False
+TX-17,Pete Sessions,Republican,unique_name_state_office_match,H2TX03126,1323419.64,1033567.44,2026-10-14,,False
+TX-17,Casey Shepard,Democrat,unique_name_state_office_match,H6TX17168,93530.74,78197.57,2026-10-14,,False
+TX-18,Ronald Dwayne Whitfield,Republican,missing,,,,,,False
+TX-18,Christian D. Menefee,Democrat,unique_name_state_office_match,H6TX18232,3761777.28,77685.42,2026-10-14,,False
+TX-19,Tom Sell,Republican,unique_name_state_office_match,H6TX19206,2502266.26,268006.81,2026-10-14,,False
+TX-19,Kyle Rable,Democrat,unique_name_state_office_match,H6TX19198,49029.91,6317.07,2026-10-14,,False
+TX-20,Edgardo Rafael Baez,Republican,unique_name_state_office_match,H6TX20113,69063.4,8531.21,2026-10-14,,False
+TX-20,Joaquin Castro,Democrat,unique_name_state_office_match,H2TX35011,592415.74,129316.59,2026-10-14,,False
+TX-21,Mark Teixeira,Republican,unique_name_state_office_match,H6TX21301,4392605.96,440539.4,2026-10-14,,False
+TX-21,Kristin Hook,Democrat,unique_name_state_office_match,H4TX21108,388865.29,52250.44,2026-10-14,,False
+TX-22,Trever Nehls,Republican,unique_name_state_office_match,H6TX22283,327410.4,74767,2026-10-14,,False
+TX-22,Marquette Greene-Scott,Democrat,unique_name_state_office_match,H4TX22197,68294.77,2630.47,2026-10-14,,False
+TX-23,Brandon Herrera,Republican,unique_name_state_office_match,H4TX23120,3115205.22,318811.95,2026-10-14,,False
+TX-23,Katy Padilla Stout,Democrat,unique_name_state_office_match,H6TX23273,1117715.08,144423.65,2026-10-14,,False
+TX-23,Ben Mendoza,Independent,missing,,,,,,False
+TX-24,Beth Van Duyne,Republican,missing,,,,,,False
+TX-24,Kevin Burge,Democrat,unique_name_state_office_match,H6TX24172,334210.32,81346.02,2026-10-14,,False
+TX-25,Roger Williams,Republican,unique_name_state_office_match,H2TX33040,1654633.09,1205150.83,2026-10-14,,False
+TX-25,Dione Sims,Democrat,unique_name_state_office_match,H6TX25237,546.48,-3003.52,2026-10-14,,False
+TX-26,Brandon Gill,Republican,unique_name_state_office_match,H4TX26149,7939470.36,2092335.31,2026-10-14,,False
+TX-26,Steven Shook,Democrat,unique_name_state_office_match,H6TX26144,35820.67,5602.96,2026-10-14,,False
+TX-26,Phil Gray,Libertarian,missing,,,,,,False
+TX-27,Michael Cloud,Republican,unique_name_state_office_match,H8TX27049,1219653.23,275804.47,2026-10-14,,False
+TX-27,Tanya Lloyd,Democrat,unique_name_state_office_match,H4TX27089,270814.09,19679.17,2026-10-14,,False
+TX-28,Tano E. Tijerina,Republican,unique_name_state_office_match,H6TX28124,1862406.86,113050.1,2026-10-14,,False
+TX-28,Henry Cuellar,Democrat,unique_name_state_office_match,H2TX23082,3043039.01,657230.5,2026-10-14,,False
+TX-28,Marlón Durán,Green,missing,,,,,,False
+TX-29,Martha Fierro,Republican,unique_name_state_office_match,H6TX29122,585,491.72,2026-10-14,,False
+TX-29,Sylvia R. Garcia,Democrat,unique_name_state_office_match,H8TX29052,1201321.76,235764,2026-10-14,,False
+TX-30,Everett Jackson,Republican,unique_name_state_office_match,H6TX30211,25348.99,2463.01,2026-10-14,,False
+TX-30,Frederick D. Haynes III,Democrat,unique_name_state_office_match,H6TX30245,694864.53,159035.65,2026-10-14,,False
+TX-31,John R. Carter,Republican,unique_name_state_office_match,H2TX31044,1522249.68,159170.95,2026-10-14,,False
+TX-31,Justin Early,Democrat,unique_name_state_office_match,H6TX31094,291879.92,20847.52,2026-10-14,,False
+TX-31,Greg Stoker,Green,missing,,,,,,False
+TX-32,Jace Yarbrough,Republican,unique_name_state_office_match,H6TX32225,1261760.06,123093.72,2026-10-14,,False
+TX-32,Dan Barrios,Democrat,unique_name_state_office_match,H6TX32217,160379.07,8745.17,2026-10-14,,False
+TX-33,Patrick David Gillespie,Republican,missing,,,,,,False
+TX-33,Colin Allred,Democrat,unique_name_state_office_match,H8TX32098,8134455.95,298428.19,2026-10-14,,False
+TX-34,Eric Flores,Republican,unique_name_state_office_match,H6TX34080,4009073.67,246427.27,2026-10-14,,False
+TX-34,Vicente Gonzalez,Democrat,unique_name_state_office_match,H6TX15162,5211344.04,1396949.28,2026-10-14,,False
+TX-34,Eddie Espinoza,Green,missing,,,,,,False
+TX-34,Chris Royal,Libertarian,missing,,,,,,False
+TX-35,Carlos De La Cruz,Republican,unique_name_state_office_match,H6TX35087,2021117.55,312607.08,2026-10-14,,False
+TX-35,Johnny C. Garcia,Democrat,unique_name_state_office_match,H6TX35095,2201578.83,149502.75,2026-10-14,,False
+TX-36,Brian Babin,Republican,unique_name_state_office_match,H6TX02079,1201013.89,928299.88,2026-10-14,,False
+TX-36,Rhonda Hart,Democrat,unique_name_state_office_match,H4TX14111,24315.62,5935.1,2026-09-30,,False
+TX-37,Lauren B. Peña,Republican,unique_name_state_office_match,H6TX35038,132161.88,4453.73,2026-10-14,,False
+TX-37,Greg Casar,Democrat,unique_name_state_office_match,H2TX35144,1382791.38,544085.42,2026-10-14,,False
+TX-38,Jon Bonck,Republican,unique_name_state_office_match,H6TX02244,2202298.38,248170.29,2026-10-14,,False
+TX-38,Melissa McDonough,Democrat,unique_name_state_office_match,H4TX38011,124711.24,44441.67,2026-10-14,,False
+TX-38,Alex McMenemy,Green,unique_name_state_office_match,H6TX38123,9887.9,745.56,2026-10-14,,False
+UT-01,Riley Owen,Republican,unique_name_state_office_match,H6UT01244,164069.93,9503.11,2026-10-14,,False
+UT-01,Ben McAdams,Democrat,unique_name_state_office_match,H8UT04053,2813806.53,377817.48,2026-10-14,,False
+UT-01,Elias Henry Montgomery,Unaffiliated,missing,,,,,,False
+UT-01,Jesse West,Libertarian,missing,,,,,,False
+UT-02,Blake D. Moore,Republican,unique_name_state_office_match,H0UT01205,2796221.05,1608084.04,2026-10-14,,False
+UT-02,Peter Crosby,Democrat,unique_name_state_office_match,H6UT01160,153918.33,47879.29,2026-10-14,,False
+UT-02,Carlton E. Bowen,Independent American,ambiguous,,,,,,False
+UT-02,Daniel Cottam,Libertarian,missing,,,,,,False
+UT-02,Robert M. Moesinger,Unaffiliated,unique_name_state_office_match,H6UT02531,11605.75,-556.25,2026-10-14,,False
+UT-03,Celeste Maloy,Republican,unique_name_state_office_match,H4UT02296,1652694.51,359561.43,2026-10-14,,False
+UT-03,Kent S. Udell,Democrat,unique_name_state_office_match,H6UT03182,99541.33,5715.89,2026-10-14,,False
+UT-03,Cassie Easley,Constitution,missing,,,,,,False
+UT-03,Adonis Hooslyn,Unaffiliated,unique_name_state_office_match,H6UT03174,761.77,-26.63,2026-10-14,,False
+UT-03,Ayden Scott,Unaffiliated,missing,,,,,,False
+UT-03,Michael R. Stoddard,Libertarian,unique_name_state_office_match,H6UT03224,0,0,2026-10-14,,False
+UT-04,Mike Kennedy,Republican,unique_name_state_office_match,H4UT03260,1209378.05,448818.25,2026-10-14,,False
+UT-04,Jonny Larsen,Democrat,unique_name_state_office_match,H6UT02424,88136.41,4861.47,2026-10-14,,False
+UT-04,Steven Burt,Unaffiliated,unique_name_state_office_match,H6UT04024,39743.5,1781.84,2026-10-14,,False
+UT-04,Taylor Wright,Libertarian,missing,,,,,,False
+VT-01,Gerald Malloy,Republican,unique_name_state_office_match,H6VT01085,189568.02,34219.69,2026-10-14,,False
+VT-01,Becca Balint,Democrat,missing,,,,,,False
+VT-01,Phoenix K. Altair,Independent,missing,,,,,,False
+VT-01,Adam Ortiz,Independent,missing,,,,,,False
+VT-01,Suzanne “Suz” Seymour,Independent,missing,,,,,,False
+VT-01,Ryan P. Walton,Independent,missing,,,,,,False
+VA-SEN,Bert Mizusawa,Republican,unique_name_state_office_match,S8VA00321,1141129.7,154033.84,2026-10-14,,False
+VA-SEN,Mark R. Warner,Democrat,unique_name_state_office_match,S6VA00093,20222105.45,6217677.32,2026-10-14,,False
+VA-01,Robert J. Wittman,Republican,unique_name_state_office_match,H8VA01147,5432689.32,797346.03,2026-10-14,,False
+VA-01,Shannon L. Taylor,Democrat,unique_name_state_office_match,H6VA01299,4607379.06,598734.27,2026-10-14,,False
+VA-02,Jennifer A. Kiggans,Republican,unique_name_state_office_match,H2VA02064,7589812.06,1292408.37,2026-10-14,,False
+VA-02,Elaine G. Luria,Democrat,ambiguous,,,,,,False
+VA-02,J. Matt Baker,Independent,missing,,,,,,False
+VA-02,Geral D. “Bishop” Staten,Independent,missing,,,,,,False
+VA-03,"Edwin Rivera, Jr.",Republican,unique_name_state_office_match,H6VA03121,15390.56,4634.74,2026-10-14,,False
+VA-03,Robert C. “Bobby” Scott,Democrat,unique_name_state_office_match,H6VA01117,882179.43,162482.61,2026-10-14,,False
+VA-03,Makiba A. Gaines,Independent,missing,,,,,,False
+VA-03,Stephen C. Woll,Independent,unique_name_state_office_match,H6VA03139,67506,15194.14,2026-10-14,,False
+VA-04,"Robert P. “Family Man” Murray, Jr.",Republican,unique_name_state_office_match,H6VA04129,1549.87,1508.86,2026-10-14,,False
+VA-04,Jennifer L. McClellan,Democrat,unique_name_state_office_match,H4VA04066,1546997.29,222829.62,2026-10-14,,False
+VA-04,Joan E. “Andrews” Bell,Independent,missing,,,,,,False
+VA-05,John J. McGuire III,Republican,unique_name_state_office_match,H0VA07133,2419702.34,382052.72,2026-10-14,,False
+VA-05,Tom S. P. Perriello,Democrat,missing,,,,,,False
+VA-05,Cooke C. Harvey,Independent,missing,,,,,,False
+VA-06,Ben Cline,Republican,missing,,,,,,False
+VA-06,Beth A. Macy,Democrat,unique_name_state_office_match,H6VA06173,2926193.48,362877.8,2026-10-14,,False
+VA-07,Doug A. Ollivant,Republican,missing,,,,,,False
+VA-07,Eugene Simon Vindman,Democrat,missing,,,,,,False
+VA-07,Alaha Ahrar,Independent,unique_name_state_office_match,H6VA07353,28923.1,3659.55,2026-10-14,,False
+VA-07,Taner E. Demirci Lopez,Libertarian,missing,,,,,,False
+VA-07,Joshua E. Ertle,Independent,missing,,,,,,False
+VA-07,Randall A. Terry,Independent,unique_name_state_office_match,H6VA07312,68912,10069.8,2026-10-14,,False
+VA-08,Tony A. Sabio,Republican,unique_name_state_office_match,H6VA08252,44255.68,6204.79,2026-10-14,,False
+VA-08,"Donald S. Beyer, Jr.",Democrat,unique_name_state_office_match,H4VA08224,2529480.41,848726.77,2026-10-14,,False
+VA-08,Shelly M. Arnoldi,Libertarian,missing,,,,,,False
+VA-08,Tim S. Sharman,Independent,unique_name_state_office_match,H6VA08336,45422.41,50,2026-10-14,,False
+VA-09,H. Morgan Griffith,Republican,unique_name_state_office_match,H0VA09055,2173784.73,879116.67,2026-10-14,,False
+VA-09,Joy A. Powers,Democrat,unique_name_state_office_match,H6VA09136,256577.62,59671.26,2026-10-14,,False
+VA-10,Dave T. Beckwith,Republican,missing,,,,,,False
+VA-10,Suhas Subramanyam,Democrat,unique_name_state_office_match,H4VA10279,1707804.06,746033.06,2026-10-14,,False
+VA-10,Ahsen Mujeeb Malik,Independent,missing,,,,,,False
+VA-11,Arthur G. Purves,Republican,ambiguous,,,,,,False
+VA-11,James R. Walkinshaw,Democrat,unique_name_state_office_match,H6VA11066,3270621.28,1143115.48,2026-10-14,,False
+VA-11,Dianne L. Blais,Green,missing,,,,,,False
+WA-01,Mary Silva,Republican,unique_name_state_office_match,H4WA01282,8478.7,1298.86,2026-10-14,,False
+WA-01,Suzan K. DelBene,Democrat,unique_name_state_office_match,H0WA08046,4281272.38,1035589.14,2026-10-14,,False
+WA-02,Edwin H. Feller,Republican,unique_name_state_office_match,H6WA02228,11338.4,6843.32,2026-10-14,,False
+WA-02,Rick Larsen,Democrat,unique_name_state_office_match,H0WA02080,2625476.25,537475.94,2026-10-14,,False
+WA-03,John Braun,Republican,unique_name_state_office_match,H6WA03275,3311756.42,671919.14,2026-10-14,,False
+WA-03,Marie Gluesenkamp Perez,Democrat,unique_name_state_office_match,H2WA03217,9472266.66,234519.93,2026-10-14,,False
+WA-04,Amanda McKinney,Republican,unique_name_state_office_match,H6WA04216,1448473.62,217375.85,2026-10-14,,False
+WA-04,John Duresky,Democrat,unique_name_state_office_match,H6WA04190,459019.84,83691.25,2026-10-14,,False
+WA-05,Michael Baumgartner,Republican,unique_name_state_office_match,H4WA05234,2208414.59,689914.65,2026-10-14,,False
+WA-05,Carmela Conroy,Democrat,unique_name_state_office_match,H4WA05168,840422.66,90193.47,2026-10-14,,False
+WA-06,Teresa Fox,Republican,unique_name_state_office_match,H6WA06286,70638.66,10879.74,2026-10-14,,False
+WA-06,Emily Randall,Democrat,unique_name_state_office_match,H4WA06117,1422767.38,168665.31,2026-10-14,,False
+WA-07,Nirav Sheth,Republican,unique_name_state_office_match,H4WA08147,71544.33,4876.8,2026-10-14,,False
+WA-07,Pramila Jayapal,Democrat,unique_name_state_office_match,H6WA07458,2920966.88,1753240.92,2026-10-14,,False
+WA-08,Spencer Meline,Republican,unique_name_state_office_match,H6WA08167,157773.63,72721.22,2026-10-14,,False
+WA-08,Kim Schrier,Democrat,unique_name_state_office_match,H8WA08189,3766607.24,3216892.25,2026-10-14,,False
+WA-09,Doug Basler,Republican,missing,,,,,,False
+WA-09,Adam Smith,Democrat,missing,,,,,,False
+WA-10,Chris D. Chung,Republican,missing,,,,,,False
+WA-10,Marilyn Strickland,Democrat,unique_name_state_office_match,H0WA10034,1892575.68,608762.35,2026-10-14,,False
+WV-SEN,Shelley Moore Capito,Republican,unique_name_state_office_match,S4WV00159,5449866,3071076.35,2026-10-14,,False
+WV-SEN,Rachel Fetty Anderson,Democrat,unique_name_state_office_match,S6WV00188,164557.53,35681.48,2026-10-14,,False
+WV-SEN,S. Marshall Wilson,Constitution,unique_name_state_office_match,S6WV00204,65287.21,1250.19,2026-10-14,,False
+WV-01,Carol D. Miller,Republican,unique_name_state_office_match,H8WV03097,2036642.7,505035.21,2026-10-14,,False
+WV-01,Vince George,Democrat,missing,,,,,,False
+WV-01,Belinda Fox-Spencer,Constitution,missing,,,,,,False
+WV-02,Riley M. Moore,Republican,unique_name_state_office_match,H4WV02205,1617727.47,580624.92,2026-10-14,,False
+WV-02,Ace Parsi,Democrat,missing,,,,,,False
+WI-01,Bryan Steil,Republican,unique_name_state_office_match,H8WI01156,6393553.46,2243604.54,2026-10-14,,False
+WI-01,Mitchell Berman,Democrat,unique_name_state_office_match,H6WI01283,1977099.04,351557.78,2026-10-14,,False
+WI-02,Mark Pocan,Democrat,unique_name_state_office_match,H2WI02124,1025262.83,881636.41,2026-10-14,,False
+WI-03,Derrick Van Orden,Republican,unique_name_state_office_match,H0WI03175,9101596.33,1165671.1,2026-10-14,,False
+WI-03,Rebecca Cooke,Democrat,ambiguous,,,,,,False
+WI-03,Alexander Valiensi Kent,Independent,missing,,,,,,False
+WI-03,Rustin Provance,Independent,missing,,,,,,False
+WI-04,Tim Rogers,Republican,missing,,,,,,False
+WI-04,Gwen Moore,Democrat,unique_name_state_office_match,H4WI04183,1319135.1,45066.8,2026-10-14,,False
+WI-04,Arthur Burks,Independent,missing,,,,,,False
+WI-05,Scott Fitzgerald,Republican,unique_name_state_office_match,H0WI05113,1729316.51,1206615.31,2026-10-14,,False
+WI-05,Andrew Beck,Democrat,unique_name_state_office_match,H6WI05136,14612.26,3158.02,2026-06-30,,False
+WI-06,Glenn Grothman,Republican,unique_name_state_office_match,H4WI06048,1209007.03,615524.89,2026-10-14,,False
+WI-06,Brad Smith,Democrat,missing,,,,,,False
+WI-06,Matthew Arndt,Wisconsin Green,unique_name_state_office_match,H6WI06274,2210,1710,2026-09-30,,False
+WI-06,Elizabeth Anne Fitzgibbon,Independent,unique_name_state_office_match,H6WI06241,21161.09,3671.46,2026-10-14,,False
+WI-06,Mike Thurow,Independent,missing,,,,,,False
+WI-07,Michael Alfonso,Republican,unique_name_state_office_match,H6WI07223,1770041.24,426938.57,2026-10-14,,False
+WI-07,Fred Clark,Democrat,missing,,,,,,False
+WI-08,Tony Wied,Republican,unique_name_state_office_match,H4WI08119,1354324.32,242365.75,2026-10-14,,False
+WI-08,Rick Crosson,Democrat,unique_name_state_office_match,H6WI08205,168411.93,62027.49,2026-10-14,,False
+WY-SEN,Harriet M. Hageman,Republican,unique_name_state_office_match,S6WY00209,2810753.95,439421.69,2026-10-14,,False
+WY-SEN,James Byrd,Democrat,unique_name_state_office_match,S6WY00217,53560.38,7927.4,2026-10-14,,False
+WY-01,Chuck Gray,Republican,unique_name_state_office_match,H6WY00217,2011264,161174.58,2026-10-14,,False
+WY-01,Lisa Kinney,Democrat,unique_name_state_office_match,H6WY01173,99131.16,33080.98,2026-10-14,,False
+WY-01,Jeffrey Haggit,Constitution,missing,,,,,,False
+WY-01,Shawn Johnson,Libertarian,missing,,,,,,False

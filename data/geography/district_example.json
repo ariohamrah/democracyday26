@@ -1,0 +1,1139 @@
+{
+  "id": "CA-01",
+  "type": "congressional",
+  "member": {
+    "name": "James Gallagher",
+    "party": "R",
+    "party_label": "Republican",
+    "since": "2026-06-10",
+    "bioguide": "G000607",
+    "url": "https://gallagher.house.gov/"
+  },
+  "results": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "map": "1972-1980",
+      "total": 217016,
+      "candidates": [
+        {
+          "name": "Harold T \"Bizz\" Johnson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HAROLD T \"BIZZ\" JOHNSON",
+          "votes": 160477,
+          "pct": 73.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James E Taylor",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES E TAYLOR",
+          "votes": 56539,
+          "pct": 26.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "map": "1972-1980",
+      "total": 210812,
+      "candidates": [
+        {
+          "name": "Harold T Johnson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HAROLD T JOHNSON",
+          "votes": 125122,
+          "pct": 59.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James E Taylor",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES E TAYLOR",
+          "votes": 85690,
+          "pct": 40.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1980,
+      "date": "1980-11-04",
+      "special": false,
+      "map": "1972-1980",
+      "total": 270199,
+      "candidates": [
+        {
+          "name": "Eugene A Chappie",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "EUGENE A CHAPPIE",
+          "votes": 145098,
+          "pct": 53.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Harold T Johnson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HAROLD T JOHNSON",
+          "votes": 107682,
+          "pct": 39.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jim McClarin",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JIM MCCLARIN",
+          "votes": 17419,
+          "pct": 6.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "map": "1982-1990",
+      "total": 216166,
+      "candidates": [
+        {
+          "name": "Douglas H Bosco",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUGLAS H BOSCO",
+          "votes": 107749,
+          "pct": 49.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Don H Clausen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DON H CLAUSEN",
+          "votes": 102043,
+          "pct": 47.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "David Redick",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "DAVID REDICK",
+          "votes": 6374,
+          "pct": 2.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "map": "1982-1990",
+      "total": 252223,
+      "candidates": [
+        {
+          "name": "Douglas H Bosco",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUGLAS H BOSCO",
+          "votes": 157037,
+          "pct": 62.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "David Redick",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVID REDICK",
+          "votes": 95186,
+          "pct": 37.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "map": "1982-1990",
+      "total": 204759,
+      "candidates": [
+        {
+          "name": "Douglas H Bosco",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUGLAS H BOSCO",
+          "votes": 138174,
+          "pct": 67.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Floyd G Sampson",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FLOYD G SAMPSON",
+          "votes": 54436,
+          "pct": 26.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Elden McFarland",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "ELDEN MCFARLAND",
+          "votes": 12149,
+          "pct": 5.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "map": "1982-1990",
+      "total": 254154,
+      "candidates": [
+        {
+          "name": "Douglas H Bosco",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUGLAS H BOSCO",
+          "votes": 159815,
+          "pct": 62.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Samuel \"Mar\" Vanderbilt",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SAMUEL \"MAR\" VANDERBILT",
+          "votes": 72189,
+          "pct": 28.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Eric Fried",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "ERIC FRIED",
+          "votes": 22150,
+          "pct": 8.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "map": "1982-1990",
+      "total": 230261,
+      "candidates": [
+        {
+          "name": "Frank Riggs",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FRANK RIGGS",
+          "votes": 99782,
+          "pct": 43.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Douglas H Bosco",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUGLAS H BOSCO",
+          "votes": 96468,
+          "pct": 41.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Darlene G Comingore",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "DARLENE G COMINGORE",
+          "votes": 34011,
+          "pct": 14.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "map": "1992-2000",
+      "total": 251206,
+      "candidates": [
+        {
+          "name": "Dan Hamburg",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAN HAMBURG",
+          "votes": 119676,
+          "pct": 47.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Frank D Riggs",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FRANK D RIGGS",
+          "votes": 113266,
+          "pct": 45.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Phil Baldwin",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "PHIL BALDWIN",
+          "votes": 10764,
+          "pct": 4.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Matthew L Howard",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MATTHEW L HOWARD",
+          "votes": 7500,
+          "pct": 3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "map": "1992-2000",
+      "total": 200673,
+      "candidates": [
+        {
+          "name": "Frank Riggs",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FRANK RIGGS",
+          "votes": 106870,
+          "pct": 53.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Dan Hamburg",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAN HAMBURG",
+          "votes": 93717,
+          "pct": 46.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "WRITEIN",
+          "votes": 86,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "map": "1992-2000",
+      "total": 222119,
+      "candidates": [
+        {
+          "name": "Frank Riggs",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "FRANK RIGGS",
+          "votes": 110243,
+          "pct": 49.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Michela Alioto",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MICHELA ALIOTO",
+          "votes": 96522,
+          "pct": 43.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Emil Rossi",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "EMIL ROSSI",
+          "votes": 15354,
+          "pct": 6.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "map": "1992-2000",
+      "total": 196805,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 121713,
+          "pct": 61.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark C Luce",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARK C LUCE",
+          "votes": 64692,
+          "pct": 32.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Emil P Rossi",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "EMIL P ROSSI",
+          "votes": 5404,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Ernest K Jones Jr",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "ERNEST K JONES JR",
+          "votes": 4996,
+          "pct": 2.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "map": "1992-2000",
+      "total": 239335,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 155638,
+          "pct": 65,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Russel J \"Jim\" Chase",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RUSSEL J \"JIM\" CHASE",
+          "votes": 66987,
+          "pct": 28,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Cheryl Kreier",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "CHERYL KREIER",
+          "votes": 7173,
+          "pct": 3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Emil P Rossi",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "EMIL P ROSSI",
+          "votes": 6376,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Pamela Elizondo",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "PAMELA ELIZONDO",
+          "votes": 3161,
+          "pct": 1.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "map": "2002-2010",
+      "total": 185216,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 118669,
+          "pct": 64.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lawrence R Wiesner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LAWRENCE R WIESNER",
+          "votes": 60013,
+          "pct": 32.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Kevin Bastian",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "KEVIN BASTIAN",
+          "votes": 6534,
+          "pct": 3.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "map": "2002-2010",
+      "total": 282971,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 189366,
+          "pct": 66.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lawrence R Wiesner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LAWRENCE R WIESNER",
+          "votes": 79970,
+          "pct": 28.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Pamela Elizondo",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "PAMELA ELIZONDO",
+          "votes": 13635,
+          "pct": 4.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "map": "2002-2010",
+      "total": 218044,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 144409,
+          "pct": 66.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John W Jones",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN W JONES",
+          "votes": 63194,
+          "pct": 29,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Pamela Elizondo",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "PAMELA ELIZONDO",
+          "votes": 6899,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Timothy J Stock",
+          "party": "O",
+          "party_label": "PEACE AND FREEDOM",
+          "nameAsFiled": "TIMOTHY J STOCK",
+          "votes": 3503,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "WRITEIN",
+          "votes": 39,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "map": "2002-2010",
+      "total": 290472,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 197812,
+          "pct": 68.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Zane Starkewolf",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ZANE STARKEWOLF",
+          "votes": 67853,
+          "pct": 23.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Carol Wolman",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "CAROL WOLMAN",
+          "votes": 24793,
+          "pct": 8.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "WRITEIN",
+          "votes": 14,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "map": "2002-2010",
+      "total": 234592,
+      "candidates": [
+        {
+          "name": "Mike Thompson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MIKE THOMPSON",
+          "votes": 147307,
+          "pct": 62.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Loren Hanks",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "LOREN HANKS",
+          "votes": 72803,
+          "pct": 31,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Carol Wolman",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "CAROL WOLMAN",
+          "votes": 8486,
+          "pct": 3.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Mike Rodrigues",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MIKE RODRIGUES",
+          "votes": 5996,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "map": "2012-2020",
+      "total": 294213,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LA MALFA",
+          "votes": 168827,
+          "pct": 57.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jim Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JIM REED",
+          "votes": 125386,
+          "pct": 42.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "map": "2012-2020",
+      "total": 216372,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LAMALFA",
+          "votes": 132052,
+          "pct": 61,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Heidi Hall",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HEIDI HALL",
+          "votes": 84320,
+          "pct": 39,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "map": "2012-2020",
+      "total": 314036,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LAMALFA",
+          "votes": 185448,
+          "pct": 59.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jim Reed",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JIM REED",
+          "votes": 128588,
+          "pct": 40.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "map": "2012-2020",
+      "total": 291594,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LA MALFA",
+          "votes": 160046,
+          "pct": 54.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Audrey Denney",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AUDREY DENNEY",
+          "votes": 131548,
+          "pct": 45.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "map": "2012-2020",
+      "total": 358263,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LAMALFA",
+          "votes": 204190,
+          "pct": 57,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Audrey Denney",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AUDREY DENNEY",
+          "votes": 154073,
+          "pct": 43,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "map": "2022-2030",
+      "total": 246225,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LAMALFA",
+          "votes": 152839,
+          "pct": 62.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Max Steiner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MAX STEINER",
+          "votes": 93386,
+          "pct": 37.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "map": "2022-2030",
+      "total": 319228,
+      "candidates": [
+        {
+          "name": "Doug LaMalfa",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DOUG LAMALFA",
+          "votes": 208592,
+          "pct": 65.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Rose Penelope Yee",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROSE PENELOPE YEE",
+          "votes": 110636,
+          "pct": 34.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "lines_changed_for_2026": true,
+  "upcoming_elections": [
+    {
+      "office": "US House",
+      "state": "CA",
+      "district": null,
+      "date": "2026-11-03",
+      "kind": "general"
+    },
+    {
+      "office": "US House",
+      "state": "CA",
+      "district": null,
+      "date": "2028-11-07",
+      "kind": "general"
+    },
+    {
+      "office": "US House",
+      "state": "CA",
+      "district": null,
+      "date": "2030-11-05",
+      "kind": "general"
+    },
+    {
+      "office": "US House",
+      "state": "CA",
+      "district": null,
+      "date": "2032-11-02",
+      "kind": "general"
+    }
+  ],
+  "license": "CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) for Election Wrld's own compilation only. Credit Election Wrld. Source data keeps its own terms, listed at /data#licenses and /api/v1/datasets/sources.",
+  "source_terms": {
+    "list": "/data#licenses",
+    "dataset": "/api/v1/datasets/sources",
+    "sources": [
+      {
+        "id": "medsl_house_1976_2024",
+        "name": "MIT Election Data and Science Lab, U.S. House 1976-2024",
+        "url": "https://doi.org/10.7910/DVN/IG0UN2",
+        "license": "CC0 1.0"
+      }
+    ]
+  }
+}

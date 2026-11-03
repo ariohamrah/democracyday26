@@ -1,0 +1,5995 @@
+{
+  "1976": {
+    "AK": {
+      "dem": 44058,
+      "rep": 71555,
+      "other": 7961,
+      "total": 123574,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 659170,
+      "rep": 504070,
+      "other": 19610,
+      "total": 1182850,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "AR": {
+      "dem": 498604,
+      "rep": 267903,
+      "other": 1028,
+      "total": 767535,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "AZ": {
+      "dem": 295602,
+      "rep": 418642,
+      "other": 28475,
+      "total": 742719,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 3742284,
+      "rep": 3882244,
+      "other": 179242,
+      "total": 7803770,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "CO": {
+      "dem": 460801,
+      "rep": 584278,
+      "other": 36361,
+      "total": 1081440,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 647895,
+      "rep": 719261,
+      "other": 19199,
+      "total": 1386355,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "DC": {
+      "dem": 137818,
+      "rep": 27873,
+      "other": 3139,
+      "total": 168830,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 122461,
+      "rep": 109780,
+      "other": 3401,
+      "total": 235642,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 1636000,
+      "rep": 1469531,
+      "other": 45100,
+      "total": 3150631,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "GA": {
+      "dem": 979409,
+      "rep": 483743,
+      "other": 0,
+      "total": 1463152,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "HI": {
+      "dem": 147375,
+      "rep": 140003,
+      "other": 3923,
+      "total": 291301,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 619931,
+      "rep": 632864,
+      "other": 26508,
+      "total": 1279303,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 126549,
+      "rep": 204151,
+      "other": 10232,
+      "total": 340932,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2271295,
+      "rep": 2364269,
+      "other": 85718,
+      "total": 4721282,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "IN": {
+      "dem": 1014714,
+      "rep": 1183958,
+      "other": 21690,
+      "total": 2220362,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 430421,
+      "rep": 502752,
+      "other": 24672,
+      "total": 957845,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 615717,
+      "rep": 531852,
+      "other": 19573,
+      "total": 1167142,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "LA": {
+      "dem": 661365,
+      "rep": 587446,
+      "other": 28572,
+      "total": 1277383,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "MA": {
+      "dem": 1429475,
+      "rep": 1030276,
+      "other": 87807,
+      "total": 2547558,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 759612,
+      "rep": 672661,
+      "other": 0,
+      "total": 1432273,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 232279,
+      "rep": 236320,
+      "other": 14369,
+      "total": 482968,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "MI": {
+      "dem": 1696714,
+      "rep": 1893742,
+      "other": 61134,
+      "total": 3651590,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 1070440,
+      "rep": 819395,
+      "other": 60096,
+      "total": 1949931,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 998387,
+      "rep": 927443,
+      "other": 27770,
+      "total": 1953600,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "MS": {
+      "dem": 381329,
+      "rep": 366846,
+      "other": 20215,
+      "total": 768390,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "MT": {
+      "dem": 149259,
+      "rep": 173703,
+      "other": 5772,
+      "total": 328734,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 927365,
+      "rep": 741960,
+      "other": 8581,
+      "total": 1677906,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "ND": {
+      "dem": 136078,
+      "rep": 153684,
+      "other": 7546,
+      "total": 297308,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 233293,
+      "rep": 359219,
+      "other": 14237,
+      "total": 606749,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 147645,
+      "rep": 185935,
+      "other": 6047,
+      "total": 339627,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NJ": {
+      "dem": 1444653,
+      "rep": 1509688,
+      "other": 60131,
+      "total": 3014472,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NM": {
+      "dem": 201148,
+      "rep": 211419,
+      "other": 4023,
+      "total": 416590,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NV": {
+      "dem": 92479,
+      "rep": 101273,
+      "other": 8124,
+      "total": 201876,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 3389558,
+      "rep": 3100791,
+      "other": 177913,
+      "total": 6668262,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2009959,
+      "rep": 2000626,
+      "other": 99871,
+      "total": 4110456,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "OK": {
+      "dem": 532442,
+      "rep": 545708,
+      "other": 14101,
+      "total": 1092251,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 490407,
+      "rep": 492120,
+      "other": 47349,
+      "total": 1029876,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "PA": {
+      "dem": 2328677,
+      "rep": 2205604,
+      "other": 86506,
+      "total": 4620787,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 227636,
+      "rep": 181249,
+      "other": 1699,
+      "total": 410584,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 450807,
+      "rep": 346149,
+      "other": 5627,
+      "total": 802583,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "SD": {
+      "dem": 147068,
+      "rep": 151505,
+      "other": 2105,
+      "total": 300678,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 825879,
+      "rep": 633969,
+      "other": 16498,
+      "total": 1476346,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "TX": {
+      "dem": 2082319,
+      "rep": 1953300,
+      "other": 36265,
+      "total": 4071884,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "UT": {
+      "dem": 182110,
+      "rep": 337908,
+      "other": 21200,
+      "total": 541218,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 813896,
+      "rep": 836554,
+      "other": 46644,
+      "total": 1697094,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 77798,
+      "rep": 100387,
+      "other": 5717,
+      "total": 183902,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "WA": {
+      "dem": 717323,
+      "rep": 777732,
+      "other": 60479,
+      "total": 1555534,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    },
+    "WI": {
+      "dem": 1040232,
+      "rep": 1004987,
+      "other": 56117,
+      "total": 2101336,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 435864,
+      "rep": 314726,
+      "other": 0,
+      "total": 750590,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "D"
+    },
+    "WY": {
+      "dem": 62239,
+      "rep": 92717,
+      "other": 1387,
+      "total": 156343,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Gerald Ford",
+      "winner": "R"
+    }
+  },
+  "1980": {
+    "AK": {
+      "dem": 41842,
+      "rep": 86112,
+      "other": 30491,
+      "total": 158445,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 636730,
+      "rep": 654192,
+      "other": 51007,
+      "total": 1341929,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 398041,
+      "rep": 403164,
+      "other": 36377,
+      "total": 837582,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 246843,
+      "rep": 529688,
+      "other": 97414,
+      "total": 873945,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 3082943,
+      "rep": 4522994,
+      "other": 977001,
+      "total": 8582938,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CO": {
+      "dem": 368009,
+      "rep": 652264,
+      "other": 164177,
+      "total": 1184450,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 541732,
+      "rep": 677210,
+      "other": 187343,
+      "total": 1406285,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "DC": {
+      "dem": 130231,
+      "rep": 23313,
+      "other": 20345,
+      "total": 173889,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 105754,
+      "rep": 111252,
+      "other": 18662,
+      "total": 235668,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "FL": {
+      "dem": 1419475,
+      "rep": 2046951,
+      "other": 220501,
+      "total": 3686927,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 890955,
+      "rep": 654168,
+      "other": 51682,
+      "total": 1596805,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "HI": {
+      "dem": 135879,
+      "rep": 130112,
+      "other": 37296,
+      "total": 303287,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 508672,
+      "rep": 676026,
+      "other": 132963,
+      "total": 1317661,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 110192,
+      "rep": 290699,
+      "other": 36540,
+      "total": 437431,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 1981413,
+      "rep": 2358049,
+      "other": 410259,
+      "total": 4749721,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "IN": {
+      "dem": 844197,
+      "rep": 1255656,
+      "other": 142180,
+      "total": 2242033,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 326150,
+      "rep": 566812,
+      "other": 86833,
+      "total": 979795,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 617417,
+      "rep": 635274,
+      "other": 42936,
+      "total": 1295627,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 708453,
+      "rep": 792853,
+      "other": 47285,
+      "total": 1548591,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1053802,
+      "rep": 1057631,
+      "other": 412657,
+      "total": 2524090,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MD": {
+      "dem": 726161,
+      "rep": 680606,
+      "other": 133729,
+      "total": 1540496,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 220974,
+      "rep": 238522,
+      "other": 63515,
+      "total": 523011,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MI": {
+      "dem": 1661532,
+      "rep": 1915225,
+      "other": 332968,
+      "total": 3909725,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 954173,
+      "rep": 873268,
+      "other": 224475,
+      "total": 2051916,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 931182,
+      "rep": 1074181,
+      "other": 94461,
+      "total": 2099824,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 429281,
+      "rep": 441089,
+      "other": 21380,
+      "total": 891750,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 118032,
+      "rep": 206814,
+      "other": 39106,
+      "total": 363952,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 875635,
+      "rep": 915018,
+      "other": 65180,
+      "total": 1855833,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 79189,
+      "rep": 193695,
+      "other": 28232,
+      "total": 301116,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 166424,
+      "rep": 419214,
+      "other": 53895,
+      "total": 639533,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 108864,
+      "rep": 221705,
+      "other": 53421,
+      "total": 383990,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NJ": {
+      "dem": 1147364,
+      "rep": 1546557,
+      "other": 281763,
+      "total": 2975684,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NM": {
+      "dem": 167826,
+      "rep": 250779,
+      "other": 37632,
+      "total": 456237,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NV": {
+      "dem": 66666,
+      "rep": 155017,
+      "other": 22009,
+      "total": 243692,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 2728372,
+      "rep": 2893831,
+      "other": 579756,
+      "total": 6201959,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OH": {
+      "dem": 1752414,
+      "rep": 2206545,
+      "other": 324644,
+      "total": 4283603,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 402026,
+      "rep": 695570,
+      "other": 52112,
+      "total": 1149708,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 456890,
+      "rep": 571044,
+      "other": 153582,
+      "total": 1181516,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "PA": {
+      "dem": 1937540,
+      "rep": 2261872,
+      "other": 362089,
+      "total": 4561501,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "RI": {
+      "dem": 198342,
+      "rep": 154793,
+      "other": 62832,
+      "total": 415967,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 428220,
+      "rep": 439277,
+      "other": 20761,
+      "total": 888258,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 103855,
+      "rep": 198343,
+      "other": 25505,
+      "total": 327703,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 783051,
+      "rep": 787761,
+      "other": 46804,
+      "total": 1617616,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 1881147,
+      "rep": 2510705,
+      "other": 149784,
+      "total": 4541636,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 124266,
+      "rep": 439687,
+      "other": 40199,
+      "total": 604152,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 752174,
+      "rep": 989609,
+      "other": 124249,
+      "total": 1866032,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 81952,
+      "rep": 94628,
+      "other": 36719,
+      "total": 213299,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WA": {
+      "dem": 650193,
+      "rep": 865244,
+      "other": 226957,
+      "total": 1742394,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WI": {
+      "dem": 981584,
+      "rep": 1088845,
+      "other": 202792,
+      "total": 2273221,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WV": {
+      "dem": 367462,
+      "rep": 334206,
+      "other": 36047,
+      "total": 737715,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "WY": {
+      "dem": 49427,
+      "rep": 110700,
+      "other": 16586,
+      "total": 176713,
+      "dem_cand": "Jimmy Carter",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    }
+  },
+  "1984": {
+    "AK": {
+      "dem": 62007,
+      "rep": 138377,
+      "other": 7221,
+      "total": 207605,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 551899,
+      "rep": 872849,
+      "other": 16965,
+      "total": 1441713,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 338646,
+      "rep": 534774,
+      "other": 10986,
+      "total": 884406,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 333854,
+      "rep": 681416,
+      "other": 10627,
+      "total": 1025897,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 3922519,
+      "rep": 5467009,
+      "other": 115513,
+      "total": 9505041,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CO": {
+      "dem": 454975,
+      "rep": 821817,
+      "other": 18588,
+      "total": 1295380,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 569597,
+      "rep": 890877,
+      "other": 6426,
+      "total": 1466900,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "DC": {
+      "dem": 180408,
+      "rep": 29009,
+      "other": 1871,
+      "total": 211288,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 101656,
+      "rep": 152190,
+      "other": 726,
+      "total": 254572,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "FL": {
+      "dem": 1448816,
+      "rep": 2730350,
+      "other": 885,
+      "total": 4180051,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 706628,
+      "rep": 1068722,
+      "other": 753,
+      "total": 1776103,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 147154,
+      "rep": 185050,
+      "other": 3642,
+      "total": 335846,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "IA": {
+      "dem": 605620,
+      "rep": 703088,
+      "other": 11097,
+      "total": 1319805,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 108510,
+      "rep": 297523,
+      "other": 5111,
+      "total": 411144,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2086499,
+      "rep": 2707103,
+      "other": 25486,
+      "total": 4819088,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "IN": {
+      "dem": 841481,
+      "rep": 1377230,
+      "other": 14358,
+      "total": 2233069,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 333149,
+      "rep": 677296,
+      "other": 11546,
+      "total": 1021991,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 539539,
+      "rep": 821702,
+      "other": 8104,
+      "total": 1369345,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 651586,
+      "rep": 1037299,
+      "other": 17937,
+      "total": 1706822,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1239606,
+      "rep": 1310936,
+      "other": 8841,
+      "total": 2559383,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MD": {
+      "dem": 787935,
+      "rep": 879918,
+      "other": 8020,
+      "total": 1675873,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "ME": {
+      "dem": 214515,
+      "rep": 336500,
+      "other": 2129,
+      "total": 553144,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MI": {
+      "dem": 1529638,
+      "rep": 2251571,
+      "other": 20449,
+      "total": 3801658,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 1036364,
+      "rep": 1032603,
+      "other": 15482,
+      "total": 2084449,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 848583,
+      "rep": 1274188,
+      "other": 0,
+      "total": 2122771,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 352192,
+      "rep": 582377,
+      "other": 6535,
+      "total": 941104,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 146742,
+      "rep": 232450,
+      "other": 5185,
+      "total": 384377,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 824287,
+      "rep": 1346481,
+      "other": 4593,
+      "total": 2175361,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 104429,
+      "rep": 200336,
+      "other": 4206,
+      "total": 308971,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 187866,
+      "rep": 460054,
+      "other": 4170,
+      "total": 652090,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 120347,
+      "rep": 267050,
+      "other": 1507,
+      "total": 388904,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NJ": {
+      "dem": 1261323,
+      "rep": 1933630,
+      "other": 22909,
+      "total": 3217862,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NM": {
+      "dem": 201769,
+      "rep": 307101,
+      "other": 5500,
+      "total": 514370,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NV": {
+      "dem": 91655,
+      "rep": 188770,
+      "other": 2292,
+      "total": 282717,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 3119609,
+      "rep": 3664763,
+      "other": 22438,
+      "total": 6806810,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OH": {
+      "dem": 1825440,
+      "rep": 2678559,
+      "other": 59236,
+      "total": 4563235,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 385080,
+      "rep": 861530,
+      "other": 9066,
+      "total": 1255676,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 536479,
+      "rep": 685700,
+      "other": 4348,
+      "total": 1226527,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "PA": {
+      "dem": 2228131,
+      "rep": 2584323,
+      "other": 32449,
+      "total": 4844903,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "RI": {
+      "dem": 197106,
+      "rep": 212080,
+      "other": 1303,
+      "total": 410489,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "SC": {
+      "dem": 344459,
+      "rep": 615539,
+      "other": 8531,
+      "total": 968529,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 116113,
+      "rep": 200267,
+      "other": 1487,
+      "total": 317867,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 711714,
+      "rep": 990212,
+      "other": 10067,
+      "total": 1711993,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 1949276,
+      "rep": 3433428,
+      "other": 14867,
+      "total": 5397571,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 155369,
+      "rep": 469105,
+      "other": 5182,
+      "total": 629656,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 796250,
+      "rep": 1337078,
+      "other": 13307,
+      "total": 2146635,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 95730,
+      "rep": 135865,
+      "other": 2966,
+      "total": 234561,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WA": {
+      "dem": 798352,
+      "rep": 1051670,
+      "other": 24888,
+      "total": 1874910,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WI": {
+      "dem": 995740,
+      "rep": 1198584,
+      "other": 17365,
+      "total": 2211689,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WV": {
+      "dem": 328125,
+      "rep": 405483,
+      "other": 2134,
+      "total": 735742,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 53370,
+      "rep": 133241,
+      "other": 2357,
+      "total": 188968,
+      "dem_cand": "Walter Mondale",
+      "rep_cand": "Ronald Reagan",
+      "winner": "R"
+    }
+  },
+  "1988": {
+    "AK": {
+      "dem": 72584,
+      "rep": 119251,
+      "other": 8281,
+      "total": 200116,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 549506,
+      "rep": 815576,
+      "other": 13394,
+      "total": 1378476,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 349237,
+      "rep": 466578,
+      "other": 11923,
+      "total": 827738,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 454029,
+      "rep": 702541,
+      "other": 15303,
+      "total": 1171873,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 4702233,
+      "rep": 5054917,
+      "other": 129915,
+      "total": 9887065,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "CO": {
+      "dem": 621453,
+      "rep": 728177,
+      "other": 22764,
+      "total": 1372394,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 676584,
+      "rep": 750241,
+      "other": 16569,
+      "total": 1443394,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "DC": {
+      "dem": 159407,
+      "rep": 27590,
+      "other": 5880,
+      "total": 192877,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 108647,
+      "rep": 139639,
+      "other": 1605,
+      "total": 249891,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "FL": {
+      "dem": 1656701,
+      "rep": 2618885,
+      "other": 26727,
+      "total": 4302313,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 714792,
+      "rep": 1081331,
+      "other": 13549,
+      "total": 1809672,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 192364,
+      "rep": 158625,
+      "other": 3472,
+      "total": 354461,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 670557,
+      "rep": 545355,
+      "other": 9702,
+      "total": 1225614,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 147272,
+      "rep": 253881,
+      "other": 7815,
+      "total": 408968,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2215940,
+      "rep": 2310939,
+      "other": 32241,
+      "total": 4559120,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "IN": {
+      "dem": 860643,
+      "rep": 1297763,
+      "other": 10215,
+      "total": 2168621,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 422636,
+      "rep": 554049,
+      "other": 16359,
+      "total": 993044,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 580368,
+      "rep": 734281,
+      "other": 7868,
+      "total": 1322517,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 717460,
+      "rep": 883702,
+      "other": 27040,
+      "total": 1628202,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1401415,
+      "rep": 1194635,
+      "other": 36751,
+      "total": 2632801,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 826304,
+      "rep": 876167,
+      "other": 11887,
+      "total": 1714358,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "ME": {
+      "dem": 243569,
+      "rep": 307131,
+      "other": 4335,
+      "total": 555035,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MI": {
+      "dem": 1675783,
+      "rep": 1965486,
+      "other": 27894,
+      "total": 3669163,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 1109471,
+      "rep": 962337,
+      "other": 24982,
+      "total": 2096790,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1001619,
+      "rep": 1084953,
+      "other": 6656,
+      "total": 2093228,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 363921,
+      "rep": 557890,
+      "other": 9716,
+      "total": 931527,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 168936,
+      "rep": 190412,
+      "other": 6326,
+      "total": 365674,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 890167,
+      "rep": 1237258,
+      "other": 6945,
+      "total": 2134370,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 127739,
+      "rep": 166559,
+      "other": 2963,
+      "total": 297261,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 259235,
+      "rep": 397956,
+      "other": 4274,
+      "total": 661465,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 163696,
+      "rep": 281537,
+      "other": 5292,
+      "total": 450525,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NJ": {
+      "dem": 1320352,
+      "rep": 1743192,
+      "other": 36009,
+      "total": 3099553,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NM": {
+      "dem": 244497,
+      "rep": 270341,
+      "other": 6549,
+      "total": 521387,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NV": {
+      "dem": 132738,
+      "rep": 206040,
+      "other": 4355,
+      "total": 343133,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 3347882,
+      "rep": 3081871,
+      "other": 55930,
+      "total": 6485683,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 1939629,
+      "rep": 2416549,
+      "other": 37407,
+      "total": 4393585,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 483423,
+      "rep": 678367,
+      "other": 9246,
+      "total": 1171036,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 616206,
+      "rep": 560126,
+      "other": 25362,
+      "total": 1201694,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2194944,
+      "rep": 2300087,
+      "other": 41220,
+      "total": 4536251,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "RI": {
+      "dem": 225123,
+      "rep": 177761,
+      "other": 1738,
+      "total": 404622,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 370554,
+      "rep": 606443,
+      "other": 9012,
+      "total": 986009,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 145560,
+      "rep": 165415,
+      "other": 2016,
+      "total": 312991,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 679794,
+      "rep": 947233,
+      "other": 9223,
+      "total": 1636250,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 2352748,
+      "rep": 3036829,
+      "other": 37833,
+      "total": 5427410,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 207343,
+      "rep": 428442,
+      "other": 11223,
+      "total": 647008,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 859799,
+      "rep": 1309162,
+      "other": 22648,
+      "total": 2191609,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 115775,
+      "rep": 124331,
+      "other": 3222,
+      "total": 243328,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "WA": {
+      "dem": 933516,
+      "rep": 903835,
+      "other": 27902,
+      "total": 1865253,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1126794,
+      "rep": 1047499,
+      "other": 17315,
+      "total": 2191608,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 341016,
+      "rep": 310065,
+      "other": 2230,
+      "total": 653311,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WY": {
+      "dem": 67113,
+      "rep": 106867,
+      "other": 2571,
+      "total": 176551,
+      "dem_cand": "Michael Dukakis",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    }
+  },
+  "1992": {
+    "AK": {
+      "dem": 78294,
+      "rep": 102000,
+      "other": 78212,
+      "total": 258506,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 690080,
+      "rep": 804283,
+      "other": 193697,
+      "total": 1688060,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 505823,
+      "rep": 337324,
+      "other": 107506,
+      "total": 950653,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "AZ": {
+      "dem": 543050,
+      "rep": 572086,
+      "other": 371839,
+      "total": 1486975,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 5121325,
+      "rep": 3630574,
+      "other": 2379822,
+      "total": 11131721,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 629681,
+      "rep": 562850,
+      "other": 376649,
+      "total": 1569180,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 682318,
+      "rep": 578313,
+      "other": 355525,
+      "total": 1616156,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 192619,
+      "rep": 20698,
+      "other": 14255,
+      "total": 227572,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 126054,
+      "rep": 102313,
+      "other": 61253,
+      "total": 289620,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 2071698,
+      "rep": 2173310,
+      "other": 1068384,
+      "total": 5313392,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 1008966,
+      "rep": 995252,
+      "other": 316915,
+      "total": 2321133,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "HI": {
+      "dem": 179310,
+      "rep": 136822,
+      "other": 56710,
+      "total": 372842,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 586353,
+      "rep": 504891,
+      "other": 262622,
+      "total": 1353866,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 137013,
+      "rep": 202645,
+      "other": 142456,
+      "total": 482114,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2453350,
+      "rep": 1734096,
+      "other": 862711,
+      "total": 5050157,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 848420,
+      "rep": 989375,
+      "other": 468076,
+      "total": 2305871,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 390434,
+      "rep": 449951,
+      "other": 316851,
+      "total": 1157236,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 665104,
+      "rep": 617178,
+      "other": 210618,
+      "total": 1492900,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "LA": {
+      "dem": 815971,
+      "rep": 733386,
+      "other": 240660,
+      "total": 1790017,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MA": {
+      "dem": 1318639,
+      "rep": 805039,
+      "other": 649986,
+      "total": 2773664,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 988571,
+      "rep": 707094,
+      "other": 288915,
+      "total": 1984580,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 263420,
+      "rep": 206504,
+      "other": 209575,
+      "total": 679499,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 1871182,
+      "rep": 1554940,
+      "other": 848551,
+      "total": 4274673,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1020997,
+      "rep": 747841,
+      "other": 579110,
+      "total": 2347948,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1053873,
+      "rep": 811159,
+      "other": 526238,
+      "total": 2391270,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "MS": {
+      "dem": 400258,
+      "rep": 487793,
+      "other": 93742,
+      "total": 981793,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 154507,
+      "rep": 144207,
+      "other": 111869,
+      "total": 410583,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "NC": {
+      "dem": 1114042,
+      "rep": 1134661,
+      "other": 363147,
+      "total": 2611850,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 99168,
+      "rep": 136244,
+      "other": 72721,
+      "total": 308133,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 216864,
+      "rep": 343678,
+      "other": 177004,
+      "total": 737546,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 209040,
+      "rep": 202484,
+      "other": 125691,
+      "total": 537215,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 1436206,
+      "rep": 1356865,
+      "other": 550523,
+      "total": 3343594,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 261617,
+      "rep": 212824,
+      "other": 95545,
+      "total": 569986,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 189148,
+      "rep": 175828,
+      "other": 141342,
+      "total": 506318,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 3444450,
+      "rep": 2346649,
+      "other": 1135382,
+      "total": 6926481,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 1984942,
+      "rep": 1894310,
+      "other": 1060715,
+      "total": 4939967,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "OK": {
+      "dem": 473066,
+      "rep": 592929,
+      "other": 324364,
+      "total": 1390359,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 621314,
+      "rep": 475757,
+      "other": 365572,
+      "total": 1462643,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2239164,
+      "rep": 1791841,
+      "other": 928805,
+      "total": 4959810,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 213299,
+      "rep": 131601,
+      "other": 108465,
+      "total": 453365,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 525514,
+      "rep": 577507,
+      "other": 125891,
+      "total": 1228912,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 124888,
+      "rep": 136718,
+      "other": 74648,
+      "total": 336254,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 933521,
+      "rep": 841300,
+      "other": 207817,
+      "total": 1982638,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "TX": {
+      "dem": 2281815,
+      "rep": 2496071,
+      "other": 1376132,
+      "total": 6154018,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 183429,
+      "rep": 322632,
+      "other": 237937,
+      "total": 743998,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1038650,
+      "rep": 1150517,
+      "other": 369962,
+      "total": 2559129,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 133592,
+      "rep": 88122,
+      "other": 67987,
+      "total": 289701,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 993037,
+      "rep": 731234,
+      "other": 563294,
+      "total": 2287565,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1041066,
+      "rep": 930855,
+      "other": 558182,
+      "total": 2530103,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 331001,
+      "rep": 241974,
+      "other": 110702,
+      "total": 683677,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "D"
+    },
+    "WY": {
+      "dem": 68160,
+      "rep": 79347,
+      "other": 52377,
+      "total": 199884,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "George H.W. Bush",
+      "winner": "R"
+    }
+  },
+  "1996": {
+    "AK": {
+      "dem": 80380,
+      "rep": 122746,
+      "other": 38494,
+      "total": 241620,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 662165,
+      "rep": 769044,
+      "other": 103140,
+      "total": 1534349,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 475171,
+      "rep": 325416,
+      "other": 83675,
+      "total": 884262,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "AZ": {
+      "dem": 653288,
+      "rep": 622073,
+      "other": 129044,
+      "total": 1404405,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "CA": {
+      "dem": 5119835,
+      "rep": 3828381,
+      "other": 1071253,
+      "total": 10019469,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 671152,
+      "rep": 691848,
+      "other": 147702,
+      "total": 1510702,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 735740,
+      "rep": 483109,
+      "other": 173765,
+      "total": 1392614,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 158220,
+      "rep": 17339,
+      "other": 10167,
+      "total": 185726,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 140355,
+      "rep": 99062,
+      "other": 31393,
+      "total": 270810,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 2546870,
+      "rep": 2244536,
+      "other": 511748,
+      "total": 5303154,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "GA": {
+      "dem": 1053849,
+      "rep": 1080843,
+      "other": 164207,
+      "total": 2298899,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 205012,
+      "rep": 113943,
+      "other": 41165,
+      "total": 360120,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 620258,
+      "rep": 492644,
+      "other": 121173,
+      "total": 1234075,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 165443,
+      "rep": 256595,
+      "other": 69673,
+      "total": 491711,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2341744,
+      "rep": 1587021,
+      "other": 382626,
+      "total": 4311391,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 887424,
+      "rep": 1006693,
+      "other": 241314,
+      "total": 2135431,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 387659,
+      "rep": 583245,
+      "other": 103396,
+      "total": 1074300,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 636614,
+      "rep": 623283,
+      "other": 128811,
+      "total": 1388708,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "LA": {
+      "dem": 927837,
+      "rep": 712586,
+      "other": 143536,
+      "total": 1783959,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MA": {
+      "dem": 1571509,
+      "rep": 718058,
+      "other": 266892,
+      "total": 2556459,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 966207,
+      "rep": 681530,
+      "other": 133133,
+      "total": 1780870,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 312788,
+      "rep": 186378,
+      "other": 106731,
+      "total": 605897,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 1989653,
+      "rep": 1481212,
+      "other": 377979,
+      "total": 3848844,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1120380,
+      "rep": 766395,
+      "other": 305717,
+      "total": 2192492,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1025935,
+      "rep": 890016,
+      "other": 242114,
+      "total": 2158065,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "MS": {
+      "dem": 394022,
+      "rep": 439838,
+      "other": 59997,
+      "total": 893857,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 167922,
+      "rep": 179652,
+      "other": 59509,
+      "total": 407083,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 1107849,
+      "rep": 1225938,
+      "other": 182020,
+      "total": 2515807,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 106905,
+      "rep": 125050,
+      "other": 34456,
+      "total": 266411,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 236761,
+      "rep": 363467,
+      "other": 77187,
+      "total": 677415,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 246166,
+      "rep": 196486,
+      "other": 53945,
+      "total": 496597,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 1652361,
+      "rep": 1103099,
+      "other": 320400,
+      "total": 3075860,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 273495,
+      "rep": 232751,
+      "other": 49828,
+      "total": 556074,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 203974,
+      "rep": 199244,
+      "other": 61061,
+      "total": 464279,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 3756177,
+      "rep": 1933492,
+      "other": 626460,
+      "total": 6316129,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2148222,
+      "rep": 1859883,
+      "other": 526329,
+      "total": 4534434,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "OK": {
+      "dem": 488105,
+      "rep": 582315,
+      "other": 136293,
+      "total": 1206713,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 649641,
+      "rep": 538152,
+      "other": 189967,
+      "total": 1377760,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2215819,
+      "rep": 1801169,
+      "other": 484319,
+      "total": 4501307,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 233050,
+      "rep": 104683,
+      "other": 52514,
+      "total": 390247,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 506152,
+      "rep": 573339,
+      "other": 70691,
+      "total": 1150182,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 139333,
+      "rep": 150543,
+      "other": 33950,
+      "total": 323826,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 909146,
+      "rep": 863530,
+      "other": 121429,
+      "total": 1894105,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "TX": {
+      "dem": 2459683,
+      "rep": 2736167,
+      "other": 415794,
+      "total": 5611644,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 221633,
+      "rep": 361911,
+      "other": 82085,
+      "total": 665629,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1091060,
+      "rep": 1138350,
+      "other": 187232,
+      "total": 2416642,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 137894,
+      "rep": 80352,
+      "other": 40203,
+      "total": 258449,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1123323,
+      "rep": 840712,
+      "other": 289802,
+      "total": 2253837,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1071971,
+      "rep": 845029,
+      "other": 279169,
+      "total": 2196169,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 327812,
+      "rep": 233946,
+      "other": 74701,
+      "total": 636459,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "D"
+    },
+    "WY": {
+      "dem": 77934,
+      "rep": 105388,
+      "other": 28249,
+      "total": 211571,
+      "dem_cand": "Bill Clinton",
+      "rep_cand": "Robert Dole",
+      "winner": "R"
+    }
+  },
+  "2000": {
+    "AK": {
+      "dem": 79004,
+      "rep": 167398,
+      "other": 39158,
+      "total": 285560,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 692611,
+      "rep": 941173,
+      "other": 32488,
+      "total": 1666272,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 422768,
+      "rep": 472940,
+      "other": 26073,
+      "total": 921781,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 685341,
+      "rep": 781652,
+      "other": 65023,
+      "total": 1532016,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 5861203,
+      "rep": 4567429,
+      "other": 537190,
+      "total": 10965822,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 738227,
+      "rep": 883748,
+      "other": 119393,
+      "total": 1741368,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 816015,
+      "rep": 561094,
+      "other": 82416,
+      "total": 1459525,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 171923,
+      "rep": 18073,
+      "other": 11898,
+      "total": 201894,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 180068,
+      "rep": 137288,
+      "other": 10173,
+      "total": 327529,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 2912253,
+      "rep": 2912790,
+      "other": 138067,
+      "total": 5963110,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 1116230,
+      "rep": 1419720,
+      "other": 47258,
+      "total": 2583208,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 205286,
+      "rep": 137845,
+      "other": 24820,
+      "total": 367951,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 638517,
+      "rep": 634373,
+      "other": 80132,
+      "total": 1353022,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 138637,
+      "rep": 336937,
+      "other": 26041,
+      "total": 501615,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2589026,
+      "rep": 2019421,
+      "other": 133661,
+      "total": 4742108,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 901980,
+      "rep": 1245836,
+      "other": 51486,
+      "total": 2199302,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 399276,
+      "rep": 622332,
+      "other": 50608,
+      "total": 1072216,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 638923,
+      "rep": 872520,
+      "other": 32663,
+      "total": 1544106,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 792344,
+      "rep": 927871,
+      "other": 45441,
+      "total": 1765656,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1616487,
+      "rep": 878502,
+      "other": 207953,
+      "total": 2702942,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1144008,
+      "rep": 813827,
+      "other": 67377,
+      "total": 2025212,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 319951,
+      "rep": 286616,
+      "other": 45250,
+      "total": 651817,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2170418,
+      "rep": 1953139,
+      "other": 108944,
+      "total": 4232501,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1168266,
+      "rep": 1109659,
+      "other": 160760,
+      "total": 2438685,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1111138,
+      "rep": 1189924,
+      "other": 58830,
+      "total": 2359892,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 404614,
+      "rep": 572844,
+      "other": 16726,
+      "total": 994184,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 137126,
+      "rep": 240178,
+      "other": 33682,
+      "total": 410986,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 1257692,
+      "rep": 1631163,
+      "other": 26135,
+      "total": 2914990,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 95284,
+      "rep": 174852,
+      "other": 18120,
+      "total": 288256,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 231780,
+      "rep": 433862,
+      "other": 31377,
+      "total": 697019,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 266348,
+      "rep": 273559,
+      "other": 29174,
+      "total": 569081,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NJ": {
+      "dem": 1788850,
+      "rep": 1284173,
+      "other": 114203,
+      "total": 3187226,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 286783,
+      "rep": 286417,
+      "other": 25405,
+      "total": 598605,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 279978,
+      "rep": 301575,
+      "other": 27417,
+      "total": 608970,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 4107697,
+      "rep": 2403374,
+      "other": 310928,
+      "total": 6821999,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2183628,
+      "rep": 2350363,
+      "other": 168007,
+      "total": 4701998,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 474276,
+      "rep": 744337,
+      "other": 15616,
+      "total": 1234229,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 720342,
+      "rep": 713577,
+      "other": 100031,
+      "total": 1533950,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2485967,
+      "rep": 2281127,
+      "other": 145091,
+      "total": 4912185,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 249508,
+      "rep": 130555,
+      "other": 29049,
+      "total": 409112,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 566037,
+      "rep": 786892,
+      "other": 30973,
+      "total": 1383902,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 118804,
+      "rep": 190700,
+      "other": 6765,
+      "total": 316269,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 981720,
+      "rep": 1061949,
+      "other": 32512,
+      "total": 2076181,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 2433746,
+      "rep": 3799639,
+      "other": 174252,
+      "total": 6407637,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 203053,
+      "rep": 515096,
+      "other": 52605,
+      "total": 770754,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1217290,
+      "rep": 1437490,
+      "other": 84667,
+      "total": 2739447,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 149022,
+      "rep": 119775,
+      "other": 25511,
+      "total": 294308,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1247652,
+      "rep": 1108864,
+      "other": 130917,
+      "total": 2487433,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1242987,
+      "rep": 1237279,
+      "other": 118341,
+      "total": 2598607,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 295497,
+      "rep": 336475,
+      "other": 16152,
+      "total": 648124,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 60481,
+      "rep": 147947,
+      "other": 5298,
+      "total": 213726,
+      "dem_cand": "Al Gore",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    }
+  },
+  "2004": {
+    "AK": {
+      "dem": 111025,
+      "rep": 190889,
+      "other": 10684,
+      "total": 312598,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 693933,
+      "rep": 1176394,
+      "other": 13088,
+      "total": 1883415,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 469953,
+      "rep": 572898,
+      "other": 12094,
+      "total": 1054945,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 893524,
+      "rep": 1104294,
+      "other": 14767,
+      "total": 2012585,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 6745485,
+      "rep": 5509826,
+      "other": 166042,
+      "total": 12421353,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1001732,
+      "rep": 1101255,
+      "other": 26643,
+      "total": 2129630,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "CT": {
+      "dem": 857488,
+      "rep": 693826,
+      "other": 27455,
+      "total": 1578769,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 202970,
+      "rep": 21256,
+      "other": 3360,
+      "total": 227586,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 200152,
+      "rep": 171660,
+      "other": 3378,
+      "total": 375190,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 3583544,
+      "rep": 3964522,
+      "other": 61744,
+      "total": 7609810,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 1366149,
+      "rep": 1914254,
+      "other": 21472,
+      "total": 3301875,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 231708,
+      "rep": 194191,
+      "other": 3114,
+      "total": 429013,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 741898,
+      "rep": 751957,
+      "other": 13053,
+      "total": 1506908,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 181098,
+      "rep": 409235,
+      "other": 8043,
+      "total": 598376,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 2891550,
+      "rep": 2345946,
+      "other": 36826,
+      "total": 5274322,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 969011,
+      "rep": 1479438,
+      "other": 19553,
+      "total": 2468002,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 434993,
+      "rep": 736456,
+      "other": 16307,
+      "total": 1187756,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 712733,
+      "rep": 1069439,
+      "other": 13710,
+      "total": 1795882,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 820299,
+      "rep": 1102169,
+      "other": 20638,
+      "total": 1943106,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1803800,
+      "rep": 1071109,
+      "other": 37479,
+      "total": 2912388,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1334493,
+      "rep": 1024703,
+      "other": 25042,
+      "total": 2384238,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 396842,
+      "rep": 330201,
+      "other": 13705,
+      "total": 740748,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2479183,
+      "rep": 2313746,
+      "other": 46323,
+      "total": 4839252,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1445014,
+      "rep": 1346695,
+      "other": 36678,
+      "total": 2828387,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1259171,
+      "rep": 1455713,
+      "other": 16480,
+      "total": 2731364,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 457766,
+      "rep": 672660,
+      "other": 9398,
+      "total": 1139824,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 173710,
+      "rep": 266063,
+      "other": 10661,
+      "total": 450434,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 1525849,
+      "rep": 1961166,
+      "other": 13992,
+      "total": 3501007,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 111052,
+      "rep": 196651,
+      "other": 5130,
+      "total": 312833,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 254328,
+      "rep": 512814,
+      "other": 11044,
+      "total": 778186,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 340511,
+      "rep": 331237,
+      "other": 6539,
+      "total": 678287,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 1911430,
+      "rep": 1670003,
+      "other": 30258,
+      "total": 3611691,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 370942,
+      "rep": 376930,
+      "other": 8432,
+      "total": 756304,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NV": {
+      "dem": 397190,
+      "rep": 418690,
+      "other": 13707,
+      "total": 829587,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 4314280,
+      "rep": 2962567,
+      "other": 114189,
+      "total": 7391036,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2741165,
+      "rep": 2859764,
+      "other": 26974,
+      "total": 5627903,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 503966,
+      "rep": 959792,
+      "other": 0,
+      "total": 1463758,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 943163,
+      "rep": 866831,
+      "other": 26788,
+      "total": 1836782,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2938095,
+      "rep": 2793847,
+      "other": 36478,
+      "total": 5768420,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 259760,
+      "rep": 169046,
+      "other": 8328,
+      "total": 437134,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 661669,
+      "rep": 937974,
+      "other": 18057,
+      "total": 1617700,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 149244,
+      "rep": 232584,
+      "other": 6387,
+      "total": 388215,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 1036477,
+      "rep": 1384375,
+      "other": 16467,
+      "total": 2437319,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 2832704,
+      "rep": 4526917,
+      "other": 51128,
+      "total": 7410749,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 241199,
+      "rep": 663742,
+      "other": 22903,
+      "total": 927844,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1454742,
+      "rep": 1716959,
+      "other": 23714,
+      "total": 3195415,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "VT": {
+      "dem": 184067,
+      "rep": 121180,
+      "other": 7062,
+      "total": 312309,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1510201,
+      "rep": 1304894,
+      "other": 43989,
+      "total": 2859084,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1489504,
+      "rep": 1478120,
+      "other": 26397,
+      "total": 2994021,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 326541,
+      "rep": 423778,
+      "other": 5473,
+      "total": 755792,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 70776,
+      "rep": 167629,
+      "other": 5456,
+      "total": 243861,
+      "dem_cand": "John Kerry",
+      "rep_cand": "George W. Bush",
+      "winner": "R"
+    }
+  },
+  "2008": {
+    "AK": {
+      "dem": 123594,
+      "rep": 193841,
+      "other": 8762,
+      "total": 326197,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 813479,
+      "rep": 1266546,
+      "other": 19794,
+      "total": 2099819,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 422310,
+      "rep": 638017,
+      "other": 26290,
+      "total": 1086617,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 1034707,
+      "rep": 1230111,
+      "other": 28657,
+      "total": 2293475,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 8274473,
+      "rep": 5011781,
+      "other": 275646,
+      "total": 13561900,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1288576,
+      "rep": 1073589,
+      "other": 39196,
+      "total": 2401361,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 997772,
+      "rep": 629428,
+      "other": 19592,
+      "total": 1646792,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 245800,
+      "rep": 17367,
+      "other": 2686,
+      "total": 265853,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 255459,
+      "rep": 152374,
+      "other": 4579,
+      "total": 412412,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 4282074,
+      "rep": 4045624,
+      "other": 63046,
+      "total": 8390744,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "GA": {
+      "dem": 1844123,
+      "rep": 2048759,
+      "other": 31604,
+      "total": 3924486,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 325871,
+      "rep": 120566,
+      "other": 7131,
+      "total": 453568,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 828940,
+      "rep": 682379,
+      "other": 25804,
+      "total": 1537123,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 236440,
+      "rep": 403012,
+      "other": 15670,
+      "total": 655122,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 3419348,
+      "rep": 2031179,
+      "other": 71844,
+      "total": 5522371,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 1374039,
+      "rep": 1345648,
+      "other": 31367,
+      "total": 2751054,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "KS": {
+      "dem": 514765,
+      "rep": 699655,
+      "other": 21452,
+      "total": 1235872,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 751985,
+      "rep": 1048462,
+      "other": 26173,
+      "total": 1826620,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 782989,
+      "rep": 1148275,
+      "other": 29497,
+      "total": 1960761,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1904097,
+      "rep": 1108854,
+      "other": 68034,
+      "total": 3080985,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1629467,
+      "rep": 959862,
+      "other": 42267,
+      "total": 2631596,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 421923,
+      "rep": 295273,
+      "other": 13967,
+      "total": 731163,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2872579,
+      "rep": 2048639,
+      "other": 80378,
+      "total": 5001596,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1573354,
+      "rep": 1275409,
+      "other": 61606,
+      "total": 2910369,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1441911,
+      "rep": 1445814,
+      "other": 37480,
+      "total": 2925205,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 554662,
+      "rep": 724597,
+      "other": 10606,
+      "total": 1289865,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 231667,
+      "rep": 242763,
+      "other": 15679,
+      "total": 490109,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 2142651,
+      "rep": 2128474,
+      "other": 39726,
+      "total": 4310851,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "ND": {
+      "dem": 141278,
+      "rep": 168601,
+      "other": 6742,
+      "total": 316621,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 333319,
+      "rep": 452979,
+      "other": 14983,
+      "total": 801281,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 384826,
+      "rep": 316534,
+      "other": 9610,
+      "total": 710970,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 2215422,
+      "rep": 1613207,
+      "other": 39608,
+      "total": 3868237,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 472422,
+      "rep": 346832,
+      "other": 10904,
+      "total": 830158,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 533736,
+      "rep": 412827,
+      "other": 21285,
+      "total": 967848,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 4804945,
+      "rep": 2752771,
+      "other": 79602,
+      "total": 7637318,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2940044,
+      "rep": 2677820,
+      "other": 90486,
+      "total": 5708350,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "OK": {
+      "dem": 502496,
+      "rep": 960165,
+      "other": 0,
+      "total": 1462661,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 1037291,
+      "rep": 738475,
+      "other": 52098,
+      "total": 1827864,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 3276363,
+      "rep": 2655885,
+      "other": 81024,
+      "total": 6013272,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 296571,
+      "rep": 165391,
+      "other": 9804,
+      "total": 471766,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 862449,
+      "rep": 1034896,
+      "other": 23624,
+      "total": 1920969,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 170924,
+      "rep": 203054,
+      "other": 7997,
+      "total": 381975,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 1087437,
+      "rep": 1479178,
+      "other": 33134,
+      "total": 2599749,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 3528633,
+      "rep": 4479328,
+      "other": 69834,
+      "total": 8077795,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 327670,
+      "rep": 596030,
+      "other": 28670,
+      "total": 952370,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1959532,
+      "rep": 1725005,
+      "other": 38723,
+      "total": 3723260,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "VT": {
+      "dem": 219262,
+      "rep": 98974,
+      "other": 6810,
+      "total": 325046,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1750848,
+      "rep": 1229216,
+      "other": 56814,
+      "total": 3036878,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1677211,
+      "rep": 1262393,
+      "other": 43813,
+      "total": 2983417,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 303857,
+      "rep": 397466,
+      "other": 12128,
+      "total": 713451,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 82868,
+      "rep": 164958,
+      "other": 6832,
+      "total": 254658,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "John McCain",
+      "winner": "R"
+    }
+  },
+  "2012": {
+    "AK": {
+      "dem": 122640,
+      "rep": 164676,
+      "other": 13179,
+      "total": 300495,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 795696,
+      "rep": 1255925,
+      "other": 22717,
+      "total": 2074338,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 394409,
+      "rep": 647744,
+      "other": 27315,
+      "total": 1069468,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 1025232,
+      "rep": 1233654,
+      "other": 40368,
+      "total": 2299254,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 7854285,
+      "rep": 4839958,
+      "other": 344304,
+      "total": 13038547,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1323101,
+      "rep": 1185243,
+      "other": 61172,
+      "total": 2569516,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 905083,
+      "rep": 634892,
+      "other": 18229,
+      "total": 1558204,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 267070,
+      "rep": 21381,
+      "other": 5313,
+      "total": 293764,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 242584,
+      "rep": 165484,
+      "other": 5822,
+      "total": 413890,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 4237756,
+      "rep": 4163447,
+      "other": 72976,
+      "total": 8474179,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "GA": {
+      "dem": 1773827,
+      "rep": 2078688,
+      "other": 45324,
+      "total": 3897839,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 306658,
+      "rep": 121015,
+      "other": 7024,
+      "total": 434697,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 822544,
+      "rep": 730617,
+      "other": 29019,
+      "total": 1582180,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "ID": {
+      "dem": 212787,
+      "rep": 420911,
+      "other": 18576,
+      "total": 652274,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 3019512,
+      "rep": 2135216,
+      "other": 87286,
+      "total": 5242014,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 1152887,
+      "rep": 1420543,
+      "other": 51104,
+      "total": 2624534,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 440726,
+      "rep": 692634,
+      "other": 26611,
+      "total": 1159971,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 679370,
+      "rep": 1087190,
+      "other": 30652,
+      "total": 1797212,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 809141,
+      "rep": 1152262,
+      "other": 32662,
+      "total": 1994065,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1921290,
+      "rep": 1188314,
+      "other": 58163,
+      "total": 3167767,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1677844,
+      "rep": 971869,
+      "other": 57614,
+      "total": 2707327,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 401306,
+      "rep": 292276,
+      "other": 19598,
+      "total": 713180,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2564569,
+      "rep": 2115256,
+      "other": 51136,
+      "total": 4730961,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1546167,
+      "rep": 1320225,
+      "other": 70169,
+      "total": 2936561,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1223796,
+      "rep": 1482440,
+      "other": 51087,
+      "total": 2757323,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 562949,
+      "rep": 710746,
+      "other": 11889,
+      "total": 1285584,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 201839,
+      "rep": 267928,
+      "other": 14281,
+      "total": 484048,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 2178391,
+      "rep": 2270395,
+      "other": 56586,
+      "total": 4505372,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 124966,
+      "rep": 188320,
+      "other": 9646,
+      "total": 322932,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 302081,
+      "rep": 475064,
+      "other": 17234,
+      "total": 794379,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 369561,
+      "rep": 329918,
+      "other": 11493,
+      "total": 710972,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 2122786,
+      "rep": 1478088,
+      "other": 37625,
+      "total": 3638499,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 415335,
+      "rep": 335788,
+      "other": 32635,
+      "total": 783758,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 531373,
+      "rep": 463567,
+      "other": 19978,
+      "total": 1014918,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 4471871,
+      "rep": 2485432,
+      "other": 95600,
+      "total": 7052903,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2827621,
+      "rep": 2661407,
+      "other": 91794,
+      "total": 5580822,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "OK": {
+      "dem": 443547,
+      "rep": 891325,
+      "other": 0,
+      "total": 1334872,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 970488,
+      "rep": 754175,
+      "other": 64607,
+      "total": 1789270,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2990274,
+      "rep": 2680434,
+      "other": 71332,
+      "total": 5742040,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 279677,
+      "rep": 157204,
+      "other": 9168,
+      "total": 446049,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 865941,
+      "rep": 1071645,
+      "other": 26532,
+      "total": 1964118,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 145039,
+      "rep": 210610,
+      "other": 8166,
+      "total": 363815,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 960709,
+      "rep": 1462330,
+      "other": 35538,
+      "total": 2458577,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 3308124,
+      "rep": 4569843,
+      "other": 115884,
+      "total": 7993851,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 251813,
+      "rep": 740600,
+      "other": 25027,
+      "total": 1017440,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1971820,
+      "rep": 1822522,
+      "other": 60147,
+      "total": 3854489,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "VT": {
+      "dem": 199239,
+      "rep": 92698,
+      "other": 7353,
+      "total": 299290,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1755396,
+      "rep": 1290670,
+      "other": 79450,
+      "total": 3125516,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1620985,
+      "rep": 1410966,
+      "other": 39483,
+      "total": 3071434,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 238269,
+      "rep": 417655,
+      "other": 14514,
+      "total": 670438,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 69286,
+      "rep": 170962,
+      "other": 8813,
+      "total": 249061,
+      "dem_cand": "Barack H. Obama",
+      "rep_cand": "Mitt Romney",
+      "winner": "R"
+    }
+  },
+  "2016": {
+    "AK": {
+      "dem": 116454,
+      "rep": 163387,
+      "other": 38767,
+      "total": 318608,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 729547,
+      "rep": 1318255,
+      "other": 75570,
+      "total": 2123372,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 380494,
+      "rep": 684872,
+      "other": 65269,
+      "total": 1130635,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 1161167,
+      "rep": 1252401,
+      "other": 159597,
+      "total": 2573165,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 8753788,
+      "rep": 4483810,
+      "other": 943997,
+      "total": 14181595,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1338870,
+      "rep": 1202484,
+      "other": 238866,
+      "total": 2780220,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 897572,
+      "rep": 673215,
+      "other": 74133,
+      "total": 1644920,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 282830,
+      "rep": 12723,
+      "other": 15715,
+      "total": 311268,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 235603,
+      "rep": 185127,
+      "other": 20860,
+      "total": 441590,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 4504975,
+      "rep": 4617886,
+      "other": 297178,
+      "total": 9420039,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 1877963,
+      "rep": 2089104,
+      "other": 147665,
+      "total": 4114732,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 266891,
+      "rep": 128847,
+      "other": 33199,
+      "total": 428937,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 653669,
+      "rep": 800983,
+      "other": 110928,
+      "total": 1565580,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 189765,
+      "rep": 409055,
+      "other": 91435,
+      "total": 690255,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 3090729,
+      "rep": 2146015,
+      "other": 299680,
+      "total": 5536424,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 1033126,
+      "rep": 1557286,
+      "other": 144546,
+      "total": 2734958,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 427005,
+      "rep": 671018,
+      "other": 86379,
+      "total": 1184402,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 628854,
+      "rep": 1202971,
+      "other": 92324,
+      "total": 1924149,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 780154,
+      "rep": 1178638,
+      "other": 70240,
+      "total": 2029032,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 1995196,
+      "rep": 1090893,
+      "other": 238957,
+      "total": 3325046,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1678006,
+      "rep": 943428,
+      "other": 160012,
+      "total": 2781446,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 357735,
+      "rep": 335593,
+      "other": 54599,
+      "total": 747927,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2268839,
+      "rep": 2279543,
+      "other": 250902,
+      "total": 4799284,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 1367705,
+      "rep": 1322949,
+      "other": 254128,
+      "total": 2944782,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1071068,
+      "rep": 1594511,
+      "other": 143026,
+      "total": 2808605,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 485131,
+      "rep": 700714,
+      "other": 23512,
+      "total": 1209357,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 177709,
+      "rep": 279240,
+      "other": 37577,
+      "total": 494526,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 2189316,
+      "rep": 2362631,
+      "other": 189617,
+      "total": 4741564,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 93758,
+      "rep": 216794,
+      "other": 33808,
+      "total": 344360,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 284494,
+      "rep": 495961,
+      "other": 63772,
+      "total": 844227,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 348526,
+      "rep": 345790,
+      "other": 49980,
+      "total": 744296,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 2148278,
+      "rep": 1601933,
+      "other": 123835,
+      "total": 3874046,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 385234,
+      "rep": 319667,
+      "other": 93418,
+      "total": 798319,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 539260,
+      "rep": 512058,
+      "other": 74067,
+      "total": 1125385,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 4556124,
+      "rep": 2819534,
+      "other": 345795,
+      "total": 7721453,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2394164,
+      "rep": 2841005,
+      "other": 261318,
+      "total": 5496487,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 420375,
+      "rep": 949136,
+      "other": 83481,
+      "total": 1452992,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 1002106,
+      "rep": 782403,
+      "other": 216827,
+      "total": 2001336,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 2926441,
+      "rep": 2970733,
+      "other": 218228,
+      "total": 6115402,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "RI": {
+      "dem": 252525,
+      "rep": 180543,
+      "other": 31076,
+      "total": 464144,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 855373,
+      "rep": 1155389,
+      "other": 92265,
+      "total": 2103027,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 117458,
+      "rep": 227721,
+      "other": 24914,
+      "total": 370093,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 870695,
+      "rep": 1522925,
+      "other": 114407,
+      "total": 2508027,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 3877868,
+      "rep": 4685047,
+      "other": 406311,
+      "total": 8969226,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 310674,
+      "rep": 515211,
+      "other": 305432,
+      "total": 1131317,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 1981473,
+      "rep": 1769443,
+      "other": 231836,
+      "total": 3982752,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "VT": {
+      "dem": 178573,
+      "rep": 95369,
+      "other": 41125,
+      "total": 315067,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 1742718,
+      "rep": 1221747,
+      "other": 352554,
+      "total": 3317019,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1382536,
+      "rep": 1405284,
+      "other": 188330,
+      "total": 2976150,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "WV": {
+      "dem": 188794,
+      "rep": 489371,
+      "other": 34886,
+      "total": 713051,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 55973,
+      "rep": 174419,
+      "other": 25457,
+      "total": 255849,
+      "dem_cand": "Hillary Clinton",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    }
+  },
+  "2020": {
+    "AK": {
+      "dem": 153778,
+      "rep": 189951,
+      "other": 15801,
+      "total": 359530,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 849624,
+      "rep": 1441170,
+      "other": 32488,
+      "total": 2323282,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 423932,
+      "rep": 760647,
+      "other": 34490,
+      "total": 1219069,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 1672143,
+      "rep": 1661686,
+      "other": 53497,
+      "total": 3387326,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CA": {
+      "dem": 11110250,
+      "rep": 6006429,
+      "other": 384202,
+      "total": 17500881,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1804352,
+      "rep": 1364607,
+      "other": 111021,
+      "total": 3279980,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 1080831,
+      "rep": 714717,
+      "other": 28309,
+      "total": 1823857,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 317323,
+      "rep": 18586,
+      "other": 8447,
+      "total": 344356,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 296268,
+      "rep": 200603,
+      "other": 7475,
+      "total": 504346,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 5297045,
+      "rep": 5668731,
+      "other": 101680,
+      "total": 11067456,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 2473633,
+      "rep": 2461854,
+      "other": 64473,
+      "total": 4999960,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "HI": {
+      "dem": 366130,
+      "rep": 196864,
+      "other": 11475,
+      "total": 574469,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 759061,
+      "rep": 897672,
+      "other": 34138,
+      "total": 1690871,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 287021,
+      "rep": 554119,
+      "other": 26874,
+      "total": 868014,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 3471915,
+      "rep": 2446891,
+      "other": 114937,
+      "total": 6033743,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 1242416,
+      "rep": 1729519,
+      "other": 61183,
+      "total": 3033118,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 570323,
+      "rep": 771406,
+      "other": 30574,
+      "total": 1372303,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 772474,
+      "rep": 1326646,
+      "other": 37648,
+      "total": 2136768,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 856034,
+      "rep": 1255776,
+      "other": 36252,
+      "total": 2148062,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 2382202,
+      "rep": 1167202,
+      "other": 81998,
+      "total": 3631402,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1985023,
+      "rep": 976414,
+      "other": 75593,
+      "total": 3037030,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 435072,
+      "rep": 360737,
+      "other": 23652,
+      "total": 819461,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2804040,
+      "rep": 2649852,
+      "other": 85410,
+      "total": 5539302,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MN": {
+      "dem": 1717077,
+      "rep": 1484065,
+      "other": 76029,
+      "total": 3277171,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1253014,
+      "rep": 1718736,
+      "other": 54212,
+      "total": 3025962,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 539398,
+      "rep": 756764,
+      "other": 17597,
+      "total": 1313759,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 244786,
+      "rep": 343602,
+      "other": 15286,
+      "total": 603674,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 2684292,
+      "rep": 2758773,
+      "other": 81737,
+      "total": 5524802,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 114902,
+      "rep": 235595,
+      "other": 11322,
+      "total": 361819,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 374583,
+      "rep": 556846,
+      "other": 24954,
+      "total": 956383,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 424921,
+      "rep": 365654,
+      "other": 15607,
+      "total": 806182,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 2608335,
+      "rep": 1883274,
+      "other": 57744,
+      "total": 4549353,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 501614,
+      "rep": 401894,
+      "other": 20457,
+      "total": 923965,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 703486,
+      "rep": 669890,
+      "other": 32000,
+      "total": 1405376,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NY": {
+      "dem": 5230985,
+      "rep": 3244798,
+      "other": 119043,
+      "total": 8594826,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2679165,
+      "rep": 3154834,
+      "other": 88203,
+      "total": 5922202,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 503890,
+      "rep": 1020280,
+      "other": 36529,
+      "total": 1560699,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 1340383,
+      "rep": 958448,
+      "other": 75490,
+      "total": 2374321,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 3458229,
+      "rep": 3377674,
+      "other": 79380,
+      "total": 6915283,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "RI": {
+      "dem": 307486,
+      "rep": 199922,
+      "other": 9582,
+      "total": 516990,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 1091541,
+      "rep": 1385103,
+      "other": 37452,
+      "total": 2514096,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 150471,
+      "rep": 261043,
+      "other": 11095,
+      "total": 422609,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 1143711,
+      "rep": 1852475,
+      "other": 57665,
+      "total": 3053851,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 5259126,
+      "rep": 5890347,
+      "other": 165583,
+      "total": 11315056,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 560282,
+      "rep": 865140,
+      "other": 62867,
+      "total": 1488289,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 2413568,
+      "rep": 1962430,
+      "other": 84526,
+      "total": 4460524,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "VT": {
+      "dem": 242820,
+      "rep": 112704,
+      "other": 11904,
+      "total": 367428,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 2369612,
+      "rep": 1584651,
+      "other": 133368,
+      "total": 4087631,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1630866,
+      "rep": 1610184,
+      "other": 56991,
+      "total": 3298041,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WV": {
+      "dem": 235984,
+      "rep": 545382,
+      "other": 13286,
+      "total": 794652,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 73491,
+      "rep": 193559,
+      "other": 9715,
+      "total": 276765,
+      "dem_cand": "Joseph R. Biden Jr.",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    }
+  },
+  "2024": {
+    "AK": {
+      "dem": 140026,
+      "rep": 184458,
+      "other": 13693,
+      "total": 338177,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AL": {
+      "dem": 772412,
+      "rep": 1462616,
+      "other": 30062,
+      "total": 2265090,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AR": {
+      "dem": 396905,
+      "rep": 759241,
+      "other": 26530,
+      "total": 1182676,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "AZ": {
+      "dem": 1582860,
+      "rep": 1770242,
+      "other": 37059,
+      "total": 3390161,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "CA": {
+      "dem": 9276179,
+      "rep": 6081697,
+      "other": 507599,
+      "total": 15865475,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CO": {
+      "dem": 1728159,
+      "rep": 1377441,
+      "other": 87145,
+      "total": 3192745,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "CT": {
+      "dem": 992053,
+      "rep": 736918,
+      "other": 30039,
+      "total": 1759010,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DC": {
+      "dem": 294185,
+      "rep": 21076,
+      "other": 10608,
+      "total": 325869,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "DE": {
+      "dem": 289758,
+      "rep": 214351,
+      "other": 8803,
+      "total": 512912,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "FL": {
+      "dem": 4683038,
+      "rep": 6110125,
+      "other": 100589,
+      "total": 10893752,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "GA": {
+      "dem": 2548017,
+      "rep": 2663117,
+      "other": 39771,
+      "total": 5250905,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "HI": {
+      "dem": 313044,
+      "rep": 193661,
+      "other": 9996,
+      "total": 516701,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IA": {
+      "dem": 707278,
+      "rep": 927019,
+      "other": 29209,
+      "total": 1663506,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ID": {
+      "dem": 274972,
+      "rep": 605246,
+      "other": 24839,
+      "total": 905057,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "IL": {
+      "dem": 3062863,
+      "rep": 2449079,
+      "other": 121368,
+      "total": 5633310,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "IN": {
+      "dem": 1163603,
+      "rep": 1720347,
+      "other": 52727,
+      "total": 2936677,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KS": {
+      "dem": 544853,
+      "rep": 758802,
+      "other": 23936,
+      "total": 1327591,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "KY": {
+      "dem": 704043,
+      "rep": 1337494,
+      "other": 32993,
+      "total": 2074530,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "LA": {
+      "dem": 766870,
+      "rep": 1208505,
+      "other": 31600,
+      "total": 2006975,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MA": {
+      "dem": 2126518,
+      "rep": 1251303,
+      "other": 95847,
+      "total": 3473668,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MD": {
+      "dem": 1902577,
+      "rep": 1035550,
+      "other": 100207,
+      "total": 3038334,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "ME": {
+      "dem": 435652,
+      "rep": 377977,
+      "other": 17746,
+      "total": 831375,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MI": {
+      "dem": 2736533,
+      "rep": 2816636,
+      "other": 111017,
+      "total": 5664186,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MN": {
+      "dem": 1656979,
+      "rep": 1519032,
+      "other": 77909,
+      "total": 3253920,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "MO": {
+      "dem": 1200599,
+      "rep": 1751986,
+      "other": 42742,
+      "total": 2995327,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MS": {
+      "dem": 466668,
+      "rep": 747744,
+      "other": 13596,
+      "total": 1228008,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "MT": {
+      "dem": 231906,
+      "rep": 352079,
+      "other": 19005,
+      "total": 602990,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NC": {
+      "dem": 2715375,
+      "rep": 2898423,
+      "other": 85343,
+      "total": 5699141,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "ND": {
+      "dem": 112327,
+      "rep": 246505,
+      "other": 9323,
+      "total": 368155,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NE": {
+      "dem": 369995,
+      "rep": 564816,
+      "other": 17371,
+      "total": 952182,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NH": {
+      "dem": 418488,
+      "rep": 395523,
+      "other": 12178,
+      "total": 826189,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NJ": {
+      "dem": 2220713,
+      "rep": 1968215,
+      "other": 83797,
+      "total": 4272725,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NM": {
+      "dem": 478802,
+      "rep": 423391,
+      "other": 21210,
+      "total": 923403,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "NV": {
+      "dem": 705197,
+      "rep": 751205,
+      "other": 28438,
+      "total": 1484840,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "NY": {
+      "dem": 4619195,
+      "rep": 3578899,
+      "other": 64401,
+      "total": 8262495,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "OH": {
+      "dem": 2533699,
+      "rep": 3180116,
+      "other": 53973,
+      "total": 5767788,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OK": {
+      "dem": 499599,
+      "rep": 1036213,
+      "other": 30361,
+      "total": 1566173,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "OR": {
+      "dem": 1240600,
+      "rep": 919480,
+      "other": 84413,
+      "total": 2244493,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "PA": {
+      "dem": 3423042,
+      "rep": 3543308,
+      "other": 92382,
+      "total": 7058732,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "RI": {
+      "dem": 285156,
+      "rep": 214406,
+      "other": 13824,
+      "total": 513386,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "SC": {
+      "dem": 1028452,
+      "rep": 1483747,
+      "other": 35941,
+      "total": 2548140,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "SD": {
+      "dem": 146859,
+      "rep": 272081,
+      "other": 9982,
+      "total": 428922,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TN": {
+      "dem": 1056265,
+      "rep": 1966865,
+      "other": 40812,
+      "total": 3063942,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "TX": {
+      "dem": 4835250,
+      "rep": 6393597,
+      "other": 159827,
+      "total": 11388674,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "UT": {
+      "dem": 562566,
+      "rep": 883818,
+      "other": 42110,
+      "total": 1488494,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "VA": {
+      "dem": 2333778,
+      "rep": 2074097,
+      "other": 95413,
+      "total": 4503288,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "VT": {
+      "dem": 235791,
+      "rep": 119395,
+      "other": 14236,
+      "total": 369422,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WA": {
+      "dem": 2245849,
+      "rep": 1530923,
+      "other": 147471,
+      "total": 3924243,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "D"
+    },
+    "WI": {
+      "dem": 1668229,
+      "rep": 1697626,
+      "other": 57063,
+      "total": 3422918,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "WV": {
+      "dem": 214309,
+      "rep": 533556,
+      "other": 14717,
+      "total": 762582,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    },
+    "WY": {
+      "dem": 69527,
+      "rep": 192633,
+      "other": 6888,
+      "total": 269048,
+      "dem_cand": "Kamala D. Harris",
+      "rep_cand": "Donald J. Trump",
+      "winner": "R"
+    }
+  }
+}

@@ -1,0 +1,738 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 566359,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 566359,
+          "pct": 100,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 565314,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 387170,
+          "pct": 68.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Cleve Benedict",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CLEVE BENEDICT",
+          "votes": 173910,
+          "pct": 30.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "William B. Hovland",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "WILLIAM B. HOVLAND",
+          "votes": 4234,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 634547,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 410983,
+          "pct": 64.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "M. Jay Wolfe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "M. JAY WOLFE",
+          "votes": 223564,
+          "pct": 35.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 420936,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 290495,
+          "pct": 69,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Stan Klos",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STAN KLOS",
+          "votes": 130441,
+          "pct": 31,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 603477,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 469215,
+          "pct": 77.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "David T. Gallaher",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVID T. GALLAHER",
+          "votes": 121635,
+          "pct": 20.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joe Whelan",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JOE WHELAN",
+          "votes": 12627,
+          "pct": 2.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 206562,
+      "candidates": [
+        {
+          "name": "Robert C. Byrd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROBERT C. BYRD",
+          "votes": 159154,
+          "pct": 77,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John R. Raese",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN R. RAESE",
+          "votes": 47408,
+          "pct": 23,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": null,
+      "special": true,
+      "total": 529948,
+      "candidates": [
+        {
+          "name": "Joe Manchin III",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOE MANCHIN III",
+          "votes": 283358,
+          "pct": 53.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John R. Raese",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN R. RAESE",
+          "votes": 230013,
+          "pct": 43.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jesse Johnson",
+          "party": "O",
+          "party_label": "MOUNTAIN PARTY",
+          "nameAsFiled": "JESSE JOHNSON",
+          "votes": 10152,
+          "pct": 1.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Jeff Becker",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "JEFF BECKER",
+          "votes": 6425,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 660202,
+      "candidates": [
+        {
+          "name": "Joe Manchin III",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOE MANCHIN III",
+          "votes": 399898,
+          "pct": 60.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John R. Raese",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN R. RAESE",
+          "votes": 240787,
+          "pct": 36.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Bob Henry Baber",
+          "party": "O",
+          "party_label": "MOUNTAIN PARTY",
+          "nameAsFiled": "BOB HENRY BABER",
+          "votes": 19517,
+          "pct": 3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 586034,
+      "candidates": [
+        {
+          "name": "Joe Manchin",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOE MANCHIN",
+          "votes": 290510,
+          "pct": 49.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Patrick Morrisey",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PATRICK MORRISEY",
+          "votes": 271113,
+          "pct": 46.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Rusty Hollen",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "RUSTY HOLLEN",
+          "votes": 24411,
+          "pct": 4.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "source": "clerk-statistics-2018",
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 747717,
+      "candidates": [
+        {
+          "name": "James C. Justice",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JIM JUSTICE",
+          "votes": 514079,
+          "pct": 68.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Glenn Elliott",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "GLENN ELLIOTT",
+          "votes": 207548,
+          "pct": 27.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "David Moran",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "DAVID MORAN",
+          "votes": 26075,
+          "pct": 3.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 15,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 493351,
+      "candidates": [
+        {
+          "name": "Jennings Randolph",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JENNINGS RANDOLPH",
+          "votes": 249034,
+          "pct": 50.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Arch A. Moore Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ARCH A. MOORE JR.",
+          "votes": 244317,
+          "pct": 49.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 722212,
+      "candidates": [
+        {
+          "name": "Jay Rockefeller",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JAY ROCKEFELLER",
+          "votes": 374233,
+          "pct": 51.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John R. Raese",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN R. RAESE",
+          "votes": 344680,
+          "pct": 47.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mary E. \"Joan\" Radin",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "MARY E. \"JOAN\" RADIN",
+          "votes": 3299,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 404305,
+      "candidates": [
+        {
+          "name": "John D. Rockefeller IV",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN D. ROCKEFELLER IV",
+          "votes": 276234,
+          "pct": 68.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John Yoder",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN YODER",
+          "votes": 128071,
+          "pct": 31.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 595614,
+      "candidates": [
+        {
+          "name": "John D. Rockefeller IV",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN D. ROCKEFELLER IV",
+          "votes": 456526,
+          "pct": 76.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Betty A. Burks",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BETTY A. BURKS",
+          "votes": 139088,
+          "pct": 23.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 436183,
+      "candidates": [
+        {
+          "name": "John D. Rockefeller IV",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN D. ROCKEFELLER IV",
+          "votes": 275281,
+          "pct": 63.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jay Wolfe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAY WOLFE",
+          "votes": 160902,
+          "pct": 36.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 702308,
+      "candidates": [
+        {
+          "name": "John D. Rockefeller IV",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOHN D. ROCKEFELLER IV",
+          "votes": 447560,
+          "pct": 63.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jay Wolfe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAY WOLFE",
+          "votes": 254629,
+          "pct": 36.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 119,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 453689,
+      "candidates": [
+        {
+          "name": "Shelley Moore Capito",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SHELLEY MOORE CAPITO",
+          "votes": 281820,
+          "pct": 62.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Natalie Tennant",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "NATALIE TENNANT",
+          "votes": 156360,
+          "pct": 34.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John S. Buckley",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JOHN S. BUCKLEY",
+          "votes": 7409,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Bob Henry Baber",
+          "party": "O",
+          "party_label": "MOUNTAIN",
+          "nameAsFiled": "BOB HENRY BABER",
+          "votes": 5504,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Phil Hudok",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "PHIL HUDOK",
+          "votes": 2566,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 30,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 778918,
+      "candidates": [
+        {
+          "name": "Shelley Moore Capito",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SHELLEY MOORE CAPITO",
+          "votes": 547454,
+          "pct": 70.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Paula Jean Swearengin",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "PAULA JEAN SWEARENGIN",
+          "votes": 210309,
+          "pct": 27,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "David Moran",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "DAVID MORAN",
+          "votes": 21155,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

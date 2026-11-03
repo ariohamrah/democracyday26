@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+*.token
+private_outputs/
+data/odds/raw/
+data/odds/provisional_nov1.csv
+data/signals/kalshi_*.json

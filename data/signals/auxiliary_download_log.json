@@ -1,0 +1,34 @@
+[
+  {
+    "file": "ratings_house.json",
+    "url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_house_year=2026_district=all_clean.json?v=1793388069",
+    "status": 403,
+    "bytes": 5669,
+    "saved": false,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "ratings_senate.json",
+    "url": "https://insideelections.com/wp-content/themes/inside-elections/cache/ratings_latest_senate_year=2026_district=all_clean.json?v=1793297246",
+    "status": 403,
+    "bytes": 5669,
+    "saved": false,
+    "content_type": "text/html; charset=UTF-8"
+  },
+  {
+    "file": "fec_weball26.zip",
+    "url": "https://www.fec.gov/files/bulk-downloads/2026/weball26.zip",
+    "status": 200,
+    "bytes": 199920,
+    "saved": true,
+    "content_type": "application/zip"
+  },
+  {
+    "file": "kalshi_texas_event.json",
+    "url": "https://api.elections.kalshi.com/trade-api/v2/events/SENATETX-26",
+    "status": 200,
+    "bytes": 4435,
+    "saved": true,
+    "content_type": "application/json"
+  }
+]

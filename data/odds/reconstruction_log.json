@@ -1,0 +1,733 @@
+{
+  "snapshot_at": "2026-11-01T23:00:00-05:00",
+  "status": "PROVISIONAL: organizer time and price definition unknown",
+  "series": [
+    {
+      "series": "KXHOUSEIN7",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYDE",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEMA",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENY19",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENJ09",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXSENATEID",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEFL",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENC",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "KXHOUSEUT01",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENH",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENH1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEFL1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEAZ2",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYNJ",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEIA",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "KXHOUSETX35",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEMT",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEOH",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXSENATEAR",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSETX28",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEIN1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYMN",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATETX",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECA49",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYME",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENE2",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTYMA",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSETX15",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENM",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEPA10",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTY-MI",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSEWA8",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENM2",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEAK",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEMN2",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYNES",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEFL6",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENC1",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSETX34",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEGA",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEOH13",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEMI8",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTYVA",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA21",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSETN7",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYMS",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATECO",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEIL",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECO3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEME2",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENY21",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA41",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEIL17",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENJ5",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEVA1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSENY21",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSEMO5",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENE",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECA40",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEMI",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENV1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA45",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEVA",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEWV",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEMT1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTY-TX",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEAL",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEMI7",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENJ7",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEOH9",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATESC",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEMS",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTY-NE",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENY22",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSEVA10",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEPA1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEFL23",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENY17",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEAZ1",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATELA",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "KXHOUSEUT02",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEWI1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEWY",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEMI10",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEKS",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENJ9",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXSENATECO",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEOR5",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "KXSENATEAK",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEMN",
+      "status": 200,
+      "rows": 1
+    },
+    {
+      "series": "HOUSECA3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA47",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENY3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECO8",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEAR",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENH2",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEOR",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEFLS",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEPA17",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENV3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEAZ6",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEFL13",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTY-OH",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA13",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSENY18",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEDE",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTY-MT",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEMI3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENES",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEWA3",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEVA2",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYWY",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATENJ",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "KXHOUSETX32",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEPA8",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTYTN",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEIA1",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATERI",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECT5",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSENC11",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATETN",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEIA3",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECA27",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSECA9",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEMI4",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENV4",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSEUT03",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSENY4",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATESD",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEWI3",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSECA22",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEME",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEPA7",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "HOUSEVA7",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEOHS",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEOK",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEID",
+      "status": 200,
+      "rows": 2
+    },
+    {
+      "series": "SENATEPARTYRI",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "HOUSEOH1",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTYNM",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEPARTY-FL",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXHOUSETX9",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXSENATEOK",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "SENATEKY",
+      "status": 200,
+      "rows": 0
+    },
+    {
+      "series": "KXSENATELA",
+      "status": 200,
+      "rows": 0
+    }
+  ],
+  "ambiguous_contracts": [],
+  "rows": 115
+}

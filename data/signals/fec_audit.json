@@ -1,0 +1,12 @@
+{
+  "records": 4368,
+  "nominees": 1281,
+  "matches": {
+    "missing": 409,
+    "unique_name_state_office_match": 853,
+    "ambiguous": 19
+  },
+  "cutoff": "2026-11-02T20:13:00-08:00",
+  "used_in_model": false,
+  "limitation": "Coverage dates are known; receipt/amendment timestamps are not. Matching is name/state/office only, not verified committee lineage. Do not infer nominee status from FEC registration."
+}

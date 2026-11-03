@@ -1,0 +1,708 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 283062,
+      "candidates": [
+        {
+          "name": "Quentin N. Burdick",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "QUENTIN N. BURDICK",
+          "votes": 175772,
+          "pct": 62.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert Stroup",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT STROUP",
+          "votes": 103466,
+          "pct": 36.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Clarence Haggard",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "CLARENCE HAGGARD",
+          "votes": 3824,
+          "pct": 1.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 262465,
+      "candidates": [
+        {
+          "name": "Quentin N. Burdick",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "QUENTIN N. BURDICK",
+          "votes": 164873,
+          "pct": 62.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Gene Knorr",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GENE KNORR",
+          "votes": 89304,
+          "pct": 34,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Anna B. Bourgois",
+          "party": "O",
+          "party_label": "GOD, FAMILY, AND COUNTRY",
+          "nameAsFiled": "ANNA B. BOURGOIS",
+          "votes": 8288,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 289170,
+      "candidates": [
+        {
+          "name": "Quentin N. Burdick",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "QUENTIN N. BURDICK",
+          "votes": 171899,
+          "pct": 59.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Earl Strinden",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "EARL STRINDEN",
+          "votes": 112937,
+          "pct": 39.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Kenneth C. Gardner",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "KENNETH C. GARDNER",
+          "votes": 4334,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 236547,
+      "candidates": [
+        {
+          "name": "Kent Conrad",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "KENT CONRAD",
+          "votes": 137157,
+          "pct": 58,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Ben Clayburgh",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BEN CLAYBURGH",
+          "votes": 99390,
+          "pct": 42,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 287539,
+      "candidates": [
+        {
+          "name": "Kent Conrad",
+          "party": "D",
+          "party_label": "DEMOCRATIC-NONPARTISAN LEAGUE",
+          "nameAsFiled": "KENT CONRAD",
+          "votes": 176470,
+          "pct": 61.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Duane Sand",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DUANE SAND",
+          "votes": 111069,
+          "pct": 38.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 218152,
+      "candidates": [
+        {
+          "name": "Kent Conrad",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "KENT CONRAD",
+          "votes": 150146,
+          "pct": 68.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Dwight Grotberg",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DWIGHT GROTBERG",
+          "votes": 64417,
+          "pct": 29.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Roland Riemers",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ROLAND RIEMERS",
+          "votes": 2194,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "James Germalic",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JAMES GERMALIC",
+          "votes": 1395,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 321144,
+      "candidates": [
+        {
+          "name": "Heidi Heitkamp",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HEIDI HEITKAMP",
+          "votes": 161337,
+          "pct": 50.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rick Berg",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICK BERG",
+          "votes": 158401,
+          "pct": 49.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1406,
+          "writein": true,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 326138,
+      "candidates": [
+        {
+          "name": "Kevin Cramer",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KEVIN CRAMER",
+          "votes": 179720,
+          "pct": 55.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Heidi Heitkamp",
+          "party": "D",
+          "party_label": "DEMOCRATIC-NPL",
+          "nameAsFiled": "HEIDI HEITKAMP",
+          "votes": 144376,
+          "pct": 44.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2042,
+          "writein": true,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 364327,
+      "candidates": [
+        {
+          "name": "Kevin Cramer",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KEVIN CRAMER",
+          "votes": 241569,
+          "pct": 66.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Katrina Christiansen",
+          "party": "D",
+          "party_label": "DEMOCRATIC-NPL",
+          "nameAsFiled": "KATRINA CHRISTIANSEN",
+          "votes": 121602,
+          "pct": 33.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 1156,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [],
+  "class3": [
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "total": 289013,
+      "candidates": [
+        {
+          "name": "Kent Conrad",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "KENT CONRAD",
+          "votes": 143932,
+          "pct": 49.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark Andrews",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARK ANDREWS",
+          "votes": 141812,
+          "pct": 49.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Anna Belle Bourgois",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ANNA BELLE BOURGOIS",
+          "votes": 3269,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "total": 303957,
+      "candidates": [
+        {
+          "name": "Byron L. Dorgan",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BYRON L. DORGAN",
+          "votes": 179347,
+          "pct": 59,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Steve Sydness",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STEVE SYDNESS",
+          "votes": 118162,
+          "pct": 38.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Tom Asbridge",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "TOM ASBRIDGE",
+          "votes": 6448,
+          "pct": 2.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "total": 213358,
+      "candidates": [
+        {
+          "name": "Byron L. Dorgan",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BYRON L. DORGAN",
+          "votes": 134747,
+          "pct": 63.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Donna Nalewaja",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DONNA NALEWAJA",
+          "votes": 75013,
+          "pct": 35.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Harley McLain",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "HARLEY MCLAIN",
+          "votes": 3598,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "total": 310696,
+      "candidates": [
+        {
+          "name": "Byron L. Dorgan",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BYRON L. DORGAN",
+          "votes": 212143,
+          "pct": 68.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mike Liffrig",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE LIFFRIG",
+          "votes": 98553,
+          "pct": 31.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "total": 238534,
+      "candidates": [
+        {
+          "name": "John Hoeven",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN HOEVEN",
+          "votes": 181689,
+          "pct": 76.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Tracy Potter",
+          "party": "D",
+          "party_label": "DEMOCRATIC-NONPARTISAN LEAGUE",
+          "nameAsFiled": "TRACY POTTER",
+          "votes": 52955,
+          "pct": 22.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Keith J. Hanson",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "KEITH J. HANSON",
+          "votes": 3890,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "total": 342501,
+      "candidates": [
+        {
+          "name": "John Hoeven",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN HOEVEN",
+          "votes": 268788,
+          "pct": 78.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Eliot Glassheim",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ELIOT GLASSHEIM",
+          "votes": 58116,
+          "pct": 17,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert N. Marquette",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ROBERT N. MARQUETTE",
+          "votes": 10556,
+          "pct": 3.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "James Germalic",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JAMES GERMALIC",
+          "votes": 4675,
+          "pct": 1.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 366,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "total": 240140,
+      "candidates": [
+        {
+          "name": "John Hoeven",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN HOEVEN",
+          "votes": 135474,
+          "pct": 56.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Katrina Christiansen",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "KATRINA CHRISTIANSEN",
+          "votes": 59995,
+          "pct": 25,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rick Becker",
+          "party": "O",
+          "party_label": "RICK BECKER",
+          "nameAsFiled": "RICK BECKER",
+          "votes": 44406,
+          "pct": 18.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "partyRaw": "WRITE-IN",
+          "nameAsFiled": "WRITE-IN",
+          "votes": 265,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ]
+}

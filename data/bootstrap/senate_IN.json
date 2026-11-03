@@ -1,0 +1,869 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 2161187,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 1275833,
+          "pct": 59,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Vance Hartke",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "VANCE HARTKE",
+          "votes": 868522,
+          "pct": 40.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Don L. Lee",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "DON L. LEE",
+          "votes": 14321,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "David Lee Hoagland",
+          "party": "O",
+          "party_label": "U.S. LABOR",
+          "nameAsFiled": "DAVID LEE HOAGLAND",
+          "votes": 2511,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 1817287,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 978301,
+          "pct": 53.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Floyd J. Fithian",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "FLOYD J. FITHIAN",
+          "votes": 828400,
+          "pct": 45.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Raymond James",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "RAYMOND JAMES",
+          "votes": 10586,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 2099303,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 1430525,
+          "pct": 68.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jack Wickes",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JACK WICKES",
+          "votes": 668778,
+          "pct": 31.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 1543568,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 1039625,
+          "pct": 67.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "James Jontz",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JAMES JONTZ",
+          "votes": 470799,
+          "pct": 30.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Barbara Bourland",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "BARBARA BOURLAND",
+          "votes": 17343,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Mary Catherine Barton",
+          "party": "O",
+          "party_label": "NEW ALLIANCE",
+          "nameAsFiled": "MARY CATHERINE BARTON",
+          "votes": 15801,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 2145209,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 1427944,
+          "pct": 66.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "David L. Johnson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DAVID L. JOHNSON",
+          "votes": 683273,
+          "pct": 31.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Paul Hager",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "PAUL HAGER",
+          "votes": 33992,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 1341111,
+      "candidates": [
+        {
+          "name": "Richard G. Lugar",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD G. LUGAR",
+          "votes": 1171553,
+          "pct": 87.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Steve Osborn",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "STEVE OSBORN",
+          "votes": 168820,
+          "pct": 12.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 738,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 2560102,
+      "candidates": [
+        {
+          "name": "Joe Donnelly",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOE DONNELLY",
+          "votes": 1281181,
+          "pct": 50,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Richard E. Mourdock",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD E. MOURDOCK",
+          "votes": 1133621,
+          "pct": 44.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Andrew ??ANDY?? Horning",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ANDREW ??ANDY?? HORNING",
+          "votes": 145282,
+          "pct": 5.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 18,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 2282565,
+      "candidates": [
+        {
+          "name": "Mike Braun",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE BRAUN",
+          "votes": 1158000,
+          "pct": 50.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joe Donnelly",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOE DONNELLY",
+          "votes": 1023553,
+          "pct": 44.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lucy M. Brenton",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LUCY M. BRENTON",
+          "votes": 100942,
+          "pct": 4.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 70,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 2829897,
+      "candidates": [
+        {
+          "name": "Jim Banks",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JIM BANKS",
+          "votes": 1659416,
+          "pct": 58.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Valerie McCray",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "VALERIE MCCRAY",
+          "votes": 1097061,
+          "pct": 38.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Andrew Horning",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ANDREW HORNING",
+          "votes": 73233,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 187,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [],
+  "class3": [
+    {
+      "year": 1980,
+      "date": "1980-11-04",
+      "special": false,
+      "total": 2198376,
+      "candidates": [
+        {
+          "name": "Dan Quayle",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAN QUAYLE",
+          "votes": 1182414,
+          "pct": 53.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Birch Bayh",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BIRCH BAYH",
+          "votes": 1015962,
+          "pct": 46.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "total": 1545563,
+      "candidates": [
+        {
+          "name": "Dan Quayle",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAN QUAYLE",
+          "votes": 936143,
+          "pct": 60.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jill Lynette Long",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JILL LYNETTE LONG",
+          "votes": 595192,
+          "pct": 38.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bradford L. Warren",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "BRADFORD L. WARREN",
+          "votes": 8314,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Rockland R. Snyder",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "ROCKLAND R. SNYDER",
+          "votes": 5914,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": null,
+      "special": true,
+      "total": 1502687,
+      "candidates": [
+        {
+          "name": "Dan Coats",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAN COATS",
+          "votes": 806048,
+          "pct": 53.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Baron P. Hill",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BARON P. HILL",
+          "votes": 696639,
+          "pct": 46.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "total": 2211426,
+      "candidates": [
+        {
+          "name": "Dan Coats",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAN COATS",
+          "votes": 1267972,
+          "pct": 57.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joseph H. Hogsett",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH H. HOGSETT",
+          "votes": 900148,
+          "pct": 40.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Steve Dillon",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "STEVE DILLON",
+          "votes": 35733,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Raymond Tirado",
+          "party": "O",
+          "party_label": "NEW ALLIANCE",
+          "nameAsFiled": "RAYMOND TIRADO",
+          "votes": 7474,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 99,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "total": 1588617,
+      "candidates": [
+        {
+          "name": "Evan Bayh",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "EVAN BAYH",
+          "votes": 1012244,
+          "pct": 63.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Paul Helmke",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PAUL HELMKE",
+          "votes": 552732,
+          "pct": 34.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Rebecca Sink-Burris",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "REBECCA SINK-BURRIS",
+          "votes": 23641,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "total": 2428233,
+      "candidates": [
+        {
+          "name": "Evan Bayh",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "EVAN BAYH",
+          "votes": 1496976,
+          "pct": 61.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Marvin Scott",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARVIN SCOTT",
+          "votes": 903913,
+          "pct": 37.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Albert Barger",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ALBERT BARGER",
+          "votes": 27344,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "total": 1744481,
+      "candidates": [
+        {
+          "name": "Dan Coats",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAN COATS",
+          "votes": 952116,
+          "pct": 54.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Brad Ellsworth",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BRAD ELLSWORTH",
+          "votes": 697775,
+          "pct": 40,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rebecca Sink-Burris",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "REBECCA SINK-BURRIS",
+          "votes": 94330,
+          "pct": 5.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 260,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "total": 2732546,
+      "candidates": [
+        {
+          "name": "Todd Young",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TODD C. YOUNG",
+          "votes": 1423991,
+          "pct": 52.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Evan Bayh",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "EVAN BAYH",
+          "votes": 1158947,
+          "pct": 42.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lucy Brenton",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LUCY BRENTON",
+          "votes": 149481,
+          "pct": 5.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 127,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "total": 1859851,
+      "candidates": [
+        {
+          "name": "Todd Young",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TODD YOUNG",
+          "votes": 1090165,
+          "pct": 58.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Thomas M. McDermott, Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS M. MCDERMOTT, JR.",
+          "votes": 704411,
+          "pct": 37.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James M. Sceniak",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JAMES M. SCENIAK",
+          "votes": 63814,
+          "pct": 3.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 1461,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ]
+}

@@ -1,0 +1,705 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 413056,
+      "candidates": [
+        {
+          "name": "Harrison \"Jack\" Schmitt",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "HARRISON \"JACK\" SCHMITT",
+          "votes": 234681,
+          "pct": 56.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joseph M. Montoya",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH M. MONTOYA",
+          "votes": 176382,
+          "pct": 42.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Ernesto B. Borunda",
+          "party": "O",
+          "party_label": "LA RAZA UNIDA",
+          "nameAsFiled": "ERNESTO B. BORUNDA",
+          "votes": 1087,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Malcolm \"Matt\" Dillon",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "MALCOLM \"MATT\" DILLON",
+          "votes": 906,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 404810,
+      "candidates": [
+        {
+          "name": "Jeff Bingaman",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEFF BINGAMAN",
+          "votes": 217682,
+          "pct": 53.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Harrison H. Schmitt",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "HARRISON H. SCHMITT",
+          "votes": 187128,
+          "pct": 46.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 508598,
+      "candidates": [
+        {
+          "name": "Jeff Bingaman",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEFF BINGAMAN",
+          "votes": 321983,
+          "pct": 63.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bill Valentine",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BILL VALENTINE",
+          "votes": 186579,
+          "pct": 36.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 36,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 463196,
+      "candidates": [
+        {
+          "name": "Jeff Bingaman",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEFF BINGAMAN",
+          "votes": 249989,
+          "pct": 54,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Colin R. McMillan",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "COLIN R. MCMILLAN",
+          "votes": 213025,
+          "pct": 46,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 182,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 589526,
+      "candidates": [
+        {
+          "name": "Jeff Bingaman",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEFF BINGAMAN",
+          "votes": 363744,
+          "pct": 61.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bill Redmond",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BILL REDMOND",
+          "votes": 225517,
+          "pct": 38.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 265,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 558550,
+      "candidates": [
+        {
+          "name": "Jeff Bingaman",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEFF BINGAMAN",
+          "votes": 394365,
+          "pct": 70.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Allen W. McCulloch",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ALLEN W. MCCULLOCH",
+          "votes": 163826,
+          "pct": 29.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 359,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 775793,
+      "candidates": [
+        {
+          "name": "Martin Heinrich",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARTIN HEINRICH",
+          "votes": 395717,
+          "pct": 51,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Heather A. Wilson",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "HEATHER A. WILSON",
+          "votes": 351260,
+          "pct": 45.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jon R. Barrie",
+          "party": "O",
+          "party_label": "INDEPENDENT AMERICAN",
+          "nameAsFiled": "JON R. BARRIE",
+          "votes": 28199,
+          "pct": 3.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 617,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 697012,
+      "candidates": [
+        {
+          "name": "Martin Heinrich",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARTIN T HEINRICH",
+          "votes": 376998,
+          "pct": 54.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mick Rich",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MICK RICH",
+          "votes": 212813,
+          "pct": 30.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Gary E Johnson",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "GARY E JOHNSON",
+          "votes": 107201,
+          "pct": 15.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 903311,
+      "candidates": [
+        {
+          "name": "Martin Heinrich",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "MARTIN HEINRICH",
+          "votes": 497333,
+          "pct": 55.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Nella Louise Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "NELLA LOUISE DOMENICI",
+          "votes": 405978,
+          "pct": 44.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 343487,
+      "candidates": [
+        {
+          "name": "Pete V. Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PETE V. DOMENICI",
+          "votes": 183442,
+          "pct": 53.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Toney Anaya",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TONEY ANAYA",
+          "votes": 160045,
+          "pct": 46.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 502634,
+      "candidates": [
+        {
+          "name": "Pete V. Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PETE V. DOMENICI",
+          "votes": 361371,
+          "pct": 71.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Judith A. Pratt",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JUDITH A. PRATT",
+          "votes": 141253,
+          "pct": 28.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 10,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 406938,
+      "candidates": [
+        {
+          "name": "Pete V. Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PETE V. DOMENICI",
+          "votes": 296712,
+          "pct": 72.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Tom R. Benavides",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TOM R. BENAVIDES",
+          "votes": 110033,
+          "pct": 27,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 193,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 551821,
+      "candidates": [
+        {
+          "name": "Pete V. Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PETE V. DOMENICI",
+          "votes": 357171,
+          "pct": 64.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Art Trujillo",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ART TRUJILLO",
+          "votes": 164356,
+          "pct": 29.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Abraham J. Gutmann",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "ABRAHAM J. GUTMANN",
+          "votes": 24230,
+          "pct": 4.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Bruce M. Bush",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "BRUCE M. BUSH",
+          "votes": 6064,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 483056,
+      "candidates": [
+        {
+          "name": "Pete V. Domenici",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PETE V. DOMENICI",
+          "votes": 314193,
+          "pct": 65,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Gloria Tristani",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "GLORIA TRISTANI",
+          "votes": 168863,
+          "pct": 35,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 823650,
+      "candidates": [
+        {
+          "name": "Tom Udall",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TOM UDALL",
+          "votes": 505128,
+          "pct": 61.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Steve Pearce",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "STEVE PEARCE",
+          "votes": 318522,
+          "pct": 38.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 515506,
+      "candidates": [
+        {
+          "name": "Tom Udall",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TOM UDALL",
+          "votes": 286409,
+          "pct": 55.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Allen E. Weh",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ALLEN E. WEH",
+          "votes": 229097,
+          "pct": 44.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 917237,
+      "candidates": [
+        {
+          "name": "Ben Ray Luján",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BEN R. LUJAN",
+          "votes": 474483,
+          "pct": 51.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark V. Ronchetti",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARK V. RONCHETTI",
+          "votes": 418483,
+          "pct": 45.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Bob Walsh",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "BOB WALSH",
+          "votes": 24271,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

@@ -1,0 +1,815 @@
+{
+  "class1": [],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 582005,
+      "candidates": [
+        {
+          "name": "Howell Heflin",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWELL HEFLIN",
+          "votes": 547054,
+          "pct": 94,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jerome B. Couch",
+          "party": "O",
+          "party_label": "PROHIBITION",
+          "nameAsFiled": "JEROME B. COUCH",
+          "votes": 34951,
+          "pct": 6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 1371234,
+      "candidates": [
+        {
+          "name": "Howell Heflin",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWELL HEFLIN",
+          "votes": 860535,
+          "pct": 62.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Albert Lee Smith",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ALBERT LEE SMITH",
+          "votes": 498508,
+          "pct": 36.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "S. D. (Yana) Davis",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "S. D. (YANA) DAVIS",
+          "votes": 12191,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 1185154,
+      "candidates": [
+        {
+          "name": "Howell Heflin",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HOWELL HEFLIN",
+          "votes": 717814,
+          "pct": 60.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bill Cabaniss",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "BILL CABANISS",
+          "votes": 467190,
+          "pct": 39.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 150,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 1499393,
+      "candidates": [
+        {
+          "name": "Jeff Sessions",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEFF SESSIONS",
+          "votes": 786436,
+          "pct": 52.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Roger Bedford",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ROGER BEDFORD",
+          "votes": 681651,
+          "pct": 45.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark Thornton",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MARK THORNTON",
+          "votes": 21550,
+          "pct": 1.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Charles R. Hebner",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "CHARLES R. HEBNER",
+          "votes": 9123,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 633,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 1353023,
+      "candidates": [
+        {
+          "name": "Jeff Sessions",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEFF SESSIONS",
+          "votes": 792561,
+          "pct": 58.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Susan Parker",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SUSAN PARKER",
+          "votes": 538878,
+          "pct": 39.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jeff Allen",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JEFF ALLEN",
+          "votes": 20234,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1350,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 2060191,
+      "candidates": [
+        {
+          "name": "Jeff Sessions",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEFF SESSIONS",
+          "votes": 1305383,
+          "pct": 63.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Vivian Davis Figures",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "VIVIAN DAVIS FIGURES",
+          "votes": 752391,
+          "pct": 36.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2417,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 818090,
+      "candidates": [
+        {
+          "name": "Jeff Sessions",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEFF SESSIONS",
+          "votes": 795606,
+          "pct": 97.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 22484,
+          "writein": true,
+          "pct": 2.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 2316445,
+      "candidates": [
+        {
+          "name": "Tommy Tuberville",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "TOMMY TUBERVILLE",
+          "votes": 1392076,
+          "pct": 60.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Doug Jones",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DOUG JONES",
+          "votes": 920478,
+          "pct": 39.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 3891,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": [
+    {
+      "year": 1978,
+      "date": null,
+      "special": true,
+      "total": 729842,
+      "candidates": [
+        {
+          "name": "Donald Stewart",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "DONALD STEWART",
+          "votes": 401852,
+          "pct": 55.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James D. Martin",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES D. MARTIN",
+          "votes": 316170,
+          "pct": 43.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Michael R. A. Erdey",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MICHAEL R. A. ERDEY",
+          "votes": 6006,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "A. J. Killinsworth",
+          "party": "O",
+          "party_label": "PROHIBITION",
+          "nameAsFiled": "A. J. KILLINSWORTH",
+          "votes": 5814,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 1980,
+      "date": "1980-11-04",
+      "special": false,
+      "total": 1296757,
+      "candidates": [
+        {
+          "name": "Jeremiah Denton",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEREMIAH DENTON",
+          "votes": 650362,
+          "pct": 50.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jim Folsom Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JIM FOLSOM JR.",
+          "votes": 610175,
+          "pct": 47.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Michael R. A. Erdey",
+          "party": "O",
+          "party_label": "CONSERVATIVE",
+          "nameAsFiled": "MICHAEL R.A. ERDEY",
+          "votes": 15989,
+          "pct": 1.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "William A. Crew",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "WILLIAM A. CREW",
+          "votes": 13098,
+          "pct": 1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Sallie M. Hadnott",
+          "party": "O",
+          "party_label": "NATIONAL DEMOCRATIC PARTY OF ALABAMA",
+          "nameAsFiled": "SALLIE M. HADNOTT",
+          "votes": 2973,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Jim Partain",
+          "party": "O",
+          "party_label": "STATESMAN",
+          "nameAsFiled": "JIM PARTAIN",
+          "votes": 2649,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Mohammed Oliver",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "MOHAMMED OLIVER",
+          "votes": 1511,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1986,
+      "date": "1986-11-04",
+      "special": false,
+      "total": 1211897,
+      "candidates": [
+        {
+          "name": "Richard Shelby",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RICHARD SHELBY",
+          "votes": 609360,
+          "pct": 50.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jeremiah Denton",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JEREMIAH DENTON",
+          "votes": 602537,
+          "pct": 49.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1992,
+      "date": "1992-11-03",
+      "special": false,
+      "total": 1577799,
+      "candidates": [
+        {
+          "name": "Richard C. Shelby",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RICHARD C. SHELBY",
+          "votes": 1022698,
+          "pct": 64.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Richard Sellers",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD SELLERS",
+          "votes": 522015,
+          "pct": 33.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jerome Shockley",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JEROME SHOCKLEY",
+          "votes": 31811,
+          "pct": 2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1275,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1998,
+      "date": "1998-11-03",
+      "special": false,
+      "total": 1293405,
+      "candidates": [
+        {
+          "name": "Richard C. Shelby",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD C. SHELBY",
+          "votes": 817973,
+          "pct": 63.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Clayton Suddith",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CLAYTON SUDDITH",
+          "votes": 474568,
+          "pct": 36.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 864,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2004,
+      "date": "2004-11-02",
+      "special": false,
+      "total": 1839066,
+      "candidates": [
+        {
+          "name": "Richard C. Shelby",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD C. SHELBY",
+          "votes": 1242200,
+          "pct": 67.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Wayne Sowell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WAYNE SOWELL",
+          "votes": 595018,
+          "pct": 32.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1848,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2010,
+      "date": "2010-11-02",
+      "special": false,
+      "total": 1485499,
+      "candidates": [
+        {
+          "name": "Richard C. Shelby",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD C. SHELBY",
+          "votes": 968181,
+          "pct": 65.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "William G. Barnes",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WILLIAM G. BARNES",
+          "votes": 515619,
+          "pct": 34.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1699,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2016,
+      "date": "2016-11-08",
+      "special": false,
+      "total": 2087444,
+      "candidates": [
+        {
+          "name": "Richard C. Shelby",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RICHARD C. SHELBY",
+          "votes": 1335104,
+          "pct": 64,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Ron Crumpton",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RON CRUMPTON",
+          "votes": 748709,
+          "pct": 35.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 3631,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2022,
+      "date": "2022-11-08",
+      "special": false,
+      "total": 1414238,
+      "candidates": [
+        {
+          "name": "Katie Boyd Britt",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KATIE BRITT",
+          "votes": 942154,
+          "pct": 66.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Will Boyd",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WILL BOYD",
+          "votes": 436746,
+          "pct": 30.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John Sophocleus",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "JOHN SOPHOCLEUS",
+          "votes": 32879,
+          "pct": 2.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 2459,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ]
+}

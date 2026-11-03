@@ -1,0 +1,837 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 1557500,
+      "candidates": [
+        {
+          "name": "Harry F. Byrd, Jr.",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "HARRY F. BYRD, JR.",
+          "votes": 890778,
+          "pct": 57.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "E. R. (Bud) Zumwalt",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "E. R. (BUD) ZUMWALT",
+          "votes": 596009,
+          "pct": 38.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Martin H. Perper",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "MARTIN H. PERPER",
+          "votes": 70559,
+          "pct": 4.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 154,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 1415622,
+      "candidates": [
+        {
+          "name": "Paul S. Trible, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "PAUL S. TRIBLE, JR.",
+          "votes": 724571,
+          "pct": 51.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Richard J. (Dick) Davis",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "RICHARD J. (DICK) DAVIS",
+          "votes": 690839,
+          "pct": 48.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 212,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 2068897,
+      "candidates": [
+        {
+          "name": "Charles S. Robb",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHARLES S. ROBB",
+          "votes": 1474086,
+          "pct": 71.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Maurice A. Dawkins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MAURICE A. DAWKINS",
+          "votes": 593652,
+          "pct": 28.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1159,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 2057463,
+      "candidates": [
+        {
+          "name": "Charles S. Robb",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHARLES S. ROBB",
+          "votes": 938376,
+          "pct": 45.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Oliver L. \"Ollie\" North",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "OLIVER L. \"OLLIE\" NORTH",
+          "votes": 882213,
+          "pct": 42.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "J. Marshall Coleman",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "J. MARSHALL COLEMAN",
+          "votes": 235324,
+          "pct": 11.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1437,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        },
+        {
+          "name": "L. Douglas Wilder",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "L. DOUGLAS WILDER",
+          "votes": 113,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 2718301,
+      "candidates": [
+        {
+          "name": "George F. Allen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE F. ALLEN",
+          "votes": 1420460,
+          "pct": 52.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Charles S. Robb",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHARLES S. ROBB",
+          "votes": 1296093,
+          "pct": 47.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1748,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 2370445,
+      "candidates": [
+        {
+          "name": "James H. \"Jim\" Webb, Jr.",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JAMES H. \"JIM\" WEBB, JR.",
+          "votes": 1175606,
+          "pct": 49.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "George Allen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE ALLEN",
+          "votes": 1166277,
+          "pct": 49.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Glenda Gail Parker",
+          "party": "G",
+          "party_label": "INDEPENDENT GREEN",
+          "nameAsFiled": "GLENDA GAIL PARKER",
+          "votes": 26102,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2460,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 3802196,
+      "candidates": [
+        {
+          "name": "Tim Kaine",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TIMOTHY M. KAINE",
+          "votes": 2010067,
+          "pct": 52.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "George F. Allen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "GEORGE F. ALLEN",
+          "votes": 1785542,
+          "pct": 47,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 6587,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 3351373,
+      "candidates": [
+        {
+          "name": "Tim Kaine",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TIMOTHY M. KAINE",
+          "votes": 1910370,
+          "pct": 57,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Corey A. Stewart",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "COREY A. STEWART",
+          "votes": 1374313,
+          "pct": 41,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Matt J. Waters",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "MATT J. WATERS",
+          "votes": 61565,
+          "pct": 1.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 5125,
+          "writein": true,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 4445535,
+      "candidates": [
+        {
+          "name": "Tim Kaine",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "TIMOTHY M. KAINE",
+          "votes": 2417115,
+          "pct": 54.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Hung Cao",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "HUNG CAO",
+          "votes": 2019911,
+          "pct": 45.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 8509,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 1222256,
+      "candidates": [
+        {
+          "name": "John William Warner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN WILLIAM WARNER",
+          "votes": 613232,
+          "pct": 50.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Andrew P. Miller",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ANDREW P. MILLER",
+          "votes": 608511,
+          "pct": 49.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 513,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 2007487,
+      "candidates": [
+        {
+          "name": "John W. Warner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN W. WARNER",
+          "votes": 1406194,
+          "pct": 70,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Edythe C. \"Edie\" Harrison",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "EDYTHE C. \"EDIE\" HARRISON",
+          "votes": 601142,
+          "pct": 29.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 151,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 1083690,
+      "candidates": [
+        {
+          "name": "John Warner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN WARNER",
+          "votes": 876782,
+          "pct": 80.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Nancy B. Spannaus",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "NANCY B. SPANNAUS",
+          "votes": 196755,
+          "pct": 18.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 10153,
+          "writein": true,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 2354715,
+      "candidates": [
+        {
+          "name": "John W. Warner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN W. WARNER",
+          "votes": 1235744,
+          "pct": 52.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark R. Warner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK R. WARNER",
+          "votes": 1115982,
+          "pct": 47.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2989,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 1489422,
+      "candidates": [
+        {
+          "name": "John W. Warner",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JOHN W. WARNER",
+          "votes": 1229894,
+          "pct": 82.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Nancy B. Spannaus",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "NANCY B. SPANNAUS",
+          "votes": 145102,
+          "pct": 9.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Jacob G. Hornberger Jr.",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JACOB G. HORNBERGER JR.",
+          "votes": 106055,
+          "pct": 7.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 8371,
+          "writein": true,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 3643294,
+      "candidates": [
+        {
+          "name": "Mark R. Warner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK R. WARNER",
+          "votes": 2369327,
+          "pct": 65,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "James S. \"Jim\" Gilmore III",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JAMES S. \"JIM\" GILMORE III",
+          "votes": 1228830,
+          "pct": 33.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Glenda Gail Parker",
+          "party": "G",
+          "party_label": "INDEPENDENT GREEN",
+          "nameAsFiled": "GLENDA GAIL PARKER",
+          "votes": 21690,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "William B. Redpath",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "WILLIAM B. REDPATH",
+          "votes": 20269,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 3178,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 2184473,
+      "candidates": [
+        {
+          "name": "Mark R. Warner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK R. WARNER",
+          "votes": 1073667,
+          "pct": 49.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Ed. W. Gillespie",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ED. W. GILLESPIE",
+          "votes": 1055940,
+          "pct": 48.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Robert C. Sarvis",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ROBERT C. SARVIS",
+          "votes": 53102,
+          "pct": 2.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1764,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 4405087,
+      "candidates": [
+        {
+          "name": "Mark R. Warner",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK R. WARNER",
+          "votes": 2466500,
+          "pct": 56,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Daniel M. Gade",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DANIEL M. GADE",
+          "votes": 1934199,
+          "pct": 43.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 4388,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

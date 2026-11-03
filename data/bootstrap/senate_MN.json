@@ -1,0 +1,1473 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 1912020,
+      "candidates": [
+        {
+          "name": "Hubert H. Humphrey",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "HUBERT H. HUMPHREY",
+          "votes": 1290736,
+          "pct": 67.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jerry Brekke",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JERRY BREKKE",
+          "votes": 478602,
+          "pct": 25,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Paul Helm",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "PAUL HELM",
+          "votes": 125612,
+          "pct": 6.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Bill Peterson",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "BILL PETERSON",
+          "votes": 9380,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Robin E. Miller",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ROBIN E. MILLER",
+          "votes": 5476,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Matt Savola",
+          "party": "O",
+          "party_label": "COMMUNIST",
+          "nameAsFiled": "MATT SAVOLA",
+          "votes": 2214,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1978,
+      "date": null,
+      "special": true,
+      "total": 1558376,
+      "candidates": [
+        {
+          "name": "David Durenberger",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVID DURENBERGER",
+          "votes": 957908,
+          "pct": 61.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Bob Short",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "BOB SHORT",
+          "votes": 538675,
+          "pct": 34.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Paul Helm",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "PAUL HELM",
+          "votes": 45402,
+          "pct": 2.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Christine Frank",
+          "party": "O",
+          "party_label": "SOCIALIST",
+          "nameAsFiled": "CHRISTINE FRANK",
+          "votes": 11397,
+          "pct": 0.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Frederick Hewitt",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "FREDERICK HEWITT",
+          "votes": 4116,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 878,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 1804675,
+      "candidates": [
+        {
+          "name": "Dave Durenberger",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVE DURENBERGER",
+          "votes": 949207,
+          "pct": 52.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark Dayton",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK DAYTON",
+          "votes": 840401,
+          "pct": 46.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Bill Onasch",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "BILL ONASCH",
+          "votes": 5897,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Fred G. Hewitt",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "FRED G. HEWITT",
+          "votes": 5870,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Jeffrey M. Miller",
+          "party": "O",
+          "party_label": "NEW UNION",
+          "nameAsFiled": "JEFFREY M. MILLER",
+          "votes": 3300,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 2093953,
+      "candidates": [
+        {
+          "name": "Dave Durenberger",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVE DURENBERGER",
+          "votes": 1176210,
+          "pct": 56.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Hubert H. \"Skip\" Humphrey III",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "HUBERT H. \"SKIP\" HUMPHREY III",
+          "votes": 856694,
+          "pct": 40.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Polly Mann",
+          "party": "O",
+          "party_label": "PROGRESSIVE ISSUES",
+          "nameAsFiled": "POLLY MANN",
+          "votes": 44474,
+          "pct": 2.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Derrick P. Grimmer",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "DERRICK P. GRIMMER",
+          "votes": 9016,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Arlen Overvig",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ARLEN OVERVIG",
+          "votes": 4039,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Wendy Lyons",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "WENDY LYONS",
+          "votes": 3105,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 415,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 1772929,
+      "candidates": [
+        {
+          "name": "Rod Grams",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROD GRAMS",
+          "votes": 869653,
+          "pct": 49.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Ann Wynia",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "ANN WYNIA",
+          "votes": 781860,
+          "pct": 44.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Dean M. Barkley",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "DEAN M. BARKLEY",
+          "votes": 95400,
+          "pct": 5.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Candice E. Sjostrom",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "CANDICE E. SJOSTROM",
+          "votes": 15920,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Stephen Johnson",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "STEPHEN JOHNSON",
+          "votes": 5054,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2614,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        },
+        {
+          "name": "Marea Himelgrin",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "MAREA HIMELGRIN",
+          "votes": 2428,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 2419520,
+      "candidates": [
+        {
+          "name": "Mark Dayton",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "MARK DAYTON",
+          "votes": 1181553,
+          "pct": 48.8,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rod Grams",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROD GRAMS",
+          "votes": 1047474,
+          "pct": 43.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "James (Jim) Gibson",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "JAMES (JIM) GIBSON",
+          "votes": 140583,
+          "pct": 5.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "David Daniels",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "DAVID DANIELS",
+          "votes": 21447,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Rebecca Ellis",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "REBECCA ELLIS",
+          "votes": 12956,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "David Swan",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "DAVID SWAN",
+          "votes": 8915,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Erik D. Pakieser",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ERIK D. PAKIESER",
+          "votes": 6588,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 4,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 2202772,
+      "candidates": [
+        {
+          "name": "Amy Klobuchar",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "AMY KLOBUCHAR",
+          "votes": 1278849,
+          "pct": 58.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mark R. Kennedy",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MARK R. KENNEDY",
+          "votes": 835653,
+          "pct": 37.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Robert Fitzgerald",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "ROBERT FITZGERALD",
+          "votes": 71194,
+          "pct": 3.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Michael James Cavlan",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "MICHAEL JAMES CAVLAN",
+          "votes": 10714,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Ben Powers",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "BEN POWERS",
+          "votes": 5408,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 954,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 2843207,
+      "candidates": [
+        {
+          "name": "Amy Klobuchar",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AMY KLOBUCHAR",
+          "votes": 1854595,
+          "pct": 65.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Kurt Bills",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KURT BILLS",
+          "votes": 867974,
+          "pct": 30.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Stephen Williams",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "STEPHEN WILLIAMS",
+          "votes": 73539,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Tim Davis",
+          "party": "O",
+          "party_label": "GRASSROOTS PARTY",
+          "nameAsFiled": "TIM DAVIS",
+          "votes": 30531,
+          "pct": 1.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Michael Cavlan",
+          "party": "O",
+          "party_label": "MINNESOTA OPEN PROGRESSIVES",
+          "nameAsFiled": "MICHAEL CAVLAN",
+          "votes": 13986,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2582,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 2596879,
+      "candidates": [
+        {
+          "name": "Amy Klobuchar",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "AMY KLOBUCHAR",
+          "votes": 1566174,
+          "pct": 60.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jim Newberger",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JIM NEWBERGER",
+          "votes": 940437,
+          "pct": 36.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Dennis Schuller",
+          "party": "O",
+          "party_label": "LEGAL MARIJUANA NOW",
+          "nameAsFiled": "DENNIS SCHULLER",
+          "votes": 66236,
+          "pct": 2.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Paula M Overby",
+          "party": "O",
+          "party_label": "MINNESOTA GREEN",
+          "nameAsFiled": "PAULA M OVERBY",
+          "votes": 23101,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 931,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 3189323,
+      "candidates": [
+        {
+          "name": "Amy Klobuchar",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "AMY KLOBUCHAR",
+          "votes": 1792441,
+          "pct": 56.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Royce White",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROYCE WHITE",
+          "votes": 1291712,
+          "pct": 40.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Rebecca Whiting",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "REBECCA WHITING",
+          "votes": 55215,
+          "pct": 1.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Joyce Lynne Lacey",
+          "party": "O",
+          "party_label": "INDEPENDENCE-ALLIANCE",
+          "nameAsFiled": "JOYCE LYNNE LACEY",
+          "votes": 46377,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": "OTHER",
+          "nameAsFiled": "OTHER",
+          "votes": 3578,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 1580622,
+      "candidates": [
+        {
+          "name": "Rudolph E. Boschwitz",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RUDOLPH E. BOSCHWITZ",
+          "votes": 894092,
+          "pct": 56.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Wendell Anderson",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WENDELL ANDERSON",
+          "votes": 638375,
+          "pct": 40.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Sal Carlone",
+          "party": "O",
+          "party_label": "AMERICAN",
+          "nameAsFiled": "SAL CARLONE",
+          "votes": 23261,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "William Peterson",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "WILLIAM PETERSON",
+          "votes": 9856,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Brian John Coyle",
+          "party": "O",
+          "party_label": "PUBLIC INTEREST INDEPENDENT",
+          "nameAsFiled": "BRIAN JOHN COYLE",
+          "votes": 8083,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Jean T. Brust",
+          "party": "O",
+          "party_label": "WORKERS",
+          "nameAsFiled": "JEAN T. BRUST",
+          "votes": 3891,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Leonard Richards",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "LEONARD RICHARDS",
+          "votes": 2992,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 72,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 2066143,
+      "candidates": [
+        {
+          "name": "Rudy Boschwitz",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RUDY BOSCHWITZ",
+          "votes": 1199926,
+          "pct": 58.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joan Anderson Growe",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOAN ANDERSON GROWE",
+          "votes": 852844,
+          "pct": 41.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Eleanor Garcia",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "ELEANOR GARCIA",
+          "votes": 5351,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Richard Putman",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "RICHARD PUTMAN",
+          "votes": 4653,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Jeffrey M. Miller",
+          "party": "O",
+          "party_label": "NEW UNION",
+          "nameAsFiled": "JEFFREY M. MILLER",
+          "votes": 3129,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 240,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 1808045,
+      "candidates": [
+        {
+          "name": "Paul David Wellstone",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "PAUL DAVID WELLSTONE",
+          "votes": 911999,
+          "pct": 50.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rudy Boschwitz",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RUDY BOSCHWITZ",
+          "votes": 864375,
+          "pct": 47.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Russell B. Bentley",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "RUSSELL B. BENTLEY",
+          "votes": 29820,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1851,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 2182905,
+      "candidates": [
+        {
+          "name": "Paul Wellstone",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "PAUL WELLSTONE",
+          "votes": 1098430,
+          "pct": 50.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Rudy Boschwitz",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "RUDY BOSCHWITZ",
+          "votes": 901194,
+          "pct": 41.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Dean Barkley",
+          "party": "O",
+          "party_label": "REFORM",
+          "nameAsFiled": "DEAN BARKLEY",
+          "votes": 152328,
+          "pct": 7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Tim Davis",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "TIM DAVIS",
+          "votes": 14139,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Roy Ezra Carlton",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "ROY EZRA CARLTON",
+          "votes": 5428,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Howard B. Hanson",
+          "party": "O",
+          "party_label": "RESOURCE",
+          "nameAsFiled": "HOWARD B. HANSON",
+          "votes": 4381,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Steve Johnson",
+          "party": "O",
+          "party_label": "NATURAL LAW",
+          "nameAsFiled": "STEVE JOHNSON",
+          "votes": 4321,
+          "pct": 0.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Thomas A. Fiske",
+          "party": "O",
+          "party_label": "SOCIALIST WORKERS",
+          "nameAsFiled": "THOMAS A. FISKE",
+          "votes": 1554,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1130,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 2254636,
+      "candidates": [
+        {
+          "name": "Norm Coleman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "NORM COLEMAN",
+          "votes": 1116697,
+          "pct": 49.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Walter F. Mondale",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WALTER F. MONDALE",
+          "votes": 1067246,
+          "pct": 47.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jim Moore",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "JIM MOORE",
+          "votes": 45139,
+          "pct": 2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Paul Wellstone",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "PAUL WELLSTONE",
+          "votes": 11381,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Ray Tricomo",
+          "party": "G",
+          "party_label": "GREEN",
+          "nameAsFiled": "RAY TRICOMO",
+          "votes": 10119,
+          "pct": 0.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Green"
+        },
+        {
+          "name": "Miro Drago",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "MIRO DRAGO",
+          "votes": 2254,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1800,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 2887646,
+      "candidates": [
+        {
+          "name": "Al Franken",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AL FRANKEN",
+          "votes": 1212629,
+          "pct": 42,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Norm Coleman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "NORM COLEMAN",
+          "votes": 1212317,
+          "pct": 42,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Dean Barkley",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "DEAN BARKLEY",
+          "votes": 437505,
+          "pct": 15.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Charles Aldrich",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "CHARLES ALDRICH",
+          "votes": 13923,
+          "pct": 0.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "James Niemackl",
+          "party": "O",
+          "party_label": "CONSTITUTION",
+          "nameAsFiled": "JAMES NIEMACKL",
+          "votes": 8907,
+          "pct": 0.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2365,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 1981528,
+      "candidates": [
+        {
+          "name": "Al Franken",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "AL FRANKEN",
+          "votes": 1053205,
+          "pct": 53.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Mike McFadden",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "MIKE MCFADDEN",
+          "votes": 850227,
+          "pct": 42.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Steve Carlson",
+          "party": "O",
+          "party_label": "INDEPENDENCE",
+          "nameAsFiled": "STEVE CARLSON",
+          "votes": 47530,
+          "pct": 2.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Heather Johnson",
+          "party": "L",
+          "party_label": "LIBERTARIAN",
+          "nameAsFiled": "HEATHER JOHNSON",
+          "votes": 29685,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Libertarian"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 881,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": null,
+      "special": true,
+      "total": 2587356,
+      "candidates": [
+        {
+          "name": "Tina Smith",
+          "party": "D",
+          "party_label": "DEMOCRATIC-FARMER-LABOR",
+          "nameAsFiled": "TINA SMITH",
+          "votes": 1370540,
+          "pct": 53,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Karin Housley",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "KARIN HOUSLEY",
+          "votes": 1095777,
+          "pct": 42.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Sarah Wellington",
+          "party": "O",
+          "party_label": "LEGAL MARIJUANA NOW",
+          "nameAsFiled": "SARAH WELLINGTON",
+          "votes": 95614,
+          "pct": 3.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Jerry Trooien",
+          "party": "I",
+          "party_label": "UNAFFILIATED",
+          "nameAsFiled": "JERRY TROOIEN",
+          "votes": 24324,
+          "pct": 0.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 1101,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "special",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 3214256,
+      "candidates": [
+        {
+          "name": "Tina Smith",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "TINA SMITH",
+          "votes": 1566522,
+          "pct": 48.7,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jason Lewis",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JASON LEWIS",
+          "votes": 1398145,
+          "pct": 43.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Kevin O'Connor",
+          "party": "O",
+          "party_label": "LEGAL MARIJUANA NOW",
+          "nameAsFiled": "KEVIN O'CONNOR",
+          "votes": 190154,
+          "pct": 5.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Oliver Steinberg",
+          "party": "O",
+          "party_label": "GRASSROOTS",
+          "nameAsFiled": "OLIVER STEINBERG",
+          "votes": 57174,
+          "pct": 1.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 2261,
+          "writein": true,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

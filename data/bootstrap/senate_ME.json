@@ -1,0 +1,849 @@
+{
+  "class1": [
+    {
+      "year": 1976,
+      "date": "1976-11-02",
+      "special": false,
+      "total": 486193,
+      "candidates": [
+        {
+          "name": "Edmund S. Muskie",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "EDMUND S. MUSKIE",
+          "votes": 292704,
+          "pct": 60.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Robert A. G. Monks",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ROBERT A. G. MONKS",
+          "votes": 193489,
+          "pct": 39.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1982,
+      "date": "1982-11-02",
+      "special": false,
+      "total": 459715,
+      "candidates": [
+        {
+          "name": "George J. Mitchell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "GEORGE J. MITCHELL",
+          "votes": 279819,
+          "pct": 60.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "David F. Emery",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DAVID F. EMERY",
+          "votes": 179882,
+          "pct": 39.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 14,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1988,
+      "date": "1988-11-08",
+      "special": false,
+      "total": 556745,
+      "candidates": [
+        {
+          "name": "George J. Mitchell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "GEORGE J. MITCHELL",
+          "votes": 452581,
+          "pct": 81.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jasper S. Wyman",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "JASPER S. WYMAN",
+          "votes": 104164,
+          "pct": 18.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1994,
+      "date": "1994-11-08",
+      "special": false,
+      "total": 511733,
+      "candidates": [
+        {
+          "name": "Olympia J. Snowe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "OLYMPIA J. SNOWE",
+          "votes": 308244,
+          "pct": 60.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Thomas H. Andrews",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS H. ANDREWS",
+          "votes": 186042,
+          "pct": 36.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Plato Truman",
+          "party": "I",
+          "party_label": "UNENROLLED",
+          "nameAsFiled": "PLATO TRUMAN",
+          "votes": 17205,
+          "pct": 3.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 242,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2000,
+      "date": "2000-11-07",
+      "special": false,
+      "total": 634872,
+      "candidates": [
+        {
+          "name": "Olympia J. Snowe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "OLYMPIA J. SNOWE",
+          "votes": 437689,
+          "pct": 68.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Mark W. Lawrence",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "MARK W. LAWRENCE",
+          "votes": 197183,
+          "pct": 31.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2006,
+      "date": "2006-11-07",
+      "special": false,
+      "total": 545128,
+      "candidates": [
+        {
+          "name": "Olympia J. Snowe",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "OLYMPIA J. SNOWE",
+          "votes": 405596,
+          "pct": 74.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Jean M. Hay Bright",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JEAN M. HAY BRIGHT",
+          "votes": 113131,
+          "pct": 20.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "William H. Slavick",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "WILLIAM H. SLAVICK",
+          "votes": 26222,
+          "pct": 4.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 179,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2012,
+      "date": "2012-11-06",
+      "special": false,
+      "total": 700599,
+      "candidates": [
+        {
+          "name": "Angus S. King, Jr.",
+          "party": "O",
+          "party_label": "INDEPENDENT FOR MAINE",
+          "nameAsFiled": "ANGUS KING",
+          "votes": 370580,
+          "pct": 52.9,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Charles E. Summers, Jr.",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "CHARLES E. SUMMERS, JR.",
+          "votes": 215399,
+          "pct": 30.7,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Cynthia Ann Dill",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CYNTHIA ANN DILL",
+          "votes": 92900,
+          "pct": 13.3,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Stephen M. Woods",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "STEPHEN M. WOODS",
+          "votes": 10289,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Danny Francis Dalton",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "DANNY FRANCIS DALTON",
+          "votes": 5807,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Andrew Ian Dodge",
+          "party": "O",
+          "party_label": "INDEPENDENT FOR LIBERTY",
+          "nameAsFiled": "ANDREW IAN DODGE",
+          "votes": 5624,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2018,
+      "date": "2018-11-06",
+      "special": false,
+      "total": 634409,
+      "candidates": [
+        {
+          "name": "Angus S. King, Jr.",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ANGUS S. KING, JR.",
+          "votes": 344575,
+          "pct": 54.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Eric L. Brakey",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "ERIC L. BRAKEY",
+          "votes": 223502,
+          "pct": 35.2,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Zak Ringelstein",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ZAK RINGELSTEIN",
+          "votes": 66268,
+          "pct": 10.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Others",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHERS",
+          "votes": 64,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2024,
+      "date": "2024-11-05",
+      "special": false,
+      "total": 820782,
+      "candidates": [
+        {
+          "name": "Angus S. King, Jr.",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "ANGUS S. KING JR.",
+          "votes": 427331,
+          "pct": 52.1,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Demi Kouzounas",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "DEMI KOUZOUNAS",
+          "votes": 284338,
+          "pct": 34.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "David Allen Costello",
+          "party": "D",
+          "party_label": "DEMOCRATIC",
+          "nameAsFiled": "DAVID ALLEN COSTELLO",
+          "votes": 88891,
+          "pct": 10.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Jason S. Cherry",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JASON S. CHERRY",
+          "votes": 20222,
+          "pct": 2.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "source": "clerk-statistics-2024",
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class2": [
+    {
+      "year": 1978,
+      "date": "1978-11-07",
+      "special": false,
+      "total": 375114,
+      "candidates": [
+        {
+          "name": "William S. Cohen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM S. COHEN",
+          "votes": 212294,
+          "pct": 56.6,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "William D. Hathaway",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "WILLIAM D. HATHAWAY",
+          "votes": 127327,
+          "pct": 33.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Hayes E. Gahagan",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "HAYES E. GAHAGAN",
+          "votes": 27824,
+          "pct": 7.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "John J. Jannace",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOHN J. JANNACE",
+          "votes": 5553,
+          "pct": 1.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Plato Truman",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "PLATO TRUMAN",
+          "votes": 2116,
+          "pct": 0.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1984,
+      "date": "1984-11-06",
+      "special": false,
+      "total": 551406,
+      "candidates": [
+        {
+          "name": "William S. Cohen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM S. COHEN",
+          "votes": 404414,
+          "pct": 73.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Elizabeth H. Mitchell",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "ELIZABETH H. MITCHELL",
+          "votes": 142626,
+          "pct": 25.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "P. Ann Stoddard",
+          "party": "O",
+          "party_label": "CONSTITUTIONALIST",
+          "nameAsFiled": "P. ANN STODDARD",
+          "votes": 4338,
+          "pct": 0.8,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 28,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1990,
+      "date": "1990-11-06",
+      "special": false,
+      "total": 520320,
+      "candidates": [
+        {
+          "name": "William S. Cohen",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "WILLIAM S. COHEN",
+          "votes": 319167,
+          "pct": 61.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Neil Rolde",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "NEIL ROLDE",
+          "votes": 201053,
+          "pct": 38.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 100,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 1996,
+      "date": "1996-11-05",
+      "special": false,
+      "total": 606777,
+      "candidates": [
+        {
+          "name": "Susan M. Collins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SUSAN M. COLLINS",
+          "votes": 298422,
+          "pct": 49.2,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Joseph E. Brennan",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "JOSEPH E. BRENNAN",
+          "votes": 266226,
+          "pct": 43.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "John C. Rensenbrink",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "JOHN C. RENSENBRINK",
+          "votes": 23441,
+          "pct": 3.9,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "William P. Clarke",
+          "party": "O",
+          "party_label": "U.S. TAXPAYERS",
+          "nameAsFiled": "WILLIAM P. CLARKE",
+          "votes": 18618,
+          "pct": 3.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 70,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2002,
+      "date": "2002-11-05",
+      "special": false,
+      "total": 504899,
+      "candidates": [
+        {
+          "name": "Susan M. Collins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SUSAN M. COLLINS",
+          "votes": 295041,
+          "pct": 58.4,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Chellie Pingree",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "CHELLIE PINGREE",
+          "votes": 209858,
+          "pct": 41.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2008,
+      "date": "2008-11-04",
+      "special": false,
+      "total": 724430,
+      "candidates": [
+        {
+          "name": "Susan M. Collins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SUSAN M. COLLINS",
+          "votes": 444300,
+          "pct": 61.3,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Thomas H. Allen",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "THOMAS H. ALLEN",
+          "votes": 279510,
+          "pct": 38.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 620,
+          "pct": 0.1,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2014,
+      "date": "2014-11-04",
+      "special": false,
+      "total": 604028,
+      "candidates": [
+        {
+          "name": "Susan M. Collins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SUSAN M. COLLINS",
+          "votes": 413505,
+          "pct": 68.5,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Shenna Bellows",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SHENNA BELLOWS",
+          "votes": 190254,
+          "pct": 31.5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Other",
+          "party": "O",
+          "party_label": null,
+          "nameAsFiled": "OTHER",
+          "votes": 269,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Other"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    },
+    {
+      "year": 2020,
+      "date": "2020-11-03",
+      "special": false,
+      "total": 819183,
+      "candidates": [
+        {
+          "name": "Susan M. Collins",
+          "party": "R",
+          "party_label": "REPUBLICAN",
+          "nameAsFiled": "SUSAN MARGARET COLLINS",
+          "votes": 417645,
+          "pct": 51,
+          "winner": true,
+          "incumbent": null,
+          "partyLabel": "Republican"
+        },
+        {
+          "name": "Sara I. Gideon",
+          "party": "D",
+          "party_label": "DEMOCRAT",
+          "nameAsFiled": "SARA I. GIDEON",
+          "votes": 347223,
+          "pct": 42.4,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Democratic"
+        },
+        {
+          "name": "Lisa Savage",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "LISA SAVAGE",
+          "votes": 40579,
+          "pct": 5,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Max Patrick Linn",
+          "party": "I",
+          "party_label": "INDEPENDENT",
+          "nameAsFiled": "MAX PATRICK LINN",
+          "votes": 13508,
+          "pct": 1.6,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Independent"
+        },
+        {
+          "name": "Write-ins",
+          "party": "O",
+          "party_label": null,
+          "votes": 228,
+          "writein": true,
+          "pct": 0,
+          "winner": false,
+          "incumbent": null,
+          "partyLabel": "Write-in"
+        }
+      ],
+      "etype": "general",
+      "outcome": "won"
+    }
+  ],
+  "class3": []
+}

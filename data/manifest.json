@@ -1,0 +1,490 @@
+{
+  "cutoff": "2026-11-02T20:13:00-08:00",
+  "files": [
+    {
+      "path": "data/bootstrap/120-nominations.pdf",
+      "bytes": 257739,
+      "sha256": "cb2e4194c88042cf22f8589fb6b8c352d29b501f96abc62a962b6cc52e2c28a8"
+    },
+    {
+      "path": "data/bootstrap/120-nominations.txt",
+      "bytes": 259257,
+      "sha256": "b03c079c24ce569bf0c064cfd251fc4d299483d1ad464b20cf3841c90c4e2ae2"
+    },
+    {
+      "path": "data/bootstrap/congress.json",
+      "bytes": 115952,
+      "sha256": "242e2d8ccf4a477fa95a0b124c34210431e7258df1c09744f667504af345491c"
+    },
+    {
+      "path": "data/bootstrap/house_2004.json",
+      "bytes": 514445,
+      "sha256": "a1b4271836558027616084cddfc3dc1922be400dfebc527c8f1d1ab87ae24641"
+    },
+    {
+      "path": "data/bootstrap/house_2006.json",
+      "bytes": 526626,
+      "sha256": "9048ff64e2a97d41994b070de69daf57aa016ff1f345d427605cd88032e32398"
+    },
+    {
+      "path": "data/bootstrap/house_2008.json",
+      "bytes": 521322,
+      "sha256": "e01a07f4842981d4929b9a337eb5a9a7586b7319e3293871eba16f19627c4be3"
+    },
+    {
+      "path": "data/bootstrap/house_2010.json",
+      "bytes": 572819,
+      "sha256": "f245f5d2ad5556d05adbc4ba6e2a73402050c870a04575d696d721da5c4518bd"
+    },
+    {
+      "path": "data/bootstrap/house_2012.json",
+      "bytes": 538081,
+      "sha256": "52abc207f9e50e204460ec2e4b744dee8d6fb4ac458cf4e0204c2c9cca5221b9"
+    },
+    {
+      "path": "data/bootstrap/house_2014.json",
+      "bytes": 518571,
+      "sha256": "0265c1c3a0c7e244a64220b19a41a147ba9c422f5ae69af2440e528e4dea44ea"
+    },
+    {
+      "path": "data/bootstrap/house_2016.json",
+      "bytes": 529846,
+      "sha256": "90fa373c9f6301cc96033fbc5fce6c33b93609a42480f4ab3fb2ac8c64652f17"
+    },
+    {
+      "path": "data/bootstrap/house_2018.json",
+      "bytes": 531277,
+      "sha256": "49049126e76981393e1afc35281f77149e580ba3a6172bdf962a6320d0aeeb41"
+    },
+    {
+      "path": "data/bootstrap/house_2020.json",
+      "bytes": 546354,
+      "sha256": "b8e9cc3f99eae7fb60e981d726a87e039bbf6f701ab496b75118763600cffe44"
+    },
+    {
+      "path": "data/bootstrap/house_2022.json",
+      "bytes": 523258,
+      "sha256": "55ed0b5d62b0478ad38f0f7066fbc1363916d97b703887625692f504dcccce3b"
+    },
+    {
+      "path": "data/bootstrap/house_2024.json",
+      "bytes": 523008,
+      "sha256": "b15e949c86fa35e450dc46fa4685bec4db4cb38be8c2622f45516fd52c80947d"
+    },
+    {
+      "path": "data/bootstrap/nominees_clean.txt",
+      "bytes": 157397,
+      "sha256": "f9439ea596acc90cff5939190678f346ce834c19524d6981fbfdd59c6cf720d1"
+    },
+    {
+      "path": "data/bootstrap/official_nominees.csv",
+      "bytes": 177693,
+      "sha256": "4ef41c7ae57bd4f3445a19c7bc78885a01d2304eab4b9d218dee2fa43a5d6c34"
+    },
+    {
+      "path": "data/bootstrap/president_state.json",
+      "bytes": 131600,
+      "sha256": "fc314799cab6568f75fc756dfed323762c1e03fb75fdc1c580db7504c8d5a97e"
+    },
+    {
+      "path": "data/bootstrap/provenance.json",
+      "bytes": 22236,
+      "sha256": "c4228250465fcfd6bed5ffd29a64af91a16bdaec8341bcff24a94fadca9874de"
+    },
+    {
+      "path": "data/bootstrap/senate_AK.json",
+      "bytes": 25977,
+      "sha256": "6b25b70b7d15664e3e4e4b8f8f6558e8079582aa55f43b09a9a4db97469fe04b"
+    },
+    {
+      "path": "data/bootstrap/senate_AL.json",
+      "bytes": 20562,
+      "sha256": "3b85eaca47c8ab9613a09d8bb1ca7d7501e5c3eadcff1af5591d690397ffe40a"
+    },
+    {
+      "path": "data/bootstrap/senate_AR.json",
+      "bytes": 17954,
+      "sha256": "ae6873c291c0def83f6df8b78c2a4a79ea3ae6cb884e44c0762995b9b16b0093"
+    },
+    {
+      "path": "data/bootstrap/senate_AZ.json",
+      "bytes": 32557,
+      "sha256": "e674fddf8943464ccccfe861e00de57d2a00e8046e1e6dd230f441dfd4d496e4"
+    },
+    {
+      "path": "data/bootstrap/senate_CA.json",
+      "bytes": 32127,
+      "sha256": "bdbc5520aa9ab675f88beb9b35bc69a95a84cf264c84e45e21276d0450eb6832"
+    },
+    {
+      "path": "data/bootstrap/senate_CO.json",
+      "bytes": 32429,
+      "sha256": "755acd9b2c7efdcc4b0d22d5782b982b07de2fcbc2e86499f7c6a2f4dca7010f"
+    },
+    {
+      "path": "data/bootstrap/senate_CT.json",
+      "bytes": 25740,
+      "sha256": "db8c32bd5c6ced38ebe1a734a18d794b1bc49f09552921809cfb059ce2024d0a"
+    },
+    {
+      "path": "data/bootstrap/senate_DE.json",
+      "bytes": 23397,
+      "sha256": "43a92ba821c494ac826cbd6b11af23e40b4470aafe1e6ac9cf13ec498a2cc9fe"
+    },
+    {
+      "path": "data/bootstrap/senate_FL.json",
+      "bytes": 29208,
+      "sha256": "78a53335f70e4d5b986a5976ebc13fcd0c4bd70c6b916f703d5a9b9fcda3f347"
+    },
+    {
+      "path": "data/bootstrap/senate_GA.json",
+      "bytes": 30983,
+      "sha256": "348248118fa7610df0e76dede8b29d67ab91853049bea88a8ded7ca5c0378b34"
+    },
+    {
+      "path": "data/bootstrap/senate_HI.json",
+      "bytes": 24097,
+      "sha256": "bb001d5d4c00f1aa9a3a2f731782ca0e2eeb40b6ea37d4e34ae494e5f8f8794c"
+    },
+    {
+      "path": "data/bootstrap/senate_IA.json",
+      "bytes": 26812,
+      "sha256": "33d7c176b0f2aac5cc681ad65a7d8311eaf08aa6fef383bb93b6e645d9ec5e0c"
+    },
+    {
+      "path": "data/bootstrap/senate_ID.json",
+      "bytes": 18098,
+      "sha256": "4d6904cc5c52e561c65aca24799a9c2f064c784bfbd4f99827cc9d4abbc2587a"
+    },
+    {
+      "path": "data/bootstrap/senate_IL.json",
+      "bytes": 30158,
+      "sha256": "5b5470db4ede67338320caf1a1866860e8c43397e82fc1f4e8d403bd032dadf4"
+    },
+    {
+      "path": "data/bootstrap/senate_IN.json",
+      "bytes": 22018,
+      "sha256": "e47a61f04a37575a291da286c805ab01c2e34640a40976a94d44d4cbea1cb1cd"
+    },
+    {
+      "path": "data/bootstrap/senate_KS.json",
+      "bytes": 21335,
+      "sha256": "9f5affabbb3aa1f774277e9ba878569f08af4d87670533143fcb3ecb086f6f46"
+    },
+    {
+      "path": "data/bootstrap/senate_KY.json",
+      "bytes": 19403,
+      "sha256": "565c894e21e40854d6a922a4f8ed0180c504b0be85cec20e05694e181652e3da"
+    },
+    {
+      "path": "data/bootstrap/senate_LA.json",
+      "bytes": 40702,
+      "sha256": "ff7fc49474eaa00b763e439cc7042ce05d3f01d5eb0d95fc5b17d5b7ba75f5eb"
+    },
+    {
+      "path": "data/bootstrap/senate_MA.json",
+      "bytes": 24107,
+      "sha256": "28e3b7dbaa2dcbe01dc1ac9ea27a67f4549d8ace8c6594bd77882421b500fac9"
+    },
+    {
+      "path": "data/bootstrap/senate_MD.json",
+      "bytes": 21215,
+      "sha256": "b6a90d61f8482e64f44357b102e4a62e45f974e0467ae98219b199ec4f904a56"
+    },
+    {
+      "path": "data/bootstrap/senate_ME.json",
+      "bytes": 21711,
+      "sha256": "59fce57fb14e2a5c5f1d8012e630b6d138cdf682c1a0be47bc8d4c7ef8e92ba7"
+    },
+    {
+      "path": "data/bootstrap/senate_MI.json",
+      "bytes": 35116,
+      "sha256": "f4b170ce2667bfb16834ac780f2386bed1cea09c48a549e8617c3a6c1b798a42"
+    },
+    {
+      "path": "data/bootstrap/senate_MN.json",
+      "bytes": 38336,
+      "sha256": "f22808a7d16c484eef6932709515af9d2d7f784fad0a9d7d74a3d102dd468c06"
+    },
+    {
+      "path": "data/bootstrap/senate_MO.json",
+      "bytes": 29576,
+      "sha256": "a1cb4153bf38147673d321fa891b2007d07a2b7e940369c6c22a59d443bd267f"
+    },
+    {
+      "path": "data/bootstrap/senate_MS.json",
+      "bytes": 19796,
+      "sha256": "c8a1c41bf293ea0b5e93ec024e06cc8c589dfd18e9e631bcf6ca2d98f67f1765"
+    },
+    {
+      "path": "data/bootstrap/senate_MT.json",
+      "bytes": 17604,
+      "sha256": "2a2db97651ef1a491240c763cd7a63880d7772ca0a857e36e278923f9e60d653"
+    },
+    {
+      "path": "data/bootstrap/senate_NC.json",
+      "bytes": 21635,
+      "sha256": "77976ee07a34a46d040e22c2aeb7783f256aace57bb208fdaa1edc26e37c1b6e"
+    },
+    {
+      "path": "data/bootstrap/senate_ND.json",
+      "bytes": 17887,
+      "sha256": "f0b7843f7fe3fff9307397a0cf585fb4df7c19f6439247d418e20ec76e0ce2a9"
+    },
+    {
+      "path": "data/bootstrap/senate_NE.json",
+      "bytes": 20949,
+      "sha256": "048f521dfe97640babd9304ac9be2e510027173caed0db5b64e47877124ea084"
+    },
+    {
+      "path": "data/bootstrap/senate_NH.json",
+      "bytes": 21463,
+      "sha256": "378f55a286dc3dbdc49b25d338e96e7498931b450e63f21bd5b460f3658b70db"
+    },
+    {
+      "path": "data/bootstrap/senate_NJ.json",
+      "bytes": 42828,
+      "sha256": "b4949b744f556494d70006fa8279db584a25036917c6a1697b11532c66f7e575"
+    },
+    {
+      "path": "data/bootstrap/senate_NM.json",
+      "bytes": 17650,
+      "sha256": "56ec92a8628e17e29857a63c70a2273a01852a0d951237c00885cf00b4cfd27c"
+    },
+    {
+      "path": "data/bootstrap/senate_NV.json",
+      "bytes": 30234,
+      "sha256": "8550b0e70e5c8eee6370093cb57be1f018c8c3b6a233cf9bc665078d90d1f5b7"
+    },
+    {
+      "path": "data/bootstrap/senate_NY.json",
+      "bytes": 36778,
+      "sha256": "c8cdfead99183fadb0c523537fe8472d20af6ee420878927d370b2fff0710ca6"
+    },
+    {
+      "path": "data/bootstrap/senate_OH.json",
+      "bytes": 22885,
+      "sha256": "7974043a34654b92f5ca82429a50df1ace465b10a9a2a4ff72313d7272fc8644"
+    },
+    {
+      "path": "data/bootstrap/senate_OK.json",
+      "bytes": 25787,
+      "sha256": "b51c9ae74270251c2a1aaefbfb31d312e2639f973a46d13466998815f94db1ba"
+    },
+    {
+      "path": "data/bootstrap/senate_OR.json",
+      "bytes": 26337,
+      "sha256": "6e527e57f8a0528c3df2cb7597d5ad0b0e36900d5ee7c5d2f0ddd1d620cdfa41"
+    },
+    {
+      "path": "data/bootstrap/senate_PA.json",
+      "bytes": 25674,
+      "sha256": "6b034b7179757151a96a008591fac33a0b5322ee4524c83868aabb4ba3844777"
+    },
+    {
+      "path": "data/bootstrap/senate_RI.json",
+      "bytes": 16820,
+      "sha256": "4c824d7df041843156323f58d1e3af5cba46f14638e354a4d94d22ae26a36b11"
+    },
+    {
+      "path": "data/bootstrap/senate_SC.json",
+      "bytes": 24617,
+      "sha256": "944eadff039cad80f64191e00c19276c04c59cb3d35afbb0656c701c9bf629fc"
+    },
+    {
+      "path": "data/bootstrap/senate_SD.json",
+      "bytes": 15100,
+      "sha256": "a1269cb86fd751dbb7bb0120d808354ae91d152dd50f9e0bce752bf76d1aff51"
+    },
+    {
+      "path": "data/bootstrap/senate_TN.json",
+      "bytes": 44306,
+      "sha256": "ae81b58616928a85f5f344d2fb89d4aab5a1cd201b13dfec2093518b57fde143"
+    },
+    {
+      "path": "data/bootstrap/senate_TX.json",
+      "bytes": 23742,
+      "sha256": "88268499a93d19e7ac4345839f3a63c7bef7a00eb84a60eacf313d03c13f5c50"
+    },
+    {
+      "path": "data/bootstrap/senate_UT.json",
+      "bytes": 26430,
+      "sha256": "b9f89114f00bb9cee3191f38f6fdbdc7656e390f74f96b164fc4202e6a1e4512"
+    },
+    {
+      "path": "data/bootstrap/senate_VA.json",
+      "bytes": 21226,
+      "sha256": "8454c917d135b98a8a0bf4d95bc62585965088b2e694ffbb50dee998e054b832"
+    },
+    {
+      "path": "data/bootstrap/senate_VT.json",
+      "bytes": 37807,
+      "sha256": "0ca745c60ddf10cdccdd9e793a4f837643903632d1df89a9a1b63e0ada9167bf"
+    },
+    {
+      "path": "data/bootstrap/senate_WA.json",
+      "bytes": 17983,
+      "sha256": "dc55c49faadc9bb8b71bf59c4cb0e2b10621d5c393c5ffd200144f60dbfdb660"
+    },
+    {
+      "path": "data/bootstrap/senate_WI.json",
+      "bytes": 30471,
+      "sha256": "558cd9842d7c29eb96110f19121b4c3f38952ba436d96ec9cbff4fddce7babd9"
+    },
+    {
+      "path": "data/bootstrap/senate_WV.json",
+      "bytes": 18609,
+      "sha256": "437e85546dc5202174d0a0f75c62677ddb73a12b7352d524502513de408074e7"
+    },
+    {
+      "path": "data/bootstrap/senate_WY.json",
+      "bytes": 18928,
+      "sha256": "24bebaa7891a34bc00696b5ba27658cdc9fdf6ff397066d0974650d71f90318c"
+    },
+    {
+      "path": "data/bootstrap/sources.json",
+      "bytes": 163039,
+      "sha256": "d1e8a39d3ab2c1dd8806e7d33635961ff2cfef5711f9ac169e60a979cc735383"
+    },
+    {
+      "path": "data/geography/dataset_index.json",
+      "bytes": 6027,
+      "sha256": "1eeb5698b292dd29d4c8c5369aa1c5fb6f17a9e9e22d2068d66e96477e528812"
+    },
+    {
+      "path": "data/geography/district_example.json",
+      "bytes": 28859,
+      "sha256": "4de94b89168fb6b9fc426fa86ea869f7eb26be4023d574ed23fbaa6c550a9ff9"
+    },
+    {
+      "path": "data/geography/president_provenance.json",
+      "bytes": 3476,
+      "sha256": "bec095de25f71e9668fada64bd8dcb3e4093e408cb70759b7facbbbbb8058bcc"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2010.csv",
+      "bytes": 16553,
+      "sha256": "cabd4860a9e7d8ace7d0991b8460af535b8870ca1ab3e08ce17b532a758acb95"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2014.csv",
+      "bytes": 19926,
+      "sha256": "f7b9e7279118c3b642f07f22235279e8b8d26cb286ecd5742dcc5924b59b0380"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2016.csv",
+      "bytes": 23733,
+      "sha256": "5b37cc1a2f674b02549dfd3257fbf62758a69bd2b9d49e8753d34e4012e854c6"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2018.csv",
+      "bytes": 43229,
+      "sha256": "1ac29ca1575210f62470732cacd2b8d0203b6219ef5223bf12ae309f54f7a23e"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2020.csv",
+      "bytes": 26852,
+      "sha256": "efcae3d7edbe39f0cd1895e4f328d8653e6bdd9eb658e0c9576e425b95d132ac"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2022.csv",
+      "bytes": 17428,
+      "sha256": "40a174a694dc147cdb3fc423b09f4293b3ed191a0053dcd6f5b9a1d3f80f52a2"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2024.csv",
+      "bytes": 19025,
+      "sha256": "b2b8655da31de02efb7e57841fa3676e02711aabf0666567ca510dae841faa72"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2026.csv",
+      "bytes": 17916,
+      "sha256": "a3bffa0500b0827c56f66ea40320f3b145e8570864f9b14eee40a5ed3367671a"
+    },
+    {
+      "path": "data/geography/presidential_districts_map_2026_exact.csv",
+      "bytes": 48537,
+      "sha256": "cc1d51ab58dfbdeb0f7ddaa8daf9e15f32e15845f2c3cc6c28bd2c84c79d9348"
+    },
+    {
+      "path": "data/odds/organizer_odds.csv",
+      "bytes": 121,
+      "sha256": "3f7c39581f05c880deee524b9809a164fe65ee9d2fc580af76e31d9bd23b32dc"
+    },
+    {
+      "path": "data/odds/reconstruction_log.json",
+      "bytes": 11662,
+      "sha256": "ebd8adbe1a79e7e12e8ecedc49f9da1de36e2480b9ace11b53623c2928198d9a"
+    },
+    {
+      "path": "data/roster/audit.json",
+      "bytes": 3179,
+      "sha256": "497c432d25ceecb121bbcce742dfde804743806098102c68e0f63b314a92b8e6"
+    },
+    {
+      "path": "data/roster/nominee_overrides.csv",
+      "bytes": 1212,
+      "sha256": "77101958f56314c0801a4273d50512c913600af5cfb592c36a91ccb73a9ff5b7"
+    },
+    {
+      "path": "data/roster/nominees_audited.csv",
+      "bytes": 177555,
+      "sha256": "d10b4d26bbed52b2867b90e811f4f31f06dff0ecc4867a949d7177b3e1048fd4"
+    },
+    {
+      "path": "data/roster/race_profiles.json",
+      "bytes": 26851,
+      "sha256": "2d99bc8b68a28501bfb21f7d88262eeb36920ec1c89c140d56c99c1f5e93ab47"
+    },
+    {
+      "path": "data/roster/senate_holdovers.csv",
+      "bytes": 6403,
+      "sha256": "1bc8935ccac87f599836ed64fd54bfaab83bcecd1eeb7ea9a793f634a6c68612"
+    },
+    {
+      "path": "data/signals/auxiliary_download_log.json",
+      "bytes": 1037,
+      "sha256": "faa878b7f7cd5120623304948359adab0fb68c8fd14b4db1533417c72b9d4327"
+    },
+    {
+      "path": "data/signals/fec_audit.json",
+      "bytes": 414,
+      "sha256": "e574838a2edbdc7d461f4244330686c472c0fa9b291471826520d576dce2451e"
+    },
+    {
+      "path": "data/signals/fec_candidates_2026.csv",
+      "bytes": 729765,
+      "sha256": "43d0d7e799d3cbde8a0c1d41ffb62d64de766344628998fdd6b8dd342838d5f8"
+    },
+    {
+      "path": "data/signals/fec_nominee_coverage.csv",
+      "bytes": 118361,
+      "sha256": "63a5bf97a98ed12c47668c84a36d09645f2e9e116bc2846b9505505135bd5d82"
+    },
+    {
+      "path": "data/signals/fec_weball26.zip",
+      "bytes": 199920,
+      "sha256": "b1cc1630359ee14ffc43b3d3e8d2d9b2d1e9b13cf171ee903763719124ccd04c"
+    },
+    {
+      "path": "data/signals/historical_raw_polls.csv",
+      "bytes": 4961378,
+      "sha256": "9f0b185506e59117c150fb988e73b612346effe8e3a8f0d90fdafcad07f54756"
+    },
+    {
+      "path": "data/signals/national_public_snapshots.csv",
+      "bytes": 380,
+      "sha256": "dbb016cbe50db1747cfda7344f8221520c971fd8707925420afeff7f1c25465e"
+    },
+    {
+      "path": "data/signals/poll_download_log.json",
+      "bytes": 1181,
+      "sha256": "ad7546ba73cf019f65f71188c20f8ca9e916f24990876c7cefa480ec32b017cd"
+    },
+    {
+      "path": "data/signals/polls_2026.json",
+      "bytes": 1241503,
+      "sha256": "b644d6224426c04da4d946f83ea4c7f2ae7769308d1d0b71a664330787343783"
+    }
+  ]
+}

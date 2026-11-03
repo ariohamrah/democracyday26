@@ -1,0 +1,1283 @@
+race_id,chamber,state,district,name,party_label,incumbent,source_page,source_url,published_date
+AL-SEN,Senate,AL,,Barry Moore,Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-SEN,Senate,AL,,Everett Wess,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-01,House,AL,1,Jerry Carl,Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-01,House,AL,1,"Clyde W. Jones, Jr.",Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-02,House,AL,2,Rhett Marques,Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-02,House,AL,2,Shomari Figures,Democrat,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-03,House,AL,3,Mike Rogers,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-03,House,AL,3,Lee McInnis,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-04,House,AL,4,Robert B. Aderholt,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-04,House,AL,4,Amanda N. Pusczek,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-05,House,AL,5,Dale W. Strong,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-05,House,AL,5,Andrew Sneed,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-06,House,AL,6,Gary J. Palmer,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-06,House,AL,6,Maurice Mercer,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-07,House,AL,7,Ammie Akin,Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AL-07,House,AL,7,Terri A. Sewell,Democrat,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-SEN,Senate,AK,,Gerald L. Heikes,Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-SEN,Senate,AK,,Dan Sullivan,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-SEN,Senate,AK,,"Daniel J. Sullivan, Jr.",Republican,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-SEN,Senate,AK,,Mary Peltola,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-01,House,AK,1,Nicholas J. Begich III,Republican,true,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-01,House,AK,1,Eric Hafner,Democrat,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-01,House,AK,1,Bill Hill,Nonpartisan,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AK-01,House,AK,1,James C. “Jim” McDermott,Libertarian,false,3,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-01,House,AZ,1,Thomas “Jay” Feely IV,Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-01,House,AZ,1,Amish Shah,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-01,House,AZ,1,Monica Alponte,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-02,House,AZ,2,Elijah Crane,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-02,House,AZ,2,Jonathan Nez,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-02,House,AZ,2,Curtis Goodwin,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-03,House,AZ,3,Yassamin Ansari,Democrat,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-03,House,AZ,3,Alan Aversa,No Labels Party,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-03,House,AZ,3,David Redkey,Green,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-04,House,AZ,4,Zuhdi Jasser,Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-04,House,AZ,4,Greg Stanton,Democrat,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-04,House,AZ,4,Tisha Benoit,No Labels Party,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-05,House,AZ,5,Mark Lamb,Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-05,House,AZ,5,Elizabeth Lee,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-06,House,AZ,6,Juan Ciscomani,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-06,House,AZ,6,JoAnna Mendoza,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-06,House,AZ,6,Jereme Lance Peters,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-06,House,AZ,6,Gary Swing,Green,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-07,House,AZ,7,"Daniel Francis Butierez, Sr.",Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-07,House,AZ,7,Adelita S. Grijalva,Democrat,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-08,House,AZ,8,Abraham J. Hamadeh,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-08,House,AZ,8,Bernadette Greene-Placentia,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-09,House,AZ,9,Paul A. Gosar,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AZ-09,House,AZ,9,Danielle “Dani” Sterbinsky,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-SEN,Senate,AR,,Tom Cotton,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-SEN,Senate,AR,,Hallie Shoffner,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-SEN,Senate,AR,,Jeff Wadlin,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-01,House,AR,1,Eric A. “Rick” Crawford,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-01,House,AR,1,Terri Yarbrough Green,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-01,House,AR,1,Steve G. Parsons,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-02,House,AR,2,J. French Hill,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-02,House,AR,2,Chris Jones,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-03,House,AR,3,Steve Womack,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-03,House,AR,3,Robb Ryerse,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-03,House,AR,3,Bobby Wilson,Libertarian,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-04,House,AR,4,Bruce Westerman,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+AR-04,House,AR,4,James “Rus” Russell III,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-01,House,CA,1,James Gallagher,Republican,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-01,House,CA,1,Mike McGuire,Democrat,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-02,House,CA,2,Robin Littau,Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-02,House,CA,2,Jared Huffman,Democrat,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-03,House,CA,3,Robb Tucker,Republican,false,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-03,House,CA,3,Ami Bera,Democrat,true,4,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-04,House,CA,4,Eric Jones,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-04,House,CA,4,Mike Thompson,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-05,House,CA,5,Tom McClintock,Republican,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-05,House,CA,5,Michael Masuda,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-06,House,CA,6,Richard Pan,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-06,House,CA,6,Kevin Kiley,Independent,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-07,House,CA,7,Doris O. Matsui,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-07,House,CA,7,Mai Vang,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-08,House,CA,8,Rudy Recile,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-08,House,CA,8,John Garamendi,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-09,House,CA,9,John McBride,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-09,House,CA,9,Josh Harder,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-10,House,CA,10,Jeff Frese,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-10,House,CA,10,Mark DeSaulnier,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-11,House,CA,11,Connie Chan,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-11,House,CA,11,Scott Wiener,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-12,House,CA,12,Jamie Joyce,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-12,House,CA,12,Lateefah Simon,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-13,House,CA,13,Kevin Lincoln,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-13,House,CA,13,Adam Gray,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-14,House,CA,14,Melissa Hernandez,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-14,House,CA,14,Aisha Wahab,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-15,House,CA,15,Charles Hoelter,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-15,House,CA,15,Kevin Mullin,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-16,House,CA,16,Peter Sundin Soulé,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-16,House,CA,16,Sam T. Liccardo,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-17,House,CA,17,Ritesh Tandon,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-17,House,CA,17,Ro Khanna,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-18,House,CA,18,Shane Lewis,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-18,House,CA,18,Zoe Lofgren,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-19,House,CA,19,Peter Coe Verbica,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-19,House,CA,19,Jimmy Panetta,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-20,House,CA,20,Vince Fong,Republican,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-20,House,CA,20,Sandra Van Scotter,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-21,House,CA,21,Kyle Kirkland,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-21,House,CA,21,Jim Costa,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-22,House,CA,22,David G. Valadao,Republican,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-22,House,CA,22,Randy Villegas,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-23,House,CA,23,Jay Obernolte,Republican,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-23,House,CA,23,Tessa Lynn Hodge,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-24,House,CA,24,Bob Smith,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-24,House,CA,24,Salud O. Carbajal,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-25,House,CA,25,Joe Males,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-25,House,CA,25,Raul Ruiz,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-26,House,CA,26,Sam Gallucci,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-26,House,CA,26,Jacqui Irwin,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-27,House,CA,27,Jason Gibbs,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-27,House,CA,27,George Whitesides,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-28,House,CA,28,April A. Verlato,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-28,House,CA,28,Judy Chu,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-29,House,CA,29,Angélica Maria Dueñas,Democrat,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-29,House,CA,29,Luz M. Rivas,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-30,House,CA,30,Scott Alan Meyers,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-30,House,CA,30,Laura Friedman,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-31,House,CA,31,Eric Ching,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-31,House,CA,31,"Gilbert Ray Cisneros, Jr.",Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-32,House,CA,32,Larry Thompson,Republican,false,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-32,House,CA,32,Brad Sherman,Democrat,true,5,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-33,House,CA,33,Stephanie M. Vargas,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-33,House,CA,33,Pete Aguilar,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-34,House,CA,34,Jimmy Gomez,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-34,House,CA,34,Angela Gonzales-Torres,Democrat,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-35,House,CA,35,Mike Cargile,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-35,House,CA,35,Norma J. Torres,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-36,House,CA,36,Houston Brignano,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-36,House,CA,36,Ted Lieu,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-37,House,CA,37,Sydney Kamlager-Dove,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-37,House,CA,37,Samantha Mota,Democrat,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-38,House,CA,38,Pedro Antonio Casas,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-38,House,CA,38,Hilda Solis,Democrat,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-39,House,CA,39,Steve Manos,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-39,House,CA,39,Mark Takano,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-40,House,CA,40,Ken Calvert,Republican,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-40,House,CA,40,Young Kim,Republican,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-41,House,CA,41,Mitch Clemmons,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-41,House,CA,41,Linda T. Sánchez,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-42,House,CA,42,Brian Burley,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-42,House,CA,42,Robert Garcia,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-43,House,CA,43,Cristian Morales,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-43,House,CA,43,Maxine Waters,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-44,House,CA,44,Genevieve Angel,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-44,House,CA,44,Nanette Diaz Barragán,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-45,House,CA,45,Chuong V. Vo,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-45,House,CA,45,Derek Tran,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-46,House,CA,46,David Pan,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-46,House,CA,46,J. Luis Correa,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-47,House,CA,47,Jenny Rae Le Roux,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-47,House,CA,47,Dave Min,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-48,House,CA,48,Jim Desmond,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-48,House,CA,48,Marni von Wilpert,Democrat,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-49,House,CA,49,Armen Kurdian,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-49,House,CA,49,Mike Levin,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-50,House,CA,50,Steve Cohen,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-50,House,CA,50,Scott H. Peters,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-51,House,CA,51,Ricardo Cabrera,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-51,House,CA,51,Sara Jacobs,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-52,House,CA,52,Jeff Belle,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CA-52,House,CA,52,Juan Vargas,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,Mark Baisley,Republican,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,John W. Hickenlooper,Democrat,true,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,Christopher Baum,Approval Voting Party,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,Bob Chew,Forward Party,false,6,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,Blake Huber,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-SEN,Senate,CO,,Adam Withrow,Unity Party,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-01,House,CO,1,Christy Peterson,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-01,House,CO,1,Melat Kiros,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-01,House,CO,1,Shimon Blau,Unaffiliated,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-01,House,CO,1,Chad Humphrey,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-01,House,CO,1,Critter Milton,Unity Party,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-02,House,CO,2,Kelley Anne Dennison,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-02,House,CO,2,Joe Neguse,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-02,House,CO,2,Gaylon Kent,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-03,House,CO,3,Jeff Hurd,Republican,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-03,House,CO,3,Dwayne L. Romero,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-03,House,CO,3,Clifton Brown,Unaffiliated,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-03,House,CO,3,Cory Robertson,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-04,House,CO,4,Lauren Boebert,Republican,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-04,House,CO,4,Eileen Laubacher,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-04,House,CO,4,Douglas Mangeris,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-05,House,CO,5,Jeff Crank,Republican,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-05,House,CO,5,Jessica Killin,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-05,House,CO,5,Mark “Marky Jr.” Elworth,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-05,House,CO,5,Christopher Mitchell,American Constitution,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-06,House,CO,6,Jason Clark,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-06,House,CO,6,Jason Crow,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-06,House,CO,6,Patty McMahon,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-06,House,CO,6,Meredith Ryan,Unity Party,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-06,House,CO,6,Samir Witta,Unaffiliated,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Tim Bennett,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Brittany Pettersen,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Lawrence Kyle Clark,American Constitution,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Susan Hall,Unity Party,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Joe Krzeczkowski,Unaffiliated,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-07,House,CO,7,Dan “Kilo” Sallis,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-08,House,CO,8,Gabe Evans,Republican,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-08,House,CO,8,Manny Rutinel,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CO-08,House,CO,8,Dave Wood,Libertarian,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-01,House,CT,1,Amy Chai,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-01,House,CT,1,Luke Bronin,Democrat,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-01,House,CT,1,Mary L. Sanders,Green,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-02,House,CT,2,George Patrick Austin,"Republican, Independent",false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-02,House,CT,2,Joe Courtney,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-03,House,CT,3,Christopher Lancia,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-03,House,CT,3,Rosa L. DeLauro,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-03,House,CT,3,Thomas Egan,Independent,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-04,House,CT,4,Michael Ted Goldstein,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-04,House,CT,4,James A. Himes,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-04,House,CT,4,Benjamin Wesley,Independent,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-05,House,CT,5,Chris Shea,Republican,false,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+CT-05,House,CT,5,Jahana Hayes,Democrat,true,7,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+DE-SEN,Senate,DE,,Michael “Dr. Mike” Katz,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+DE-SEN,Senate,DE,,Christopher A. Coons,Democrat,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+DE-01,House,DE,1,Joseph “Dr. Joe” Arminio,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+DE-01,House,DE,1,Sarah McBride,Democrat,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-SEN-SPECIAL,Senate,FL,,Ashley Moody,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-SEN-SPECIAL,Senate,FL,,Angie Nixon,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-01,House,FL,1,Jimmy Patronis,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-01,House,FL,1,Gay Valimont,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-01,House,FL,1,Tyler L. Davis,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-02,House,FL,2,Austin Rogers,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-02,House,FL,2,Amanda Marie Green,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-03,House,FL,3,Kat Cammack,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-03,House,FL,3,Seth Harp,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-03,House,FL,3,Mike Klein,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-04,House,FL,4,Aaron Bean,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-04,House,FL,4,LaShonda “L. J.” Holloway,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-04,House,FL,4,Todd Schaefer,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-04,House,FL,4,Mike Sell,Florida Forward Party,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-05,House,FL,5,John H. Rutherford,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-05,House,FL,5,Rachel Grage,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-06,House,FL,6,Randy Fine,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-06,House,FL,6,Eric Yonce,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-06,House,FL,6,Michael Gist,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-06,House,FL,6,Andrew Parrott,Libertarian,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-07,House,FL,7,Ryan Elijah,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-07,House,FL,7,Bale Dalton,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-07,House,FL,7,Christopher Dennison,Libertarian,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-08,House,FL,8,Mike Haridopolos,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-08,House,FL,8,Jennifer Jenkins,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-09,House,FL,9,Dan Green,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-09,House,FL,9,Darren Soto,Democrat,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-10,House,FL,10,Maxwell Frost,Democrat,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-11,House,FL,11,Joe Strada,Republican,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-11,House,FL,11,James Pericola,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-11,House,FL,11,Ralph Groves,Libertarian,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-12,House,FL,12,Gus M. Bilirakis,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-12,House,FL,12,Kimberly Overman,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-12,House,FL,12,Branden Scrivener,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-13,House,FL,13,Anna Paulina Luna,Republican,true,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-13,House,FL,13,Leela Gray,Democrat,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-13,House,FL,13,Tony D’Arrigo,No Party Affiliation,false,8,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-14,House,FL,14,Mike Beltran,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-14,House,FL,14,Kathy Castor,Democrat,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-14,House,FL,14,Brian Lambert,Libertarian,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-15,House,FL,15,Laurel M. Lee,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-15,House,FL,15,Robert People,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-16,House,FL,16,Sydney Gruters,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-16,House,FL,16,Kelly Kirschner,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-16,House,FL,16,Mark Davis,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-17,House,FL,17,W. Gregory Steube,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-17,House,FL,17,Matthew Montavon,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-17,House,FL,17,Michael J. Quirk,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-18,House,FL,18,Scott Franklin,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-18,House,FL,18,Curtis Gibson,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-18,House,FL,18,Deva Simmons,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-19,House,FL,19,Jim Schwartzel,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-19,House,FL,19,Victor Arias,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-19,House,FL,19,Seth Haskin,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-20,House,FL,20,Brent Andersen,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-20,House,FL,20,Debbie Wasserman Schultz,Democrat,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-20,House,FL,20,Kedner Maxime,Independent,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-21,House,FL,21,Brian J. Mast,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-21,House,FL,21,James T. Martin,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-21,House,FL,21,Alexander Cooke,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-22,House,FL,22,Casey Askar,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-22,House,FL,22,Pia Dandiya,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-23,House,FL,23,Deborah Adeimy,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-23,House,FL,23,Lois Frankel,Democrat,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-24,House,FL,24,Te Mayonna Brown,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-24,House,FL,24,Oliver G. Gilbert III,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-25,House,FL,25,Scott Singer,Republican,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-25,House,FL,25,Jared Moskowitz,Democrat,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-25,House,FL,25,Peter Jassenoff,Libertarian,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-26,House,FL,26,Mario Diaz-Balart,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-26,House,FL,26,Nicole Locklin,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-26,House,FL,26,Deborah Ann Meidinger Hosey,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-27,House,FL,27,Maria Elvira Salazar,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-27,House,FL,27,Eliott Rodriguez,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-28,House,FL,28,Carlos A. Gimenez,Republican,true,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-28,House,FL,28,Phil “Felipe” Ehr,Democrat,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+FL-28,House,FL,28,Eddy Rojas,No Party Affiliation,false,9,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-SEN,Senate,GA,,Mike Collins,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-SEN,Senate,GA,,Jon Ossoff,Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-01,House,GA,1,James “Jim” Kingston,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-01,House,GA,1,Amanda Hollowell,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-02,House,GA,2,Matt Day,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-02,House,GA,2,"Sanford D. Bishop, Jr.",Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-03,House,GA,3,Brian Jack,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-03,House,GA,3,Maura Keller,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-04,House,GA,4,Jim Duffie,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-04,House,GA,4,"Henry C. “Hank” Johnson, Jr.",Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-05,House,GA,5,John “Bongo” Salvesen,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-05,House,GA,5,Nikema Williams,Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-06,House,GA,6,Kevin E. Martin,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-06,House,GA,6,Lucy McBath,Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-07,House,GA,7,Richard McCormick,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-07,House,GA,7,Tony Kozycki,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-08,House,GA,8,Austin Scott,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-08,House,GA,8,Kelly Esti,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-09,House,GA,9,Andrew S. Clyde,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-09,House,GA,9,Caitlyn Gegen,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-10,House,GA,10,Houston Gaines,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-10,House,GA,10,Pamela “Pam” DeLancy,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-11,House,GA,11,John Cowan,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-11,House,GA,11,Chris Harden,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-12,House,GA,12,Rick W. Allen,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-12,House,GA,12,Ceretta Smith,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-13,House,GA,13,Jonathan Chavez,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-13,House,GA,13,Jasmine Clark,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-14,House,GA,14,Clay Fuller,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+GA-14,House,GA,14,Shawn Harris,Democrat,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-01,House,HI,1,Adriel C. Lam,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-01,House,HI,1,Ed Case,Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-01,House,HI,1,Nathan M. Berning,Nonpartisan,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-01,House,HI,1,Jordan S. Conley,Green,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-02,House,HI,2,Brenton Awa,Republican,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+HI-02,House,HI,2,Jill N. Tokuda,Democrat,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-SEN,Senate,ID,,James E. Risch,Republican,true,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-SEN,Senate,ID,,Todd Achilles,Independent,false,10,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-SEN,Senate,ID,,Natalie M. Fleming,Independent,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-SEN,Senate,ID,,Matt Loesby,Libertarian,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-01,House,ID,1,Russ Fulcher,Republican,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-01,House,ID,1,Kaylee Peterson,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-01,House,ID,1,Brendan J. Gomez,Constitution,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-01,House,ID,1,Sarah Zabel,Independent,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-02,House,ID,2,Michael K. Simpson,Republican,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-02,House,ID,2,Ellie Gilbreath,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-02,House,ID,2,Emre Houser,Independent,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-02,House,ID,2,Tripp Charles Hutchinson,Independent,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ID-02,House,ID,2,Will Johanson,Libertarian,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-SEN,Senate,IL,,Don Tracy,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-SEN,Senate,IL,,Juliana Stratton,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-SEN,Senate,IL,,"Whitfield Harrington, Jr.",American Center Party,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-01,House,IL,1,Christian Maxwell,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-01,House,IL,1,Jonathan L. Jackson,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-02,House,IL,2,Michael Scott Noack,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-02,House,IL,2,Donna Miller,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-03,House,IL,3,Angel Oakley,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-03,House,IL,3,Delia C. Ramirez,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-04,House,IL,4,Lupe Castillo,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-04,House,IL,4,Patty Garcia,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-04,House,IL,4,Chris Getty,Independent,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-04,House,IL,4,Ed Hershey,Working Class,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-05,House,IL,5,Tommy Hanson,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-05,House,IL,5,Mike Quigley,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-06,House,IL,6,Niki Conforti,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-06,House,IL,6,Sean Casten,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-07,House,IL,7,Chad Koppie,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-07,House,IL,7,La Shawn K. Ford,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-08,House,IL,8,Jennifer Davis,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-08,House,IL,8,Melissa L. Bean,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-09,House,IL,9,John Elleson,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-09,House,IL,9,Daniel Biss,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-10,House,IL,10,Carl Lambrecht,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-10,House,IL,10,Bradley Scott Schneider,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-11,House,IL,11,Jeff Walter,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-11,House,IL,11,Bill Foster,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-12,House,IL,12,Mike Bost,Republican,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-12,House,IL,12,Julie Fortier,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-13,House,IL,13,Jeff Wilson,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-13,House,IL,13,Nikki Budzinski,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-14,House,IL,14,James T. “Jim” Marter,Republican,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-14,House,IL,14,Lauren Underwood,Democrat,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-15,House,IL,15,Mary E. Miller,Republican,true,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-15,House,IL,15,Jennifer Todd,Democrat,false,11,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-16,House,IL,16,Darin LaHood,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-16,House,IL,16,Paul Nolley,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-17,House,IL,17,Dillan S. Vancil,Republican,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IL-17,House,IL,17,Eric Sorensen,Democrat,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-01,House,IN,1,Barb Regnitz,Republican,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-01,House,IN,1,Frank J. Mrvan,Democrat,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-02,House,IN,2,Rudy Yakym III,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-02,House,IN,2,Jamee Decio,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-02,House,IN,2,William Eric Henry,Libertarian,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-03,House,IN,3,Marlin A. Stutzman,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-03,House,IN,3,Kelly Thompson,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-04,House,IN,4,James R. Baird,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-04,House,IN,4,Drew Cox,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-05,House,IN,5,Victoria Spartz,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-05,House,IN,5,J. D. Ford,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-06,House,IN,6,Jefferson Shreve,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-06,House,IN,6,Cynthia “Cinde” Wirth,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-07,House,IN,7,Patrick McAuley,Republican,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-07,House,IN,7,André Carson,Democrat,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-07,House,IN,7,James M. Sceniak,Libertarian,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-08,House,IN,8,Mark B. Messmer,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-08,House,IN,8,Mary Allen,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-09,House,IN,9,Erin Houchin,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-09,House,IN,9,Brad A. Meyer,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IN-09,House,IN,9,Tonya L. Hudson,Libertarian,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-SEN,Senate,IA,,Ashley Hinson,Republican,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-SEN,Senate,IA,,Josh Turek,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-SEN,Senate,IA,,Thomas Laehn,Libertarian,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-01,House,IA,1,Mariannette Miller-Meeks,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-01,House,IA,1,Christina Bohannan,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-01,House,IA,1,Michael Bridgford,No Party,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-02,House,IA,2,Joe Mitchell,Republican,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-02,House,IA,2,Lindsay James,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-02,House,IA,2,Dave Bushaw,No Party,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-02,House,IA,2,Rick Stewart,Libertarian,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-03,House,IA,3,Zachary Nunn,Republican,true,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-03,House,IA,3,Sarah Trone Garriott,Democrat,false,12,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-04,House,IA,4,Chris McGowan,Republican,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+IA-04,House,IA,4,Dave Dawson,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-SEN,Senate,KS,,Roger Marshall,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-SEN,Senate,KS,,Adam Hamilton,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-SEN,Senate,KS,,David C. Graham,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-01,House,KS,1,Tracey Mann,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-01,House,KS,1,Lauren Reinhold,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-01,House,KS,1,Steven Jacob,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-02,House,KS,2,Derek Schmidt,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-02,House,KS,2,Don Coover,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-02,House,KS,2,John Hauer,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-03,House,KS,3,Eric Jenkins,Republican,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-03,House,KS,3,Sharice Davids,Democrat,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-03,House,KS,3,Steven A. Hohe,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-04,House,KS,4,Ron Estes,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-04,House,KS,4,Katy Tyndell,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KS-04,House,KS,4,Drew Cranmer,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-SEN,Senate,KY,,Andy Barr,Republican,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-SEN,Senate,KY,,Charles Booker,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-SEN,Senate,KY,,Christopher Campbell,Kentucky Party,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-01,House,KY,1,James Comer,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-01,House,KY,1,John “Drew” Williams,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-02,House,KY,2,Brett Guthrie,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-02,House,KY,2,Megan Wingfield,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-02,House,KY,2,Thomas A. Loecken,Independent,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-03,House,KY,3,Maria Teresa Rodriguez,Republican,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-03,House,KY,3,Morgan McGarvey,Democrat,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-04,House,KY,4,Ed Gallrein,Republican,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-04,House,KY,4,Melissa Claire Strange,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-04,House,KY,4,Jeremy Todd,Libertarian,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-05,House,KY,5,Harold Rogers,Republican,true,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-05,House,KY,5,Ned Pillersdorf,Democrat,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-05,House,KY,5,Gerardo Serrano,Independent,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-05,House,KY,5,Mikel Wein,Independent,false,13,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-06,House,KY,6,Ralph Alvarado,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-06,House,KY,6,Zach Dembo,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-06,House,KY,6,Jay J. Bowman,Independent,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+KY-06,House,KY,6,Pete Lynch,Kentucky Party,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-SEN,Senate,LA,,Julia Letlow,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-SEN,Senate,LA,,“Jamie” Davis,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-01,House,LA,1,Randall Arrington,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-01,House,LA,1,Steve Scalise,Republican,true,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-01,House,LA,1,Lauren Jewett,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-01,House,LA,1,E. “Liddy” Glass,No Party,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-02,House,LA,2,Peter Williams,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-02,House,LA,2,Troy A. Carter,Democrat,true,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-02,House,LA,2,Lisa Ballay,Libertarian,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-02,House,LA,2,Walter “Rocky” Beach,No Party,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-02,House,LA,2,Renada “Honey” Collins,No Party,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,“Kate” Cotten,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,Clay Higgins,Republican,true,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,John Day,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,Priscilla Gonzalez,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,Caleb “With a C” Walker,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-03,House,LA,3,Tia LeBrun,No Party,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-04,House,LA,4,Gordon Heslop,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-04,House,LA,4,Mike Johnson,Republican,true,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-04,House,LA,4,“Mike” Nichols,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-04,House,LA,4,Conrad Cable,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-04,House,LA,4,“Matt” Gromlich,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,"Stewart Cathey, Jr.",Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Misti Cordell,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Oscar “Omar” Dantzler,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Michael Echols,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,“Gabe” Firment,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Austin Magee,Republican,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Dan McKay,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Patricia “Pat” Moore,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-05,House,LA,5,Antonio Wilson,Democrat,false,14,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Monique Appeaning,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Larry Davis III,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,“Rick” Edmonds,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Michael Mebruer,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Blake Miguez,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Stephen Wagley,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Chauna Banks,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Patrick “Pat” Forbes,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Lindsay “Rubia” Garcia,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+LA-06,House,LA,6,Rufus Craig,Libertarian,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-SEN,Senate,ME,,Susan M. Collins,Republican,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-SEN,Senate,ME,,Troy D. Jackson,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-01,House,ME,1,Ronald C. Russell,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-01,House,ME,1,Chellie Pingree,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-02,House,ME,2,Paul R. LePage,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ME-02,House,ME,2,Matthew G. Dunlap,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-01,House,MD,1,Andy Harris,Republican,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-01,House,MD,1,Dan Schwartz,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-02,House,MD,2,Dave Wallace,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-02,House,MD,2,"Johnny Olszewski, Jr.",Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-03,House,MD,3,Berney Flowers,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-03,House,MD,3,Sarah Elfreth,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-04,House,MD,4,George E. McDermott,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-04,House,MD,4,Glenn Ivey,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-04,House,MD,4,Sam Husseini,Green,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-05,House,MD,5,Chris Chaffee,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-05,House,MD,5,Adrian Boafo,Democrat,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-06,House,MD,6,Robin Ficker,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-06,House,MD,6,April McClain Delaney,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-06,House,MD,6,Moshe Y. Landman,Green,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-07,House,MD,7,Scott M. Collier,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-07,House,MD,7,Kweisi Mfume,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-08,House,MD,8,Cheryl Riley,Republican,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-08,House,MD,8,Jamie Raskin,Democrat,true,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MD-08,House,MD,8,Nancy Wallace,Green,false,15,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-SEN,Senate,MA,,John Deaton,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-SEN,Senate,MA,,Edward J. Markey,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-SEN,Senate,MA,,Shiva Ayyadurai,Independent,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-SEN,Senate,MA,,Joe Tache,Socialism and Liberation,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-01,House,MA,1,Richard E. Neal,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-01,House,MA,1,"Nadia Donya Milleron, Independent",Unenrolled,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-02,House,MA,2,James P. McGovern,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-03,House,MA,3,Gary J. Grossi,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-03,House,MA,3,Lori Trahan,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-03,House,MA,3,Dennis R. Conlon,Unenrolled,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-04,House,MA,4,Thomas Stalcup,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-04,House,MA,4,Jake Auchincloss,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-05,House,MA,5,Katherine M. Clark,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-06,House,MA,6,Micah Quinney Jones,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-06,House,MA,6,Dan Koh,Democrat,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-07,House,MA,7,Ayanna Pressley,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-08,House,MA,8,Robert G. Burke,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-08,House,MA,8,Stephen F. Lynch,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-08,House,MA,8,Rasheed Nicholas Walters,Independent,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-09,House,MA,9,R. Tyler Macallister,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MA-09,House,MA,9,William R. Keating,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Mike Rogers,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Abdul El-Sayed,Democrat,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Lydia Christensen,Libertarian,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Walter P. Kristy,Natural Law,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Tim Long,U.S. Taxpayers,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-SEN,Senate,MI,,Douglas P. Marsh,Green,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Jack Bergman,Republican,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Callie Barr,Democrat,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,LaVeta Davenport,Green,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Zebulon Featherly,No Party Affiliation,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Liz Hakola,Working Class,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Doc Kovaly,U.S. Taxpayers,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-01,House,MI,1,Arnett Satterla,Libertarian,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-02,House,MI,2,John R. Moolenaar,Republican,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-02,House,MI,2,Ben Ambrose,Democrat,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-02,House,MI,2,Charlotte Magoon,Green,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-02,House,MI,2,Richard Sills,Natural Law,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-03,House,MI,3,Terri DeBoer,Republican,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-03,House,MI,3,Hillary J. Scholten,Democrat,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-03,House,MI,3,Joe Jock,Green,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-04,House,MI,4,Bill Huizenga,Republican,true,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-04,House,MI,4,Sean McCann,Democrat,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-04,House,MI,4,Shafina Che Barnett,Green,false,16,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-05,House,MI,5,Tim Walberg,Republican,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-05,House,MI,5,Christian Vukasovich,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-05,House,MI,5,Jim Bronke,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-05,House,MI,5,Ronald A. Muszynski,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-05,House,MI,5,Sharon Marie Renier,U.S. Taxpayers,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Heather Smiley,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Debbie Dingell,Democrat,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Mike Mickevicius,U.S. Taxpayers,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Linda Rayburn,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Clyde Shabazz,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-06,House,MI,6,Timothy A. Teagan,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-07,House,MI,7,Tom Barrett,Republican,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-07,House,MI,7,William Lawrence,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-07,House,MI,7,Shane Dedrick,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-08,House,MI,8,Thomas J. Smith,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-08,House,MI,8,Kristen McDonald Rivet,Democrat,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-08,House,MI,8,Jim Casha,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-08,House,MI,8,Kathy Goodwin,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-08,House,MI,8,C. Mia Pettus,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,Lisa C. McClain,Republican,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,Ray Pooley,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,Destiny Clayton,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,Kevin Vayko,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,John Vlahos,U.S. Taxpayers,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-09,House,MI,9,Jim Walkowicz,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-10,House,MI,10,Michael Bouchard,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-10,House,MI,10,Christina Bertrand Hines,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-10,House,MI,10,Andrea L. Kirby,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-10,House,MI,10,Kwabena Nkromo,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-10,House,MI,10,Mike Saliba,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-11,House,MI,11,Ethan Baker,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-11,House,MI,11,Jeremy Moss,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-11,House,MI,11,Farid Ishac,Libertarian,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-11,House,MI,11,Anil Kumar,No Party Affiliation,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-11,House,MI,11,Ryan Teasdale,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-12,House,MI,12,James D. Hooper,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-12,House,MI,12,Rashida Tlaib,Democrat,true,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-12,House,MI,12,Brenda K. Sanders,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-12,House,MI,12,Marc Joseph Sosnowski,U.S. Taxpayers,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-12,House,MI,12,Gary Walkowicz,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-13,House,MI,13,T. P. Nykoriak,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-13,House,MI,13,Donavan McKinney,Democrat,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-13,House,MI,13,Simone R. Coleman,Working Class,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-13,House,MI,13,Chris Dardzinski,U.S. Taxpayers,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MI-13,House,MI,13,Raelyn Light,Green,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-SEN,Senate,MN,,Michele Tafoya,Republican,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-SEN,Senate,MN,,Peggy Flanagan,Democratic-Farmer-Labor,false,17,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-SEN,Senate,MN,,Marisa Simonetti,Independent,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-SEN,Senate,MN,,Rebecca Whiting,Libertarian,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-01,House,MN,1,Brad Finstad,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-01,House,MN,1,Jake Johnson,Democratic-Farmer-Labor,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-02,House,MN,2,Eric Pratt,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-02,House,MN,2,Matt Little,Democratic-Farmer-Labor,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-03,House,MN,3,Tyler Bass,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-03,House,MN,3,Kelly Morrison,Democrat,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-04,House,MN,4,Paul Wikstrom,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-04,House,MN,4,Betty McCollum,Democrat,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-05,House,MN,5,John Nagel,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-05,House,MN,5,Ilhan Omar,Democrat,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-05,House,MN,5,DeVelle L. Jackson,Independent,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-06,House,MN,6,Tom Emmer,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-06,House,MN,6,Doug Chapin,Democratic-Farmer-Labor,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-07,House,MN,7,Michelle Fischbach,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-07,House,MN,7,Erik Osberg,Democratic-Farmer-Labor,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-08,House,MN,8,Pete Stauber,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MN-08,House,MN,8,Trina Swanson,Democratic-Farmer-Labor,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-SEN,Senate,MS,,Cindy Hyde-Smith,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-SEN,Senate,MS,,Scott Colom,Democrat,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-SEN,Senate,MS,,Ty Pinkins,Independent,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-01,House,MS,1,Trent Kelly,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-01,House,MS,1,Cliff Johnson,Democrat,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-01,House,MS,1,Johnny Baucom,Libertarian,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-02,House,MS,2,Ron Eller,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-02,House,MS,2,Bennie G. Thompson,Democrat,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-02,House,MS,2,Bennie Foster,Independent,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-03,House,MS,3,Michael Guest,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-03,House,MS,3,Michael A. Chiaradio,Democrat,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-03,House,MS,3,Erik Kiehle,Libertarian,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-04,House,MS,4,Mike Ezell,Republican,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-04,House,MS,4,Jeffrey Hulum III,Democrat,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MS-04,House,MS,4,Carl Boyanton,Independent,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-01,House,MO,1,Paul Berry III,Republican,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-01,House,MO,1,Wesley Bell,Democrat,true,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-01,House,MO,1,Tom Schmitz,Libertarian,false,18,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-02,House,MO,2,Ann Wagner,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-02,House,MO,2,Fred Wellman,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-02,House,MO,2,Brandon Coulter Daugherty,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-03,House,MO,3,"Robert F. Onder, Jr.",Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-03,House,MO,3,Bethany E. Mann,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-03,House,MO,3,Jim Higgins,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-04,House,MO,4,Mark Alford,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-04,House,MO,4,Jordan Herrera,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-04,House,MO,4,Thomas Holbrook,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-05,House,MO,5,Rick Brattin,Republican,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-05,House,MO,5,Emanuel Cleaver,Democrat,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-05,House,MO,5,Randall “Randy” Langkraehr,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-06,House,MO,6,Chris Stigall,Republican,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-06,House,MO,6,Josh Smead,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-06,House,MO,6,Andy Maidment,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-07,House,MO,7,Eric Burlison,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-07,House,MO,7,Missi Hesketh,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-07,House,MO,7,Kevin Craig,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-08,House,MO,8,Jason Smith,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-08,House,MO,8,Chris Reichard,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MO-08,House,MO,8,Rebecca Sharpe Lombard,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-SEN,Senate,MT,,Kurt Alme,Republican,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-SEN,Senate,MT,,Alani Bankhead,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-SEN,Senate,MT,,Kyle Austin,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-SEN,Senate,MT,,Seth Bodnar,Independent,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-SEN,Senate,MT,,Jami Dee Woodman,Nonpartisan,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-01,House,MT,1,Aaron Flint,Republican,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-01,House,MT,1,Sam Forstag,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-01,House,MT,1,Nick Sheedy,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-02,House,MT,2,Troy Downing,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-02,House,MT,2,Brian J. Miller,Democrat,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-02,House,MT,2,Michael D. Eisenhauer,Independent,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+MT-02,House,MT,2,Patrick McCracken,Libertarian,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-SEN,Senate,NE,,Pete Ricketts,Republican,true,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-SEN,Senate,NE,,Chuck Conboy,America First,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-SEN,Senate,NE,,Mike Marvin,Legal Marijuana NOW,false,19,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-SEN,Senate,NE,,Dan Osborn,By Petition,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-SEN,Senate,NE,,Robin Richards,Nebraska Working People,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-01,House,NE,1,Mike Flood,Republican,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-01,House,NE,1,Chris Backemeyer,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-01,House,NE,1,Dan Hartong,America First,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-01,House,NE,1,Nik Sandman,Libertarian,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-02,House,NE,2,Brinker Harding,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-02,House,NE,2,Denise Powell,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-02,House,NE,2,Eric Michael Foreman,Libertarian,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-03,House,NE,3,Adrian Smith,Republican,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-03,House,NE,3,Becky Kelly Stille,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-03,House,NE,3,Macey Budke,Nebraska Working People,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-03,House,NE,3,Mark Cohen,By Petition,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NE-03,House,NE,3,David J. Else,Legal Marijuana NOW,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-01,House,NV,1,Carrie Ann Buck,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-01,House,NV,1,Dina Titus,Democrat,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-01,House,NV,1,Afzal “Bobby” Khan,No Political Party,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-01,House,NV,1,Steven “Chap” St. John,No Political Party,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-02,House,NV,2,David Flippo,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-02,House,NV,2,Teresa F. Benitez-Thompson,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-02,House,NV,2,Lynn Chapman,Independent American,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-03,House,NV,3,Marty O’Donnell,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-03,House,NV,3,Susie Lee,Democrat,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-03,House,NV,3,Jon Kamerath,Independent American,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-04,House,NV,4,Cody K. Whipple,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-04,House,NV,4,Steven Horsford,Democrat,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-04,House,NV,4,Russell Best,Independent American,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NV-04,House,NV,4,William Johnson,No Political Party,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-SEN,Senate,NH,,John E. Sununu,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-SEN,Senate,NH,,Chris Pappas,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-SEN,Senate,NH,,Edmond Laplante,Constitution,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-01,House,NH,1,Anthony DiLorenzo,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-01,House,NH,1,Stefany Shaheen,Democrat,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-02,House,NH,2,Lily Tang Williams,Republican,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-02,House,NH,2,Maggie Goodlander,Democrat,true,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NH-02,House,NH,2,Robbie Mahrou,Independent,false,20,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-SEN,Senate,NJ,,Justin Murphy,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-SEN,Senate,NJ,,Cory A. Booker,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-SEN,Senate,NJ,,Veronica Fernandez,End the Corruption!,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-SEN,Senate,NJ,,Joanne Kuniansky,Socialist Workers,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-01,House,NJ,1,Damon Galdo,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-01,House,NJ,1,Donald Norcross,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-02,House,NJ,2,Jefferson Van Drew,Republican,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-02,House,NJ,2,Zack Mullock,Democrat,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-02,House,NJ,2,"Ramon Mora, Jr.",Independent,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-03,House,NJ,3,Michael P. McGuire,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-03,House,NJ,3,"Herbert C. Conaway, Jr.",Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-03,House,NJ,3,"Ryan Michael Kelly, Affordability, Accountability",People,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-03,House,NJ,3,Steven Welzer,Green,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-04,House,NJ,4,Christopher H. Smith,Republican,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-04,House,NJ,4,Rachel Peace,Democrat,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-05,House,NJ,5,Sean Kirrane,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-05,House,NJ,5,Josh Gottheimer,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-05,House,NJ,5,Adam Rueda,Humane Sustainable Future,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-06,House,NJ,6,Hillary Herzig,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-06,House,NJ,6,"Frank Pallone, Jr.",Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-07,House,NJ,7,"Thomas H. Kean, Jr.",Republican,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-07,House,NJ,7,Rebecca Bennett,Democrat,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-07,House,NJ,7,Seamus Patrick O’Toole,Stop Israel’s Genocide,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-08,House,NJ,8,Robert Menendez,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-08,House,NJ,8,Aristotle Eliopoulos,Independent,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-08,House,NJ,8,Craig Honts,Socialist Workers,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-08,House,NJ,8,Da’Shone Hughey,We The People,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-09,House,NJ,9,Rosie Pino,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-09,House,NJ,9,Nellie Pou,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-09,House,NJ,9,Terrisa Bukovinac,Save Our Babies,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-10,House,NJ,10,Carmen Bucco,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-10,House,NJ,10,LaMonica McIver,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-11,House,NJ,11,Joe Hathaway,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-11,House,NJ,11,Analilia Mejia,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-11,House,NJ,11,Alan B. Bond,Hope For Tomorrow,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-12,House,NJ,12,Gregg Mele,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-12,House,NJ,12,Adam Hamawy,Democrat,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-12,House,NJ,12,Andres Jinete,Green,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NJ-12,House,NJ,12,Winston Jordan,Get Money Out,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-SEN,Senate,NM,,Larry E. Marker,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-SEN,Senate,NM,,Ben Ray Luján,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-01,House,NM,1,Ndidiamaka Ekwua Charlene Okpareke,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-01,House,NM,1,Melanie A. Stansbury,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-02,House,NM,2,Gregory G. Cunningham,Republican,false,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-02,House,NM,2,Gabe Vasquez,Democrat,true,21,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-03,House,NM,3,Martin Zamora,Republican,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NM-03,House,NM,3,Teresa Leger Fernandez,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-01,House,NY,1,Nick LaLota,Republican,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-01,House,NY,1,Christopher J. Gallant,Democrat,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-02,House,NY,2,Andrew R. Garbarino,Republican,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-02,House,NY,2,Patrick Halpin,"Democrat, Working Families",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-03,House,NY,3,"Michael J. LiPetri, Jr.","Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-03,House,NY,3,Thomas R. Suozzi,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-04,House,NY,4,Jeanine C. Driscoll,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-04,House,NY,4,Laura Gillen,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-04,House,NY,4,Blay Tarnoff,Libertarian,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-05,House,NY,5,George Marsh,"Republican, Queens United",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-05,House,NY,5,Gregory W. Meeks,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-06,House,NY,6,Joseph Chou,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-06,House,NY,6,Grace Meng,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-07,House,NY,7,Melvin Rivera,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-07,House,NY,7,Claire Valdez,"Democrat, Working Families",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-07,House,NY,7,Priscilla Ghaznavi,Our Future,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-08,House,NY,8,Lewis Mizrahi,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-08,House,NY,8,Hakeem S. Jeffries,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-09,House,NY,9,Joel Azumah,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-09,House,NY,9,Yvette D. Clarke,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-10,House,NY,10,Jennifer E. Moore,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-10,House,NY,10,Brad Lander,"Democrat, Working Families",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-11,House,NY,11,Nicole Malliotakis,Republican,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-11,House,NY,11,Mike DeCillis,Democrat,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-12,House,NY,12,Caroline Shinkle,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-12,House,NY,12,Micah C. Lasher,Democrat,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-12,House,NY,12,Wilneida Negron,For All of Us,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-12,House,NY,12,Karen Ortiz,Karen Ortiz,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-13,House,NY,13,Jomo M. Williams,Republican,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-13,House,NY,13,Darializa Avila Chevalier,"Democrat, Working Families",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-14,House,NY,14,Diamant Hysenaj,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-14,House,NY,14,Alexandria Ocasio-Cortez,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-15,House,NY,15,Stylo Sapaskis,Republican,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-15,House,NY,15,Ritchie Torres,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-15,House,NY,15,Gonzalo Duran,Conservative,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-15,House,NY,15,Andre Easton,Socialism and Liberation,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-15,House,NY,15,Jose Vega,Speak the Truth,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-16,House,NY,16,Joseph J. Cinquemani,Republican,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-16,House,NY,16,George Latimer,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-17,House,NY,17,Michael Lawler,Republican,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-17,House,NY,17,Cait Conley,"Democrat, Working Families",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-18,House,NY,18,Jackie Mary Auringer,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-18,House,NY,18,Patrick Ryan,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-19,House,NY,19,Peter K. Oberacker,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-19,House,NY,19,Josh Riley,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-20,House,NY,20,Ralph F. Ambrosio,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-20,House,NY,20,Paul Tonko,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-21,House,NY,21,Anthony Constantino,"Republican, Taxpayer Rights",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-21,House,NY,21,Blake Gendebien,Democrat,false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-22,House,NY,22,Kailee Buller,"Republican, Conservative",false,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-22,House,NY,22,John W. Mannion,Democrat,true,22,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-23,House,NY,23,Nicholas A. Langworthy,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-23,House,NY,23,Aaron Gies,"Democrat, Working Families",false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-24,House,NY,24,Claudia Tenney,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-24,House,NY,24,Alissa J. Ellman,"Democrat, Working Families",false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-25,House,NY,25,Virginia E. McIntyre,"Republican, Conservative",false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-25,House,NY,25,Joseph D. Morelle,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-26,House,NY,26,Dennis E. Hannon,"Republican, Conservative",false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NY-26,House,NY,26,Timothy M. Kennedy,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-SEN,Senate,NC,,Michael Whatley,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-SEN,Senate,NC,,Roy Cooper,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-SEN,Senate,NC,,Shannon W. Bray,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-SEN,Senate,NC,,Michael Dublin,Green,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-01,House,NC,1,Laurie Buckhout,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-01,House,NC,1,Donald G. Davis,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-01,House,NC,1,Tom Bailey,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-02,House,NC,2,Eugene F. Douglass,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-02,House,NC,2,Deborah K. Ross,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-02,House,NC,2,Matthew Laszacs,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-03,House,NC,3,Gregory F. Murphy,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-03,House,NC,3,Raymond Smith,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-03,House,NC,3,Daniel Cavender,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-04,House,NC,4,Mahesh “Max” Ganorkar,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-04,House,NC,4,Valerie P. Foushee,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-04,House,NC,4,Guy Meilleur,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-05,House,NC,5,Virginia Foxx,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-05,House,NC,5,Chuck Hubbard,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-05,House,NC,5,Robert B. Luffman,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-06,House,NC,6,Addison P. McDowell,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-06,House,NC,6,Cyril Jefferson,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-07,House,NC,7,David Rouzer,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-07,House,NC,7,Kimberly Hardy,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-07,House,NC,7,Maad Abu-Ghazalah,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-08,House,NC,8,Mark Harris,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-08,House,NC,8,Colby Watson,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-08,House,NC,8,Bo Whitehead,Green,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-09,House,NC,9,Richard Hudson,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-09,House,NC,9,Richard N. Ojeda II,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-10,House,NC,10,Pat Harrigan,Republican,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-10,House,NC,10,Ashley Bell,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-10,House,NC,10,Steven Feldman,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-11,House,NC,11,Jennifer Balkcom,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-11,House,NC,11,Jamie Ager,Democrat,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-11,House,NC,11,Travis Groo,Libertarian,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-12,House,NC,12,Jack Codiga,Republican,false,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-12,House,NC,12,Alma S. Adams,Democrat,true,23,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-13,House,NC,13,Brad Knott,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-13,House,NC,13,Paul Barringer,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-13,House,NC,13,Steven Swinton,Libertarian,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-14,House,NC,14,Tim Moore,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+NC-14,House,NC,14,Lakesha Womack,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ND-01,House,ND,1,Julie Fedorchak,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ND-01,House,ND,1,Trygve Hammer,Democratic-Nonpartisan League,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ND-01,House,ND,1,Helene Neville,Independent,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+ND-01,House,ND,1,Charles Tuttle,Independent,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-SEN-SPECIAL,Senate,OH,,Jon Husted,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-SEN-SPECIAL,Senate,OH,,Sherrod Brown,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-SEN-SPECIAL,Senate,OH,,Greg Levy,Other,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-SEN-SPECIAL,Senate,OH,,William B. Redpath,Libertarian,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-01,House,OH,1,Eric Conroy,Republican,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-01,House,OH,1,Greg Landsman,Democrat,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-01,House,OH,1,Nathan Weise,Libertarian,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-02,House,OH,2,David J. Taylor,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-02,House,OH,2,Jen Mazzuckelli,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-03,House,OH,3,Cleophus Dulaney,Republican,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-03,House,OH,3,Joyce Beatty,Democrat,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-04,House,OH,4,Jim Jordan,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-04,House,OH,4,Joshua D. Kolasinski,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-04,House,OH,4,Tracey L. Tackett,Independent,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-05,House,OH,5,Robert E. Latta,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-05,House,OH,5,Brian A. Shaver,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-05,House,OH,5,Michael J. Veloff,Libertarian,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-06,House,OH,6,Michael A. Rulli,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-06,House,OH,6,Elizabeth Kirtley,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-07,House,OH,7,Max L. Miller,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-07,House,OH,7,Brian Poindexter,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-08,House,OH,8,Warren Davidson,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-08,House,OH,8,Vanessa Enoch,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-09,House,OH,9,Derek Merrin,Republican,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-09,House,OH,9,Marcy Kaptur,Democrat,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-10,House,OH,10,Michael R. Turner,Republican,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-10,House,OH,10,Kristina Knickerbocker,Democrat,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-10,House,OH,10,Thomas F. McMasters,Libertarian,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-11,House,OH,11,Mike Kirchner,Republican,false,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-11,House,OH,11,Shontel M. Brown,Democrat,true,24,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-12,House,OH,12,Troy Balderson,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-12,House,OH,12,Jerrad Christian,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-13,House,OH,13,Carey Coleman,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-13,House,OH,13,Emilia Strong Sykes,Democrat,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-13,House,OH,13,Sandeep Dixit,No Party,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-14,House,OH,14,David P. Joyce,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-14,House,OH,14,Maria Jukic,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-15,House,OH,15,Mike Carey,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-15,House,OH,15,Don Leonard,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OH-15,House,OH,15,Brennan Barrington,Libertarian,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-SEN,Senate,OK,,Kevin Hern,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-SEN,Senate,OK,,N’Kiyla Jasmine Thomas,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-SEN,Senate,OK,,Ron Meinhardt,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-SEN,Senate,OK,,Curtis Stinnett,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-SEN,Senate,OK,,Sevier White,Libertarian,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-01,House,OK,1,Mark Tedford,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-01,House,OK,1,John Croisant,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-02,House,OK,2,Josh Brecheen,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-02,House,OK,2,Brandon Wade,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-02,House,OK,2,Ronnie Hopkins,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-03,House,OK,3,Frank D. Lucas,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-03,House,OK,3,Suzie Byrd,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-04,House,OK,4,Tom Cole,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-04,House,OK,4,Mitchell Jacob,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-04,House,OK,4,Rocco Bonacci,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-05,House,OK,5,Stephanie I. Bice,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-05,House,OK,5,Jena Nelson,Democrat,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-05,House,OK,5,Robert P. Henri,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OK-05,House,OK,5,Austin Nieves,Independent,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-SEN,Senate,OR,,David Brock Smith,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-SEN,Senate,OR,,Jeff Merkley,Democrat,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-SEN,Senate,OR,,Gary Lyndon Dye,Libertarian,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-SEN,Senate,OR,,"Chris Henry, Progressive",Pacific Green,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-01,House,OR,1,Barbara J. Kahl,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-01,House,OR,1,Suzanne Bonamici,Democrat,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-02,House,OR,2,Cliff Bentz,Republican,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-02,House,OR,2,Chris Beck,"Democrat, Independent",false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-03,House,OR,3,Loran Ayles,Republican,false,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-03,House,OR,3,Maxine Dexter,Democrat,true,25,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-04,House,OR,4,Monique DeSpain,"Republican, Libertarian",false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-04,House,OR,4,Val T. Hoyle,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-04,House,OR,4,"Justin Filip, Pacific Green",Progressive,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-05,House,OR,5,Patti Adair,"Republican, Libertarian",false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-05,House,OR,5,Janelle S. Bynum,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-05,House,OR,5,Andrea Townsend,Pacific Green,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-06,House,OR,6,David Russ,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+OR-06,House,OR,6,Andrea Salinas,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-01,House,PA,1,Brian K. Fitzpatrick,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-01,House,PA,1,Bob Harvie,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-02,House,PA,2,Jessica Arriaga,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-02,House,PA,2,Brendan F. Boyle,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-03,House,PA,3,Chris Rabb,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-03,House,PA,3,Dennis Mahoney,Independent,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-04,House,PA,4,Aurora Stuski,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-04,House,PA,4,Madeleine Dean,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-05,House,PA,5,Nick Manganaro,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-05,House,PA,5,Mary Gay Scanlon,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-06,House,PA,6,Marty Young,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-06,House,PA,6,Chrissy Houlahan,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-07,House,PA,7,Ryan Mackenzie,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-07,House,PA,7,Bob Brooks,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-08,House,PA,8,"Robert P. Bresnahan, Jr.",Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-08,House,PA,8,Paige Cognetti,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-09,House,PA,9,Daniel Meuser,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-09,House,PA,9,Rachel Wallace,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-10,House,PA,10,Scott Perry,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-10,House,PA,10,Janelle Stelson,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-11,House,PA,11,Lloyd Smucker,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-11,House,PA,11,Nancy Mannion,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-12,House,PA,12,James Hayes,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-12,House,PA,12,Summer L. Lee,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-13,House,PA,13,John Joyce,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-13,House,PA,13,Beth Farnham,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-14,House,PA,14,Guy Reschenthaler,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-14,House,PA,14,Alan Bradstock,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-15,House,PA,15,Glenn Thompson,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-15,House,PA,15,Ray Bilger,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-16,House,PA,16,Mike Kelly,Republican,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-16,House,PA,16,Justin Wagner,Democrat,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-17,House,PA,17,Tony Guy,Republican,false,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+PA-17,House,PA,17,Christopher R. Deluzio,Democrat,true,26,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-SEN,Senate,RI,,Raymond T. McKay,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-SEN,Senate,RI,,Jack Reed,Democrat,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-SEN,Senate,RI,,Michael Anthony Bahry,Independent,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-01,House,RI,1,Kellie Eleanor Keenan,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-01,House,RI,1,Gabe Amo,Democrat,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-01,House,RI,1,Pedro Junior Soares DeSouza,Independent,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-02,House,RI,2,Victor Gilbert Mellor,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+RI-02,House,RI,2,Seth Magaziner,Democrat,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-SEN,Senate,SC,,Darline Graham,Republican,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-SEN,Senate,SC,,Annie Andrews,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-SEN,Senate,SC,,Mark Hackett,Constitution,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-SEN,Senate,SC,,Kasie Whitener,Libertarian,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-01,House,SC,1,Jenny Costa Honeycut,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-01,House,SC,1,Nancy Lacore,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-01,House,SC,1,Bill Reeside,Libertarian,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-02,House,SC,2,Joe Wilson,Republican,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-02,House,SC,2,Zyon Khalifa,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-02,House,SC,2,Dayna Alane Smith,Workers,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-03,House,SC,3,Sheri Biggs,Republican,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-03,House,SC,3,Eunice Lehmacher,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-03,House,SC,3,Brian Corriea,Libertarian,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-04,House,SC,4,William R. Timmons IV,Republican,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-04,House,SC,4,Courtney McClain,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-04,House,SC,4,Jessica Ethridge,Libertarian,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-05,House,SC,5,Wes Climer,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-05,House,SC,5,Mallory Dittmer,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-06,House,SC,6,John Peterson,Republican,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-06,House,SC,6,James E. Clyburn,Democrat,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-07,House,SC,7,Russell Fry,Republican,true,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SC-07,House,SC,7,John Gregory Vincent,Democrat,false,27,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SD-SEN,Senate,SD,,Mike Rounds,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SD-SEN,Senate,SD,,Julian Beaudion,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SD-SEN,Senate,SD,,Brian L. Bengs,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SD-01,House,SD,1,Marty Jackley,Republican,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+SD-01,House,SD,1,Nicole “Nikki” Gronli,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Bill Hagerty,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Marquita Bradshaw,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Tharon Chandler,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Andrew Gerena,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Jeremy Dean Hearn,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Robert Jones,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,James William Macon III,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Yoshi D. Matthews,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,"David Sutman, Jr.",Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-SEN,Senate,TN,,Catherine Barcel “Barcy” Whitson,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Diana Harshbarger,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Kristi Burke,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Joshua Ray Ashburn,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Richard G. Baker,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Chris Campbell,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Billy Cody,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-01,House,TN,1,Tyler Brice Mitchell McClain,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-02,House,TN,2,Tim Burchett,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-02,House,TN,2,Michaela Barnett,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-02,House,TN,2,Bruce Fine,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-02,House,TN,2,Adam Heimerman,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Charles J. “Chuck” Fleischmann,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Anna Golladay,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Dean Arnold,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Jean Howard-Hill,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Rodney Joe King,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Donnie Lynn Ownby,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-03,House,TN,3,Edward John Roland,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-04,House,TN,4,Scott DesJarlais,Republican,true,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-04,House,TN,4,Victoria Broderick,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-04,House,TN,4,Jacob Kristopher Anders,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-04,House,TN,4,Clay Faircloth,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-05,House,TN,5,Charlie Hatcher,Republican,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-05,House,TN,5,Chaz Molder,Democrat,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-05,House,TN,5,James A. Johnson,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-05,House,TN,5,Micheál O’Leary,Independent,false,28,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-06,House,TN,6,Johnny Garrett,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-06,House,TN,6,Mike Croley,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-06,House,TN,6,Christopher B. Monday,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-06,House,TN,6,Angus Purdy,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-07,House,TN,7,Matt Van Epps,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-07,House,TN,7,Darden Copeland,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-07,House,TN,7,Andrew J. Koontz,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-07,House,TN,7,Lowell Reynolds,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,David Kustoff,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Heidi Kuhn,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Adam D. Austill,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Wendell “Wells” Blankenship,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Antonio Futch,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Pamela Jeanine “P.” Moses,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Horace Taylor,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-08,House,TN,8,Henry J. Ward III,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-09,House,TN,9,Brent Taylor,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-09,House,TN,9,Justin J. Pearson,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-09,House,TN,9,Dennis Clark,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TN-09,House,TN,9,Michelle Davis Head,Independent,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-SEN,Senate,TX,,Ken Paxton,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-SEN,Senate,TX,,James Talarico,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-SEN,Senate,TX,,Ted Brown,Libertarian,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-01,House,TX,1,Nathaniel Moran,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-01,House,TX,1,Yolanda R. Prince,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-02,House,TX,2,Steve Toth,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-02,House,TX,2,Shaun Finnie,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-03,House,TX,3,Keith Self,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-03,House,TX,3,Evan Hunt,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-04,House,TX,4,Pat Fallon,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-04,House,TX,4,Jason Pearce,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-05,House,TX,5,Lance Gooden,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-05,House,TX,5,Chelsey Hockett,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-06,House,TX,6,Jake Ellzey,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-06,House,TX,6,Danny Minton,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-07,House,TX,7,Alexander Hale,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-07,House,TX,7,Lizzie Fletcher,Democrat,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-07,House,TX,7,Espoir Ngabo,Green,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-08,House,TX,8,Jessica Hart Steinmann,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-08,House,TX,8,Laura Jones,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-09,House,TX,9,Alex Mealer,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-09,House,TX,9,Leticia Gutierrez,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-10,House,TX,10,Chris Gober,Republican,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-10,House,TX,10,Caitlin Rourk,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-11,House,TX,11,August Pfluger,Republican,true,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-11,House,TX,11,Claire Reynolds,Democrat,false,29,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-12,House,TX,12,Craig A. Goldman,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-12,House,TX,12,Angela “Heli” Rodriguez Prilliman,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-13,House,TX,13,Ronny Jackson,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-13,House,TX,13,Mark Nair,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-14,House,TX,14,"Randy K. Weber, Sr.",Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-14,House,TX,14,Thurman Bill Bartie,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-15,House,TX,15,Monica De La Cruz,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-15,House,TX,15,Bobby Pulido,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-16,House,TX,16,Adam Bauman,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-16,House,TX,16,Veronica Escobar,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-17,House,TX,17,Pete Sessions,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-17,House,TX,17,Casey Shepard,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-18,House,TX,18,Ronald Dwayne Whitfield,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-18,House,TX,18,Christian D. Menefee,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-19,House,TX,19,Tom Sell,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-19,House,TX,19,Kyle Rable,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-20,House,TX,20,Edgardo Rafael Baez,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-20,House,TX,20,Joaquin Castro,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-21,House,TX,21,Mark Teixeira,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-21,House,TX,21,Kristin Hook,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-22,House,TX,22,Trever Nehls,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-22,House,TX,22,Marquette Greene-Scott,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-23,House,TX,23,Brandon Herrera,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-23,House,TX,23,Katy Padilla Stout,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-23,House,TX,23,Ben Mendoza,Independent,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-24,House,TX,24,Beth Van Duyne,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-24,House,TX,24,Kevin Burge,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-25,House,TX,25,Roger Williams,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-25,House,TX,25,Dione Sims,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-26,House,TX,26,Brandon Gill,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-26,House,TX,26,Steven Shook,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-26,House,TX,26,Phil Gray,Libertarian,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-27,House,TX,27,Michael Cloud,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-27,House,TX,27,Tanya Lloyd,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-28,House,TX,28,Tano E. Tijerina,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-28,House,TX,28,Henry Cuellar,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-28,House,TX,28,Marlón Durán,Green,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-29,House,TX,29,Martha Fierro,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-29,House,TX,29,Sylvia R. Garcia,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-30,House,TX,30,Everett Jackson,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-30,House,TX,30,Frederick D. Haynes III,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-31,House,TX,31,John R. Carter,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-31,House,TX,31,Justin Early,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-31,House,TX,31,Greg Stoker,Green,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-32,House,TX,32,Jace Yarbrough,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-32,House,TX,32,Dan Barrios,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-33,House,TX,33,Patrick David Gillespie,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-33,House,TX,33,Colin Allred,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-34,House,TX,34,Eric Flores,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-34,House,TX,34,Vicente Gonzalez,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-34,House,TX,34,Eddie Espinoza,Green,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-34,House,TX,34,Chris Royal,Libertarian,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-35,House,TX,35,Carlos De La Cruz,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-35,House,TX,35,Johnny C. Garcia,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-36,House,TX,36,Brian Babin,Republican,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-36,House,TX,36,Rhonda Hart,Democrat,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-37,House,TX,37,Lauren B. Peña,Republican,false,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-37,House,TX,37,Greg Casar,Democrat,true,30,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-38,House,TX,38,Jon Bonck,Republican,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-38,House,TX,38,Melissa McDonough,Democrat,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+TX-38,House,TX,38,Alex McMenemy,Green,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-01,House,UT,1,Riley Owen,Republican,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-01,House,UT,1,Ben McAdams,Democrat,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-01,House,UT,1,Elias Henry Montgomery,Unaffiliated,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-01,House,UT,1,Jesse West,Libertarian,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-02,House,UT,2,Blake D. Moore,Republican,true,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-02,House,UT,2,Peter Crosby,Democrat,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-02,House,UT,2,Carlton E. Bowen,Independent American,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-02,House,UT,2,Daniel Cottam,Libertarian,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-02,House,UT,2,Robert M. Moesinger,Unaffiliated,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Celeste Maloy,Republican,true,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Kent S. Udell,Democrat,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Cassie Easley,Constitution,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Adonis Hooslyn,Unaffiliated,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Ayden Scott,Unaffiliated,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-03,House,UT,3,Michael R. Stoddard,Libertarian,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-04,House,UT,4,Mike Kennedy,Republican,true,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-04,House,UT,4,Jonny Larsen,Democrat,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-04,House,UT,4,Steven Burt,Unaffiliated,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+UT-04,House,UT,4,Taylor Wright,Libertarian,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Gerald Malloy,Republican,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Becca Balint,Democrat,true,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Phoenix K. Altair,Independent,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Adam Ortiz,Independent,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Suzanne “Suz” Seymour,Independent,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VT-01,House,VT,1,Ryan P. Walton,Independent,false,31,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-SEN,Senate,VA,,Bert Mizusawa,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-SEN,Senate,VA,,Mark R. Warner,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-01,House,VA,1,Robert J. Wittman,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-01,House,VA,1,Shannon L. Taylor,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-02,House,VA,2,Jennifer A. Kiggans,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-02,House,VA,2,Elaine G. Luria,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-02,House,VA,2,J. Matt Baker,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-02,House,VA,2,Geral D. “Bishop” Staten,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-03,House,VA,3,"Edwin Rivera, Jr.",Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-03,House,VA,3,Robert C. “Bobby” Scott,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-03,House,VA,3,Makiba A. Gaines,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-03,House,VA,3,Stephen C. Woll,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-04,House,VA,4,"Robert P. “Family Man” Murray, Jr.",Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-04,House,VA,4,Jennifer L. McClellan,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-04,House,VA,4,Joan E. “Andrews” Bell,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-05,House,VA,5,John J. McGuire III,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-05,House,VA,5,Tom S. P. Perriello,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-05,House,VA,5,Cooke C. Harvey,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-06,House,VA,6,Ben Cline,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-06,House,VA,6,Beth A. Macy,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Doug A. Ollivant,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Eugene Simon Vindman,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Alaha Ahrar,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Taner E. Demirci Lopez,Libertarian,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Joshua E. Ertle,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-07,House,VA,7,Randall A. Terry,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-08,House,VA,8,Tony A. Sabio,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-08,House,VA,8,"Donald S. Beyer, Jr.",Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-08,House,VA,8,Shelly M. Arnoldi,Libertarian,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-08,House,VA,8,Tim S. Sharman,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-09,House,VA,9,H. Morgan Griffith,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-09,House,VA,9,Joy A. Powers,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-10,House,VA,10,Dave T. Beckwith,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-10,House,VA,10,Suhas Subramanyam,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-10,House,VA,10,Ahsen Mujeeb Malik,Independent,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-11,House,VA,11,Arthur G. Purves,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-11,House,VA,11,James R. Walkinshaw,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+VA-11,House,VA,11,Dianne L. Blais,Green,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-01,House,WA,1,Mary Silva,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-01,House,WA,1,Suzan K. DelBene,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-02,House,WA,2,Edwin H. Feller,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-02,House,WA,2,Rick Larsen,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-03,House,WA,3,John Braun,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-03,House,WA,3,Marie Gluesenkamp Perez,Democrat,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-04,House,WA,4,Amanda McKinney,Republican,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-04,House,WA,4,John Duresky,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-05,House,WA,5,Michael Baumgartner,Republican,true,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-05,House,WA,5,Carmela Conroy,Democrat,false,32,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-06,House,WA,6,Teresa Fox,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-06,House,WA,6,Emily Randall,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-07,House,WA,7,Nirav Sheth,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-07,House,WA,7,Pramila Jayapal,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-08,House,WA,8,Spencer Meline,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-08,House,WA,8,Kim Schrier,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-09,House,WA,9,Doug Basler,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-09,House,WA,9,Adam Smith,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-10,House,WA,10,Chris D. Chung,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WA-10,House,WA,10,Marilyn Strickland,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-SEN,Senate,WV,,Shelley Moore Capito,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-SEN,Senate,WV,,Rachel Fetty Anderson,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-SEN,Senate,WV,,S. Marshall Wilson,Constitution,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-01,House,WV,1,Carol D. Miller,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-01,House,WV,1,Vince George,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-01,House,WV,1,Belinda Fox-Spencer,Constitution,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-02,House,WV,2,Riley M. Moore,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WV-02,House,WV,2,Ace Parsi,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-01,House,WI,1,Bryan Steil,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-01,House,WI,1,Mitchell Berman,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-02,House,WI,2,Mark Pocan,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-03,House,WI,3,Derrick Van Orden,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-03,House,WI,3,Rebecca Cooke,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-03,House,WI,3,Alexander Valiensi Kent,Independent,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-03,House,WI,3,Rustin Provance,Independent,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-04,House,WI,4,Tim Rogers,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-04,House,WI,4,Gwen Moore,Democrat,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-04,House,WI,4,Arthur Burks,Independent,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-05,House,WI,5,Scott Fitzgerald,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-05,House,WI,5,Andrew Beck,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-06,House,WI,6,Glenn Grothman,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-06,House,WI,6,Brad Smith,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-06,House,WI,6,Matthew Arndt,Wisconsin Green,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-06,House,WI,6,Elizabeth Anne Fitzgibbon,Independent,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-06,House,WI,6,Mike Thurow,Independent,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-07,House,WI,7,Michael Alfonso,Republican,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-07,House,WI,7,Fred Clark,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-08,House,WI,8,Tony Wied,Republican,true,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WI-08,House,WI,8,Rick Crosson,Democrat,false,33,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-SEN,Senate,WY,,Harriet M. Hageman,Republican,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-SEN,Senate,WY,,James Byrd,Democrat,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-01,House,WY,1,Chuck Gray,Republican,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-01,House,WY,1,Lisa Kinney,Democrat,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-01,House,WY,1,Jeffrey Haggit,Constitution,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08
+WY-01,House,WY,1,Shawn Johnson,Libertarian,false,34,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,2026-10-08

@@ -1,0 +1,67 @@
+{
+  "cutoff": "2026-11-02T20:13:00-08:00",
+  "primary_source": "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+  "primary_publication_date": "2026-10-08",
+  "original_candidate_lines": 1282,
+  "audited_candidate_lines": 1281,
+  "house_races": 435,
+  "senate_races": 35,
+  "senate_regular": 33,
+  "senate_special": [
+    "FL-SEN-SPECIAL",
+    "OH-SEN-SPECIAL"
+  ],
+  "holdover_parties": {
+    "D": 32,
+    "R": 31,
+    "I": 2
+  },
+  "holdover_caucus": {
+    "D": 34,
+    "R": 31
+  },
+  "caucus_source": "https://www.dailypress.senate.gov/on-the-floor/senate-facts/",
+  "uncontested_printed_ballot": [
+    "FL-10",
+    "MA-02",
+    "MA-05",
+    "MA-07",
+    "WI-02"
+  ],
+  "audit_checks": [
+    "All 50 states; House district numbers contiguous within each state; 435 total matches current apportionment.",
+    "35 Senate races: Class II 33 plus Florida and Ohio Class III specials.",
+    "No duplicate (race_id,name), empty names, digit-leading names.",
+    "Every comma-containing candidate name reviewed; four party-label parsing contaminations corrected.",
+    "Primary-source SD candidate listing overrides stale Clerk list: Julian Beaudion withdrew August 4.",
+    "ME Troy Jackson and SC Darline Graham replacement nominees present; Darline incumbency confirmed official governor July13 appointment.",
+    "Nebraska Mike Marvin suspended campaign but remains on ballot: retained.",
+    "Targeted later-status audit also checked PA07 Tupone removal, NC11 Edwards-to-Balkcom replacement, OH01 Hancock-to-Weise replacement, OH09 Althaus withdrawal, SC05 Kaplan withdrawal: all already reflected correctly in Clerk roster.",
+    "CA24 Smith registration changed to independent while Republican ballot label persists; documented in race_profiles.json without changing printed label."
+  ],
+  "unresolved_gaps": [
+    "Not all 1281 candidates individually checked against latest state source; October8 Clerk publication plus targeted later-change research is baseline.",
+    "Write-in candidates omitted by Clerk roster may exist; uncontested means printed ballot only.",
+    "Alaska and Maine ranked-choice and Louisiana House runoff require model handling.",
+    "Same-party California/Washington top-two races require candidate probabilities, not binary party assignment.",
+    "New independent winners have unknown caucus affiliation; do not assign all to Democratic caucus."
+  ],
+  "overrides_file": "data/roster/nominee_overrides.csv",
+  "reproduction_command": "python3 scripts/collect_roster_audit.py",
+  "late_change_sources": [
+    {
+      "url": "https://vip.sdsos.gov/candidatelist.aspx?eid=774",
+      "fact": "Beaudion withdrawn Aug4; Rounds and Bengs active."
+    },
+    {
+      "url": "https://www.governor.sc.gov/news/2026-07/gov-mcmaster-appoints-darline-graham-us-senate",
+      "fact": "Darline Graham appointed July13 2026."
+    },
+    {
+      "url": "https://www.sparkvotes.org/nebraska/races/nebraska-us-senate/",
+      "fact": "Mike Marvin suspended Aug21; name remains on ballot."
+    }
+  ],
+  "profiles_file": "data/roster/race_profiles.json",
+  "profiles_reproduction_command": "python3 scripts/collect_roster_profiles.py"
+}

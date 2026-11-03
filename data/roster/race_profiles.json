@@ -1,0 +1,739 @@
+{
+  "AK-01": {
+    "candidate_a": "Bill Hill",
+    "candidate_b": "Nicholas J. Begich III",
+    "kind": "independent_principal_challenger",
+    "other_candidates": [
+      "Eric Hafner",
+      "James C. “Jim” McDermott"
+    ],
+    "candidate_parties": {
+      "Nicholas J. Begich III": "Republican",
+      "Eric Hafner": "Democrat",
+      "Bill Hill": "Nonpartisan",
+      "James C. “Jim” McDermott": "Libertarian"
+    },
+    "reason": "Recent head-to-head polls identify Hill/Begich as principal pair despite Hafner Democratic ballot label. Do not equate Hill with Democratic Party or assume caucus.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.aarp.org/pri/topics/voter-research/politics/2026-midterm-election-poll-alaska/"
+    ],
+    "electoral_system": "ranked_choice",
+    "caucus_assumption": null,
+    "poll_aliases": {
+      "Nicholas J. Begich III": [
+        "Nick Begich",
+        "Nick Begich III"
+      ],
+      "James C. “Jim” McDermott": [
+        "Jim McDermott"
+      ]
+    }
+  },
+  "AK-SEN": {
+    "candidate_a": "Mary Peltola",
+    "candidate_b": "Dan Sullivan",
+    "kind": "ranked_choice_multiple_republicans",
+    "other_candidates": [
+      "Gerald L. Heikes",
+      "Daniel J. Sullivan, Jr."
+    ],
+    "candidate_parties": {
+      "Gerald L. Heikes": "Republican",
+      "Dan Sullivan": "Republican",
+      "Daniel J. Sullivan, Jr.": "Republican",
+      "Mary Peltola": "Democrat"
+    },
+    "reason": "Dan Sullivan incumbent must not be merged with separate Republican Daniel J. Sullivan, Jr. Exact candidate matching required.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://apnews.com/article/b35acffc8b55ef58679d9b8395760f98"
+    ],
+    "electoral_system": "ranked_choice",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "AZ-03": {
+    "candidate_a": "Yassamin Ansari",
+    "candidate_b": "Alan Aversa",
+    "kind": "no_republican_nominee",
+    "other_candidates": [
+      "David Redkey"
+    ],
+    "candidate_parties": {
+      "Yassamin Ansari": "Democrat",
+      "Alan Aversa": "No Labels Party",
+      "David Redkey": "Green"
+    },
+    "reason": "No Republican printed nominee. A is Democratic nominee; B is first listed alternative, not an established leading challenger; retain all others.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-04": {
+    "candidate_a": "Eric Jones",
+    "candidate_b": "Mike Thompson",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Eric Jones": "Democrat",
+      "Mike Thompson": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-06": {
+    "candidate_a": "Richard Pan",
+    "candidate_b": "Kevin Kiley",
+    "kind": "independent_incumbent",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Richard Pan": "Democrat",
+      "Kevin Kiley": "Independent"
+    },
+    "reason": "Kiley is printed Independent; do not silently label his candidate contract Republican.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.thedemocracylab.com/ca-polling-2026?district=CA-06"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-07": {
+    "candidate_a": "Doris O. Matsui",
+    "candidate_b": "Mai Vang",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Doris O. Matsui": "Democrat",
+      "Mai Vang": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-11": {
+    "candidate_a": "Connie Chan",
+    "candidate_b": "Scott Wiener",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Connie Chan": "Democrat",
+      "Scott Wiener": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-12": {
+    "candidate_a": "Jamie Joyce",
+    "candidate_b": "Lateefah Simon",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Jamie Joyce": "Democrat",
+      "Lateefah Simon": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-14": {
+    "candidate_a": "Melissa Hernandez",
+    "candidate_b": "Aisha Wahab",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Melissa Hernandez": "Democrat",
+      "Aisha Wahab": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-24": {
+    "candidate_a": "Salud O. Carbajal",
+    "candidate_b": "Bob Smith",
+    "kind": "ballot_party_registration_mismatch",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Bob Smith": "Republican",
+      "Salud O. Carbajal": "Democrat"
+    },
+    "reason": "Smith changed registration to No Party Preference September18 but remains Republican on printed ballot. Candidate-vs-party markets require explicit settlement definition; no caucus assumption.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://keyt.com/news/local-politics/2026/09/18/24th-congressional-district-candidate-changes-political-status/",
+      "https://ballot-access.org/2026/10/27/october-2026-ballot-access-news-print-edition/"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {
+      "Salud O. Carbajal": [
+        "Salud Carbajal"
+      ]
+    }
+  },
+  "CA-29": {
+    "candidate_a": "Angélica Maria Dueñas",
+    "candidate_b": "Luz M. Rivas",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Angélica Maria Dueñas": "Democrat",
+      "Luz M. Rivas": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-34": {
+    "candidate_a": "Jimmy Gomez",
+    "candidate_b": "Angela Gonzales-Torres",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Jimmy Gomez": "Democrat",
+      "Angela Gonzales-Torres": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-37": {
+    "candidate_a": "Sydney Kamlager-Dove",
+    "candidate_b": "Samantha Mota",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Sydney Kamlager-Dove": "Democrat",
+      "Samantha Mota": "Democrat"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "CA-40": {
+    "candidate_a": "Ken Calvert",
+    "candidate_b": "Young Kim",
+    "kind": "same_party_top_two",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Ken Calvert": "Republican",
+      "Young Kim": "Republican"
+    },
+    "reason": "Both finalists have same ballot party. A/B follow Clerk ordering, not ideological ranking; party win probability is sum of candidate probabilities.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "top_two_general",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "FL-10": {
+    "candidate_a": "Maxwell Frost",
+    "candidate_b": null,
+    "kind": "uncontested_printed_ballot",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Maxwell Frost": "Democrat"
+    },
+    "reason": "Only one printed-ballot candidate in Clerk list; write-ins not enumerated.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "ID-SEN": {
+    "candidate_a": "Todd Achilles",
+    "candidate_b": "James E. Risch",
+    "kind": "independent_principal_challenger",
+    "other_candidates": [
+      "Natalie M. Fleming",
+      "Matt Loesby"
+    ],
+    "candidate_parties": {
+      "James E. Risch": "Republican",
+      "Todd Achilles": "Independent",
+      "Natalie M. Fleming": "Independent",
+      "Matt Loesby": "Libertarian"
+    },
+    "reason": "Democratic nominee withdrew; independent Achilles is principal challenger; retain Fleming and Loesby. No caucus assumption.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://apnews.com/article/307c163f3ee4a3cb295ee4b592901dc2"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {
+      "James E. Risch": [
+        "Jim Risch",
+        "James Risch"
+      ]
+    }
+  },
+  "LA-01": {
+    "candidate_a": "Lauren Jewett",
+    "candidate_b": "Steve Scalise",
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "Randall Arrington",
+      "E. “Liddy” Glass"
+    ],
+    "candidate_parties": {
+      "Randall Arrington": "Republican",
+      "Steve Scalise": "Republican",
+      "Lauren Jewett": "Democrat",
+      "E. “Liddy” Glass": "No Party"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "LA-02": {
+    "candidate_a": "Troy A. Carter",
+    "candidate_b": "Peter Williams",
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "Lisa Ballay",
+      "Walter “Rocky” Beach",
+      "Renada “Honey” Collins"
+    ],
+    "candidate_parties": {
+      "Peter Williams": "Republican",
+      "Troy A. Carter": "Democrat",
+      "Lisa Ballay": "Libertarian",
+      "Walter “Rocky” Beach": "No Party",
+      "Renada “Honey” Collins": "No Party"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "LA-03": {
+    "candidate_a": null,
+    "candidate_b": "Clay Higgins",
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "“Kate” Cotten",
+      "John Day",
+      "Priscilla Gonzalez",
+      "Caleb “With a C” Walker",
+      "Tia LeBrun"
+    ],
+    "candidate_parties": {
+      "“Kate” Cotten": "Republican",
+      "Clay Higgins": "Republican",
+      "John Day": "Democrat",
+      "Priscilla Gonzalez": "Democrat",
+      "Caleb “With a C” Walker": "Democrat",
+      "Tia LeBrun": "No Party"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "LA-04": {
+    "candidate_a": null,
+    "candidate_b": "Mike Johnson",
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "Gordon Heslop",
+      "“Mike” Nichols",
+      "Conrad Cable",
+      "“Matt” Gromlich"
+    ],
+    "candidate_parties": {
+      "Gordon Heslop": "Republican",
+      "Mike Johnson": "Republican",
+      "“Mike” Nichols": "Republican",
+      "Conrad Cable": "Democrat",
+      "“Matt” Gromlich": "Democrat"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "LA-05": {
+    "candidate_a": null,
+    "candidate_b": null,
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "Stewart Cathey, Jr.",
+      "Misti Cordell",
+      "Oscar “Omar” Dantzler",
+      "Michael Echols",
+      "“Gabe” Firment",
+      "Austin Magee",
+      "Dan McKay",
+      "Patricia “Pat” Moore",
+      "Antonio Wilson"
+    ],
+    "candidate_parties": {
+      "Stewart Cathey, Jr.": "Republican",
+      "Misti Cordell": "Republican",
+      "Oscar “Omar” Dantzler": "Republican",
+      "Michael Echols": "Republican",
+      "“Gabe” Firment": "Republican",
+      "Austin Magee": "Republican",
+      "Dan McKay": "Democrat",
+      "Patricia “Pat” Moore": "Democrat",
+      "Antonio Wilson": "Democrat"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "LA-06": {
+    "candidate_a": null,
+    "candidate_b": null,
+    "kind": "all_party_primary_runoff",
+    "other_candidates": [
+      "Monique Appeaning",
+      "Larry Davis III",
+      "“Rick” Edmonds",
+      "Michael Mebruer",
+      "Blake Miguez",
+      "Stephen Wagley",
+      "Chauna Banks",
+      "Patrick “Pat” Forbes",
+      "Lindsay “Rubia” Garcia",
+      "Rufus Craig"
+    ],
+    "candidate_parties": {
+      "Monique Appeaning": "Republican",
+      "Larry Davis III": "Republican",
+      "“Rick” Edmonds": "Republican",
+      "Michael Mebruer": "Republican",
+      "Blake Miguez": "Republican",
+      "Stephen Wagley": "Republican",
+      "Chauna Banks": "Democrat",
+      "Patrick “Pat” Forbes": "Democrat",
+      "Lindsay “Rubia” Garcia": "Democrat",
+      "Rufus Craig": "Libertarian"
+    },
+    "reason": "November all-party election followed by December runoff if no majority. Multiple same-party candidates retained; null pair side means no uniquely established nominee. Must model full field and eventual runoff winner.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.sos.la.gov/OurOffice/PublishedDocuments/05.14.26FallHouseRaces.pdf"
+    ],
+    "electoral_system": "majority_runoff",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "MA-01": {
+    "candidate_a": "Richard E. Neal",
+    "candidate_b": "Nadia Donya Milleron",
+    "kind": "no_republican_nominee",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Richard E. Neal": "Democrat",
+      "Nadia Donya Milleron": "Independent, Unenrolled"
+    },
+    "reason": "No Republican printed nominee. A is Democratic nominee; B is first listed alternative, not an established leading challenger; retain all others.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "MA-02": {
+    "candidate_a": "James P. McGovern",
+    "candidate_b": null,
+    "kind": "uncontested_printed_ballot",
+    "other_candidates": [],
+    "candidate_parties": {
+      "James P. McGovern": "Democrat"
+    },
+    "reason": "Only one printed-ballot candidate in Clerk list; write-ins not enumerated.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "MA-05": {
+    "candidate_a": "Katherine M. Clark",
+    "candidate_b": null,
+    "kind": "uncontested_printed_ballot",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Katherine M. Clark": "Democrat"
+    },
+    "reason": "Only one printed-ballot candidate in Clerk list; write-ins not enumerated.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "MA-07": {
+    "candidate_a": "Ayanna Pressley",
+    "candidate_b": null,
+    "kind": "uncontested_printed_ballot",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Ayanna Pressley": "Democrat"
+    },
+    "reason": "Only one printed-ballot candidate in Clerk list; write-ins not enumerated.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "ME-01": {
+    "candidate_a": "Chellie Pingree",
+    "candidate_b": "Ronald C. Russell",
+    "kind": "ranked_choice",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Ronald C. Russell": "Republican",
+      "Chellie Pingree": "Democrat"
+    },
+    "reason": "Federal general election uses ranked-choice voting, including declared write-ins not enumerated by Clerk.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://apnews.com/article/0738e23c17299037479d9807d7f7bb62"
+    ],
+    "electoral_system": "ranked_choice",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "ME-02": {
+    "candidate_a": "Matthew G. Dunlap",
+    "candidate_b": "Paul R. LePage",
+    "kind": "ranked_choice",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Paul R. LePage": "Republican",
+      "Matthew G. Dunlap": "Democrat"
+    },
+    "reason": "Federal general election uses ranked-choice voting, including declared write-ins not enumerated by Clerk.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://apnews.com/article/0738e23c17299037479d9807d7f7bb62"
+    ],
+    "electoral_system": "ranked_choice",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "ME-SEN": {
+    "candidate_a": "Troy D. Jackson",
+    "candidate_b": "Susan M. Collins",
+    "kind": "ranked_choice",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Susan M. Collins": "Republican",
+      "Troy D. Jackson": "Democrat"
+    },
+    "reason": "Federal general election uses ranked-choice voting, including declared write-ins not enumerated by Clerk.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://apnews.com/article/0738e23c17299037479d9807d7f7bb62"
+    ],
+    "electoral_system": "ranked_choice",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "MT-SEN": {
+    "candidate_a": "Seth Bodnar",
+    "candidate_b": "Kurt Alme",
+    "kind": "three_way_competitive",
+    "other_candidates": [
+      "Alani Bankhead",
+      "Kyle Austin",
+      "Jami Dee Woodman"
+    ],
+    "candidate_parties": {
+      "Kurt Alme": "Republican",
+      "Alani Bankhead": "Democrat",
+      "Kyle Austin": "Libertarian",
+      "Seth Bodnar": "Independent",
+      "Jami Dee Woodman": "Nonpartisan"
+    },
+    "reason": "Recent polls put Bodnar ahead of Bankhead as leading challenger; Bankhead remains substantial third contender. Do not collapse Bankhead vote or win probability into Bodnar.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://www.msubillings.edu/class/nams/polls/2026-mountain-states-poll-report.pdf",
+      "https://quantusinsights.org/polling/f/montana-senate-alme-leads-by-16-as-bodnar-consolidates"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {
+      "Jami Dee Woodman": [
+        "Jami Woodman"
+      ]
+    }
+  },
+  "NE-SEN": {
+    "candidate_a": "Dan Osborn",
+    "candidate_b": "Pete Ricketts",
+    "kind": "independent_principal_challenger",
+    "other_candidates": [
+      "Chuck Conboy",
+      "Mike Marvin",
+      "Robin Richards"
+    ],
+    "candidate_parties": {
+      "Pete Ricketts": "Republican",
+      "Chuck Conboy": "America First",
+      "Mike Marvin": "Legal Marijuana NOW",
+      "Dan Osborn": "By Petition",
+      "Robin Richards": "Nebraska Working People"
+    },
+    "reason": "No Democratic printed nominee. Osborn is By Petition independent. Marvin suspended campaign but remains printed on ballot; no caucus assumption.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://netchoice.org/netchoice-echelon-insights-poll-voters-rank-ai-regulation-far-behind-cost-of-living-want-one-national-ai-standard/"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "NJ-08": {
+    "candidate_a": "Robert Menendez",
+    "candidate_b": "Aristotle Eliopoulos",
+    "kind": "no_republican_nominee",
+    "other_candidates": [
+      "Craig Honts",
+      "Da’Shone Hughey"
+    ],
+    "candidate_parties": {
+      "Robert Menendez": "Democrat",
+      "Aristotle Eliopoulos": "Independent",
+      "Craig Honts": "Socialist Workers",
+      "Da’Shone Hughey": "We The People"
+    },
+    "reason": "No Republican printed nominee. A is Democratic nominee; B is first listed alternative, not an established leading challenger; retain all others.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "PA-03": {
+    "candidate_a": "Chris Rabb",
+    "candidate_b": "Dennis Mahoney",
+    "kind": "no_republican_nominee",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Chris Rabb": "Democrat",
+      "Dennis Mahoney": "Independent"
+    },
+    "reason": "No Republican printed nominee. A is Democratic nominee; B is first listed alternative, not an established leading challenger; retain all others.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  },
+  "SD-SEN": {
+    "candidate_a": "Brian L. Bengs",
+    "candidate_b": "Mike Rounds",
+    "kind": "independent_principal_challenger",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Mike Rounds": "Republican",
+      "Brian L. Bengs": "Independent"
+    },
+    "reason": "Official source marks Beaudion withdrawn; Bengs and Rounds active. No caucus assumption.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf",
+      "https://vip.sdsos.gov/candidatelist.aspx?eid=774"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {
+      "Brian L. Bengs": [
+        "Brian Bengs"
+      ]
+    }
+  },
+  "WI-02": {
+    "candidate_a": "Mark Pocan",
+    "candidate_b": null,
+    "kind": "uncontested_printed_ballot",
+    "other_candidates": [],
+    "candidate_parties": {
+      "Mark Pocan": "Democrat"
+    },
+    "reason": "Only one printed-ballot candidate in Clerk list; write-ins not enumerated.",
+    "source_urls": [
+      "https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf"
+    ],
+    "electoral_system": "plurality",
+    "caucus_assumption": null,
+    "poll_aliases": {}
+  }
+}

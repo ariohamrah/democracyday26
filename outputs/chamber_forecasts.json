@@ -1,0 +1,65 @@
+{
+  "draws": 100000,
+  "seed": 20261102,
+  "dependence": "Gaussian copula; earlier-cycle fitted national/regional margin-error scales",
+  "chambers": {
+    "House": {
+      "seats": {
+        "D": {
+          "mean": 230.0252,
+          "p10": 215,
+          "p90": 245
+        },
+        "R": {
+          "mean": 204.06477,
+          "p10": 189,
+          "p90": 219
+        },
+        "I": {
+          "mean": 0.58605,
+          "p10": 0,
+          "p90": 2
+        },
+        "O": {
+          "mean": 0.32398,
+          "p10": 0,
+          "p90": 1
+        }
+      },
+      "control": {
+        "democratic_majority": 0.85882,
+        "republican_majority": 0.12175
+      }
+    },
+    "Senate": {
+      "seats": {
+        "D": {
+          "mean": 48.24996,
+          "p10": 46,
+          "p90": 51
+        },
+        "R": {
+          "mean": 49.48365,
+          "p10": 47,
+          "p90": 52
+        },
+        "I": {
+          "mean": 2.21579,
+          "p10": 2,
+          "p90": 3
+        },
+        "O": {
+          "mean": 0.0506,
+          "p10": 0,
+          "p90": 0
+        }
+      },
+      "control": {
+        "democratic_control_if_uncommitted_independents_do_not_join": 0.44841,
+        "democratic_control_if_all_uncommitted_independents_join": 0.49415,
+        "republican_control_without_uncommitted_independents": 0.50585,
+        "note": "Republican vice president breaks a 50\u201350 tie; no assumed caucus for new independent winners."
+      }
+    }
+  }
+}

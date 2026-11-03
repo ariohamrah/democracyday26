@@ -1,0 +1,380 @@
+[
+  {
+    "file": "house_2004.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2004",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2006.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2006",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2008.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2008",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2010.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2010",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2012.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2012",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2014.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2014",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2016.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2016",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2018.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2018",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2020.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2020",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2022.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2022",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "house_2024.json",
+    "url": "https://www.electionwrld.com/api/v1/house/2024",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_AL.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/al",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_AK.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ak",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_AZ.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/az",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_AR.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ar",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_CA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ca",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_CO.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/co",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_CT.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ct",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_DE.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/de",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_FL.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/fl",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_GA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ga",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_HI.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/hi",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_ID.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/id",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_IL.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/il",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_IN.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/in",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_IA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ia",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_KS.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ks",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_KY.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ky",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_LA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/la",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_ME.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/me",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MD.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/md",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ma",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MI.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/mi",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MN.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/mn",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MS.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ms",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MO.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/mo",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_MT.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/mt",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NE.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ne",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NV.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nv",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NH.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nh",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NJ.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nj",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NM.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nm",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NY.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ny",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_NC.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nc",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_ND.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/nd",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_OH.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/oh",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_OK.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ok",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_OR.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/or",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_PA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/pa",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_RI.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ri",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_SC.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/sc",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_SD.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/sd",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_TN.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/tn",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_TX.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/tx",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_UT.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/ut",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_VT.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/vt",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_VA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/va",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_WA.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/wa",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_WV.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/wv",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_WI.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/wi",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "senate_WY.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/senate/wy",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "president_state.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/president-state",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  },
+  {
+    "file": "sources.json",
+    "url": "https://www.electionwrld.com/api/v1/datasets/sources",
+    "attribution": "Election Wrld compilation (CC BY 4.0); MIT Election Data and Science Lab and official returns (underlying terms in sources.json)",
+    "information_scope": "Election results no later than 2024; newer results must be excluded"
+  }
+]

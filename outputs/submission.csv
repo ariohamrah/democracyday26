@@ -1,0 +1,471 @@
+race_id,chamber,state,district,most_likely_winner,most_likely_winner_party,winner_probability,score_maximizing_selection,best_priced_selection,scoring_contract_type,expected_points_best_priced,scoring_status,prices_provisional
+AK-01,House,AK,1,Nicholas J. Begich III,R,0.7863296335169141,,,party,,missing_prices,False
+AK-SEN,Senate,AK,,Dan Sullivan,R,0.7357582386550614,,,party,,missing_prices,False
+AL-01,House,AL,1,Jerry Carl,R,0.9978272533056115,,,party,,missing_prices,False
+AL-02,House,AL,2,Shomari Figures,D,0.7096626605010742,,,party,,missing_prices,False
+AL-03,House,AL,3,Mike Rogers,R,0.9999977810850564,,,party,,missing_prices,False
+AL-04,House,AL,4,Robert B. Aderholt,R,0.99999999,,,party,,missing_prices,False
+AL-05,House,AL,5,Dale W. Strong,R,0.9979331566565741,,,party,,missing_prices,False
+AL-06,House,AL,6,Gary J. Palmer,R,0.9996286044494423,,,party,,missing_prices,False
+AL-07,House,AL,7,Terri A. Sewell,D,0.9989624216044158,,,party,,missing_prices,False
+AL-SEN,Senate,AL,,Barry Moore,R,0.970964546838738,,,party,,missing_prices,False
+AR-01,House,AR,1,Eric A. “Rick” Crawford,R,0.9972776113714558,,,party,,missing_prices,False
+AR-02,House,AR,2,J. French Hill,R,0.9546745127566248,,,party,,missing_prices,False
+AR-03,House,AR,3,Steve Womack,R,0.9954500758993233,,,party,,missing_prices,False
+AR-04,House,AR,4,Bruce Westerman,R,0.9999907817734288,,,party,,missing_prices,False
+AR-SEN,Senate,AR,,Tom Cotton,R,0.9884093484428169,,,party,,missing_prices,False
+AZ-01,House,AZ,1,Amish Shah,D,0.5982834557785329,,,party,,missing_prices,False
+AZ-02,House,AZ,2,Elijah Crane,R,0.8951956706744412,,,party,,missing_prices,False
+AZ-03,House,AZ,3,Yassamin Ansari,D,0.9784688995215312,,,party,,missing_prices,False
+AZ-04,House,AZ,4,Greg Stanton,D,0.9715137718404133,,,party,,missing_prices,False
+AZ-05,House,AZ,5,Mark Lamb,R,0.91688741831102,,,party,,missing_prices,False
+AZ-06,House,AZ,6,Juan Ciscomani,R,0.5874788473170992,,,party,,missing_prices,False
+AZ-07,House,AZ,7,Adelita S. Grijalva,D,0.9998816389686433,,,party,,missing_prices,False
+AZ-08,House,AZ,8,Abraham J. Hamadeh,R,0.93996562953971,,,party,,missing_prices,False
+AZ-09,House,AZ,9,Paul A. Gosar,R,0.9991726393727643,,,party,,missing_prices,False
+CA-01,House,CA,1,Mike McGuire,D,0.9251458228555198,,,party,,missing_prices,False
+CA-02,House,CA,2,Jared Huffman,D,0.9999413272584684,,,party,,missing_prices,False
+CA-03,House,CA,3,Ami Bera,D,0.9919178612451,,,party,,missing_prices,False
+CA-04,House,CA,4,Mike Thompson,D,0.951757143282717,,,candidate,,missing_prices,False
+CA-05,House,CA,5,Tom McClintock,R,0.9774389188821964,,,party,,missing_prices,False
+CA-06,House,CA,6,Richard Pan,D,0.8478325174734507,,,party,,missing_prices,False
+CA-07,House,CA,7,Doris O. Matsui,D,0.9525519112630321,,,candidate,,missing_prices,False
+CA-08,House,CA,8,John Garamendi,D,0.9999990906729139,,,party,,missing_prices,False
+CA-09,House,CA,9,Josh Harder,D,0.9942440004473478,,,party,,missing_prices,False
+CA-10,House,CA,10,Mark DeSaulnier,D,0.9999991742347901,,,party,,missing_prices,False
+CA-11,House,CA,11,Scott Wiener,D,0.6167568838462703,,,candidate,,missing_prices,False
+CA-12,House,CA,12,Lateefah Simon,D,0.9473420988130694,,,candidate,,missing_prices,False
+CA-13,House,CA,13,Adam Gray,D,0.9175395060334757,,,party,,missing_prices,False
+CA-14,House,CA,14,Aisha Wahab,D,0.9536454719757044,,,candidate,,missing_prices,False
+CA-15,House,CA,15,Kevin Mullin,D,0.99999999,,,party,,missing_prices,False
+CA-16,House,CA,16,Sam T. Liccardo,D,0.99999999,,,party,,missing_prices,False
+CA-17,House,CA,17,Ro Khanna,D,0.9999999485558823,,,party,,missing_prices,False
+CA-18,House,CA,18,Zoe Lofgren,D,0.9999877613699807,,,party,,missing_prices,False
+CA-19,House,CA,19,Jimmy Panetta,D,0.999999406376649,,,party,,missing_prices,False
+CA-20,House,CA,20,Vince Fong,R,0.9992575855670771,,,party,,missing_prices,False
+CA-21,House,CA,21,Jim Costa,D,0.9729095669647557,,,party,,missing_prices,False
+CA-22,House,CA,22,Randy Villegas,D,0.6694930930953393,,,party,,missing_prices,False
+CA-23,House,CA,23,Jay Obernolte,R,0.9729168679327339,,,party,,missing_prices,False
+CA-24,House,CA,24,Salud O. Carbajal,D,0.9999475631477631,,,party,,missing_prices,False
+CA-25,House,CA,25,Raul Ruiz,D,0.9755286862473247,,,party,,missing_prices,False
+CA-26,House,CA,26,Jacqui Irwin,D,0.9871546984608683,,,party,,missing_prices,False
+CA-27,House,CA,27,George Whitesides,D,0.9901899460348115,,,party,,missing_prices,False
+CA-28,House,CA,28,Judy Chu,D,0.9999560940968474,,,party,,missing_prices,False
+CA-29,House,CA,29,Luz M. Rivas,D,0.9558709735420551,,,candidate,,missing_prices,False
+CA-30,House,CA,30,Laura Friedman,D,0.9999999693998316,,,party,,missing_prices,False
+CA-31,House,CA,31,"Gilbert Ray Cisneros, Jr.",D,0.9950034890864861,,,party,,missing_prices,False
+CA-32,House,CA,32,Brad Sherman,D,0.9999445382939789,,,party,,missing_prices,False
+CA-33,House,CA,33,Pete Aguilar,D,0.9909383543273329,,,party,,missing_prices,False
+CA-34,House,CA,34,Jimmy Gomez,D,0.7586989935815679,,,candidate,,missing_prices,False
+CA-35,House,CA,35,Norma J. Torres,D,0.9842933303531101,,,party,,missing_prices,False
+CA-36,House,CA,36,Ted Lieu,D,0.9999999443347077,,,party,,missing_prices,False
+CA-37,House,CA,37,Sydney Kamlager-Dove,D,0.9502292803536654,,,candidate,,missing_prices,False
+CA-38,House,CA,38,Hilda Solis,D,0.9754278162890794,,,party,,missing_prices,False
+CA-39,House,CA,39,Mark Takano,D,0.9898241151964453,,,party,,missing_prices,False
+CA-40,House,CA,40,Ken Calvert,R,0.5022856981552549,,,candidate,,missing_prices,False
+CA-41,House,CA,41,Linda T. Sánchez,D,0.9975538153867889,,,party,,missing_prices,False
+CA-42,House,CA,42,Robert Garcia,D,0.9962687737945901,,,party,,missing_prices,False
+CA-43,House,CA,43,Maxine Waters,D,0.99999999,,,party,,missing_prices,False
+CA-44,House,CA,44,Nanette Diaz Barragán,D,0.999999517043245,,,party,,missing_prices,False
+CA-45,House,CA,45,Derek Tran,D,0.9623458612934461,,,party,,missing_prices,False
+CA-46,House,CA,46,J. Luis Correa,D,0.9987387007246179,,,party,,missing_prices,False
+CA-47,House,CA,47,Dave Min,D,0.9916166455408507,,,party,,missing_prices,False
+CA-48,House,CA,48,Marni von Wilpert,D,0.9106979979907849,,,party,,missing_prices,False
+CA-49,House,CA,49,Mike Levin,D,0.9951052986799584,,,party,,missing_prices,False
+CA-50,House,CA,50,Scott H. Peters,D,0.9992867772934805,,,party,,missing_prices,False
+CA-51,House,CA,51,Sara Jacobs,D,0.9993726481612784,,,party,,missing_prices,False
+CA-52,House,CA,52,Juan Vargas,D,0.9991480338688122,,,party,,missing_prices,False
+CO-01,House,CO,1,Melat Kiros,D,0.9972785649901038,,,party,,missing_prices,False
+CO-02,House,CO,2,Joe Neguse,D,0.9972785133362932,,,party,,missing_prices,False
+CO-03,House,CO,3,Jeff Hurd,R,0.6132180050199669,,,party,,missing_prices,False
+CO-04,House,CO,4,Lauren Boebert,R,0.8406907056114663,,,party,,missing_prices,False
+CO-05,House,CO,5,Jeff Crank,R,0.8797457156048,,,party,,missing_prices,False
+CO-06,House,CO,6,Jason Crow,D,0.9967826493898302,,,party,,missing_prices,False
+CO-07,House,CO,7,Brittany Pettersen,D,0.994206361643105,,,party,,missing_prices,False
+CO-08,House,CO,8,Gabe Evans,R,0.5836022129193161,,,party,,missing_prices,False
+CO-SEN,Senate,CO,,John W. Hickenlooper,D,0.9941504532610479,,,party,,missing_prices,False
+CT-01,House,CT,1,Luke Bronin,D,0.9964347726226003,,,party,,missing_prices,False
+CT-02,House,CT,2,Joe Courtney,D,0.9922106387397953,,,party,,missing_prices,False
+CT-03,House,CT,3,Rosa L. DeLauro,D,0.9949423147635035,,,party,,missing_prices,False
+CT-04,House,CT,4,James A. Himes,D,0.997139831186254,,,party,,missing_prices,False
+CT-05,House,CT,5,Jahana Hayes,D,0.9711744898560163,,,party,,missing_prices,False
+DE-01,House,DE,1,Sarah McBride,D,0.9974994349567278,,,party,,missing_prices,False
+DE-SEN,Senate,DE,,Christopher A. Coons,D,0.998109432350743,,,party,,missing_prices,False
+FL-01,House,FL,1,Jimmy Patronis,R,0.9971376257264802,,,party,,missing_prices,False
+FL-02,House,FL,2,Austin Rogers,R,0.8671742951945407,,,party,,missing_prices,False
+FL-03,House,FL,3,Kat Cammack,R,0.9774927656349778,,,party,,missing_prices,False
+FL-04,House,FL,4,Aaron Bean,R,0.8757801045338865,,,party,,missing_prices,False
+FL-05,House,FL,5,John H. Rutherford,R,0.9804828038884317,,,party,,missing_prices,False
+FL-06,House,FL,6,Randy Fine,R,0.9956412020011617,,,party,,missing_prices,False
+FL-07,House,FL,7,Bale Dalton,D,0.5279575739115578,,,party,,missing_prices,False
+FL-08,House,FL,8,Mike Haridopolos,R,0.9395060338519244,,,party,,missing_prices,False
+FL-09,House,FL,9,Dan Green,R,0.6394263445528395,,,party,,missing_prices,False
+FL-10,House,FL,10,Maxwell Frost,D,1.0,,,party,,missing_prices,False
+FL-11,House,FL,11,Joe Strada,R,0.8013466562681735,,,party,,missing_prices,False
+FL-12,House,FL,12,Gus M. Bilirakis,R,0.930501454908629,,,party,,missing_prices,False
+FL-13,House,FL,13,Anna Paulina Luna,R,0.7159545346844355,,,party,,missing_prices,False
+FL-14,House,FL,14,Kathy Castor,D,0.8624999817678418,,,party,,missing_prices,False
+FL-15,House,FL,15,Laurel M. Lee,R,0.975477320208153,,,party,,missing_prices,False
+FL-16,House,FL,16,Sydney Gruters,R,0.5753013776695027,,,party,,missing_prices,False
+FL-17,House,FL,17,W. Gregory Steube,R,0.9803520925648801,,,party,,missing_prices,False
+FL-18,House,FL,18,Scott Franklin,R,0.9447215988604786,,,party,,missing_prices,False
+FL-19,House,FL,19,Jim Schwartzel,R,0.9851555035812791,,,party,,missing_prices,False
+FL-20,House,FL,20,Debbie Wasserman Schultz,D,0.9972782524398136,,,party,,missing_prices,False
+FL-21,House,FL,21,Brian J. Mast,R,0.9407299132704449,,,party,,missing_prices,False
+FL-22,House,FL,22,Casey Askar,R,0.6311375197749398,,,party,,missing_prices,False
+FL-23,House,FL,23,Lois Frankel,D,0.9968303118957013,,,party,,missing_prices,False
+FL-24,House,FL,24,Oliver G. Gilbert III,D,0.9999961110749214,,,party,,missing_prices,False
+FL-25,House,FL,25,Jared Moskowitz,D,0.8739182502755437,,,party,,missing_prices,False
+FL-26,House,FL,26,Mario Diaz-Balart,R,0.9606104421366982,,,party,,missing_prices,False
+FL-27,House,FL,27,Maria Elvira Salazar,R,0.9181275670250594,,,party,,missing_prices,False
+FL-28,House,FL,28,Carlos A. Gimenez,R,0.9907823253884372,,,party,,missing_prices,False
+FL-SEN-SPECIAL,Senate,FL,,Ashley Moody,R,0.8266679140197184,,,party,,missing_prices,False
+GA-01,House,GA,1,James “Jim” Kingston,R,0.9009444929919218,,,party,,missing_prices,False
+GA-02,House,GA,2,"Sanford D. Bishop, Jr.",D,0.9871000092525022,,,party,,missing_prices,False
+GA-03,House,GA,3,Brian Jack,R,0.9989960431095893,,,party,,missing_prices,False
+GA-04,House,GA,4,"Henry C. “Hank” Johnson, Jr.",D,0.99999999,,,party,,missing_prices,False
+GA-05,House,GA,5,Nikema Williams,D,0.99999999,,,party,,missing_prices,False
+GA-06,House,GA,6,Lucy McBath,D,0.99999999,,,party,,missing_prices,False
+GA-07,House,GA,7,Richard McCormick,R,0.9947181184031622,,,party,,missing_prices,False
+GA-08,House,GA,8,Austin Scott,R,0.9996132482270882,,,party,,missing_prices,False
+GA-09,House,GA,9,Andrew S. Clyde,R,0.9998094642080935,,,party,,missing_prices,False
+GA-10,House,GA,10,Houston Gaines,R,0.954865825904862,,,party,,missing_prices,False
+GA-11,House,GA,11,John Cowan,R,0.9849764366268122,,,party,,missing_prices,False
+GA-12,House,GA,12,Rick W. Allen,R,0.9589708529655263,,,party,,missing_prices,False
+GA-13,House,GA,13,Jasmine Clark,D,0.9999993329975476,,,party,,missing_prices,False
+GA-14,House,GA,14,Clay Fuller,R,0.9995630259829639,,,party,,missing_prices,False
+GA-SEN,Senate,GA,,Jon Ossoff,D,0.9685401667968649,,,party,,missing_prices,False
+HI-01,House,HI,1,Ed Case,D,0.997275348631983,,,party,,missing_prices,False
+HI-02,House,HI,2,Jill N. Tokuda,D,0.9999769618466222,,,party,,missing_prices,False
+IA-01,House,IA,1,Mariannette Miller-Meeks,R,0.7088698273580119,,,party,,missing_prices,False
+IA-02,House,IA,2,Lindsay James,D,0.5094308459406022,,,party,,missing_prices,False
+IA-03,House,IA,3,Zachary Nunn,R,0.6960944947716139,,,party,,missing_prices,False
+IA-04,House,IA,4,Chris McGowan,R,0.9948509168783413,,,party,,missing_prices,False
+IA-SEN,Senate,IA,,Ashley Hinson,R,0.5005814717650775,,,party,,missing_prices,False
+ID-01,House,ID,1,Russ Fulcher,R,0.9972766800174001,,,party,,missing_prices,False
+ID-02,House,ID,2,Michael K. Simpson,R,0.9958394489668668,,,party,,missing_prices,False
+ID-SEN,Senate,ID,,James E. Risch,R,0.9971113366853469,,,party,,missing_prices,False
+IL-01,House,IL,1,Jonathan L. Jackson,D,0.9999949717750911,,,party,,missing_prices,False
+IL-02,House,IL,2,Donna Miller,D,0.9999620285798925,,,party,,missing_prices,False
+IL-03,House,IL,3,Delia C. Ramirez,D,0.9999962966566779,,,party,,missing_prices,False
+IL-04,House,IL,4,Patty Garcia,D,0.9972484043806391,,,party,,missing_prices,False
+IL-05,House,IL,5,Mike Quigley,D,0.9999996504548332,,,party,,missing_prices,False
+IL-06,House,IL,6,Sean Casten,D,0.9738568067575815,,,party,,missing_prices,False
+IL-07,House,IL,7,La Shawn K. Ford,D,0.99999999,,,party,,missing_prices,False
+IL-08,House,IL,8,Melissa L. Bean,D,0.9442029965175013,,,party,,missing_prices,False
+IL-09,House,IL,9,Daniel Biss,D,0.9999862012985435,,,party,,missing_prices,False
+IL-10,House,IL,10,Bradley Scott Schneider,D,0.999551818477682,,,party,,missing_prices,False
+IL-11,House,IL,11,Bill Foster,D,0.9916756349067781,,,party,,missing_prices,False
+IL-12,House,IL,12,Mike Bost,R,0.9999972548585809,,,party,,missing_prices,False
+IL-13,House,IL,13,Nikki Budzinski,D,0.9945804772405495,,,party,,missing_prices,False
+IL-14,House,IL,14,Lauren Underwood,D,0.9778521112050346,,,party,,missing_prices,False
+IL-15,House,IL,15,Mary E. Miller,R,0.9999584751998772,,,party,,missing_prices,False
+IL-16,House,IL,16,Darin LaHood,R,0.9875146852743746,,,party,,missing_prices,False
+IL-17,House,IL,17,Eric Sorensen,D,0.9726818849104951,,,party,,missing_prices,False
+IL-SEN,Senate,IL,,Juliana Stratton,D,0.9757300684307283,,,party,,missing_prices,False
+IN-01,House,IN,1,Frank J. Mrvan,D,0.9510475606364689,,,party,,missing_prices,False
+IN-02,House,IN,2,Rudy Yakym III,R,0.9944464432418528,,,party,,missing_prices,False
+IN-03,House,IN,3,Marlin A. Stutzman,R,0.9994801179655661,,,party,,missing_prices,False
+IN-04,House,IN,4,James R. Baird,R,0.9994144519115775,,,party,,missing_prices,False
+IN-05,House,IN,5,Victoria Spartz,R,0.9692708318088814,,,party,,missing_prices,False
+IN-06,House,IN,6,Jefferson Shreve,R,0.999541787485615,,,party,,missing_prices,False
+IN-07,House,IN,7,André Carson,D,0.9972785260940603,,,party,,missing_prices,False
+IN-08,House,IN,8,Mark B. Messmer,R,0.9999197975740876,,,party,,missing_prices,False
+IN-09,House,IN,9,Erin Houchin,R,0.9964516396540375,,,party,,missing_prices,False
+KS-01,House,KS,1,Tracey Mann,R,0.9969923978575375,,,party,,missing_prices,False
+KS-02,House,KS,2,Derek Schmidt,R,0.974963256933496,,,party,,missing_prices,False
+KS-03,House,KS,3,Sharice Davids,D,0.9730971203415738,,,party,,missing_prices,False
+KS-04,House,KS,4,Ron Estes,R,0.9931542587816441,,,party,,missing_prices,False
+KS-SEN,Senate,KS,,Roger Marshall,R,0.8291503117724236,,,party,,missing_prices,False
+KY-01,House,KY,1,James Comer,R,0.9999993133688423,,,party,,missing_prices,False
+KY-02,House,KY,2,Brett Guthrie,R,0.997271206056099,,,party,,missing_prices,False
+KY-03,House,KY,3,Morgan McGarvey,D,0.9996793029472046,,,party,,missing_prices,False
+KY-04,House,KY,4,Ed Gallrein,R,0.9951834115938986,,,party,,missing_prices,False
+KY-05,House,KY,5,Harold Rogers,R,0.9972785649901038,,,party,,missing_prices,False
+KY-06,House,KY,6,Ralph Alvarado,R,0.5989760831896412,,,party,,missing_prices,False
+KY-SEN,Senate,KY,,Andy Barr,R,0.9764424876226538,,,party,,missing_prices,False
+LA-01,House,LA,1,Steve Scalise,R,0.9489521675203874,,,party,,missing_prices,False
+LA-02,House,LA,2,Troy A. Carter,D,0.997278574369672,,,party,,missing_prices,False
+LA-03,House,LA,3,Clay Higgins,R,0.9488468365999241,,,party,,missing_prices,False
+LA-04,House,LA,4,Mike Johnson,R,0.9512030681245782,,,party,,missing_prices,False
+LA-05,House,LA,5,"Stewart Cathey, Jr.",R,0.16606797933963274,,,party,,missing_prices,False
+LA-06,House,LA,6,Monique Appeaning,R,0.16449409884278746,,,party,,missing_prices,False
+LA-SEN,Senate,LA,,Julia Letlow,R,0.9260482643670961,,,party,,missing_prices,False
+MA-01,House,MA,1,Richard E. Neal,D,0.9784688995215312,,,party,,missing_prices,False
+MA-02,House,MA,2,James P. McGovern,D,1.0,,,party,,missing_prices,False
+MA-03,House,MA,3,Lori Trahan,D,0.9966973201869279,,,party,,missing_prices,False
+MA-04,House,MA,4,Jake Auchincloss,D,0.9995440408034344,,,party,,missing_prices,False
+MA-05,House,MA,5,Katherine M. Clark,D,1.0,,,party,,missing_prices,False
+MA-06,House,MA,6,Dan Koh,D,0.9970767792567196,,,party,,missing_prices,False
+MA-07,House,MA,7,Ayanna Pressley,D,1.0,,,party,,missing_prices,False
+MA-08,House,MA,8,Stephen F. Lynch,D,0.9972759563401995,,,party,,missing_prices,False
+MA-09,House,MA,9,William R. Keating,D,0.9928879362269785,,,party,,missing_prices,False
+MA-SEN,Senate,MA,,Edward J. Markey,D,0.99705520073111,,,party,,missing_prices,False
+MD-01,House,MD,1,Andy Harris,R,0.978544979582661,,,party,,missing_prices,False
+MD-02,House,MD,2,"Johnny Olszewski, Jr.",D,0.9991887575357558,,,party,,missing_prices,False
+MD-03,House,MD,3,Sarah Elfreth,D,0.999813514601125,,,party,,missing_prices,False
+MD-04,House,MD,4,Glenn Ivey,D,0.9972785649901038,,,party,,missing_prices,False
+MD-05,House,MD,5,Adrian Boafo,D,0.999966908906869,,,party,,missing_prices,False
+MD-06,House,MD,6,April McClain Delaney,D,0.962977087550961,,,party,,missing_prices,False
+MD-07,House,MD,7,Kweisi Mfume,D,0.99999999,,,party,,missing_prices,False
+MD-08,House,MD,8,Jamie Raskin,D,0.9972785649901038,,,party,,missing_prices,False
+ME-01,House,ME,1,Chellie Pingree,D,0.9997581654536001,,,party,,missing_prices,False
+ME-02,House,ME,2,Matthew G. Dunlap,D,0.5543259087477577,,,party,,missing_prices,False
+ME-SEN,Senate,ME,,Susan M. Collins,R,0.5476712905982419,,,party,,missing_prices,False
+MI-01,House,MI,1,Jack Bergman,R,0.9831524918647256,,,party,,missing_prices,False
+MI-02,House,MI,2,John R. Moolenaar,R,0.9965684510878738,,,party,,missing_prices,False
+MI-03,House,MI,3,Hillary J. Scholten,D,0.9801421932417009,,,party,,missing_prices,False
+MI-04,House,MI,4,Bill Huizenga,R,0.8220796490190456,,,party,,missing_prices,False
+MI-05,House,MI,5,Tim Walberg,R,0.9960701925261678,,,party,,missing_prices,False
+MI-06,House,MI,6,Debbie Dingell,D,0.9972074753222125,,,party,,missing_prices,False
+MI-07,House,MI,7,William Lawrence,D,0.5611061822549516,,,party,,missing_prices,False
+MI-08,House,MI,8,Kristen McDonald Rivet,D,0.9215817444160492,,,party,,missing_prices,False
+MI-09,House,MI,9,Lisa C. McClain,R,0.9970650688039,,,party,,missing_prices,False
+MI-10,House,MI,10,Michael Bouchard,R,0.5318253339250549,,,party,,missing_prices,False
+MI-11,House,MI,11,Jeremy Moss,D,0.9870043465767496,,,party,,missing_prices,False
+MI-12,House,MI,12,Rashida Tlaib,D,0.9972785522822416,,,party,,missing_prices,False
+MI-13,House,MI,13,Donavan McKinney,D,0.9972781227950349,,,party,,missing_prices,False
+MI-SEN,Senate,MI,,Abdul El-Sayed,D,0.8151184421065175,,,party,,missing_prices,False
+MN-01,House,MN,1,Brad Finstad,R,0.7817353128646178,,,party,,missing_prices,False
+MN-02,House,MN,2,Matt Little,D,0.9355881699331206,,,party,,missing_prices,False
+MN-03,House,MN,3,Kelly Morrison,D,0.9992925855267183,,,party,,missing_prices,False
+MN-04,House,MN,4,Betty McCollum,D,0.9999991246068217,,,party,,missing_prices,False
+MN-05,House,MN,5,Ilhan Omar,D,0.9972785649901038,,,party,,missing_prices,False
+MN-06,House,MN,6,Tom Emmer,R,0.9871192378652911,,,party,,missing_prices,False
+MN-07,House,MN,7,Michelle Fischbach,R,0.9999331306200485,,,party,,missing_prices,False
+MN-08,House,MN,8,Pete Stauber,R,0.9402776318628281,,,party,,missing_prices,False
+MN-SEN,Senate,MN,,Peggy Flanagan,D,0.9360952912270813,,,party,,missing_prices,False
+MO-01,House,MO,1,Wesley Bell,D,0.9972785649901038,,,party,,missing_prices,False
+MO-02,House,MO,2,Ann Wagner,R,0.6823446876794941,,,party,,missing_prices,False
+MO-03,House,MO,3,"Robert F. Onder, Jr.",R,0.9938228748601545,,,party,,missing_prices,False
+MO-04,House,MO,4,Mark Alford,R,0.9972727078426863,,,party,,missing_prices,False
+MO-05,House,MO,5,Emanuel Cleaver,D,0.9971369616900366,,,party,,missing_prices,False
+MO-06,House,MO,6,Chris Stigall,R,0.9970376431834761,,,party,,missing_prices,False
+MO-07,House,MO,7,Eric Burlison,R,0.9972733619972748,,,party,,missing_prices,False
+MO-08,House,MO,8,Jason Smith,R,0.9972785489785698,,,party,,missing_prices,False
+MS-01,House,MS,1,Trent Kelly,R,0.9972120034982856,,,party,,missing_prices,False
+MS-02,House,MS,2,Bennie G. Thompson,D,0.9969878370745857,,,party,,missing_prices,False
+MS-03,House,MS,3,Michael Guest,R,0.9952718441540886,,,party,,missing_prices,False
+MS-04,House,MS,4,Mike Ezell,R,0.9972750541585313,,,party,,missing_prices,False
+MS-SEN,Senate,MS,,Cindy Hyde-Smith,R,0.988801751289303,,,party,,missing_prices,False
+MT-01,House,MT,1,Sam Forstag,D,0.7644408525680039,,,party,,missing_prices,False
+MT-02,House,MT,2,Troy Downing,R,0.9941805992071213,,,party,,missing_prices,False
+MT-SEN,Senate,MT,,Kurt Alme,R,0.8110467738743196,,,party,,missing_prices,False
+NC-01,House,NC,1,Donald G. Davis,D,0.5896990195611289,,,party,,missing_prices,False
+NC-02,House,NC,2,Deborah K. Ross,D,0.9972775019232704,,,party,,missing_prices,False
+NC-03,House,NC,3,Gregory F. Murphy,R,0.904789290799121,,,party,,missing_prices,False
+NC-04,House,NC,4,Valerie P. Foushee,D,0.9972785649901038,,,party,,missing_prices,False
+NC-05,House,NC,5,Virginia Foxx,R,0.9571598114756642,,,party,,missing_prices,False
+NC-06,House,NC,6,Addison P. McDowell,R,0.9505508418462963,,,party,,missing_prices,False
+NC-07,House,NC,7,David Rouzer,R,0.9096810289127056,,,party,,missing_prices,False
+NC-08,House,NC,8,Mark Harris,R,0.9665378287214137,,,party,,missing_prices,False
+NC-09,House,NC,9,Richard Hudson,R,0.8433584629736544,,,party,,missing_prices,False
+NC-10,House,NC,10,Pat Harrigan,R,0.9567006660627216,,,party,,missing_prices,False
+NC-11,House,NC,11,Jamie Ager,D,0.7984073975864173,,,party,,missing_prices,False
+NC-12,House,NC,12,Alma S. Adams,D,0.99999999,,,party,,missing_prices,False
+NC-13,House,NC,13,Brad Knott,R,0.940999702353645,,,party,,missing_prices,False
+NC-14,House,NC,14,Tim Moore,R,0.9278249464816034,,,party,,missing_prices,False
+NC-SEN,Senate,NC,,Roy Cooper,D,0.8347602313860462,,,party,,missing_prices,False
+ND-01,House,ND,1,Julie Fedorchak,R,0.9972001169227313,,,party,,missing_prices,False
+NE-01,House,NE,1,Mike Flood,R,0.8535210563644807,,,party,,missing_prices,False
+NE-02,House,NE,2,Denise Powell,D,0.8848130331741193,,,party,,missing_prices,False
+NE-03,House,NE,3,Adrian Smith,R,0.9972785649901038,,,party,,missing_prices,False
+NE-SEN,Senate,NE,,Pete Ricketts,R,0.9828344900934278,,,party,,missing_prices,False
+NH-01,House,NH,1,Stefany Shaheen,D,0.9336685518406548,,,party,,missing_prices,False
+NH-02,House,NH,2,Maggie Goodlander,D,0.9882703049839149,,,party,,missing_prices,False
+NH-SEN,Senate,NH,,Chris Pappas,D,0.9318576640096365,,,party,,missing_prices,False
+NJ-01,House,NJ,1,Donald Norcross,D,0.9990178860139689,,,party,,missing_prices,False
+NJ-02,House,NJ,2,Jefferson Van Drew,R,0.9296710088968507,,,party,,missing_prices,False
+NJ-03,House,NJ,3,"Herbert C. Conaway, Jr.",D,0.9784047341664791,,,party,,missing_prices,False
+NJ-04,House,NJ,4,Christopher H. Smith,R,0.9994261035298735,,,party,,missing_prices,False
+NJ-05,House,NJ,5,Josh Gottheimer,D,0.9659574409274448,,,party,,missing_prices,False
+NJ-06,House,NJ,6,"Frank Pallone, Jr.",D,0.9895818232146213,,,party,,missing_prices,False
+NJ-07,House,NJ,7,"Thomas H. Kean, Jr.",R,0.6479389284883335,,,party,,missing_prices,False
+NJ-08,House,NJ,8,Robert Menendez,D,0.9784688995215312,,,party,,missing_prices,False
+NJ-09,House,NJ,9,Nellie Pou,D,0.9193817573949431,,,party,,missing_prices,False
+NJ-10,House,NJ,10,LaMonica McIver,D,0.99999999,,,party,,missing_prices,False
+NJ-11,House,NJ,11,Analilia Mejia,D,0.9887351099171021,,,party,,missing_prices,False
+NJ-12,House,NJ,12,Adam Hamawy,D,0.9960829670014435,,,party,,missing_prices,False
+NJ-SEN,Senate,NJ,,Cory A. Booker,D,0.9751978049805263,,,party,,missing_prices,False
+NM-01,House,NM,1,Melanie A. Stansbury,D,0.9983786856175885,,,party,,missing_prices,False
+NM-02,House,NM,2,Gabe Vasquez,D,0.9181564994031143,,,party,,missing_prices,False
+NM-03,House,NM,3,Teresa Leger Fernandez,D,0.9949286971591277,,,party,,missing_prices,False
+NM-SEN,Senate,NM,,Ben Ray Luján,D,0.9968460286115092,,,party,,missing_prices,False
+NV-01,House,NV,1,Dina Titus,D,0.9563113781762338,,,party,,missing_prices,False
+NV-02,House,NV,2,David Flippo,R,0.5496406524835717,,,party,,missing_prices,False
+NV-03,House,NV,3,Susie Lee,D,0.9083975926587093,,,party,,missing_prices,False
+NV-04,House,NV,4,Steven Horsford,D,0.9592039955517461,,,party,,missing_prices,False
+NY-01,House,NY,1,Nick LaLota,R,0.8660917156693443,,,party,,missing_prices,False
+NY-02,House,NY,2,Andrew R. Garbarino,R,0.950446622257614,,,party,,missing_prices,False
+NY-03,House,NY,3,Thomas R. Suozzi,D,0.887565392813521,,,party,,missing_prices,False
+NY-04,House,NY,4,Laura Gillen,D,0.9269712676703901,,,party,,missing_prices,False
+NY-05,House,NY,5,Gregory W. Meeks,D,0.9999999882653738,,,party,,missing_prices,False
+NY-06,House,NY,6,Grace Meng,D,0.9960579581420932,,,party,,missing_prices,False
+NY-07,House,NY,7,Claire Valdez,D,0.9972785649901038,,,party,,missing_prices,False
+NY-08,House,NY,8,Hakeem S. Jeffries,D,0.99999999,,,party,,missing_prices,False
+NY-09,House,NY,9,Yvette D. Clarke,D,0.9999999895946189,,,party,,missing_prices,False
+NY-10,House,NY,10,Brad Lander,D,0.99999999,,,party,,missing_prices,False
+NY-11,House,NY,11,Nicole Malliotakis,R,0.9956432900958259,,,party,,missing_prices,False
+NY-12,House,NY,12,Micah C. Lasher,D,0.9972785649901038,,,party,,missing_prices,False
+NY-13,House,NY,13,Darializa Avila Chevalier,D,0.99999999,,,party,,missing_prices,False
+NY-14,House,NY,14,Alexandria Ocasio-Cortez,D,0.9999984291690793,,,party,,missing_prices,False
+NY-15,House,NY,15,Ritchie Torres,D,0.9972785649901038,,,party,,missing_prices,False
+NY-16,House,NY,16,George Latimer,D,0.9999996825645985,,,party,,missing_prices,False
+NY-17,House,NY,17,Michael Lawler,R,0.617513681685445,,,party,,missing_prices,False
+NY-18,House,NY,18,Patrick Ryan,D,0.9821946962806185,,,party,,missing_prices,False
+NY-19,House,NY,19,Josh Riley,D,0.9318700401735034,,,party,,missing_prices,False
+NY-20,House,NY,20,Paul Tonko,D,0.9987918269765956,,,party,,missing_prices,False
+NY-21,House,NY,21,Anthony Constantino,R,0.6856190441281366,,,party,,missing_prices,False
+NY-22,House,NY,22,John W. Mannion,D,0.9810200852638025,,,party,,missing_prices,False
+NY-23,House,NY,23,Nicholas A. Langworthy,R,0.994825745311282,,,party,,missing_prices,False
+NY-24,House,NY,24,Claudia Tenney,R,0.9966506713081251,,,party,,missing_prices,False
+NY-25,House,NY,25,Joseph D. Morelle,D,0.999364812297284,,,party,,missing_prices,False
+NY-26,House,NY,26,Timothy M. Kennedy,D,0.999865350706325,,,party,,missing_prices,False
+OH-01,House,OH,1,Greg Landsman,D,0.8590718444733234,,,party,,missing_prices,False
+OH-02,House,OH,2,David J. Taylor,R,0.9999816273968052,,,party,,missing_prices,False
+OH-03,House,OH,3,Joyce Beatty,D,0.9999999560672092,,,party,,missing_prices,False
+OH-04,House,OH,4,Jim Jordan,R,0.9972666196820967,,,party,,missing_prices,False
+OH-05,House,OH,5,Robert E. Latta,R,0.9865590746371968,,,party,,missing_prices,False
+OH-06,House,OH,6,Michael A. Rulli,R,0.9996558132444312,,,party,,missing_prices,False
+OH-07,House,OH,7,Max L. Miller,R,0.8637165575564898,,,party,,missing_prices,False
+OH-08,House,OH,8,Warren Davidson,R,0.935563183777132,,,party,,missing_prices,False
+OH-09,House,OH,9,Marcy Kaptur,D,0.8041478458747746,,,party,,missing_prices,False
+OH-10,House,OH,10,Michael R. Turner,R,0.7710850842407573,,,party,,missing_prices,False
+OH-11,House,OH,11,Shontel M. Brown,D,0.99999999,,,party,,missing_prices,False
+OH-12,House,OH,12,Troy Balderson,R,0.9984703914468391,,,party,,missing_prices,False
+OH-13,House,OH,13,Emilia Strong Sykes,D,0.9480994933617982,,,party,,missing_prices,False
+OH-14,House,OH,14,David P. Joyce,R,0.975724770215068,,,party,,missing_prices,False
+OH-15,House,OH,15,Mike Carey,R,0.6415352712819458,,,party,,missing_prices,False
+OH-SEN-SPECIAL,Senate,OH,,Jon Husted,R,0.5338483485106127,,,party,,missing_prices,False
+OK-01,House,OK,1,Mark Tedford,R,0.9628388704504486,,,party,,missing_prices,False
+OK-02,House,OK,2,Josh Brecheen,R,0.9972785557542058,,,party,,missing_prices,False
+OK-03,House,OK,3,Frank D. Lucas,R,0.9999967366224765,,,party,,missing_prices,False
+OK-04,House,OK,4,Tom Cole,R,0.9971196947256553,,,party,,missing_prices,False
+OK-05,House,OK,5,Stephanie I. Bice,R,0.9723926414919433,,,party,,missing_prices,False
+OK-SEN,Senate,OK,,Kevin Hern,R,0.9938695873758939,,,party,,missing_prices,False
+OR-01,House,OR,1,Suzanne Bonamici,D,0.9999999045045025,,,party,,missing_prices,False
+OR-02,House,OR,2,Cliff Bentz,R,0.9985439596678994,,,party,,missing_prices,False
+OR-03,House,OR,3,Maxine Dexter,D,0.99999999,,,party,,missing_prices,False
+OR-04,House,OR,4,Val T. Hoyle,D,0.9871526439048801,,,party,,missing_prices,False
+OR-05,House,OR,5,Janelle S. Bynum,D,0.9666230983997932,,,party,,missing_prices,False
+OR-06,House,OR,6,Andrea Salinas,D,0.9864555765449996,,,party,,missing_prices,False
+OR-SEN,Senate,OR,,Jeff Merkley,D,0.9942347199681421,,,party,,missing_prices,False
+PA-01,House,PA,1,Brian K. Fitzpatrick,R,0.7239699260797225,,,party,,missing_prices,False
+PA-02,House,PA,2,Brendan F. Boyle,D,0.9999998617299961,,,party,,missing_prices,False
+PA-03,House,PA,3,Chris Rabb,D,0.9784688995215312,,,party,,missing_prices,False
+PA-04,House,PA,4,Madeleine Dean,D,0.9982777780707828,,,party,,missing_prices,False
+PA-05,House,PA,5,Mary Gay Scanlon,D,0.9999848419733323,,,party,,missing_prices,False
+PA-06,House,PA,6,Chrissy Houlahan,D,0.9925173997634584,,,party,,missing_prices,False
+PA-07,House,PA,7,Bob Brooks,D,0.574443616096453,,,party,,missing_prices,False
+PA-08,House,PA,8,"Robert P. Bresnahan, Jr.",R,0.7164395817945242,,,party,,missing_prices,False
+PA-09,House,PA,9,Daniel Meuser,R,0.9999605469777645,,,party,,missing_prices,False
+PA-10,House,PA,10,Janelle Stelson,D,0.5039622519250215,,,party,,missing_prices,False
+PA-11,House,PA,11,Lloyd Smucker,R,0.9906905320896116,,,party,,missing_prices,False
+PA-12,House,PA,12,Summer L. Lee,D,0.9981088455620206,,,party,,missing_prices,False
+PA-13,House,PA,13,John Joyce,R,0.9999985817109797,,,party,,missing_prices,False
+PA-14,House,PA,14,Guy Reschenthaler,R,0.9995284897459368,,,party,,missing_prices,False
+PA-15,House,PA,15,Glenn Thompson,R,0.9999671917731676,,,party,,missing_prices,False
+PA-16,House,PA,16,Mike Kelly,R,0.9935807987715375,,,party,,missing_prices,False
+PA-17,House,PA,17,Christopher R. Deluzio,D,0.9710609817758888,,,party,,missing_prices,False
+RI-01,House,RI,1,Gabe Amo,D,0.9972403365105456,,,party,,missing_prices,False
+RI-02,House,RI,2,Seth Magaziner,D,0.9972562992864282,,,party,,missing_prices,False
+RI-SEN,Senate,RI,,Jack Reed,D,0.9971556859053021,,,party,,missing_prices,False
+SC-01,House,SC,1,Jenny Costa Honeycut,R,0.7897749516094935,,,party,,missing_prices,False
+SC-02,House,SC,2,Joe Wilson,R,0.9485325272249552,,,party,,missing_prices,False
+SC-03,House,SC,3,Sheri Biggs,R,0.9972754153748128,,,party,,missing_prices,False
+SC-04,House,SC,4,William R. Timmons IV,R,0.9885604055767014,,,party,,missing_prices,False
+SC-05,House,SC,5,Wes Climer,R,0.9664619453845421,,,party,,missing_prices,False
+SC-06,House,SC,6,James E. Clyburn,D,0.9998023055076012,,,party,,missing_prices,False
+SC-07,House,SC,7,Russell Fry,R,0.9976519554116939,,,party,,missing_prices,False
+SC-SEN,Senate,SC,,Darline Graham,R,0.9068515454433091,,,party,,missing_prices,False
+SD-01,House,SD,1,Marty Jackley,R,0.9984853360657788,,,party,,missing_prices,False
+SD-SEN,Senate,SD,,Mike Rounds,R,0.9971814940978762,,,party,,missing_prices,False
+TN-01,House,TN,1,Diana Harshbarger,R,0.9972785649901038,,,party,,missing_prices,False
+TN-02,House,TN,2,Tim Burchett,R,0.9968513654087885,,,party,,missing_prices,False
+TN-03,House,TN,3,Charles J. “Chuck” Fleischmann,R,0.9970107130865691,,,party,,missing_prices,False
+TN-04,House,TN,4,Scott DesJarlais,R,0.9885176309060368,,,party,,missing_prices,False
+TN-05,House,TN,5,Charlie Hatcher,R,0.94149140507993,,,party,,missing_prices,False
+TN-06,House,TN,6,Johnny Garrett,R,0.9702420109506871,,,party,,missing_prices,False
+TN-07,House,TN,7,Matt Van Epps,R,0.9834253054237949,,,party,,missing_prices,False
+TN-08,House,TN,8,David Kustoff,R,0.9741664340546017,,,party,,missing_prices,False
+TN-09,House,TN,9,Brent Taylor,R,0.9164365500772157,,,party,,missing_prices,False
+TN-SEN,Senate,TN,,Bill Hagerty,R,0.995839111705725,,,party,,missing_prices,False
+TX-01,House,TX,1,Nathaniel Moran,R,0.9999993868703353,,,party,,missing_prices,False
+TX-02,House,TX,2,Steve Toth,R,0.940417305635667,,,party,,missing_prices,False
+TX-03,House,TX,3,Keith Self,R,0.9897497751117218,,,party,,missing_prices,False
+TX-04,House,TX,4,Pat Fallon,R,0.9921508735504082,,,party,,missing_prices,False
+TX-05,House,TX,5,Lance Gooden,R,0.9827534109548259,,,party,,missing_prices,False
+TX-06,House,TX,6,Jake Ellzey,R,0.9877294641599069,,,party,,missing_prices,False
+TX-07,House,TX,7,Lizzie Fletcher,D,0.9971862061060742,,,party,,missing_prices,False
+TX-08,House,TX,8,Jessica Hart Steinmann,R,0.9760646240195919,,,party,,missing_prices,False
+TX-09,House,TX,9,Alex Mealer,R,0.8990499789158946,,,party,,missing_prices,False
+TX-10,House,TX,10,Chris Gober,R,0.9386859798432324,,,party,,missing_prices,False
+TX-11,House,TX,11,August Pfluger,R,0.999608393249859,,,party,,missing_prices,False
+TX-12,House,TX,12,Craig A. Goldman,R,0.9917242026578266,,,party,,missing_prices,False
+TX-13,House,TX,13,Ronny Jackson,R,0.9999974012594521,,,party,,missing_prices,False
+TX-14,House,TX,14,"Randy K. Weber, Sr.",R,0.9914277191257227,,,party,,missing_prices,False
+TX-15,House,TX,15,Monica De La Cruz,R,0.6908434256354097,,,party,,missing_prices,False
+TX-16,House,TX,16,Veronica Escobar,D,0.9985122717937688,,,party,,missing_prices,False
+TX-17,House,TX,17,Pete Sessions,R,0.9828406910600417,,,party,,missing_prices,False
+TX-18,House,TX,18,Christian D. Menefee,D,0.99999999,,,party,,missing_prices,False
+TX-19,House,TX,19,Tom Sell,R,0.9999938914996498,,,party,,missing_prices,False
+TX-20,House,TX,20,Joaquin Castro,D,0.9999878164340735,,,party,,missing_prices,False
+TX-21,House,TX,21,Mark Teixeira,R,0.9296801335509667,,,party,,missing_prices,False
+TX-22,House,TX,22,Trever Nehls,R,0.9390883602158967,,,party,,missing_prices,False
+TX-23,House,TX,23,Brandon Herrera,R,0.5189174036878155,,,party,,missing_prices,False
+TX-24,House,TX,24,Beth Van Duyne,R,0.9426813127467352,,,party,,missing_prices,False
+TX-25,House,TX,25,Roger Williams,R,0.9911312286786637,,,party,,missing_prices,False
+TX-26,House,TX,26,Brandon Gill,R,0.9868286115243157,,,party,,missing_prices,False
+TX-27,House,TX,27,Michael Cloud,R,0.9811581349759618,,,party,,missing_prices,False
+TX-28,House,TX,28,Henry Cuellar,D,0.9684345108862993,,,party,,missing_prices,False
+TX-29,House,TX,29,Sylvia R. Garcia,D,0.999993542742212,,,party,,missing_prices,False
+TX-30,House,TX,30,Frederick D. Haynes III,D,0.9999999483823115,,,party,,missing_prices,False
+TX-31,House,TX,31,John R. Carter,R,0.9803458461513245,,,party,,missing_prices,False
+TX-32,House,TX,32,Jace Yarbrough,R,0.8620819984436843,,,party,,missing_prices,False
+TX-33,House,TX,33,Colin Allred,D,0.999967389202886,,,party,,missing_prices,False
+TX-34,House,TX,34,Vicente Gonzalez,D,0.8816352875880471,,,party,,missing_prices,False
+TX-35,House,TX,35,Johnny C. Garcia,D,0.5990442037419029,,,party,,missing_prices,False
+TX-36,House,TX,36,Brian Babin,R,0.9932888281672586,,,party,,missing_prices,False
+TX-37,House,TX,37,Greg Casar,D,0.99999999,,,party,,missing_prices,False
+TX-38,House,TX,38,Jon Bonck,R,0.9086620194891197,,,party,,missing_prices,False
+TX-SEN,Senate,TX,,James Talarico,D,0.6151412073407192,,,party,,missing_prices,False
+UT-01,House,UT,1,Ben McAdams,D,0.9961472711534556,,,party,,missing_prices,False
+UT-02,House,UT,2,Blake D. Moore,R,0.9609828133220039,,,party,,missing_prices,False
+UT-03,House,UT,3,Celeste Maloy,R,0.997258306047174,,,party,,missing_prices,False
+UT-04,House,UT,4,Mike Kennedy,R,0.996646243298787,,,party,,missing_prices,False
+VA-01,House,VA,1,Robert J. Wittman,R,0.8120378978586931,,,party,,missing_prices,False
+VA-02,House,VA,2,Jennifer A. Kiggans,R,0.5962511251649524,,,party,,missing_prices,False
+VA-03,House,VA,3,Robert C. “Bobby” Scott,D,0.9972780926305033,,,party,,missing_prices,False
+VA-04,House,VA,4,Jennifer L. McClellan,D,0.9972765636265868,,,party,,missing_prices,False
+VA-05,House,VA,5,John J. McGuire III,R,0.8469274496119308,,,party,,missing_prices,False
+VA-06,House,VA,6,Ben Cline,R,0.995517699513251,,,party,,missing_prices,False
+VA-07,House,VA,7,Eugene Simon Vindman,D,0.9342311088647297,,,party,,missing_prices,False
+VA-08,House,VA,8,"Donald S. Beyer, Jr.",D,0.9972785649901038,,,party,,missing_prices,False
+VA-09,House,VA,9,H. Morgan Griffith,R,0.9999950115866335,,,party,,missing_prices,False
+VA-10,House,VA,10,Suhas Subramanyam,D,0.9718768799617096,,,party,,missing_prices,False
+VA-11,House,VA,11,James R. Walkinshaw,D,0.9972769485923489,,,party,,missing_prices,False
+VA-SEN,Senate,VA,,Mark R. Warner,D,0.975986273318515,,,party,,missing_prices,False
+VT-01,House,VT,1,Becca Balint,D,0.997277950379125,,,party,,missing_prices,False
+WA-01,House,WA,1,Suzan K. DelBene,D,0.9999696029650483,,,party,,missing_prices,False
+WA-02,House,WA,2,Rick Larsen,D,0.9999337728364517,,,party,,missing_prices,False
+WA-03,House,WA,3,Marie Gluesenkamp Perez,D,0.9242695250293733,,,party,,missing_prices,False
+WA-04,House,WA,4,Amanda McKinney,R,0.9117591333772783,,,party,,missing_prices,False
+WA-05,House,WA,5,Michael Baumgartner,R,0.94028135512203,,,party,,missing_prices,False
+WA-06,House,WA,6,Emily Randall,D,0.9983172164438092,,,party,,missing_prices,False
+WA-07,House,WA,7,Pramila Jayapal,D,0.99999999,,,party,,missing_prices,False
+WA-08,House,WA,8,Kim Schrier,D,0.97366010968511,,,party,,missing_prices,False
+WA-09,House,WA,9,Adam Smith,D,0.99999998362738,,,party,,missing_prices,False
+WA-10,House,WA,10,Marilyn Strickland,D,0.9986446893323905,,,party,,missing_prices,False
+WI-01,House,WI,1,Bryan Steil,R,0.6849501661024375,,,party,,missing_prices,False
+WI-02,House,WI,2,Mark Pocan,D,1.0,,,party,,missing_prices,False
+WI-03,House,WI,3,Derrick Van Orden,R,0.7224924520430952,,,party,,missing_prices,False
+WI-04,House,WI,4,Gwen Moore,D,0.9972785649901038,,,party,,missing_prices,False
+WI-05,House,WI,5,Scott Fitzgerald,R,0.9946613419396831,,,party,,missing_prices,False
+WI-06,House,WI,6,Glenn Grothman,R,0.972909679427931,,,party,,missing_prices,False
+WI-07,House,WI,7,Michael Alfonso,R,0.9654394123577708,,,party,,missing_prices,False
+WI-08,House,WI,8,Tony Wied,R,0.9472851015532111,,,party,,missing_prices,False
+WV-01,House,WV,1,Carol D. Miller,R,0.9972729821823242,,,party,,missing_prices,False
+WV-02,House,WV,2,Riley M. Moore,R,0.9999737384003854,,,party,,missing_prices,False
+WV-SEN,Senate,WV,,Shelley Moore Capito,R,0.9972624980534376,,,party,,missing_prices,False
+WY-01,House,WY,1,Chuck Gray,R,0.9972577555740068,,,party,,missing_prices,False
+WY-SEN,Senate,WY,,Harriet M. Hageman,R,0.9999801466079341,,,party,,missing_prices,False

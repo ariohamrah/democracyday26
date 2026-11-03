@@ -1,0 +1,6 @@
+race_id,original_name,action,name,party_label,effective_date,source_url,reason
+SD-SEN,Julian Beaudion,exclude,,,2026-08-04,https://vip.sdsos.gov/candidatelist.aspx?eid=774,Official state list explicitly marks Withdrawn 08/04/2026.
+MA-01,"Nadia Donya Milleron, Independent",correct,Nadia Donya Milleron,"Independent, Unenrolled",2026-10-08,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,Comma-separated affiliation parsed as part of candidate name.
+NJ-03,"Ryan Michael Kelly, Affordability, Accountability",correct,Ryan Michael Kelly,"Affordability, Accountability, People",2026-10-08,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,Comma-separated ballot slogan parsed as part of candidate name.
+OR-SEN,"Chris Henry, Progressive",correct,Chris Henry,"Progressive, Pacific Green",2026-10-08,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,Fusion party affiliation parsed as part of candidate name.
+OR-04,"Justin Filip, Pacific Green",correct,Justin Filip,"Pacific Green, Progressive",2026-10-08,https://clerk.house.gov/member_info/electionInfo/2026/120-nominations.pdf,Fusion party affiliation parsed as part of candidate name.

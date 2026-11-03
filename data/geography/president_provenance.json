@@ -1,0 +1,58 @@
+[
+  {
+    "map_year": 2026,
+    "url": "https://docs.google.com/spreadsheets/d/1eZfaFI-c-PFOoKx1-zZA2MP0_dxRq_LVK0re3BOQqy0/export?format=csv&gid=620838163",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2024,
+    "url": "https://docs.google.com/spreadsheets/d/1ng1i_Dm_RMDnEvauH44pgE6JCUsapcuu8F2pCfeLWFo/export?format=csv&gid=620838163",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2022,
+    "url": "https://docs.google.com/spreadsheets/d/1CKngqOp8fzU22JOlypoxNsxL6KSAH920Whc-rd7ebuM/export?format=csv&gid=1871835782",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2020,
+    "url": "https://docs.google.com/spreadsheets/d/1XbUXnI9OyfAuhP5P3vWtMuGc5UJlrhXbzZo3AwMuHtk/export?format=csv&gid=0",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2018,
+    "url": "https://docs.google.com/spreadsheets/d/1zLNAuRqPauss00HDz4XbTH2HqsCzMe0pR8QmD1K8jk8/export?format=csv&gid=0",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2016,
+    "url": "https://docs.google.com/spreadsheets/d/1VfkHtzBTP5gf4jAu8tcVQgsBJ1IDvXEHjuMqYlOgYbA/export?format=csv&gid=0",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2014,
+    "url": "https://docs.google.com/spreadsheets/d/1xn6nCNM97oFDZ4M-HQgoUT3X4paOiSDsRMSuxbaOBdg/export?format=csv&gid=0",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  },
+  {
+    "map_year": 2010,
+    "url": "https://docs.google.com/spreadsheets/d/1l7W130tPRF6dQ4JoqlQJSJexnEg4rZct-7kwDXqgoLE/export?format=csv&gid=429358610",
+    "attribution": "The Downballot / Daily Kos Elections",
+    "source_page": "https://www.the-downballot.com/p/the-downballots-calculations-of-presidential",
+    "caveat": "Use only election-year columns strictly earlier than forecast year; ignore current incumbent columns."
+  }
+]
